@@ -139,6 +139,85 @@
 ## Capítulo III: Requirements Specification <a id="cap3"></a>
 
 ### 3.1. To-Be Scenario Mapping
+
+**User Persona 1**
+
+<table>
+        <thead>
+            <tr>
+                <th>Phases</th>
+                <th>Doing</th>
+                <th>Thinking</th>
+                <th>Feeling</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Búsqueda y Descubrimiento de Servicios</strong></td>
+                <td>Los usuarios utilizan una plataforma en línea con filtros avanzados para encontrar servicios de cuidado y belleza. La plataforma ofrece recomendaciones personalizadas basadas en preferencias previas y reseñas de otros usuarios.</td>
+                <td>"Tengo una variedad de opciones de alta calidad y es fácil encontrar el servicio adecuado para mí."</td>
+                <td>Confianza en que encontrarán un servicio que cumpla con sus expectativas.</td>
+            </tr>
+            <tr>
+                <td><strong>Selección y Reserva de Citas</strong></td>
+                <td>Los usuarios reservan citas a través de una aplicación o sitio web, con disponibilidad de horarios en tiempo real. Reciben confirmaciones automáticas y recordatorios antes de la cita.</td>
+                <td>"Es conveniente y rápido reservar una cita en línea, y tengo la seguridad de que mi horario está confirmado."</td>
+                <td>Tranquilidad al saber que la cita está confirmada y sin preocupaciones de disponibilidad.</td>
+            </tr>
+            <tr>
+                <td><strong>Experiencia del Servicio</strong></td>
+                <td>Los usuarios asisten a la cita con expectativas claras de lo que recibirán. El servicio se personaliza según las preferencias del cliente previamente indicadas en la plataforma.</td>
+                <td>"Estoy emocionado por recibir el servicio, ya que sé que se han considerado mis preferencias."</td>
+                <td>Satisfacción y anticipación positiva por la experiencia.</td>
+            </tr>
+            <tr>
+                <td><strong>Post-Servicio y Retorno</strong></td>
+                <td>Los usuarios pueden dejar comentarios y reseñas a través de la plataforma, con incentivos para hacerlo. Reciben recomendaciones de seguimiento para mantener el cuidado recibido.</td>
+                <td>"Me encanta cómo puedo dar mi opinión fácilmente y obtener recomendaciones personalizadas."</td>
+                <td>Empoderamiento y satisfacción continua con el servicio.</td>
+            </tr>
+        </tbody>
+</table>
+
+**User Persona 2**
+    
+<table>
+        <thead>
+            <tr>
+                <th>Phases</th>
+                <th>Doing</th>
+                <th>Thinking</th>
+                <th>Feeling</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Promoción y Visibilidad</strong></td>
+                <td>Los estilistas utilizan la plataforma para destacar sus servicios con perfiles detallados, incluyendo portafolios y testimonios. Reciben apoyo en marketing digital a través de la plataforma para llegar a más clientes potenciales.</td>
+                <td>"Tengo herramientas para destacar entre la competencia y atraer a los clientes correctos."</td>
+                <td>Motivación al ver cómo la visibilidad mejora y los clientes interesados aumentan.</td>
+            </tr>
+            <tr>
+                <td><strong>Gestión de Citas y Comunicación</strong></td>
+                <td>Las empresas gestionan sus citas a través de la plataforma, liberando tiempo para que estos se concentren en su trabajo sin interrupciones. Un sistema de mensajería dentro de la plataforma permite la comunicación directa y eficiente con los clientes.</td>
+                <td>"Puedo gestionar mi agenda de manera eficiente y dedicar más tiempo a los servicios."</td>
+                <td>Alivio al no tener que lidiar con interrupciones constantes y satisfacción con una gestión de citas organizada.</td>
+            </tr>
+            <tr>
+                <td><strong>Experiencia del Servicio</strong></td>
+                <td>Los estilistas proporcionan servicios personalizados basados en la información y preferencias del cliente disponibles en la plataforma. Reciben retroalimentación en tiempo real a través de la aplicación.</td>
+                <td>"Estoy seguro de que el cliente recibirá exactamente lo que desea."</td>
+                <td>Confianza en su capacidad para cumplir y superar las expectativas del cliente.</td>
+            </tr>
+            <tr>
+                <td><strong>Retroalimentación y Fidelización</strong></td>
+                <td>La empresa recibe mediante la plataforma automáticamente una retroalimentación al cliente y comparte los resultados. La plataforma ofrece herramientas para la fidelización de clientes, como descuentos personalizados o recomendaciones de productos.</td>
+                <td>"Tengo un sistema que me ayuda a mejorar continuamente y a mantener la lealtad de mis clientes."</td>
+                <td>Seguridad y confianza en la calidad del servicio que ofrecen y en la relación a largo plazo con sus clientes.</td>
+            </tr>
+        </tbody>
+    </table>
+
 ### 3.2. User Stories
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
