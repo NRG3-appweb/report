@@ -107,6 +107,20 @@
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
+
+El sector de belleza y cuidado personal en Perú está experimentando un crecimiento acelerado, especialmente en los tratamientos faciales y la dermocosmética, que se han multiplicado casi ocho veces en la última década. Este crecimiento se da en respuesta a una demanda creciente de la clase media emergente, que busca servicios más personalizados y de alta calidad. En este contexto, los salones de belleza juegan un papel clave, pero muchos de ellos operan en un mercado polarizado e informal.
+
+La competencia entre salones de belleza, especialmente los gestionados por pequeñas empresas familiares, es alta, y la personalización del servicio se ha convertido en un factor diferenciador clave. La mayoría de estos establecimientos, dirigidos en un 75.6% por mujeres según datos del INEI, enfrentan el desafío de profesionalizar su atención y mejorar la experiencia del usuario. A medida que la industria sigue creciendo, se vuelve esencial elevar la calidad del servicio, mejorar la gestión de la atención al cliente y formalizar las operaciones para establecer relaciones más duraderas y significativas con los clientes.
+
+Para destacar en un mercado competitivo y en crecimiento, es crucial mejorar la calidad del servicio y ofrecer experiencias personalizadas que profesionalicen la industria y fortalezcan las relaciones con los clientes.
+
+###### **Misión:**
+Brindar servicios de belleza y cuidado personal altamente personalizados, enfocados en satisfacer las necesidades y expectativas únicas de cada cliente, ofreciendo una atención cercana y de calidad.
+
+###### **Visión:**
+Convertirnos en el referente líder en la industria de la belleza y cuidado personal en Perú, conocidos por ofrecer experiencias personalizadas y contribuir al crecimiento y profesionalización del sector.
+
+
 #### 1.1.2. Perfiles de integrantes del equipo
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
