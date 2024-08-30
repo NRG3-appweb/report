@@ -285,6 +285,45 @@ Considerando el análisis competitivo y las características únicas de nuestra 
 #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
+
+**User Persona 1**
+<table>
+  <th colspan="4"> nombre </th>
+  <tr>
+    <td rowspan="2"> Foto </td>
+    <td> Informacion Personal </td>
+    <td> Objetivos </td>
+  </tr>
+  <tr>
+    <td> Personalidad </td>
+    <td> Frustraciones </td>
+  </tr>
+  <tr>
+    <td> Bio </td>
+    <td> Intereses </td>
+    <td> Marcas Favoritas</td>
+  </tr>
+</table>
+
+**User Persona 2**
+<table>
+  <th colspan="4"> nombre </th>
+  <tr>
+    <td rowspan="2"> Foto </td>
+    <td> Informacion Personal </td>
+    <td> Objetivos </td>
+  </tr>
+  <tr>
+    <td> Personalidad </td>
+    <td> Frustraciones </td>
+  </tr>
+  <tr>
+    <td> Bio </td>
+    <td> Intereses </td>
+    <td> Marcas Favoritas</td>
+  </tr>
+</table>
+
 #### 2.3.2. User Task Matrix
 #### 2.3.3. User Journey Mapping
 #### 2.3.4. Empathy Mapping
