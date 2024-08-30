@@ -122,6 +122,49 @@ Convertirnos en el referente líder en la industria de la belleza y cuidado pers
 
 
 #### 1.1.2. Perfiles de integrantes del equipo
+
+<table>
+  <tr>
+    <th colspan="2"> Juan Diego Astonitas </th>
+  </tr>
+  <tr>
+    <td> 
+  Foto Integrante 1
+  </td>
+    <td> desc </td>
+  </tr>
+  <tr>
+    <th colspan="2"> Intengrante 2 </th>
+  </tr>
+  <tr>
+    <td>Foto Intengrante 2 </td>
+    <td> desc </td>
+  </tr>
+<tr>
+    <th colspan="2"> Intengrante 3 </th>
+  </tr>
+  <tr>
+    <td>Foto Intengrante 3 </td>
+    <td> desc </td>
+  </tr>
+<tr>
+    <th colspan="2"> Intengrante 4 </th>
+  </tr>
+  <tr>
+    <td>
+        Foto Intengrante 4
+    </td>
+    <td> desc </td>
+  </tr>
+<tr>
+    <th colspan="2"> Intengrante 5 </th>
+  </tr>
+  <tr>
+    <td>Foto Intengrante 5 </td>
+    <td> desc </td>
+  </tr>
+</table>
+
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
 #### 1.2.2 Lean UX Process
