@@ -254,6 +254,31 @@ Booksy es una aplicación de reserva de citas enfocada en la industria de bellez
 
 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
+
+Considerando el análisis competitivo y las características únicas de nuestra startup Bliss, hemos desarrollado las siguientes estrategias y tácticas para abordar las fortalezas y debilidades de nuestros competidores, así como aprovechar las oportunidades y mitigar las amenazas presentes en el mercado.
+
+###### Estrategias:
+1. **Ampliación de servicios:** Bliss ofrecerá una gama integral de servicios de belleza y cuidado personal, que incluirá desde manicura y pedicura hasta tratamientos faciales, asegurando así una experiencia completa y personalizada tanto en el hogar como en el establecimiento del proveedor.
+
+2. **Verificación de profesionales:** Implementaremos un proceso de verificación exhaustivo para los estilistas y negocios asociados. Esto garantizará que los servicios ofrecidos sean de alta calidad y confiables, lo que diferencia a Bliss al enfocarse en la confianza y seguridad del cliente.
+
+3. **Enfoque en la comodidad del usuario:** Nos centraremos en mejorar la conveniencia y la facilidad de uso de la aplicación. La plataforma estará diseñada para ofrecer una experiencia intuitiva y fluida, facilitando la búsqueda y reserva de servicios, lo que aumentará la satisfacción y fidelización del usuario.
+
+###### Tácticas:
+
+4. **Optimización de la interfaz de usuario:** Mejoraremos continuamente la navegación y las funcionalidades de búsqueda dentro de la aplicación para que los usuarios puedan encontrar y reservar fácilmente servicios que se ajusten a sus horarios y preferencias.
+
+5. **Sistema de calificación y comentarios:** Implementaremos un sistema robusto de calificación y comentarios que permita a los usuarios evaluar los servicios recibidos. Esto fomentará la transparencia y ayudará a construir una reputación sólida para los proveedores y para la plataforma en general.
+
+6. **Programación flexible:** Permitiremos a los usuarios seleccionar franjas horarias específicas y preferencias de estilistas al hacer reservas, ofreciendo opciones flexibles que se adapten a sus necesidades y horarios, lo que mejorará la experiencia del usuario.
+
+7. **Promoción de garantía de calidad:** Comunicaremos claramente nuestro compromiso con la calidad y la verificación de profesionales a través de campañas de marketing y mensajes en la aplicación, fortaleciendo la confianza de los usuarios en nuestra plataforma.
+
+8. **Incentivos para usuarios y estilistas:** Ofreceremos descuentos, promociones y recompensas tanto para los usuarios que realicen reservas como para los estilistas que mantengan altos estándares de servicio, incentivando la calidad y la lealtad en la plataforma.
+
+9. **Colaboraciones estratégicas:** Estableceremos asociaciones con marcas de productos de belleza y colaboradores influyentes para aumentar nuestra visibilidad y credibilidad en el mercado, atrayendo tanto a nuevos usuarios como a proveedores de servicios.
+
+
 ### 2.2. Entrevistas.
 #### 2.2.1. Diseño de entrevistas
 #### 2.2.2. Registro de entrevistas
