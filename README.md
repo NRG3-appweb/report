@@ -121,6 +121,27 @@
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 
 ### 2.1. Competidores
+
+Considerando los ideales de nuestra empresa y la tecnología que desarrollamos, alineados con nuestra misión y visión, es importante reconocer la existencia de otras aplicaciones y herramientas similares en el mercado. A continuación, mencionamos algunas de ellas y cómo se diferencian de nuestra propuesta.
+
+- **Treatwell:**
+
+Treatwell es una plataforma de reserva de servicios de belleza y bienestar que opera en Europa. Permite a los usuarios encontrar y reservar una amplia gama de tratamientos de belleza y bienestar en establecimientos locales. Aunque ofrece una extensa red de proveedores y una experiencia de reserva conveniente, su enfoque está limitado a Europa, y su personalización y adaptación al mercado latinoamericano, como el peruano, son limitadas.
+
+<img src="https://play-lh.googleusercontent.com/ua52wgxp-UzqgBDQ2subxjAFce8McxzorFK3X4G4inveJIVwYPnfw0JdcVnBSTpEMGk"  width="300"/>
+
+- **SimplyBook.me:**
+
+SimplyBook.me es una plataforma de programación en línea que sirve a una variedad de negocios, incluyendo los del sector belleza. Facilita la gestión de citas y reservas con una amplia gama de características de personalización para diferentes tipos de servicios. A diferencia de nuestra propuesta, SimplyBook.me es más generalista y no está específicamente centrada en el sector de belleza ni en la adaptación cultural y local para mercados específicos como el peruano.
+
+<img src="https://play-lh.googleusercontent.com/vccnZZhaX2BDYSN0nqtSaVB2w0CJKnA4TagbMvBnJGoZMT_DWiKI61RouLFaV2A1C28"  width="300"/>
+
+- **Booksy:**
+
+Booksy es una aplicación de reserva de citas enfocada en la industria de belleza y bienestar, facilitando la búsqueda y reserva de servicios de peluquería, estética y cuidado personal. Ofrece una plataforma intuitiva para encontrar y reservar tratamientos, pero su alcance se centra principalmente en mercados anglosajones. Su diferencia clave radica en su especialización en belleza, aunque su adaptación y enfoque en mercados latinoamericanos son limitados comparados con nuestra propuesta local y personalizada.
+
+<img src="https://play-lh.googleusercontent.com/EMsrhZzxL1SJDRsCUfY2NTAkQymK9v_rvhS4hEKfviw90LWJITrABOvWw6IgTGkfgbE"  width="300"/>
+
 #### 2.1.1. Análisis competitivo
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.
