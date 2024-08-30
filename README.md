@@ -410,6 +410,18 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 #### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language
 
+| Término (Inglés) | Término (Español) | Definición                                                                                                                                                                                      |
+|------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Client**       | Cliente           | Persona que utiliza los servicios de cuidado y belleza ofrecidos por el salón. El cliente puede reservar citas, pedir servicios personalizados y proporcionar feedback.                         |
+| **Stylist**      | Estilista         | Profesional que ofrece servicios de cuidado y belleza dentro del salón. El estilista realiza las tareas según las citas agendadas y es responsable de la satisfacción del cliente.              |
+| **Local**        | Local             | Centro de belleza o salón de belleza donde se atiende a las clientes y se realiza los servicios de belleza.                                                                                     |
+| **Appointment**  | Cita              | Reserva realizada por un cliente para recibir uno o más servicios en una fecha y hora específicas. Las citas pueden ser gestionadas y confirmadas a través del sistema.                         |
+| **Service**      | Servicio          | Actividad específica ofrecida por el salón, como un corte de cabello, manicura, pedicura, etc. Los servicios son solicitados y recibidos por los clientes durante una cita.                     |
+| **Reservation**  | Reservación       | Proceso de solicitar y asegurar una cita en el sistema del salón. Una reservación incluye la selección del servicio, estilista, y la fecha/hora preferida.                                      |
+| **Feedback**     | Retroalimentación | Opinión, comentario o evaluación proporcionada por un cliente después de recibir un servicio. El feedback se utiliza para mejorar la calidad del servicio y la satisfacción del cliente.        |
+| **Promotion**    | Promoción         | Estrategias y acciones diseñadas para aumentar la visibilidad de los servicios del salón y atraer más clientes. Las promociones pueden incluir descuentos, paquetes especiales, y publicidad.   |
+| **Availability** | Disponibilidad    | El tiempo en que un estilista está libre para realizar servicios y el horario disponible para que un cliente haga una reservación. La disponibilidad se gestiona a través del sistema de citas. |
+
 
 ## Capítulo III: Requirements Specification <a id="cap3"></a>
 
