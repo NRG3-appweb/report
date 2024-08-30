@@ -325,6 +325,40 @@ Considerando el análisis competitivo y las características únicas de nuestra 
 </table>
 
 #### 2.3.2. User Task Matrix
+
+Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya presenteados que son:
+
+1. Clientas
+2. MYPES
+
+**Clientas**
+
+| Task Matrix                                                               | Importancia |
+|---------------------------------------------------------------------------|-------------|
+| Requerir servicios de belleza                                             | Alta        |
+| Buscar locales de servicios de belleza cercanos                           | Alta        |
+| Seleccionar un centro de belleza                                          | Media       |
+| Pedir atención o realizar una reserva en el local de servicios de belleza | Alta        |
+| Recibir confirmación de reserva                                           | Baja        |
+| Elegir el servicio requerido                                              | Alta        |
+| En caso sea necesario pedir cambios en el servicio requerido              | Alta        |
+| Proporcionar retroalimentación sobre el servicio recibido                 | Baja        |
+
+**MYPES**
+
+| Task Matrix                                                              | Importancia |
+|--------------------------------------------------------------------------|-------------|
+| Publicitar el local de belleza en internet                               | Alta        |
+| Mantener un catálogo de servicios actualizado                            | Alta        |
+| Atencer, confirmar y gestionar reservas por distintos medios             | Media       |
+| Atender las reservas y a todos los clientes                              | Media       |
+| Realizar cambios en el servicio realizado en caso el cliente lo requiera | Media       |
+| Mantener constante comunicación con los clientes                         | Alta        |
+| Gestionar y actualizar información del centro de belleza                 | Media       |
+| Crear y administrar promociones del local                                | Baja        |
+| Recibir y responder a la retroalimentación de los clientes               | Media       |
+
+
 #### 2.3.3. User Journey Mapping
 #### 2.3.4. Empathy Mapping
 #### 2.3.5. As-is Scenario Mapping
