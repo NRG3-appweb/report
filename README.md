@@ -248,6 +248,24 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 * Margin y padding en "*" con valor de 0.
 
 #### 5.1.4. Software Deployment Configuration
+
+**Landing Page**
+
+**Requerimientos para realizar del despliegue:**
+
+* Repositorio en nuestra organización de GitHub
+* Permisos de Github
+* Código Fuente de nuestra Landing Page
+
+**Pasos realizados para desplegar nuestra Landing Page:**
+  
+1) Subir el código fuente de nuestra Landig Page a nuestro repositorio destino en GitHub.
+2) Ir a la página de configuración de nuestro repositorio de GitHub.
+3) Seleccionar el apartado de Pages.
+4) Elegir la rama main y folder(/root).
+5) Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada.
+
+
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
