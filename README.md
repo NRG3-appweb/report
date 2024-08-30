@@ -143,6 +143,116 @@ Booksy es una aplicación de reserva de citas enfocada en la industria de bellez
 <img src="https://play-lh.googleusercontent.com/EMsrhZzxL1SJDRsCUfY2NTAkQymK9v_rvhS4hEKfviw90LWJITrABOvWw6IgTGkfgbE"  width="300"/>
 
 #### 2.1.1. Análisis competitivo
+
+<table> 
+  <tr>
+    <th colspan="6"> Competitive Analysis Landscape </th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar acabo este análisis? </td>
+    <td colspan="4"> Pregunta </td>
+  </tr>
+  <tr>
+    <td colspan="4"> Respuesta </td>
+  </tr>
+  <tr>
+    <td colspan="2"> Productos </td>
+    <td> BLISS </td>
+    <td> Treatwell </td>
+    <td> SimplyBook.me </td>
+    <td> Booksy </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td> Bliss es una plataforma de citas y reservas, enfocadas en la búsqueda, comparación y programación del servicio de negocios de belleza y bienestar </td>
+    <td> Treatwell es una plataforma de reserva de servicios de belleza y bienestar en Europa. </td>
+    <td> SimplyBook.me es una plataforma de programación en línea para una variedad de negocios, que facilita la gestión de citas y reservas. </td>
+    <td> Booksy es una aplicación de reserva de citas enfocada en la industria de belleza y bienestar, que facilita a los usuarios la búsqueda y reserva de servicios de peluquería, estética y cuidado personal. </td>
+  </tr>
+  <tr>
+    <td>Ventaja
+    competitiva
+    ¿Qué valor
+    ofrece a los
+    clientes?</td>
+    <td> Ofrece una interfaz intuitiva para su facilidad de uso, disponibilidad las 24 horas del día, gestión centralizada de citas con la finalidad de poder ver y gestionar todas sus citas desde la plataforma. </td>
+    <td> Ofrece conveniencia alpermitir a los clientes reservar servicios de belleza en línea y acceso a una amplia gama de salones y tratamientos.</td>
+    <td> Ofrece conveniencia al permitir a los clientes reservar citas en línea las 24 horas del día y acceso a funciones como recordatorios automáticos y pagos en línea. </td>
+    <td> Ofrece conveniencia al permitir a los clientes encontrar y reservar servicios de belleza en línea las 24 horas del día, así como acceder a información detallada sobre profesionales, servicios y precios. </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td> Mercado Objetivo </td>
+    <td> Las micro y pequeñas empresas enfocadas en la industria de belleza y bienestar que estén interesadas en publicar sus servicios en una plataforma online, también las mujeres que busquen gestionar y pedir este servicio. </td>
+    <td> Usuarios urbanos interesados en servicios de belleza y bienestar en Europa. </td>
+    <td> Negocios de servicios que requieren programación de citas, como peluquerías, salones de belleza, consultorios médicos, centros de fitness y más. </td>
+    <td> Usuarios que buscan servicios de belleza y bienestar, así como profesionales de la industria de belleza y cuidado personal. </td>
+  </tr>
+  <tr>
+    <td> Estrategias de Marketing </td>
+    <td> Fomentar la participación en nuestra plataforma al permitir que los clientes reaccionen y compartan los servicios, al igual que hacer colaboraciones con las empresas de esta industria para un marketing digital. </td>
+    <td> Marketing digital, colaboraciones con salones de belleza, promociones y programas de fidelización. </td>
+    <td> Marketing digital, promoción en redes sociales, colaboraciones con negocios afines y programas de referidos. </td>
+    <td> Marketing digital, promoción en redes sociales, colaboraciones con negocios afines y programas de referidos. </td>
+  </tr>
+  <tr>
+    
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td> Productos & Servicios </td>
+    <td> Gestión de citas y reserva a servicios del sector belleza y bienestar, permitir transacciones de pago en línea, interfaz intuitiva para presentar los servicios que ofrece su empresa y sección de comentarios para que los clientes muestres y opiniones y las empresas puedan comunicarse con sus clientes. </td>
+    <td> Reserva de citas para servicios de peluquería, belleza y bienestar </td>
+    <td> Plataforma de programación en línea con funciones como calendarios, recordatorios de citas, gestión de personal y pagos en línea. </td>
+    <td> Aplicación móvil y plataforma en línea que permite la reserva de citas, gestión de agendas y comunicación entre clientes y profesionales. </td>
+  </tr>
+  <tr>
+    <td> Precios & Costos </td>
+    <td> Las empresas deberán pagar en nuestra plataforma, será un porcentaje bajo por cada reserva o cita pagada, sin embargo, para los que buscan un servicio la aplicación será gratuita. </td>
+    <td> Varían según el servicio y la ubicación del salón. </td>
+    <td> Varían según el plan y las características seleccionadas, con opciones de suscripción mensual o anual. </td>
+    <td> Varían según el plan y las características seleccionadas para los profesionales, mientras que para los usuarios finales, la aplicación es gratuita. </td>
+  </tr>
+  <tr> 
+    <td>Canales de distribución (Web y/o Móvil)</td>
+    <td> Plataforma en línea y aplicación móvil. </td>
+    <td> Plataforma en línea y aplicación móvil. </td>
+    <td> Plataforma en línea y aplicación móvil. </td>
+    <td> Aplicación móvil disponible en tiendas de aplicaciones y plataforma en línea. </td>
+  </tr>
+  <tr>
+    <td rowspan="4"> Análisis SWOT </td>
+    <td> Fortalezas </td>
+    <td> Función de filtrado de servicios de belleza según precio, lugar, valorados por la comunidad, entre otros. Interfaz intuitiva para que las empresas puedan mostrar a los usuarios sus servicios. Herramientas para permitir a la comunidad expresarse y recomendar los servicios de su agrado. </td>
+    <td> Amplia red de salones asociados, conveniencia de reserva en línea, variedad de servicios. </td>
+    <td> Interfaz intuitiva, amplia personalización, adaptabilidad a diferentes industrias y tipos de negocios. </td>
+    <td> Especialización en la industria de belleza, interfaz intuitiva, amplia red de profesionales y servicios. </td>
+  </tr>
+  <tr>
+    <td> Debilidades </td>
+    <td> Dependencia por los comentarios y puntajes de los usuarios, pues sin ellos no podremos filtrar los mejores servicios. Las empresas que paguen por nuestro servicio posiblemente no puedan seguir nuestra curva de aprendizaje </td>
+    <td> Dependencia de la disponibilidad de los salones asociados, posibles problemas de calidad del servicio. </td>
+    <td> Posible curva de aprendizaje para usuarios nuevos, limitaciones en funciones avanzadas en planes más básicos. </td>
+    <td> Dependencia de la disponibilidad de los profesionales, posibles problemas de calidad del servicio. </td>
+  </tr>
+  <tr>
+    <td> Oportunidades </td>
+    <td> Existen usuarios interesados en plataformas similares. Muchas empresas pequeñas no usan estos medios, pero están interesados. Colaboraremos con ellos para llegar al público objetivo. Facilidad al expandir nuestros servicios pues es digital. Después de la pandemia las plataformas digitales ganaron confianza. </td>
+    <td> Expansión a nuevos mercados, introducción de nuevos servicios, mejorar la experiencia del usuario. </td>
+    <td> Expansión a nuevos mercados, mejora continua de características y funciones, colaboraciones estratégicas con otros servicios. </td>
+    <td> Expansión a nuevos mercados, introducción de nuevas características y servicios, colaboraciones estratégicas con marcas de belleza. </td>
+  </tr>
+  <tr>
+    <td> Amenazas </td>
+    <td> Competiremos con aplicaciones ya establecidas. Podría haber problemas a la seguridad de los datos y física de las empresas al cualquier usuario pedir sus servicios. </td>
+    <td> Competencia de otras plataformas similares, cambios en las preferencias de los consumidores, problemas regulatorios. </td>
+    <td> Competencia de otras plataformas de programación en línea, cambios en las necesidades y expectativas de los usuarios, problemas de seguridad de datos. </td>
+    <td> Competencia de otras aplicaciones de reserva de citas, cambios en las preferencias de los usuarios, problemas de calidad del servicio por parte de los profesionales. </td>
+  </tr>
+</table>
+
+
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.
 #### 2.2.1. Diseño de entrevistas
