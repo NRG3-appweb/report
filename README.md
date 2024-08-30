@@ -179,6 +179,54 @@
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
 #### 5.1.2. Source Code Management
+
+<table>
+    <tbody>
+        <tr>
+            <td> Producto </td>
+            <td> Repositorio </td>
+            <td>  URL </td>
+        </tr>
+        <tr>
+            <td> Landing Page </td>
+            <td> Bliss-landing-page </td>
+            <td>  https://github.com/NRG3-appweb/Landing-Page </td>
+        </tr>
+        <tr>
+            <td> Web Services </td>
+            <td> Bliss-web-services: </td>
+            <td>  https://github.com/NRG3-appweb/Backend </td>
+        </tr>
+        <tr>
+            <td> Front Web Application </td>
+            <td> Bliss-Frontend </td>
+            <td>  https://github.com/NRG3-appweb/Frontend </td>
+        </tr>
+    </tbody>
+</table>
+
+
+**Flujo de trabajo GitFlow**
+
+Usaremos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
+ * Una rama de producción.
+ * Una rama de pruebas.
+ * Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
+ * Ramas de features a implementar.
+ * Cada cambio en producción debe establecerse como una nueva versión.
+ * Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
+   
+Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
+
+* **Main branch:** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+* **Hotfix branch:** En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
+* **Release branch:** Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
+* **Develop branch:** Esta rama está destinada a las constantes implementaciones en caliente de los features, 
+* **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
+
+Con cada deployment de la aplicación debe establecerse como una nueva versión.
+
+
 #### 5.1.3. Source Code Style Guide & Conventions
 #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
