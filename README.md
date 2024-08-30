@@ -464,6 +464,76 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 
 #### 2.3.5. As-is Scenario Mapping
+
+**User Persona 1**
+
+<table>
+  <tr>
+    <td> Phases </td>
+    <td> Búsqueda y Descubrimiento de Servicios </td>
+    <td> Selección y Reserva de Citas </td>
+    <td> Experiencia del Servicio </td>
+    <td> Post-Servicio y Retorno </td>
+  </tr>
+  <tr>
+    <td> Doing </td>
+    <td> <li> Los usuarios buscan servicios de cuidado y belleza. </li>  
+         <li>Solicitud de recomendaciones a amigos, familiares o buscando en directorios en línea.</li> </td>
+    <td> <li> Los usuarios llaman por teléfono al salón de belleza seleccionado. </li>  
+         <li> Se consulta por la disponibilidad de citas y se reserva una si es que hay. </li> </td>
+    <td> <li> Los usuarios asisten a su cita programada. </li>  
+         <li> Se recibe el servicio de cuidado y belleza acordado. </li> </td>
+    <td> Después del servicio, los usuarios pueden proporcionar comentarios verbales al estilista o al salón de belleza.  </td>
+  </tr>
+  <tr>
+    <td> Thinking </td>
+    <td> “Me siento limitado por las opciones disponibles y me preocupa no poder encontrar un lugar que se ajuste a lo que necesito. No estoy seguro de si podré encontrar un servicio de calidad cerca de mí”. </td>
+    <td> “Estoy frustrado porque tengo que comunicarme por teléfono en lugar de reservar de manera más sencilla. Además, me preocupa que no haya disponibilidad de citas cuando llame”. </td>
+    <td> “Me pregunto si el estilista cumplirá con mis expectativas. Me preocupa también que el ambiente del salón no sea cómodo y que el servicio no sea de buena calidad”. </td>
+    <td> “El servicio no está mal, pero no cumplió del todo con mis expectativas”.</td>
+  </tr>
+  <tr>
+    <td> Feeling </td>
+    <td> Pueden sentirse limitados por las pocas opciones disponibles. Preocupación por la calidad del servicio que recibirán. </td>
+    <td> Ansiedad al tratar de encontrar un horario conveniente para confirmar una cita. </td>
+    <td> Satisfacción si la experiencia fue positiva, pero también decepción si el servicio no cumplió con sus expectativas. </td>
+    <td> Desánimo si la experiencia no fue satisfactoria y no se tiene un medio claro de proporcionar comentarios. </td>
+  </tr>
+</table>
+
+**User Persona 2**
+
+<table>
+  <tr>
+    <td> Phases </td>
+    <td> Promoción y visibilidad </td>
+    <td> Gestión de citas y comunicación </td>
+    <td> Experiencia del Servicio </td>
+    <td> Retroalimentación y fidelización </td>
+  </tr>
+  <tr>
+    <td> Doing </td>
+    <td> Publicación anuncios en redes sociales locales y directorios en línea para promocionar los servicios de belleza. </td>
+    <td> Los clientes se contactan por teléfono con los estilistas para preguntar sobre los servicios y para programar citas. </td>
+    <td> El estilista realiza los servicios de belleza acordados con los clientes en el salón </td>
+    <td> Al final del servicio, el estilista solicita retroalimentación verbalmente a los clientes.  </td>
+  </tr>
+  <tr>
+    <td> Thinking </td>
+    <td> “Me siento frustrado porque la competencia es alta y es difícil destacar entre otros estilistas o salones. Me preocupa no poder llegar a suficientes clientes potenciales”. </td>
+    <td> “Me siento estresado porque responder a llamadas telefónicas y mensajes consume mucho tiempo y a menudo interrumpe mi trabajo. Me preocupa que algunos clientes se vayan a otra parte si no puedo responder de inmediato". </td> 
+    <td> “Me pregunto si el cliente está satisfecho con el resultado. La verdad es que no entendí bien lo que me explicó”.. </td>
+    <td> “Ojalá este cliente vuelva. Me ha dicho que el servicio estuvo bien, pero no se veía muy convencido”. </td>
+  </tr>
+  <tr>
+    <td> Feeling </td>
+    <td> Los estilistas se desmotivan por la falta de visibilidad y se lucha constantemente para atraer nuevos clientes. </td>
+    <td> Los estilistas abruman por la constante interrupción de las llamadas telefónicas y los mensajes, y se preocupan por mantener la lealtad de los clientes. </td>
+    <td> Se siente tensión por cumplir con las expectativas del cliente y mantener una reputación positiva. </td>
+    <td> Sensación de inseguridad y preocupación por la retroalimentación del cliente. Ansiedad por mantener la lealtad del cliente y su reputación profesional. </td>
+  </tr>
+</table>
+
 ### 2.4. Ubiquitous Language
 
 | Término (Inglés) | Término (Español) | Definición                                                                                                                                                                                      |
