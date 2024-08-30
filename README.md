@@ -223,6 +223,28 @@ La magnitud del problema es considerable, ya que, según la Asociación Peruana 
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo
 
+**Segmento objetivo #1: Clientas Aficionadas al Embellecimiento**
+
+Este grupo está compuesto por mujeres de entre 20 y 45 años, pertenecientes a los sectores socioeconómicos B-C, que residen en Lima. Estas clientas buscan activamente servicios de embellecimiento y cuidado personal para realzar su apariencia y bienestar. A menudo enfrentan desafíos relacionados con la accesibilidad y la calidad de los servicios de belleza disponibles en el mercado.
+
+Características clave de este segmento:
+
+- Buscan servicios de belleza y cuidado personal para mejorar su apariencia y bienestar.
+- Valoran la calidad y personalización en los servicios que reciben.
+- Residen en áreas urbanas y tienen un interés constante en mantenerse al tanto de las últimas tendencias en belleza.
+- Enfrentan dificultades para acceder a servicios de alta calidad debido a la falta de opciones confiables y convenientes.
+
+**Segmento objetivo #2: MYPES del Sector de Belleza**
+
+Este grupo está compuesto por dueños de pequeños y medianos negocios que brindan servicios de cuidado y belleza en Lima. Estos empresarios enfrentan retos significativos relacionados con la promoción de sus servicios, la captación de nuevos clientes y la competencia en un mercado en constante cambio. La realidad de este segmento se caracteriza por la necesidad de adoptar soluciones eficaces para mejorar su visibilidad y profesionalizar sus operaciones.
+
+Características clave de este segmento:
+
+- Enfrentan desafíos en la promoción de sus servicios y en la atracción de nuevos clientes.
+- Buscan herramientas y plataformas que les permitan mejorar su visibilidad y profesionalizar sus operaciones.
+- Operan en un mercado competitivo donde la diferenciación y la calidad del servicio son cruciales para su éxito.
+- Valoran soluciones que les ayuden a gestionar eficientemente su negocio y a destacar en el mercado de belleza.
+
 
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 
