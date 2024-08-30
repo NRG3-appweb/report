@@ -360,6 +360,62 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 
 #### 2.3.3. User Journey Mapping
+
+<table>
+        <thead>
+            <tr>
+                <th>Etapa</th>
+                <th>Descubrimiento</th>
+                <th>Investigación</th>
+                <th>Reserva</th>
+                <th>Experiencia de servicio</th>
+                <th>Post-servicio</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Feliz</td>
+                <td>Encuentra la plataforma por recomendación.</td>
+                <td>Encuentra reseñas positivas sobre servicios ofrecidos.</td>
+                <td>Recibe confirmación inmediata de la reserva.</td>
+                <td>Recibe un servicio satisfactorio según sus preferencias.</td>
+                <td>Recibe un agradecimiento y una invitación para futuros servicios.</td>
+            </tr>
+            <tr>
+                <td>Neutra</td>
+                <td>Navega por varias opciones de búsqueda.</td>
+                <td>Lee descripciones de servicios y precios.</td>
+                <td>Elige fecha y hora disponible para la cita.</td>
+                <td>Llega al centro de belleza según lo programado.</td>
+                <td>Deja comentarios o calificaciones sobre la experiencia.</td>
+            </tr>
+            <tr>
+                <td>No Feliz</td>
+                <td>Selecciona nuestra plataforma debido a buenas críticas.</td>
+                <td>Filtra resultados según ubicación y servicios deseados.</td>
+                <td>Proporciona detalles sobre preferencias del servicio.</td>
+                <td>No se siente bienvenido y cómodo en el centro.</td>
+                <td>No se siente valorado como cliente y motivado para regresar.</td>
+            </tr>
+            <tr>
+                <td>Experiencia</td>
+                <td>Siente curiosidad por explorar opciones.</td>
+                <td>Busca información detallada y reseñas para tomar decisiones informadas.</td>
+                <td>Necesita transparencia en los precios y opciones de personalización.</td>
+                <td>Desea un servicio de alta calidad que cumpla con sus expectativas.</td>
+                <td>Desea compartir su experiencia y ayudar a otros usuarios.</td>
+            </tr>
+            <tr>
+                <td>Expectativa</td>
+                <td>Expectativas de encontrar una solución conveniente.</td>
+                <td>Desea un centro con buena reputación y servicios de calidad.</td>
+                <td>Necesita una herramienta intuitiva para programar citas.</td>
+                <td>Desea una experiencia satisfactoria y sin contratiempos.</td>
+                <td>Desea sentirse valorado como cliente y motivado para volver.</td>
+            </tr>
+        </tbody>
+    </table>
+
 #### 2.3.4. Empathy Mapping
 
 **User Persona 1**
