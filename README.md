@@ -167,6 +167,55 @@ Convertirnos en el referente líder en la industria de la belleza y cuidado pers
 
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
+
+###### What
+- ¿Cuál es el problema?
+
+El problema radica en la falta de personalización y profesionalización en los servicios de belleza, donde las personas tienen dificultades para reservar citas, y las Mypes enfrentan retos para atraer nuevos clientes en un mercado competitivo e informal.
+
+- ¿Cuál es la relación con la persona en cuestión?
+
+La relación es conectar a clientes que buscan servicios de belleza convenientes y confiables con estilistas y dueños de negocios que desean expandir su clientela y visibilizar sus servicios.
+
+###### When
+- ¿Cuándo sucede el problema?
+
+El problema surge cuando los clientes quieren reservar citas de belleza, pero no tienen tiempo para buscar proveedores o hacer reservas por teléfono.
+
+- ¿Cuándo utiliza el cliente el producto?
+
+El cliente utiliza el producto cuando desea buscar, reservar y pagar servicios de cuidado y belleza, ya sea en casa o en el establecimiento, y cuando los proveedores necesitan una plataforma para promocionar sus servicios.
+
+###### Where
+- ¿Dónde está el cliente cuando usa el producto?
+
+El cliente usa el producto desde cualquier lugar con acceso a Internet, como su hogar, lugar de trabajo o mientras se desplaza.
+
+- ¿Dónde surge el problema?
+
+El problema surge cuando los clientes intentan reservar citas para servicios de belleza y encuentran dificultades para encontrar proveedores confiables o coordinar horarios adecuados.
+
+###### Who
+- ¿Quienes se ven involucrados en el problema?
+
+Se ven involucrados los clientes que buscan servicios de belleza y cuidado personal, así como los proveedores que los ofrecen.
+
+###### Why
+- ¿Cuáles son las causas del problema?
+
+La causa del problema es la falta de una plataforma centralizada que facilite la conexión conveniente entre clientes y proveedores de servicios de belleza, así como la dificultad para coordinar horarios y encontrar proveedores confiables.
+
+###### How
+- ¿En qué condiciones los clientes usan nuestro producto?
+
+Nuestros clientes usan el producto cuando están en casa buscando servicios para ocasiones especiales, durante descansos en el trabajo navegando opciones, o en movimiento para reservar rápidamente servicios mientras están fuera de casa.
+
+###### How Much
+
+- ¿Cuál es la magnitud del problema?
+
+La magnitud del problema es considerable, ya que, según la Asociación Peruana de Empresarios de la Belleza (2022), 4 de cada 10 peluquerías tuvieron que cerrar debido a la pandemia, y solo el 30% de las que permanecen siguen en la formalidad. Esto se debe a los altos costos de alquiler y materia prima, que afectan la viabilidad y profesionalización de muchos negocios en el sector.
+
 #### 1.2.2 Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 ##### 1.2.2.2. Lean UX Assumptions
