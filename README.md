@@ -220,7 +220,15 @@ Nuestros clientes usan el producto cuando están en casa buscando servicios para
 La magnitud del problema es considerable, ya que, según la Asociación Peruana de Empresarios de la Belleza (2022), 4 de cada 10 peluquerías tuvieron que cerrar debido a la pandemia, y solo el 30% de las que permanecen siguen en la formalidad. Esto se debe a los altos costos de alquiler y materia prima, que afectan la viabilidad y profesionalización de muchos negocios en el sector.
 
 #### 1.2.2 Lean UX Process
+El lean UX process es un enfoque iterativo centrado en el usuario para el diseño de proyectos y productos. Este enfoque se base en ciclos rápidos (sprints) de investigación, diseño y pruebas para validar la propuesta o ideas planteadas por el equipo. Estas propuestas estarán siempre orientadas a satisfacer las necesidades de los usuarios. 
 ##### 1.2.2.1. Lean UX Problem Statements
+
+Nuestro servicio ofrece la capacidadad de mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal. Sin embargo, se ha observado un factor crítico que afecta la confianza del cliente al seleccionar un centro de belleza, este es la alta tasa de informalidad en la industria. Esta falta de transparencia y garantías sobre la calidad de los servicios ofrecidos crea incertidumbre y afecta negativamente la experiencia del usuario.
+
+¿Cómo podemos mejorar el proceso de selección del cliente para salones, tratamientos y servicios, asegurando un diseño que promueva la confianza y seguridad?
+
+* Se deberá proporcionar un sistema eficiente y transparente para la búsqueda y reserva de servicios, así como establecer canales de comunicación efectivos con los clientes. Nos enfrentamos a otro desafío significativo, los sistemas de gestión de citas para servicios de cuidado y belleza son ineficientes y generan desconfiaza en el usuario final. Reconocemos la importancia de garantizar una experiencia segura y sin preocupaciones para los usuarios que utilizan nuestra plataforma para reservar servicios de belleza. La altan tasa de informalidad en la industria de los centros de belleza crea desafíos adicionales para garantizar la calidad y confiabilidad de los servicios ofrecidos.
+
 ##### 1.2.2.2. Lean UX Assumptions
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 ##### 1.2.2.4. Lean UX Canvas
