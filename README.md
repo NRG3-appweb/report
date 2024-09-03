@@ -222,7 +222,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
 
 #### 3.2.1 Epics
 
-<table border="1" style="text-align: left;">
+<table border="1">
 	<tbody>
 		<tr>
 			<td colspan="1">Epic ID</td>
@@ -317,6 +317,455 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
 </table>
 
 #### 3.2.2 User Stories - Clientes
+<table  border = "1">
+	<tbody>
+		<tr>
+			<td colspan="1">Story ID</td>
+            <td colspan="1">Título</td>
+            <td colspan="1">Descripción</td>
+            <td colspan="1">Criterios de Aceptación con Escenarios</td>
+            <td colspan="1">Epic ID</td>
+		</tr>
+		<tr>
+            <td colspan="1">US001</td>
+            <td colspan="1">Creación de cuenta</td>
+            <td colspan="1">
+            <strong>Como</strong> visitante <strong>quiero</strong> crear una cuenta proporcionando mi nombre, dirección de correo electrónico y contraseña <strong>para</strong> poder tener mis datos guardados.
+            </td>
+            <td colspan="1">
+            <strong>E01: Registro completado</strong>
+            <br>
+            <strong>Dado que</strong> un nuevo visitante quiere registrarse
+            <br>
+            <strong>Cuando</strong> ingresa su nombre, dirección de correo electrónico y contraseña
+            <br>
+            <strong>Y</strong> presiona el botón de Crear Cuenta
+            <br>
+            <strong>Entonces</strong> se envía un correo de verificación a la dirección enviada
+            <br><br>
+            <strong>E01: Registro completado</strong>
+            <br>
+            <strong>Dado que</strong> un nuevo visitante quiere registrarse
+            <br>
+            <strong>Cuando</strong> ingresa un nombre, contraseña o un correo electrónico que no cumpla los requisitos establecidos
+            <br>
+            <strong>Y</strong> presiona el botón de Crear Cuenta
+            <br>
+            <strong>Entonces</strong> aparece en pantalla un mensaje de error, indicando donde se encuentra el error y pidiendo que se ingrese de nuevo.
+            </td>
+            <td colspan="1">EP001</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US002</td>
+            <td colspan="1">Verificación de correo electrónico</td>
+            <td colspan="1">
+            <strong>Como</strong> visitante <strong>quiero</strong> recibir un correo electrónico de verificación después de registrarme <strong>para</strong> confirmar mi dirección de correo electrónico.
+            </td>
+            <td colspan="1">
+            <strong>E01: Verificación exitosa</strong>
+            <br>
+            <strong>Dado que</strong> un visitante quiere crear una nueva cuenta
+            <br>
+            <strong>Cuando</strong> encuentra el correo que le mandamos donde está el enlace con el código para crear su cuenta
+            <br>
+            <strong>Y</strong> ingresa correctamente su código al enlace
+            <br>
+            <strong>Entonces</strong> la cuenta nueva esta creada y se le redirige a la página principal de la aplicación.
+            <br><br>
+            <strong>E02: Error en la verificación</strong>
+            <br>
+            <strong>Dado que</strong> un visitante quiere crear una nueva cuenta
+            <br>
+            <strong>Cuando</strong> no encuentra el correo que mandamos a la dirección registrada presiono el botón mandar de nuevo
+            <br>
+            <strong>Y</strong> ya pasaron 15 minutos
+            <br>
+            <strong>Entonces</strong> aparecerá un mensaje de error indicando que el correo no se pudo verificar y que pedirá ingresar de nuevo el correo electrónico.
+            </td>
+            <td colspan="1">EP007</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US003</td>
+            <td colspan="1">Inicio de sesión de usuario</td>
+            <td colspan="1">
+            <strong>Como</strong> usuario registrado, <strong>quiero</strong> iniciar sesión utilizando mi correo electrónico y contraseña<strong>para</strong> poder cargar mis datos guardados anteriormente. 
+            </td>
+            <td colspan="1">
+            <strong>E01: Inicio sesión exitoso</strong>
+            <br>
+            <strong>Dado que</strong> que un usuario quiere ingresar a su cuenta
+            <br>
+            <strong>Cuando</strong> el usuario proporciona su dirección de correo electrónico y contraseña
+            <br>
+            <strong>Y</strong> presiona el botón Iniciar Sesión
+            <br>
+            <strong>Entonces</strong> el usuario es redirigido a la página principal.
+            <br><br>
+            <strong>E02: Error al iniciar sesión</strong>
+            <br>
+            <strong>Dado que</strong> que un usuario quiere ingresar a su cuenta
+            <br>
+            <strong>Cuando</strong> el usuario proporciona un correo electrónico o contraseña invalido
+            <br>
+            <strong>Y</strong> presiona el botón Iniciar Sesión
+            <br>
+            <strong>Entonces</strong> se muestra un mensaje de error y se solicita ingrese de nuevo.
+            </td>
+            <td colspan="1">EP001</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US004</td>
+            <td colspan="1">Recomendación por ubicación</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> visualizar como recomendados los servicios de belleza o cuidado de establecimientos cercanos a mi ubicación actual <strong>para</strong> así poder escoger el que menos tiempo de traslado me tome. 
+            </td>
+            <td colspan="1">
+            <strong>E01: Recomendaciones encontradas</strong>
+            <br>
+            <strong>Dado que</strong> el cliente se encuentra en home
+            <br>
+            <strong>Cuando</strong> se reconoce su ubicación por localización satélital
+            <br>
+            <strong>Entonces</strong> se muestra una lista de servicios ofrecidos por establecimientos cercanos a la ubicación del cliente.
+            <br><br>
+            <strong>E02: No se encuentran recomendaciones</strong>
+            <br>
+            <strong>Dado que</strong> el cliente se encuentra en home
+            <br>
+            <strong>Cuando</strong> no se reconoce su ubicación por localización satélital
+            <br>
+            <strong>Entonces</strong> solo se visualizan servicios basados en su historial de servicios.
+            </td>
+            <td colspan="1">EP002</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US005</td>
+            <td colspan="1">Visualización de historial</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> visualizar los servicios de belleza de establecimientos a los que ya he solicitado servicios anteriormente <strong>para</strong> para así poder mantener una rutina con cosmeticas en las que confio.
+            </td>
+            <td colspan="1">
+            <strong>E01: Recomendaciones encontradas</strong>
+            <br>
+            <strong>Dado que</strong> el cliente quiere buscar servicios ya solicitados
+            <br>
+            <strong>Cuando</strong> ingrese a su historial
+            <br>
+            <strong>Entonces</strong> se muestra una lista de servicios que el usuario ya ha solicitado
+            <br><br>
+            <strong>E02: Historial sin serivicios almacenados</strong>
+            <br>
+            <strong>Dado que</strong> el cliente quiere buscar servicios ya solicitados
+            <br>
+            <strong>Cuando</strong> ingrese a su historial
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje indicando que no se tiene guardado ningún servicio en el historial.
+            </td>
+            <td colspan="1">EP002</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US006</td>
+            <td colspan="1">Visualización de disponibilidad de citas</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> poder ver la disponibilidad de citas de los centros de belleza y cuidado <strong>para</strong> elegir un horario conveniente para mí.
+            </td>
+            <td colspan="1">
+            <strong>E01: Visualización detalles del servicio</strong>
+            <br>
+            <strong>Dado que</strong> el cliente selecciona un servicio específico
+            <br>
+            <strong>Cuando</strong> selecciona el especialista
+            <br>
+            <strong>Y</strong> detalla los requerimientos personalizados del servicio
+            <br>
+            <strong>Entonces</strong> el sistema muestra un calendario con horarios disponibles y puede seleccionar una fecha y hora conveniente.
+            <br><br>
+            <strong>E02: Error al acceder a los detalles del servicio</strong>
+            <br>
+            <strong>Dado que</strong> el cliente selecciona un servicio específico
+            <br>
+            <strong>Cuando</strong> selecciona el especialista
+            <br>
+            <strong>Y</strong> los detalles del servicio no están completos
+            <br>
+            <strong>Entonces</strong> se muestra un mensaje de advertencia sobre la falta de información del servicio.
+            </td>
+            <td colspan="1">EP003</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US007</td>
+            <td colspan="1">Notificación de confirmación de reserva</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> recibir una notificación de confirmación después de reservar una cita <strong>para</strong> tener la seguridad de que se ha realizado correctamente.
+            </td>
+            <td colspan="1">
+            <strong>E01: Notificación Automática</strong>
+            <br>
+            <strong>Dado que</strong> el cliente reserva una cita
+            <br>
+            <strong>Cuando</strong> pasa 1 minuto
+            <br>
+            <strong>Entonces</strong> recibe la notificación con detalles de la cita en su correo electrónico.
+            <br><br>
+            <strong>E02: Notificación no enviada</strong>
+            <br>
+            <strong>Dado que</strong> el cliente reserva una cita
+            <br>
+            <strong>Cuando</strong> pasa 1 minuto y no recibe una notificación en ningún dispositivo vinculado
+            <br>
+            <strong>Entonces</strong> puede seleccionar la opción de reenviar confirmación.
+            </td>
+            <td colspan="1">EP003</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US008</td>
+            <td colspan="1">Cancelación de cita por parte del cliente</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> cancelar una cita reservada en la aplicación <strong>para</strong> así poder hacer tiempo para alguna necesidad que se me presente.
+            </td>
+            <td colspan="1">
+            <strong>E01: Cancelación Confirmada</strong>
+            <br>
+            <strong>Dado que</strong> el cliente quiere cancelar una cita
+            <br>
+            <strong>Cuando</strong> selecciona la opción de cancelar la cita
+            <br>
+            <strong>Entonces</strong> se presenta un mensaje de confirmación
+            <br>
+            <strong>Y</strong> se elimina de su agenda personal
+            <br><br>
+            <strong>E02: Error de Cancelación</strong>
+            <br>
+            <strong>Dado que</strong> el cliente quiere cancelar una cita
+            <br>
+            <strong>Cuando</strong> selecciona la opción de cancelar la cita
+            <br>
+            <strong>Entonces</strong> el sistema muestra mensaje de erorr al cancelar la cita.
+            </td>
+            <td colspan="1">EP003</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US009</td>
+            <td colspan="1">Dejar valoración y reseña después de la cita</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> dejar una valoración y reseña sobre el servicio recibido después de completar una cita <strong>para</strong> ayudar a otros cliente en su elección.
+            </td>
+            <td colspan="1">
+            <strong>E01: Publicación de Reseña</strong>
+            <br>
+            <strong>Dado que</strong> el cliente ya recibio el servicio
+            <br>
+            <strong>Cuando</strong> selecciona la opción de dejar reseña en el perfil de la empresa
+            <br>
+            <strong>Y</strong> escriba respecto a su experiencia junto a un puntaje con un indicador de hasta 5 estrellas
+            <br>
+            <strong>Y</strong> publique su reseña
+            <br>
+            <strong>Entonces</strong> su reseña se visualiza en el perfil de la empresa.
+            <br><br>
+            <strong>E02: Error en la reseña</strong>
+            <br>
+            <strong>Dado que</strong> el usuario ya recibio el servicio
+            <br>
+            <strong>Cuando</strong> selecciona la opción de dejar reseña en el perfil de la empresa
+            <br>
+            <strong>Y</strong> escriba respecto a su experiencia junto a un puntaje con un indicador de hasta 5 estrellas
+            <br>
+            <strong>Y</strong> no pueda publicar su reseña
+            <br>
+            <strong>Entonces</strong> se le muestra al usuario un mensaje de error al publicar la reseña.
+            </td>
+            <td colspan="1">EP004</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US010</td>
+            <td colspan="1">Personalización del Servicio</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> personalizar algunos detalles de el servicio reservado <strong>para</strong> así poder cuplir con todas mis necesidades.
+            </td>
+            <td colspan="1">
+            <strong>E01: Correcta personalización del servicio</strong>
+            <br>
+            <strong>Dado que</strong> el cliente quiere personalizar el servicio
+            <br>
+            <strong>Cuando</strong> realiza una reserva, puede modificar o incluir detalles respecto al servicio (ej. técnicas específicas, productos deseados)
+            <br>
+            <strong>Y</strong> tiene la intencion de confirmar estas opciones
+            <br>
+            <strong>Entonces</strong> se establecen los nuevos requisitos de servicio.
+            <br><br>
+            <strong>E02: Error en la personalización del servicio</strong>
+            <br>
+            <strong>Dado que</strong> el cliente quiere personalizar el servicio
+            <br>
+            <strong>Cuando</strong> realiza una reserva e intente modificar aspectos que no fueron aceptados por la empresa que ofrece el servicio.
+            <br>
+            <strong>Entonces</strong> se muestra una ventana emergente con un mensaje que menciona que no se puede modificar este aspecto del servicio.
+            </td>
+            <td colspan="1">EP006</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US011</td>
+            <td colspan="1">Reserva de citas periódicas</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> tener la opcion de agendar servicios que requieran mantenimientos periódicos en una sola reserva <strong>para</strong> poder cumplir con el tratamiento al completo.
+            </td>
+            <td colspan="1">
+            <strong>E01: Confirmación reserva de citas periódicas</strong>
+            <br>
+            <strong>Dado que</strong> el cliente confirmó un servicio con cuidados que requieren más de 2 citas
+            <br>
+            <strong>Cuando</strong> el cliente acepte agendar todo el paquete de citas
+            <br>
+            <strong>Entonces</strong> las reservas se harán válidas y podrán ser visualizadas en el calendario del cliente.
+            <br><br>
+            <strong>E02: Error de reservas periódicas</strong>
+            <br>
+            <strong>Dado que</strong> el cliente confirmó un servicio con cuidados que requieren más de 2 citas
+            <br>
+            <strong>Cuando</strong> el cliente acepte agendar todo el paquete de citas
+            <br>
+            <strong>Entonces</strong> el sistema mostrará un mensaje de error indicando que no se han podido agendar las citas.
+            </td>
+            <td colspan="1">EP003</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US012</td>
+            <td colspan="1">Pago a través de la App</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> pagar el servicio de belleza o cuidado en una plataforma <strong>para</strong> así asegurarme que todo forma parte delmismo sistema. 
+            </td>
+            <td colspan="1">
+            <strong>E01: Pago Directo</strong>
+            <br>
+            <strong>Dado que</strong> el cliente tiene su tarjeta bancaria asociada
+            <br>
+            <strong>Cuando</strong> selecciona un servicio para reservar una cita 
+            <br>
+            <strong>Y</strong> se reciba la confirmación del banco asociado
+            <br>
+            <strong>Entonces</strong> se reserva el servicio solicitado.
+            <br><br>
+            <strong>E02: Error de Pago</strong>
+            <br>
+            <strong>Dado que</strong> el cliente tiene su tarjeta bancaria asociada
+            <br>
+            <strong>Cuando</strong> selecciona un servicio para reservar una cita 
+            <br>
+            <strong>Y</strong> no se recibe la confirmación del banco asociado
+            <br>
+            <strong>Entonces</strong> no se reserva el servicio solicitado y se muestra un mensaje de error de realización de pago.
+            </td>
+            <td colspan="1">EP010</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US013</td>
+            <td colspan="1">Búsqueda de servicios</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> buscar un servicio o establecimiento específico mediante un cuadro de texto de busqueda <strong>para</strong> poder realizar una búsqueda rápida y fácil.
+            </td>
+            <td colspan="1">
+            <strong>E01: Busqueda por nombre</strong>
+            <br>
+            <strong>Dado que</strong> el cliente escribe el nombre del establecimiento o servicio
+            <br>
+            <strong>Cuando</strong> envia la solicitud de búsqueda
+            <br>
+            <strong>Entonces</strong> visualiza resultados coincidentes con su búsqueda.
+            <br><br>
+            <strong>E02: Filtro de servicios</strong>
+            <br>
+            <strong>Dado que</strong> el cliente usa la barra de búsqueda
+            <br>
+            <strong>Cuando</strong> el cliente selecciona los filtros de búsqueda sea por tipo de servicio o por rango de precios
+            <br>
+            <strong>Entonces</strong> visualiza los servicios coincidentes con el filtrado.
+            </td>
+            <td colspan="1">EP002</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US014</td>
+            <td colspan="1">Crear reserva de citas</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> poder registrar una nueva reserva <strong>para</strong> poder acceder a mi servicio deseado.
+            </td>
+            <td colspan="1">
+            <strong>E01: Correcta reserva de cita</strong>
+            <br>
+            <strong>Dado que</strong> el cliente quiere reservar una cita
+            <br>
+            <strong>Cuando</strong> quiere confirmar su intención 
+            <br>
+            <strong>Y</strong> realiza el pago
+            <br>
+            <strong>Entonces</strong> el sistema la almacena en la base de datos
+            <br>
+            <strong>Y</strong> el cliente recibe una confirmación de reserva.
+            <br><br>
+            <strong>E02: Error de reserva de cita</strong>
+            <br>
+            <strong>Dado que</strong> el cliente quiere reservar una cita
+            <br>
+            <strong>Cuando</strong> quiere confirmar su intención 
+            <br>
+            <strong>Y</strong> no se recibe el pago
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje de error indicando que la reserva no pudo ser completada y sugerir intentar nuevamente.
+            </td>
+            <td colspan="1">EP003</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US015</td>
+            <td colspan="1">Ver perfil de cliente</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> poder ver mi perfil <strong>para</strong> acceder a mi informacion personal en mi cuenta. 
+            </td>
+            <td colspan="1">
+            <strong>E01: Correcta visualización del perfil del cliente</strong>
+            <br>
+            <strong>Dado que</strong> el cliente quiere ver su perfil
+            <br>
+            <strong>Cuando</strong> ingrese a su perfil de cliente
+            <br>
+            <strong>Entonces</strong> se muestra la información del cliente.
+            <br><br>
+            <strong>E02: Error en la visualización del cliente</strong>
+            <br>
+            <strong>Dado que</strong> el cliente quiere ver su perfil
+            <br>
+            <strong>Cuando</strong> ingrese a su perfil de cliente
+            <br>
+            <strong>Entonces</strong> la información no se carga.
+            </td>
+            <td colspan="1">EP001</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US016</td>
+            <td colspan="1">Editar mi perfil de cliente</td>
+            <td colspan="1">
+            <strong>Como</strong> cliente, <strong>quiero</strong> editar mi perfil <strong>para</strong> mantener actualizada mi cuenta.
+            </td>
+            <td colspan="1">
+            <strong>E01: Correcta actualización del perfil del cliente</strong>
+            <br>
+            <strong>Dado que</strong> el cliente modificar su informacion personal
+            <br>
+            <strong>Cuando</strong> realiza las modificaciones necesarias en el perfil de cliente
+            <br>
+            <strong>Entonces</strong> el sistema actualiza la información editada.
+            <br><br>
+            <strong>E02: Error en la visualización del cliente</strong>
+            <br>
+            <strong>Dado que</strong> el cliente modificar su información personal
+            <br>
+            <strong>Cuando</strong> realiza las modificaciones necesarias en el perfil de cliente
+            <br>
+            <strong>Entonces</strong> el sistema muestra un mensaje de error al actualizar.
+            <td colspan="1">EP001</td>
+	    </tr>
+    </tbody>
+</table>
+
 #### 3.2.3 User Stories - Empresas
 #### 3.2.4 User Stories - Landing Page
 #### 3.2.5 Technical Stories
