@@ -983,6 +983,68 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
 
 #### 3.2.4 User Stories - Landing Page
 
+<table  border = "1">
+	<tbody>
+		<tr>
+			<td colspan="1">Story ID</td>
+            <td colspan="1">Título</td>
+            <td colspan="1">Descripción</td>
+            <td colspan="1">Criterios de Aceptación con Escenarios</td>
+            <td colspan="1">Epic ID</td>
+		</tr>
+        <tr>
+            <td colspan="1">US025</td>
+            <td colspan="1">Navegacion por la landing page</td>
+            <td colspan="1">
+            <strong>Como</strong> visitante de la landing page, <strong>quiero</strong>navegar por la landing page de Bliss <strong>para</strong> obtener mas informacion sobre el producto.
+            </td>
+            <td colspan="1">
+            <strong>E01: Correcta reserva de cita</strong>
+            <br>
+            <strong>Dado que</strong> un visitante esta en la pagina de inicio de la landing page de Bliss
+            <br>
+            <strong>Cuando</strong> baja por la página para obtener mas informacion sobre el producto
+            <br>
+            <strong>Entonces</strong> puede ver las características y ventajas que tiene este.
+            <br><br>
+            <strong>E02: Fallo al navegar por la landing</strong>
+            <br>
+            <strong>Dado que</strong> un visitante esta en la pagina de inicio de la landing page de Bliss
+            <br>
+            <strong>Cuando</strong> baja por la página para obtener mas informacion sobre el producto
+            <br>
+            <strong>Entonces</strong> la página muestra un error de carga.
+            </td>
+            <td colspan="1">EP011</td>
+	    </tr>
+        <tr>
+            <td colspan="1">US026</td>
+            <td colspan="1">Visualizar alianzas</td>
+            <td colspan="1">
+            <strong>Como</strong> visitante de la landing page, <strong>quiero</strong> visualizar las alianzas que tiene Bliss <strong>para</strong> poder confiar en la experiencia que brinda el producto. 
+            </td>
+            <td colspan="1">
+            <strong>E01: Visualización de alianzas</strong>
+            <br>
+            <strong>Dado que</strong> el usuario quiere saber las alianzas estrategicas que posee el producto
+            <br>
+            <strong>Cuando</strong> observe la sección de Alianzas
+            <br>
+            <strong>Entonces</strong> el usuario puede confiar más en la excelencia del producto.
+            <br><br>
+            <strong>E02: Incorrecta visualización de alianzas</strong>
+            <br>
+            <strong>Dado que</strong> el usuario quiere saber las alianzas estrategicas que posee elproducto
+            <br>
+            <strong>Cuando</strong> observe la sección de Alianzas
+            <br>
+            <strong>Entonces</strong> no podra informarse bien sobre la confiabilidad del producto.
+            </td>
+            <td colspan="1">EP011</td>
+	    </tr>
+    </tbody>
+</table>
+
 #### 3.2.5 Technical Stories
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
