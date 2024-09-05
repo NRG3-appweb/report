@@ -311,43 +311,11 @@ Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 
-**User Persona 1**
-<table>
-  <th colspan="4"> nombre </th>
-  <tr>
-    <td rowspan="2"> Foto </td>
-    <td> Informacion Personal </td>
-    <td> Objetivos </td>
-  </tr>
-  <tr>
-    <td> Personalidad </td>
-    <td> Frustraciones </td>
-  </tr>
-  <tr>
-    <td> Bio </td>
-    <td> Intereses </td>
-    <td> Marcas Favoritas</td>
-  </tr>
-</table>
+**Segmento Objetivo 1:**
+![Andrea Salazar](https://github.com/user-attachments/assets/dab19bd6-e2cb-4b4d-aa3d-caa4aacbec54)
 
-**User Persona 2**
-<table>
-  <th colspan="4"> nombre </th>
-  <tr>
-    <td rowspan="2"> Foto </td>
-    <td> Informacion Personal </td>
-    <td> Objetivos </td>
-  </tr>
-  <tr>
-    <td> Personalidad </td>
-    <td> Frustraciones </td>
-  </tr>
-  <tr>
-    <td> Bio </td>
-    <td> Intereses </td>
-    <td> Marcas Favoritas</td>
-  </tr>
-</table>
+**Segmento Objetivo 2:**
+![Rosa Martínez](https://github.com/user-attachments/assets/4f8c92c7-4352-4b25-a592-ffc87203118e)
 
 #### 2.3.2. User Task Matrix
 
