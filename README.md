@@ -310,6 +310,18 @@ Teniendo en cuenta la información anterior nos inclinamos por este tipo de orga
 * **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
 
 Con cada deployment de la aplicación debe establecerse como una nueva versión.
+Nomenclatura de numeración de las versiones:
+
+* <strong>Major changes:</strong> Cuando el código o versión nueva del proyecto a implementar presenta cambios significativos con la versión anterior, estos cambios llegan a ser incompatibles con la versión anterior. Esto se evidenciará en el numero de la versión ej: versión 1.0.0 -> versión 2.0.0.</li>
+* <strong>Minor changes:</strong> Cuando el código o versión nueva del proyecto a implementar presenta cambios con respecto a alguna característica, ya sea añadir o modificar, 
+de la versión anterior; estos cambios no llegan a ser incompatibles con la versión anterior. Esto se evidenciará en el numero de la versión ej: versión 1.1.0 -> versión 1.2.0.
+* <strong>Patch:</strong> Cuando se solucionan bugs menores. Esto se evidenciará en el numero de la versión ej: versión 1.1.3 -> versión 1.1.4.
+
+Sufijos asignados a las versiones:
+* <strong>-alpha:</strong> versión no estable con características básicas o no funcionales, ejemplo : versión 1.0.0 -alpha.
+* <strong>-beta:</strong> versión no apta para la publicación, aún así ya presenta características funcionales en el estado base, ejemplo versión 1.0.0 –beta.
+* <strong>-rc:</strong> versión apta para la publicación y uso de los usuarios, es candidata para publicar, ejemplo versión 1.0.0 -rc.
+
 
 
 #### 5.1.3. Source Code Style Guide & Conventions
