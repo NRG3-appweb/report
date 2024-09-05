@@ -275,17 +275,17 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
         <tr>
             <td> Landing Page </td>
             <td> Bliss-landing-page </td>
-            <td>  https://github.com/NRG3-appweb/Landing-Page </td>
+            <td><a href="https://github.com/NRG3-appweb/Landing-Page" target="_blank">https://github.com/NRG3-appweb/Landing-Page</a></td>
         </tr>
         <tr>
             <td> Web Services </td>
             <td> Bliss-web-services: </td>
-            <td>  https://github.com/NRG3-appweb/Backend </td>
+            <td><a href="https://github.com/NRG3-appweb/Backend">https://github.com/NRG3-appweb/Backend</a></td>
         </tr>
         <tr>
             <td> Front Web Application </td>
             <td> Bliss-Frontend </td>
-            <td>  https://github.com/NRG3-appweb/Frontend </td>
+            <td><a href="https://github.com/NRG3-appweb/Frontend">https://github.com/NRG3-appweb/Frontend</a></td>
         </tr>
     </tbody>
 </table>
