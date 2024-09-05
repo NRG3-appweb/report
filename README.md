@@ -359,9 +359,18 @@ Se uso diferentes etiquetas para conformar la estructura del Landing Page del pr
 
 **Landing Page**
 
+**Consideraciones antes del despliegue**
+1. **Archivos HTML, CSS y JS**
+Asegurse que todos los archivos de la página web sean implementados en HTML, CSS y JS para un correcto funcionamiento de la página. En el caso de la imágenes, nos permitimos usar los distintos formatos existentes (jpg, png, webp, etc).
+2. **Publicación de archivos**
+Debido al funcionamiento del servicio de Github Pages, todos los archivos correspondientes al funcionamiento de nuestra aplicación será subidos al repositorio compartido de Github para poder trabajar de manera simultanea entre los integrantes del grupo.
+3. **Pruebas de funcionamiento**
+Con cada actualización e implementación del repositorio se harán pruebas que garanticen el correcto funcionamiento de la página, además la página también será probada por usuarios externos al grupo de trabajo para evitar opiniones influenciadas por la propiedad del proyecto.
+
 **Requerimientos para realizar del despliegue:**
 
 * Repositorio en nuestra organización de GitHub
+* Repositorio con visibilidad pública
 * Permisos de Github
 * Código Fuente de nuestra Landing Page
 
@@ -372,7 +381,6 @@ Se uso diferentes etiquetas para conformar la estructura del Landing Page del pr
 3) Seleccionar el apartado de Pages.
 4) Elegir la rama main y folder(/root).
 5) Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada.
-
 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
