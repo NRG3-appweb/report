@@ -360,49 +360,11 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 #### 2.3.4. Empathy Mapping
 
-**User Persona 1**
-<table>
-  <tr>
-    <td colspan="4"> Empathy Map </td>
-  </tr>
-  <tr>
-    <td colspan="4"> Que Piensa y Siente? <li> a </li> <li> a </li> <li> a </li> <li> a </li> </td>
-  </tr>
-  <tr>
-    <td> Que Oye? <li> a </li> <li> a </li> <li> a </li> <li> a </li> <li> a </li></td> 
-    <td colspan="2"> nombre </td>
-    <td> Que Ve?  <li> a </li> <li> a </li> <li> a </li> <li> a </li> <li> a </li> <li> a </li></td>
-  </tr>
-  <tr>
-    <td colspan="4"> Que dice y que hace? <li> a </li> <li> a </li> <li> a </li></td>
-  </tr>
-  <tr>
-    <td colspan="2" > Esfuerzo <li> a </li> <li> a </li> <li> a </li> </td>
-    <td colspan="2" > Resultados <li> a </li> <li> a </li> <li> a </li></td>
-  </tr>
-</table>
+###### User Persona #1
+![Empathy Map User Persona #1](https://github.com/user-attachments/assets/632964a6-011a-4979-9164-95d1026f68b2)
 
-**User Persona 2**
-<table>
-  <tr>
-    <td colspan="4"> Empathy Map </td>
-  </tr>
-  <tr>
-    <td colspan="4"> Que Piensa y Siente? <li> a </li> <li> a </li> <li> a </li> <li> a </li> </td>
-  </tr>
-  <tr>
-    <td> Que Oye? <li> a </li> <li> a </li> <li> a </li> <li> a </li> <li> a </li></td> 
-    <td colspan="2"> nombre </td>
-    <td> Que Ve?  <li> a </li> <li> a </li> <li> a </li> <li> a </li> <li> a </li> <li> a </li></td>
-  </tr>
-  <tr>
-    <td colspan="4"> Que dice y que hace? <li> a </li> <li> a </li> <li> a </li></td>
-  </tr>
-  <tr>
-    <td colspan="2" > Esfuerzo <li> a </li> <li> a </li> <li> a </li> </td>
-    <td colspan="2" > Resultados <li> a </li> <li> a </li> <li> a </li></td>
-  </tr>
-</table>
+###### User Persona #2
+![Empathy Map User Persona #2](https://github.com/user-attachments/assets/2f79ea95-bdce-460b-ba11-b7833b419b04)
 
 
 #### 2.3.5. As-is Scenario Mapping
