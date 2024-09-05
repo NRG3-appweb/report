@@ -173,6 +173,96 @@
 ### 5.1. Software Configuration Management
 En este ítem se definirán todas las reglas y procesos que hemos seguido en el proyecto al momento de crear y desplegar la página web de Bliss. El objetivo de estas reglas y procesos es garantizar la integridad y consistencia del software, desde el inicio hasta el despliegue y mantenimiento.
 #### 5.1.1. Software Development Environment Configuration
+**Project Management**
+
+Para la organizacion del proyecto requerimos de un sistema de de asignación de tareas, palataformas y puntos de reunión y un repositorio dónde trabajaremos en conjunto cada avance del proyecto. A continuación se menciona los nombres de los productos y el propósito de uso en el proyecto:
+<ul>
+  <li>Centro de organización de trabajo: Github</li>
+  <li>Planificación de tareas: Trello</li>
+  <li>Reuniones con el equipo: Google Meet</li>
+  <li>Coordinación grupal: WhatsApp</li>
+</ul>
+
+**Requirements Management**
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Trello</td>
+    <td>Para designar las tareas y actividades de cada integrante del grupo en caso de revisión o cambios.</td>
+    <td><a href="https://trello.com" target="_blank">https://trello.com</a></td>
+  </tr>
+</table>
+
+**Product UX/UI Design**
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>Para el diseño de los wireframe y mockups, además de la realización del prototipo de Web App</td>
+    <td><a href="https://www.figma.com/" target="_blank">https://www.figma.com/</a></td>
+  </tr>
+</table>
+
+**Software Development**
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.</td>
+    <td><a href="https://www.w3schools.com/html/default.asp" target="_blank">https://www.w3schools.com/html/default.asp</a></td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>Cascade Styles Sheet maneja el diseño visual de la landing page.</td>
+    <td><a href="https://www.w3schools.com/css/default.asp" target="_blank">https://www.w3schools.com/css/default.asp</a></td>
+  </tr>
+</table>
+
+**Software Deployment**
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Github Pages</td>
+    <td>Para realizar el despliegue de nuestra landing page.</td>
+    <td><a href="https://pages.github.com/" target="_blank">https://pages.github.com/</a></td>
+  </tr>
+</table>
+
+**Software Documentation**7
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Github</td>
+    <td>Para gestionar la documentación del proyecto</td>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report" target="_blank">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+  </tr>
+  <tr>
+    <td>MarkDown</td>
+    <td>Para documentar el proyecto.</td>
+    <td><a href="https://markdown.es/" target="_blank">https://markdown.es/</a></td>
+  </tr>
+</table>
+
 #### 5.1.2. Source Code Management
 
 <table>
