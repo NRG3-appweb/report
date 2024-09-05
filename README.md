@@ -172,6 +172,7 @@
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+![Database](resources/BlissDatabaseDesign.png "Bliss Database")
 
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
