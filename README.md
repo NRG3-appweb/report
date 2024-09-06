@@ -387,6 +387,123 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 ##### 5.2.1.1. Sprint Planning 1
 ##### 5.2.1.2. Sprint Backlog 1
 ##### 5.2.1.3. Development Evidence for Sprint Review
+
+**Tabla de commits de la landing-page**
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>main</td>
+    <td>eef4365</td>
+    <td>Initial commit</td>
+    <td>Initial commit</td>
+    <td>18/08/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>359e599</td>
+    <td>feat(landing-page): add html file</td>
+    <td>feat(landing-page): add html file</td>
+    <td>04/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>e71c7da</td>
+    <td>feat(landing): add empty initial css file</td>
+    <td>feat(landing): add empty initial css file</td>
+    <td>04/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>5a3229d</td>
+    <td>feat(landing-page):add empty initial js file</td>
+    <td>feat(landing-page):add empty initial js file</td>
+    <td>04/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>58eb3a3</td>
+    <td>feat(landing-page):add initial HTML structure</td>
+    <td>feat(landing-page):add initial HTML structure</td>
+    <td>04/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>77387f2</td>
+    <td>feat(landing-page): add initial CSS structure</td>
+    <td>feat(landing-page): add initial CSS structure</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>4d3e758</td>
+    <td>feat(landing-page): add initial JS functions</td>
+    <td>feat(landing-page): add initial JS functions</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>06a00b0</td>
+    <td>feat(landing-page): include additional components in the file</td>
+    <td>feat(landing-page): include additional components in the file</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>1495444</td>
+    <td>fix(style.css): Added omitted styles.</td>
+    <td>fix(style.css): Added omitted styles.</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>a02e2c6</td>
+    <td>fix(style.css): Fixed missreferenced properties on tag a.</td>
+    <td>fix(style.css): Fixed missreferenced properties on tag a.</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>e787437</td>
+    <td>fix(style.css): Fixed style button.</td>
+    <td>fix(style.css): Fixed style button.</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>8deb156</td>
+    <td>feat(footer): Added footer to the landing page.</td>
+    <td>feat(footer): Added footer to the landing page.</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>develop</td>
+    <td>192c35c</td>
+    <td>feat(values): Added the values of the company.</td>
+    <td>feat(values): Added the values of the company.</td>
+    <td>05/09/2024</td>
+  </tr>
+</table>
+
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
