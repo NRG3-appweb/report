@@ -508,6 +508,38 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+**Diseño**
+Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
+**Despliege**
+Para poder realizar todos los procesos realizados en este sprint relacionados con la landing page, loscuales corresponden a la creción de la landing page, se necesito de crear una organización dentro de github, así como crear un repositorio el cual almacenará la landing page.
+* Para el uso de github, primero es necesario de crear tu porpia cuenta, para esto se deberá ingresar al página oficial de github (https://github.com/) y registrarse.
+
+<img src="resources/github-acc-setup-1.png">
+<img src="resources/github-acc-setup-2.png">
+
+* Una vez se tiene el usuario, se debe crear una organización con el nombre de la startup, en este caso NRG3. Además se debe añadir a todos los miembros de la organización.
+
+<img src="resources/github-org-setup-1.png">
+<img src="resources/github-org-setup-2.png">
+<img src="resources/github-org-setup-3.png">
+<img src="resources/github-org-setup-4.png">
+<img src="resources/github-org-setup-5.png">
+<img src="resources/github-org-setup-6.png">
+<img src="resources/github-org-setup-7.png">
+<img src="resources/github-org-setup-8.png">
+<img src="resources/github-org-setup-9.png">
+
+* Con la organización creada, ahora se deben crear los repositorios en los que se trabajara el proyecto.
+
+<img src="resources/github-repo-setup-1.png">
+<img src="resources/github-repo-setup-2.png">
+
+* Una vez se han creado todos los repositorios, el proyecto ya esta listo para ser trabajado. Para nuestro proyecto se crearon 4 repositorios los cuales son:
+  * Report: Este repositorio se usa para realizar el informa del proyecto de manera continua.
+  * Landing-Page: Este repositorio se usa para codificar y desplegar la landingpage del proyecto.
+  * Frontend: Este repositorio se usará para contener el código de la parte frontend del projecto.
+  * Backend: Este repositorio se usará para contener el código de la parte backend del projecto.
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
