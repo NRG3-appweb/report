@@ -185,6 +185,29 @@ En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en 
 <img src="resources/container-diagram.png">
 
 #### 4.6.3. Software Architecture Components Diagrams
+
+Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas clave: Service Management, User Management, Booking Management, Notifications, y Payments.
+
+##### Service Management Component
+
+<img src="resources/services-component.png" />
+
+##### User Management Component
+
+<img src="resources/user-component.png" />
+
+##### Booking Management Component
+
+<img src="resources/booking-component.png" />
+
+##### Notification Component
+
+<img src="resources/notification-component.png" />
+
+##### Payments Component
+
+<img src="resources/payments-component.png" />
+
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 #### 4.7.2. Class Dictionary
