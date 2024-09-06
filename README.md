@@ -157,9 +157,13 @@
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 
+El wireframe de la landing page de Bliss sirve como una guía visual básica que estructura los elementos clave de la página sin enfocarse en los detalles de diseño. Este esquema inicial muestra la disposición de secciones como el encabezado con el logo y menú de navegación, una propuesta de valor clara, testimonios de usuarios, y llamadas a la acción (call to action) prominentes para motivar a los visitantes a explorar los servicios. El objetivo es asegurar que la experiencia del usuario sea intuitiva y que los elementos estén estratégicamente ubicados para facilitar la conversión de visitantes en usuarios registrados.
+
 ![Wireframe](resources/LandingPageWireframe.png)
 
 #### 4.3.2. Landing Page Mock-up
+
+El mockup de la landing page representa una versión más detallada y cercana al diseño final de la página, integrando los colores, tipografías, e imágenes que reflejan la identidad visual de Bliss. Este diseño proporciona una vista realista de cómo se verá la página en su versión final, destacando la estética moderna y amigable que busca atraer y retener a los usuarios. Además, resalta la importancia de la coherencia en los elementos gráficos y la alineación con la propuesta de valor de Bliss, asegurando una presentación profesional y atractiva que comunica confianza y calidad a los visitantes.
 
 ![MockUp](resources/LandingPageMockUp.png)
 
@@ -178,6 +182,7 @@
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+
 ![Database](resources/BlissDatabaseDesign.png "Bliss Database")
 
 
