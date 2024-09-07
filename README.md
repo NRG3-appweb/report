@@ -1139,6 +1139,8 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
 ![Impact Mapping NRG](https://github.com/user-attachments/assets/f5541286-c392-4af6-bbff-0c727d5be726)
 
 ### 3.4. Product Backlog
+![Product-Backlog NRG](https://github.com/user-attachments/assets/c824fc5a-35c4-49c3-9374-cba937ea80af)
+
 <table>
   <tr>
     <td colspan="1">Orden</td>
@@ -1152,224 +1154,224 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
     <td>US025</td>
     <td>Navegacion por la landing page</td>
     <td>Como visitante de la landing page, quiero navegar por la landing page de Bliss para obtener mas informacion sobre el producto.</td>
-    <td></td>
+    <td>2</td>
   </tr>
   <tr>
     <td>2</td>
     <td>TS001</td>
     <td>Implementación del diseño responsivo</td>
     <td>Como desarrollador, quiero implementar un diseño responsivo en la landing page de Bliss para que se ejecute de manera correcta en dispositivos de diferentes tamaños.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>3</td>
     <td>US028</td>
     <td>Visualizar visión del equipo</td>
     <td>Como visitante de la landing page, quiero ver la visión de la empresa para entender los objetivos y valores fundamentales de la empresa.</td>
-    <td></td>
+    <td>2</td>
   </tr>
   <tr>
     <td>4</td>
     <td>TS004</td>
     <td>Implementación de la sección "Nuestra Visión"</td>
     <td>Como desarrollador, quiero implementar la sección "Nuestra Visión" para mostrar la visión de Bliss en la landing page.</td>
-    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <td>5</td>
     <td>US026</td>
     <td>Visualizar alianzas</td>
     <td>Como visitante de la landing page, quiero visualizar las alianzas que tiene Bliss para poder confiar en la experiencia que brinda el producto.</td>
-    <td></td>
+    <td>2</td>
   </tr>
   <tr>
     <td>6</td>
     <td>TS003</td>
     <td>Implementación de la sección de alianzas</td>
     <td>Como desarrollador, quiero implementar la sección de alianzas en la landing page, para mostrar las colaboraciones de Bliss con Montalvo, Soho Color y Artemis.</td>
-    <td></td>
+    <td3></td>
   </tr>
   <tr>
     <td>7</td>
     <td>US027</td>
     <td>Visualizar equipo de Bliss</td>
     <td>Como visitante de la landing page, quiero ver la información sobre el equipo, para conocer a las personas detrás de la empresa y su experiencia.</td>
-    <td></td>
+    <td>2</td>
   </tr>
   <tr>
     <td>8</td>
     <td>TS002</td>
     <td>Implementación de la sección "Quiénes Somos"</td>
     <td>Como desarrollador, quiero implementar la sección "Quiénes Somos" para mostrar al equipo de Bliss en la landing page.</td>
-    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <td>9</td>
     <td>US021</td>
     <td>Creacion de servicio</td>
     <td>Como empresa, quiero crear y especificar los detalles de un servicio para</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>10</td>
     <td>US022</td>
     <td>Eliminación de servicio</td>
     <td>Como empresa, quiero poder eliminar un servicio que yo creé para mantener los servicio relevantes y a mi criterio.</td>
-    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <td>11</td>
     <td>US023</td>
     <td>Actualización de servicios ofrecidos</td>
     <td>Como empresa, quiero actualizar los detalles de los servicios que ofrezco en la aplicación para que mis clientes estén informados del servicio que brindo.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>12</td>
     <td>US024</td>
     <td>Suscripción al sistema de pagos</td>
     <td>Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.</td>
-    <td></td>
+    <td>8</td>
   </tr>
   <tr>
     <td>13</td>
     <td>US013</td>
     <td>Búsqueda de servicios</td>
     <td>Como cliente, quiero buscar un servicio o establecimiento específico mediante un cuadro de texto de búsqueda para poder realizar una búsqueda rápida y fácil.</td>
-    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <td>14</td>
     <td>US006</td>
     <td>Visualización de disponibilidad de citas</td>
     <td>Como cliente, quiero poder ver la disponibilidad de citas de los centros de belleza y cuidado para elegir un horario conveniente para mí.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>15</td>
     <td>US014</td>
     <td>Crear reserva de citas</td>
     <td>Como cliente, quiero poder registrar una nueva reserva para poder acceder a mi servicio deseado.</td>
-    <td></td>
+    <td>8</td>
   </tr>
   <tr>
     <td>16</td>
     <td>US011</td>
     <td>Reserva de citas periódicas</td>
     <td>Como cliente, quiero tener la opción de agendar servicios que requieran mantenimientos periódicos en una sola reserva para poder cumplir con el tratamiento al completo.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>17</td>
     <td>US010</td>
     <td>Personalización del Servicio</td>
     <td>Como cliente, quiero personalizar algunos detalles del servicio reservado para así poder cumplir con todas mis necesidades.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>18</td>
     <td>US012</td>
     <td>Pago a través de la App</td>
     <td>Como cliente, quiero pagar el servicio de belleza o cuidado en una plataforma para así asegurarme de que todo forma parte del mismo sistema.</td>
-    <td></td>
+    <td>8</td>
   </tr>
   <tr>
     <td>19</td>
     <td>US007</td>
     <td>Notificación de confirmación de reserva</td>
     <td>Como cliente, quiero recibir una notificación de confirmación después de reservar una cita para tener la seguridad de que se ha realizado correctamente.</td>
-    <td></td>
+    <td>2</td>
   </tr>
   <tr>
     <td>20</td>
     <td>US008</td>
     <td>Cancelación de cita por parte del cliente</td>
     <td>Como cliente, quiero cancelar una cita reservada en la aplicación para así poder hacer tiempo para alguna necesidad que se me presente.</td>
-    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <td>21</td>
     <td>US020</td>
     <td>Gestión de citas</td>
     <td>Como empresa, quiero gestionar las citas realizadas a través de la aplicación para poder realizar el cronograma de trabajo.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>22</td>
     <td>US009</td>
     <td>Dejar valoración y reseña después de la cita</td>
     <td>Como cliente, quiero dejar una valoración y reseña sobre el servicio recibido después de completar una cita para ayudar a otros clientes en su elección.</td>
-    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <td>23</td>
     <td>US001</td>
     <td>Creación de cuenta</td>
     <td>Como visitante quiero crear una cuenta proporcionando mi nombre, dirección de correo electrónico y contraseña para poder tener mis datos guardados.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>24</td>
     <td>US002</td>
     <td>Verificación de correo electrónico</td>
     <td>Como visitante quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico.</td>
-    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <td>25</td>
     <td>US003</td>
     <td>Inicio de sesión de usuario</td>
     <td>Como usuario registrado, quiero iniciar sesión utilizando mi correo electrónico y contraseñapara poder cargar mis datos guardados anteriormente.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>26</td>
     <td>US018</td>
     <td>Registro de perfil de empresa</td>
     <td>Como empresa, quiero crear un perfil para mostrar información sobre mi negocio y los servicios que ofrezco.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>27</td>
     <td>US019</td>
     <td>Edición de perfil de especialista</td>
     <td>Como empresa, quiero editar los perfiles de mis especialistas para que el cliente pueda visualizar las características y disponibilidad de los especialistas.</td>
-    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <td>28</td>
     <td>US015</td>
     <td>Ver perfil de cliente</td>
     <td>Como cliente, quiero poder ver mi perfil para acceder a mi informacion personal en mi cuenta.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>29</td>
     <td>US016</td>
     <td>Editar mi perfil de cliente</td>
     <td>Como cliente, quiero editar mi perfil para mantener actualizada mi cuenta.</td>
-    <td></td>
+    <td>2</td>
   </tr>
   <tr>
     <td>30</td>
     <td>US005</td>
     <td>Visualización de historial</td>
     <td>Como cliente, quiero visualizar los servicios de belleza de establecimientos a los que ya he solicitado servicios anteriormente para así poder mantener una rutina con cosméticos en los que confío.</td>
-    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <td>31</td>
     <td>US004</td>
     <td>Recomendación por ubicación</td>
     <td>Como cliente, quiero visualizar como recomendados los servicios de belleza o cuidado de establecimientos cercanos a mi ubicación actual para así poder escoger el que menos tiempo de traslado me tome.</td>
-    <td></td>
+    <td>5</td>
   </tr>
   <tr>
     <td>32</td>
     <td>US017</td>
     <td>Integración con calendario personal</td>
     <td>Como empresa, quiero sincronizar mis citas y reservas con mi calendario personal (Google Calendar, Outlook) para mantenerme organizado.</td>
-    <td></td>
+    <td>8</td>
   </tr>
 </table>
 
