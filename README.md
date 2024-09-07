@@ -35,11 +35,10 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
 
 ## Contenido
 
-- [Student Outcome](#student-outcome)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
-- [Student Outcome](#student-outcome-1)
+- [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción ](#capítulo-i-introducción-)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -147,12 +146,16 @@ del ABET – EAC - Student Outcome 5.
   </tr>
   <tr>
     <td> Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-    <td> </td>
+    <td>
+	    Juan Astonitas</br> TB1: A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.</br>
+    </td>
     <td></td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td></td>
+    <td>
+	    Juan Astonitas</br> TB1: Durante el proyecto, he contribuido a la creación de un entorno inclusivo y colaborativo, fomentando la participación de todos los miembros del equipo. He trabajado en la definición de metas claras, la planificación de tareas detalladas, y el seguimiento del cumplimiento de los objetivos, asegurando que cada miembro se sienta valorado y comprometido con los resultados.</br>
+    </td>
     <td></td>
   </tr>
 </table>
