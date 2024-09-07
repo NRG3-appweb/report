@@ -179,7 +179,7 @@ El uso exclusivo de la palabra "BLISS" en el logo sigue el principio del minimal
 ### Sentido emocional:
 "BLISS", que en inglés significa felicidad suprema o estado de éxtasis, conecta directamente con las emociones del público objetivo. El nombre evoca sensaciones de bienestar, relajación y satisfacción, que son precisamente los sentimientos que se buscan en los servicios de belleza. Al usar esta palabra como el logo, se establece una asociación inmediata con una experiencia placentera, posicionando a la marca como un facilitador de estos estados de ánimo.
 
-<img src="resources/logo.png>
+<img src="resources/logo.png">
 
 ### Icons
 Los iconos son una extensión visual integral de la identidad de la marca y alinean perfectamente con el estilo general de la empresa. En la plataforma de belleza, los iconos refuerzan la sofisticación y elegancia de la marca, integrándose armoniosamente con el resto del diseño.
