@@ -25,9 +25,9 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|---------|-------|-------|-----------------------------|
-|         |       |       |                             |
+| Versión | Fecha      | Autor                 | Descripción de modificación |
+|---------|------------|-----------------------|-----------------------------|
+| TB1     | 07/09/2024 | Todos los integrantes | Desarrollo de la TB1        |
 
 ## Project Report Collaboration Insights
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio. 
