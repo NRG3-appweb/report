@@ -140,7 +140,7 @@ Convertirnos en el referente líder en la industria de la belleza y cuidado pers
     <th colspan="2"> Casas Sanchez Gabriel Alexander </th>
   </tr>
   <tr>
-    <td>Foto Intengrante 2 </td>
+    <td> <img src="resources/chapter-1/alex-pfp.jpg" style="width: 300px"> </td>
     <td> Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Me considero una persona bastante capaz y versátil en el ámbito académico. Creo que mi principal fortaleza es mi capacidad para dirigir y trabajar bien bajo presión. A pesar de no disfrutar los trabajos grupales, considero que siempre desempeñó un rol sobresaliente en ellos. </td>
   </tr>
 <tr>
