@@ -1967,6 +1967,14 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
 
 ## Conclusiones
 
+- El proyecto Bliss aborda una necesidad creciente en el mercado de servicios de belleza y cuidado personal, donde la demanda por conveniencia y personalización sigue en aumento. Al ofrecer una plataforma que facilita la búsqueda, reserva y pago de estos servicios, Bliss se posiciona estratégicamente para capturar la atención de clientes y proveedores que buscan eficiencia y calidad en sus interacciones. Esta solución no solo mejora la experiencia del usuario, sino que también contribuye a la formalización y profesionalización de un sector con gran potencial de crecimiento.
+
+- Uno de los diferenciadores clave de Bliss es su enfoque en la verificación de profesionales y la personalización del servicio. Estas estrategias no solo garantizan la calidad y confiabilidad de los servicios ofrecidos, sino que también alinean la propuesta de valor de Bliss con las expectativas de sus usuarios. Esta atención al detalle y compromiso con la satisfacción del cliente permitirá a Bliss destacarse en un mercado competitivo, ofreciendo una experiencia de usuario superior y generando confianza entre sus usuarios.
+
+- El análisis competitivo ha identificado tanto fortalezas como áreas de oportunidad para Bliss en comparación con sus principales competidores. Para afrontar estos desafíos, Bliss implementará tácticas enfocadas en la optimización de la interfaz de usuario, la flexibilidad en la programación y la garantía de calidad en los servicios. Estas estrategias, combinadas con incentivos y colaboraciones estratégicas, permitirán a Bliss no solo enfrentar las amenazas del mercado, sino también capitalizar las oportunidades para crecer y consolidarse como líder en su sector.
+
+- El desarrollo de Bliss está alineado con su visión de ser un referente en la industria de la belleza y cuidado personal, ofreciendo experiencias personalizadas y contribuyendo a la formalización del sector. A medida que la plataforma evolucione, Bliss podrá expandir sus servicios y adaptarse a las necesidades cambiantes del mercado, siempre manteniendo un enfoque en la calidad y satisfacción del cliente. Esta proyección a futuro refuerza el compromiso de Bliss de no solo crecer como empresa, sino también de impactar positivamente en la industria y en la vida de sus usuarios.
+
 ## Bibliografía
 
 ## Anexos
