@@ -279,6 +279,9 @@ Resolveremos esto a través de la implementación de rigurosos procesos de verif
 **Cuando** observemos un aumento del 60% en la participación de los usuarios en la función de calificación y reseñas, así como un incremento en la cantidad de reseñas positivas y una mejora general en la percepción de la calidad de los servicios por parte de los usuarios.
 
 ##### 1.2.2.4. Lean UX Canvas
+
+<img src="resources/chapter-1/canvas-bliss.png">
+
 ### 1.3. Segmentos objetivo
 
 **Segmento objetivo #1: Clientas Aficionadas al Embellecimiento**
