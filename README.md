@@ -181,14 +181,14 @@ El uso exclusivo de la palabra "BLISS" en el logo sigue el principio del minimal
 ### Sentido emocional:
 "BLISS", que en inglés significa felicidad suprema o estado de éxtasis, conecta directamente con las emociones del público objetivo. El nombre evoca sensaciones de bienestar, relajación y satisfacción, que son precisamente los sentimientos que se buscan en los servicios de belleza. Al usar esta palabra como el logo, se establece una asociación inmediata con una experiencia placentera, posicionando a la marca como un facilitador de estos estados de ánimo.
 
-<img src="resources/logo.png>
+<img src="resources/logo.png">
 
 ### Icons
 Los iconos son una extensión visual integral de la identidad de la marca y alinean perfectamente con el estilo general de la empresa. En la plataforma de belleza, los iconos refuerzan la sofisticación y elegancia de la marca, integrándose armoniosamente con el resto del diseño.
 
 Los iconos son coherentes en estilo y forma a lo largo de toda la plataforma. Siguen un estilo de diseño uniforme, incluyendo el grosor de las líneas, el estilo de los bordes y la paleta de colores. Los iconos no pueden variar en estilo, asegurando una apariencia ordenada y consistente.
 
-<img src="resources/Icons-Regular.png>
+<img src="resources/Icons-Regular.png">
 
 #### 4.1.2. Web Style Guidelines
 
@@ -199,11 +199,91 @@ Para proporcionar una comprensión visual más clara de nuestra Web Style Guide,
 
 
 ### 4.2. Information Architecture
+
 #### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
 #### 4.2.3. SEO Tags and Meta Tags
+
+##### Página de Aterrizaje (Landing Page)
+Title: Bliss - Elige, Agenda y Personaliza Tu Servicio de Belleza
+Meta Description: Bliss te permite elegir, agendar y personalizar tu servicio de cuidado o belleza en un solo lugar. Descubre la manera más fácil de recibir el mejor cuidado con total comodidad.
+Meta Keywords: servicios de belleza, cuidado personal, agenda de belleza, personaliza tus servicios, Bliss
+Meta Author: NRG3
+##### Aplicación Web
+Title: Bliss - Reserva y Personaliza Servicios de Belleza Online
+Meta Description: Bliss te ofrece una plataforma para elegir, agendar y personalizar tus servicios de belleza con facilidad. Disfruta de una experiencia intuitiva y adaptada a tus necesidades.
+Meta Keywords: reserva de belleza, aplicación de belleza, servicios personalizados, Bliss
+Meta Author: NRG3
+
 #### 4.2.4. Searching Systems
+
+Estas decisiones están diseñadas para evitar que los usuarios se sientan abrumados por grandes volúmenes de información, facilitando una navegación eficiente y una búsqueda precisa. A continuación, se detallan las opciones de búsqueda y los filtros disponibles, así como la presentación de los datos después de la búsqueda.
+
+##### Opciones de Búsqueda
+##### Barra de Búsqueda
+La barra de búsqueda permite a los usuarios ingresar términos específicos para encontrar rápidamente servicios, características o productos relacionados. La búsqueda se realiza en todos los campos de datos relevantes, proporcionando resultados instantáneos.
+
+##### Categorías
+Los usuarios pueden seleccionar entre diferentes categorías, como "Hair", "Nails", "Lashes", "Brows", "Skin", "Body", y "Toes", para limitar los resultados a un grupo específico de servicios.
+
+##### Etiquetas Populares
+Las etiquetas populares, como "Agata" y "Jelly Nails", permiten a los usuarios buscar elementos relacionados con términos específicos, facilitando la localización de servicios populares o especializados.
+
+##### Filtros Disponibles
+##### Filtros por Tipo de Servicio
+
+Hair: Incluye opciones como "Dye", "Treatment", "Botox", "Curly", "Perm".
+Nails: Incluye opciones para diferentes tipos de servicios de uñas.
+Makeup: Servicios relacionados con el maquillaje.
+Filtros por Salón
+Los usuarios pueden seleccionar salones específicos, como "Vera", "SOHO", "Daniela’s Art", "Lucky", "Honey Moon", y "Magaly’s Salon", para encontrar servicios ofrecidos en lugares preferidos.
+
+##### Filtro por Precio
+
+Rango de Precio: Los usuarios pueden ajustar el rango de precio para filtrar los resultados entre 0 y 1000 unidades monetarias, ayudando a encontrar opciones dentro de su presupuesto.
+Filtro de Popularidad
+
+Popular Tags: Permite filtrar resultados por etiquetas populares, como "Agata" (9), "Jelly Nails" (15), etc., para encontrar servicios que tienen alta demanda.
+Apariencia de los Datos Después de la Búsqueda
+Listados de Resultados
+Los resultados de búsqueda se presentan en una lista ordenada con información clave, como nombre del servicio, descripción breve, y etiquetas relevantes. Se incluyen opciones para ver más detalles o realizar una acción directa, como agendar o contactar.
+
+##### Resumen y Descripción
+Cada resultado incluye un resumen y descripción que destaca la información más relevante, facilitando una rápida evaluación sin necesidad de acceder a la vista completa.
+
+##### Opciones de Ordenación y Filtros Aplicados
+Los resultados se pueden ordenar por criterios como relevancia o precio. Los filtros aplicados se muestran claramente para que los usuarios puedan ver qué opciones están activas y ajustar su búsqueda según sea necesario.
+
+##### Revisiones y Comentarios
+Se muestra un resumen de las revisiones y comentarios (si los hay), permitiendo a los usuarios evaluar la calidad y popularidad de los servicios.
+
+<img src="resources/filters.png" />
+
 #### 4.2.5. Navigation Systems
+
+La estructura de navegación y las opciones disponibles en nuestro producto digital están diseñadas para proporcionar una experiencia de usuario intuitiva y eficiente. A continuación se muestra un resumen de las secciones y elementos clave:
+
+1. Páginas Principales
+Home: Página principal del sitio web.
+About: Información sobre la empresa o producto.
+Contact: Información de contacto y formulario.
+Pricing: Información sobre precios y planes.
+Services: Detalles sobre los servicios ofrecidos.
+2. Opciones de Usuario
+Login: Acceso a cuentas de usuario.
+Sign-up: Registro de nuevos usuarios.
+Become a member: Opción para unirse como miembro.
+Login / Register: Alternativa para iniciar sesión o registrarse.
+3. Búsqueda y Navegación
+Search: Barra de búsqueda para encontrar contenido.
+Category: Filtros por categoría para organizar la información.
+Explore: Opciones para explorar diferentes secciones o servicios.
+4. Branding y Identidad
+BrandName: Logo y nombre de la marca, repetido en varias secciones para mantener la identidad visual.
+1: Referencias genéricas que podrían indicar elementos de navegación repetidos o destacadas.
+
+<img src="resources/navbar-style-1 navbar-light.png" />
+
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 
@@ -260,6 +340,9 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+
+<img src="resources/Main.png" />
+
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
