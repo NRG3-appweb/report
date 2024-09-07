@@ -305,7 +305,6 @@ Teniendo en cuenta la información anterior nos inclinamos por este tipo de orga
 
 * **Main branch:** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
 * **Hotfix branch:** En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
-* **Release branch:** Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
 * **Develop branch:** Esta rama está destinada a las constantes implementaciones en caliente de los features, 
 * **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
 
@@ -430,11 +429,11 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 1 Velocity</strong></td>
-    <td colspan="1"></td>
+    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta 25 story points</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sum of Story Points</strong></td>
-    <td colspan="1"></td>
+    <td colspan="1">La suma de story point atendidos es de 19 story point.</td>
   </tr>
 </table>
 
