@@ -147,8 +147,7 @@ Convertirnos en el referente líder en la industria de la belleza y cuidado pers
     <th colspan="2"> Gianluca Santino Pasquale Barrenechea </th>
   </tr>
   <tr>
-    <td> 
-      </td>
+    <td> <img src="resources/chapter-1/gianluca-pfp.jpg" style="width: 300px"> </td>
     <td> Me llamo Gianluca Santino Pasquale Barrenechea, con código de alumno u202112078, tengo 20 años y soy estudiante de la carrera de Ingenieria de Software. Como miembro de equipo, me centraré en el desarrollo del frontend y backend de nuestra Startup, utilizare mis habilidades en C++, C#, Python, Java y HTML para lograr esto. Mi objetivo está en tener un código limpio y eficiente. </td>
   </tr>
 <tr>
