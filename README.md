@@ -914,13 +914,13 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
 
 <table  border = "1">
 	<tbody>
-		<tr>
-			<td colspan="1">Story ID</td>
-            <td colspan="1">Título</td>
-            <td colspan="1">Descripción</td>
-            <td colspan="1">Criterios de Aceptación con Escenarios</td>
-            <td colspan="1">Epic ID</td>
-		</tr>
+	<tr>
+            <td colspan="1">Story ID</td>
+	    <td colspan="1">Título</td>
+  	    <td colspan="1">Descripción</td>
+	    <td colspan="1">Criterios de Aceptación con Escenarios</td>
+	    <td colspan="1">Epic ID</td>
+	</tr>
         <tr>
             <td colspan="1">US025</td>
             <td colspan="1">Navegacion por la landing page</td>
@@ -945,7 +945,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
             <strong>Entonces</strong> la página muestra un error de carga.
             </td>
             <td colspan="1">EP011</td>
-	    </tr>
+	</tr>
         <tr>
             <td colspan="1">US026</td>
             <td colspan="1">Visualizar alianzas</td>
@@ -970,7 +970,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
             <strong>Entonces</strong> no podra informarse bien sobre la confiabilidad del producto.
             </td>
             <td colspan="1">EP011</td>
-	    </tr>
+	</tr>
 	<tr>
             <td colspan="1">US027</td>
             <td colspan="1">Visualizar equipo de Bliss</td>
@@ -1025,6 +1025,113 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
 </table>
 
 #### 3.2.5 Technical Stories
+
+<table  border = "1">
+     <tbody>
+	<tr>
+	    <td colspan="1">Story ID</td>
+            <td colspan="1">Título</td>
+            <td colspan="1">Descripción</td>
+            <td colspan="1">Criterios de Aceptación con Escenarios</td>
+	</tr>
+        <tr>
+            <td colspan="1">TS001</td>
+            <td colspan="1">Implementación del diseño responsivo</td>
+            <td colspan="1">
+            <strong>Como</strong> desarrollador, <strong>quiero</strong> implementar un diseño responsivo en la landing page de Bliss <strong>para</strong> que se ejecute de manera correcta en dispositivos de diferentes tamaños.
+            </td>
+            <td colspan="1">
+            <strong>E01: Diseño Correcto</strong>
+            <br>
+            <strong>Dado que</strong> el visitante accede a la landing page desde cualquier dispositivo
+            <br>
+            <strong>Cuando</strong> visualiza la página
+            <br>
+            <strong>Entonces</strong> el diseño se ajusta correctamente sin desplazamiento horizontal, y las imágenes y textos se redimensionan proporcionalmente.
+            <br><br>
+            <strong>E02: Diseño Incorrecto</strong>
+            <br>
+            <strong>Dado que</strong> el visitante accede a la landing page desde cualquier dispositivo
+            <br>
+            <strong>Cuando</strong> visualiza la página
+            <br>
+            <strong>Entonces</strong> hay problemas de desplazamiento horizontal o las imágenes/textos no se redimensionan adecuadamente.
+            </td>
+	    </tr>
+        <tr>
+            <td colspan="1">TS002</td>
+            <td colspan="1">Implementación de la sección "Quiénes Somos"</td>
+            <td colspan="1">
+            <strong>Como</strong> desarrollador, <strong>quiero</strong> implementar la sección "Quiénes Somos" <strong>para</strong> mostrar al equipo de Bliss en la landing page. 
+            </td>
+            <td colspan="1">
+            <strong>E01: Sección Correcta</strong>
+            <br>
+            <strong>Dado que</strong> el visitante accede a la sección "Quiénes Somos"
+            <br>
+            <strong>Cuando</strong> revisa la página
+            <br>
+            <strong>Entonces</strong> puede ver las fotos del equipo, los nombres y cargos.
+            <br><br>
+            <strong>E02: Sección Incorrecta</strong>
+            <br>
+            <strong>Dado que</strong> el visitante accede a la sección "Quiénes Somos"
+            <br>
+            <strong>Cuando</strong> revisa la página
+            <br>
+            <strong>Entonces</strong> la sección no muestra correctamente las fotos, nombres o cargos del equipo.
+            </td>
+	    </tr>
+	<tr>
+            <td colspan="1">TS003</td>
+            <td colspan="1">Implementación de la sección de alianzas</td>
+            <td colspan="1">
+            <strong>Como</strong> desarrollador, <strong>quiero</strong> implementar la sección de alianzas en la landing page, <strong>para</strong> mostrar las colaboraciones de Bliss con Montalvo, Soho Color y Artemis.
+            </td>
+            <td colspan="1">
+            <strong>E01: Sección Correcta</strong>
+            <br>
+            <strong>Dado que</strong>el visitante accede a la sección de alianzas
+            <br>
+            <strong>Cuando</strong> revisa la página
+            <br>
+            <strong>Entonces</strong> puede ver los logotipos de Montalvo, Soho Color y Artemis con una breve descripción de cada alianza.
+            <br><br>
+            <strong>E02: Sección Incorrecta</strong>
+            <br>
+            <strong>Dado que</strong> el visitante accede a la sección de alianzas
+            <br>
+            <strong>Cuando</strong> revisa la página
+            <br>
+            <strong>Entonces</strong> los logotipos o descripciones de Montalvo, Soho Color y Artemis no se muestran correctamente.
+            </td>
+	</tr>
+	<tr>
+            <td colspan="1">TS004</td>
+            <td colspan="1">Implementación de la sección "Nuestra Visión"</td>
+            <td colspan="1">
+            <strong>Como</strong> desarrollador, <strong>quiero</strong> implementar la sección "Nuestra Visión" <strong>para</strong> mostrar la visión de Bliss en la landing page.
+            </td>
+            <td colspan="1">
+            <strong>E01: Sección Correcta</strong>
+            <br>
+            <strong>Dado que</strong> el visitante accede a la sección "Nuestra Visión"
+            <br>
+            <strong>Cuando</strong> revisa la página
+            <br>
+            <strong>Entonces</strong> puede leer un párrafo que describe claramente la visión de la empresa.
+            <br><br>
+            <strong>E02: Sección Incorrecta</strong>
+            <br>
+            <strong>Dado que</strong> el visitante está en la sección "Nuestra visión"
+            <br>
+            <strong>Cuando</strong> revisa la página
+            <br>
+            <strong>Entonces</strong> el párrafo que describe la visión de la empresa no se muestra correctamente.
+            </td>
+	</tr>
+    </tbody>
+</table>
 
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
