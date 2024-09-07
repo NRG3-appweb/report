@@ -23,26 +23,6 @@
   <h4>Septiembre del 2024</h4>
 </div>
 
-## Student Outcome
-
-<table>
-  <tr>
-    <td colspan="1"><strong>Criterio Específico</strong></td>
-    <td colspan="1"><strong>Acciones Realizadas</strong></td>
-    <td colspan="1"><strong>Conclusiones</strong></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 ## Registro de Versiones del Informe
 
 | Versión | Fecha | Autor | Descripción de modificación |
@@ -148,6 +128,34 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
 - [Anexos](#anexos)
 
 ## Student Outcome
+
+El curso contribuye al cumplimiento del Student Outcome ABET:
+
+**ABET – EAC - Student Outcome 5**
+Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.*
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Criterio Específico</strong></td>
+    <td colspan="1"><strong>Acciones Realizadas</strong></td>
+    <td colspan="1"><strong>Conclusiones</strong></td>
+  </tr>
+  <tr>
+    <td> Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+    <td> </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Capítulo I: Introducción <a id="cap1"></a>
 
