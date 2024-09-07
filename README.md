@@ -201,7 +201,28 @@ Para proporcionar una comprensión visual más clara de nuestra Web Style Guide,
 ### 4.2. Information Architecture
 
 #### 4.2.1. Organization Systems
+
+En esta sección, hemos aplicado los sistemas de organización en función de los grupos de información correspondientes. La organización visual del contenido ha sido implementada de las siguientes formas:
+
+Jerárquica (visual hierarchy): Para destacar elementos clave según su importancia, facilitando que los usuarios accedan de manera intuitiva a la información más relevante.
+
+Organización secuencial (step-by-step): Utilizada en procesos que requieren una guía paso a paso, como la reserva de servicios, garantizando un flujo lógico y fácil de seguir.
+
+Organización matricial: Implementada en áreas donde es necesario comparar o analizar datos interrelacionados, brindando al usuario una visión estructurada de las opciones disponibles.
+
+Asimismo, hemos seleccionado los esquemas de categorización del contenido según las necesidades específicas, es decir, categorías, serivicios, especialistas, tipo de servicio, locales y salones.
+
 #### 4.2.2. Labeling Systems
+Se detallan las decisiones sobre la organización visual del contenido y los esquemas de categorización, lo cual asegura que los usuarios puedan navegar fácilmente a través de la plataforma.
+
+Para la organización del contenido, se ha decidido utilizar:
+
+Jerarquía visual: Se aplica principalmente en la estructura de las páginas de servicios y productos, donde la información más importante se presenta primero. Esto facilita que el usuario identifique rápidamente los servicios más relevantes.
+Organización secuencial: Utilizada en el proceso de reserva de servicios, donde el usuario sigue un flujo paso a paso hasta completar la acción.
+
+Organización matricial: Se utiliza en las comparaciones de servicios, permitiendo que los usuarios evalúen las características de diferentes opciones de manera clara y concisa.
+
+
 #### 4.2.3. SEO Tags and Meta Tags
 
 ##### Página de Aterrizaje (Landing Page)
@@ -298,10 +319,12 @@ El mockup de la landing page representa una versión más detallada y cercana al
 ![MockUp](resources/LandingPageMockUp.png)
 
 ### 4.4. Web Applications UX/UI Design
-#### 4.4.1. Web Applications Wireframes
-#### 4.4.2. Web Applications Wireflow Diagrams
+
 #### 4.4.3. Web Applications Mock-ups
+<img src="resources/Section 80.png">
+
 #### 4.4.4. Web Applications User Flow Diagrams
+<img src="resources/Captura de pantalla 2024-09-07 184824.png">
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
