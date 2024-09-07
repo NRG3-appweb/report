@@ -407,7 +407,7 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
   </tr>
   <tr>
     <td colspan="1"><strong>Prepared by</strong></td>
-    <td colspan="1">Juan Astonitas</td>
+    <td colspan="1">Gabriel Casas</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
@@ -439,6 +439,108 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 </table>
 
 ##### 5.2.1.2. Sprint Backlog 1
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hrs)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1">US025</td>
+    <td colspan="1">Navegacion por la landing page</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Crear una página web</td>
+    <td colspan="1">Se debe crear unapágina web navegable y sin errores, sobre la cual se construirá la landing page de bliss.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Elvia Rodriguez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS001</td>
+    <td colspan="1">Implementación del diseño responsivo</td>
+    <td colspan="1">T02</td>
+    <td colspan="1">Implementación de responsive site</td>
+    <td colspan="1">Se debe programar la página webn teniendo en cuenta el diseño resposinve, para que de esta manera la página sea compatible con todos los dispositivos.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Elvia Rodriguez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US028</td>
+    <td colspan="1">Visualizar visión del equipo</td>
+    <td colspan="1">T03</td>
+    <td colspan="1">Agregar la sección de visión</td>
+    <td colspan="1">Se debe agregar una sección a la landing page en la cual se evidencie la misión, visión y valores de la empresa.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Gabriel Casas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS004</td>
+    <td colspan="1">Implementación de la sección "Nuestra Visión"</td>
+    <td colspan="1">T04</td>
+    <td colspan="1">Agregar la sección de visión</td>
+    <td colspan="1">Se debe agregar esta sección donde se mostrarán la misión, visión y valores de la empresa. Se debe tener en cuenta las nomenclaturas correctas y de la misma manera las llamadas a los estilos.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Elvia Rodriguez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US026</td>
+    <td colspan="1">Visualizar alianzas</td>
+    <td colspan="1">T05</td>
+    <td colspan="1">Agregar la sección de alianzas</td>
+    <td colspan="1">Se debe agregar una sección a la landing page en la cual se evidencie las empresas con las que ya estamos trabajando.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Gabriel Casas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS003</td>
+    <td colspan="1">Implementación de la sección de alianzas</td>
+    <td colspan="1">T06</td>
+    <td colspan="1">Agregar la sección de alianzas</td>
+    <td colspan="1">Se debe agregar esta sección donde se mostrarán las empresas con las que ya estamos trabajando. Se debe tener en cuenta las nomenclaturas correctas y de la misma manera las llamadas a los estilos.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Gabriel Casas</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US027</td>
+    <td colspan="1">Visualizar equipo de Bliss</td>
+    <td colspan="1">T07</td>
+    <td colspan="1">Agregar la sección de equipo</td>
+    <td colspan="1">Se debe de agregar una sección donde aparezca los integrantes del equipo junto a su participación en el proyecto.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Elvia Rodriguez</td>
+    <td colspan="1">To-do</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS002</td>
+    <td colspan="1">Implementación de la sección "Quiénes Somos"</td>
+    <td colspan="1">T08</td>
+    <td colspan="1">Agregar la sección sobre nosotros</td>
+    <td colspan="1">Se debe agregar una sección donde se muestren los servicios que brindamos en el producto de Bliss. Se debe tener en cuenta las nomenclaturas correctas y de la misma manera las llamadas a los estilos.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Gabriel Casas</td>
+    <td colspan="1">Done</td>
+  </tr>
+</table>
+
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
 **Tabla de commits de la landing-page**
