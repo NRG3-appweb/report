@@ -41,8 +41,14 @@
       - [2.3.1. User Personas](#231-user-personas)
       - [2.3.2. User Task Matrix](#232-user-task-matrix)
       - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+          - [Segmento #1](#segmento-1)
+          - [Segmento #2](#segmento-2)
       - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+          - [User Persona #1](#user-persona-1)
+          - [User Persona #2](#user-persona-2)
       - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+          - [User Persona #1](#user-persona-1-1)
+          - [User Persona #2](#user-persona-2-1)
     - [2.4. Ubiquitous Language](#24-ubiquitous-language)
   - [Capítulo III: Requirements Specification ](#capítulo-iii-requirements-specification-)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
@@ -308,6 +314,133 @@ Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios
 * ¿Estaría dispuesto/a a ofrecer promociones o descuentos exclusivos a través de la aplicación para atraer nuevos clientes o fidelizar a los existentes?
 * ¿Qué sugerencias o comentarios adicionales tiene para mejorar la experiencia de reserva de servicios de cuidado y belleza a través de una aplicación?
 #### 2.2.2. Registro de entrevistas
+
+<table>
+  <tr>
+    <td colspan="2">Entrevista a Cliente - 1</td>
+  </tr>
+  <tr>
+    <td>Nombre Entrevistad@</td>
+    <td>Emma Solis Espinoza</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>73 Años</td>
+  </tr>
+  <tr>
+    <td>Profesión</td>
+    <td>Ex - Asistenta Social Universitaria</td>
+  </tr>
+  <tr>
+    <td>Departamento</td>
+    <td>Lima, Perú</td>
+  </tr>
+  <tr>
+    <td>Duración de la Entrevista: 15:31 min</td>
+    <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/EYfdTsB84mtEobrppZAME08Ba9K5QzSKCXQqUzccGAj5Yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=beNxq1">enlace</a></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td colspan="2">Entrevista a Cliente - 2</td>
+  </tr>
+  <tr>
+    <td>Nombre Entrevistad@</td>
+    <td>Clara Rivas</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 Años</td>
+  </tr>
+  <tr>
+    <td>Profesión</td>
+    <td>Estudiante de ciencias ambientales</td>
+  </tr>
+  <tr>
+    <td>Departamento</td>
+    <td>Lima, Perú</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>URL:<a href="">enlace</a></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td colspan="2">Entrevista a Cliente - 3</td>
+  </tr>
+  <tr>
+    <td>Nombre Entrevistad@</td>
+    <td>Cesar Santivañez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>42 Años</td>
+  </tr>
+  <tr>
+    <td>Profesión</td>
+    <td>Gerente de Ingeniería de Procesos de Seguridad</td>
+  </tr>
+  <tr>
+    <td>Departamento</td>
+    <td>Lima, Perú</td>
+  </tr>
+  <tr>
+    <td>Duración de la Entrevista: 10:27 min</td>
+    <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/Ed_5wn0qyYhOtBjPGYesvcMBpie3AcIklWVngJTxRKtdqw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4osTj7">enlace</a></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td colspan="2">Entrevista a Emprendedor/MYPE - 1</td>
+  </tr>
+  <tr>
+    <td>Nombre Entrevistad@</td>
+    <td>Ysabel Santivañez Solis</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>41 Años</td>
+  </tr>
+  <tr>
+    <td>Profesión</td>
+    <td>Administradora / Estilista</td>
+  </tr>
+  <tr>
+    <td>Departamento</td>
+    <td>Lima, Perú</td>
+  </tr>
+  <tr>
+    <td>Duración de la Entrevista: 13:01 min</td>
+    <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/ETN6Tf9UZTtCkub6Ob1gKNMBQrxBSIRUwkHEwGE4FFWkLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ug5dXo">enlace</a></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td colspan="2">Entrevista a Emprendedor/MYPE - 2</td>
+  </tr>
+  <tr>
+    <td>Nombre Entrevistad@</td>
+    <td>Elena Hernandez</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>29 Años</td>
+  </tr>
+  <tr>
+    <td>Profesión</td>
+    <td>Pedicurista - Manicurista</td>
+  </tr>
+  <tr>
+    <td>Departamento</td>
+    <td>Piura,Perú</td>
+  </tr>
+  <tr>
+    <td>Duración de la Entrevista:</td>
+    <td>URL:<a href="">enlace</a></td>
+  </tr>
+</table>
+
 #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
