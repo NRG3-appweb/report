@@ -717,6 +717,14 @@ Para poder realizar todos los procesos realizados en este sprint relacionados co
   * Backend: Este repositorio se usará para contener el código de la parte backend del projecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+Para este sprint se dividieron las tareas en diseño e implementación de la landing page. Para el desarollo de los diseño todos los integrantes fromaron parte, sin embargo, el dearrollo e implementación de la landing page estuvo bajo responsabilidad de Gabriel Casas y Elvia Rodriguez.
+
+<img src="resources/chapter-5/landing-commits-evidence.png">
+
+* Gabriel Casas: 5 commits.
+* Elvia Rodriguez: 7 commits.
+
+<img src="resources/chapter-5/landing-gitflow-evidence.png">
 
 ## Conclusiones
 
