@@ -146,8 +146,56 @@
 ## Capítulo IV: Product Design <a id="cap4"></a>
 
 ### 4.1. Style Guidelines
+ El concepto general es crear una atmósfera de confianza y modernidad. Al reflejar las últimas tendencias en colores y al usar tipografías claras y refinadas, se apoya el objetivo de ser una plataforma moderna y exclusiva que atiende las necesidades de los usuarios que buscan servicios de belleza de alta calidad.
+
+Este enfoque visual fortalece la experiencia de usuario y fomenta una sensación de bienestar, invitando a los clientes a sentirse en armonía con la estética y el cuidado que la empresa promete.
 #### 4.1.1. General Style Guidelines
+Los colores son fundamentales para transmitir la identidad visual de la marca. En el caso de una empresa de servicios de belleza, es ideal basarse en colores de temporada, lo que mantiene la marca relevante y conectada con las últimas tendencias.
+Además, deben estar en sintonía con los valores de innovación, compromiso y bienestar.
+<img src="resources/Main Colors.png">
+<img src="resources/Secondary Colors.png">
+<img src="resources/Neutral Colors.png">
+<img src="resources/Alert Colors.png">
+
+### Typography
+ 
+La combinación de Tajawal y Montserrat ofrece una mezcla de elegancia minimalista y presencia contemporánea. Tajawal brinda un toque único que conecta con audiencias que valoran la diversidad cultural, mientras que Montserrat asegura que la marca se vea moderna y profesional.
+
+Ambas tipografías son sans-serif, lo que significa que tienen un enfoque limpio y sin adornos, ideal para entornos digitales y modernos, donde la facilidad de lectura y la atracción visual son fundamentales. Además, sus líneas geométricas y proporciones balanceadas refuerzan la identidad visual de una empresa que se especializa en servicios de belleza de alta calidad, ofreciendo una experiencia visual coherente y atractiva.
+
+<img src="resources/Typography.png">
+
+En las tipografías Tajawal y Montserrat, el espaciado entre letras y palabras debe ser lo suficientemente amplio para garantizar una buena legibilidad sin que se sienta disperso. Debido a que ambas son tipografías sans-serif, el espaciado natural es bastante limpio, pero ajustarlo ligeramente puede generar diferentes efectos:
+
+Tajawal: Un espaciado ligeramente más amplio entre letras puede acentuar la elegancia y fluidez, ideal para cuerpos de texto o descripciones de los servicios.
+Montserrat: Al ser más sólida y geométrica, un espaciado moderado en los títulos permite que las letras "respiren", lo que refuerza el carácter moderno y confiable de la marca.
+
+El espaciado en un style guideline es fundamental para crear una experiencia visual armoniosa, especialmente en una plataforma de servicios de belleza, donde la estética y la claridad son primordiales. El espaciado adecuado asegura que el contenido sea fácil de leer, que la interfaz se sienta organizada y que el diseño transmita una sensación de calma y sofisticación.
+<img src="resources/spacing.png>
+
+### Minimalismo y sofisticación:
+El uso exclusivo de la palabra "BLISS" en el logo sigue el principio del minimalismo, eliminando elementos gráficos innecesarios y permitiendo que el nombre de la marca sea el centro de atención. En la industria de la belleza, menos es más: la simplicidad comunica elegancia, profesionalismo y calidad, sin distracciones. Esto asegura que el logo no sature visualmente, sino que proyecte una imagen limpia y sofisticada, consistente con los servicios ofrecidos.
+
+### Sentido emocional:
+"BLISS", que en inglés significa felicidad suprema o estado de éxtasis, conecta directamente con las emociones del público objetivo. El nombre evoca sensaciones de bienestar, relajación y satisfacción, que son precisamente los sentimientos que se buscan en los servicios de belleza. Al usar esta palabra como el logo, se establece una asociación inmediata con una experiencia placentera, posicionando a la marca como un facilitador de estos estados de ánimo.
+
+<img src="resources/logo.png>
+
+### Icons
+Los iconos son una extensión visual integral de la identidad de la marca y alinean perfectamente con el estilo general de la empresa. En la plataforma de belleza, los iconos refuerzan la sofisticación y elegancia de la marca, integrándose armoniosamente con el resto del diseño.
+
+Los iconos son coherentes en estilo y forma a lo largo de toda la plataforma. Siguen un estilo de diseño uniforme, incluyendo el grosor de las líneas, el estilo de los bordes y la paleta de colores. Los iconos no pueden variar en estilo, asegurando una apariencia ordenada y consistente.
+
+<img src="resources/Icons-Regular.png>
+
 #### 4.1.2. Web Style Guidelines
+
+El Web Style Guide nos permitió garantizar una apariencia uniforme en toda la web. Definimos colores, tipografías y elementos de diseño para asegurar que todos los componentes mantengan una coherencia visual. Esto refuerza la identidad de la marca y facilita la navegación del usuario. El Web Style Guide refleja la personalidad y valores de la marca a través de nuestras elecciones de diseño. Utilizamos una paleta de colores y tipografías que transmiten el mensaje y la estética de la empresa, fortaleciendo su presencia visual y distinguiéndola en el mercado.
+
+Para proporcionar una comprensión visual más clara de nuestra Web Style Guide, a continuación, incluimos imágenes que ilustran los principales aspectos de las guías de estilo. Estas imágenes representan las directrices clave que hemos establecido para asegurar la consistencia y coherencia en el diseño web. Cada sección visual incluye detalles sobre la paleta de colores, las tipografías seleccionadas, y las normas de espaciado, entre otros elementos.
+
+
+
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
