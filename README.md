@@ -173,7 +173,7 @@ Montserrat: Al ser más sólida y geométrica, un espaciado moderado en los tít
 
 El espaciado en un style guideline es fundamental para crear una experiencia visual armoniosa, especialmente en una plataforma de servicios de belleza, donde la estética y la claridad son primordiales. El espaciado adecuado asegura que el contenido sea fácil de leer, que la interfaz se sienta organizada y que el diseño transmita una sensación de calma y sofisticación.
 
-<img src="resources/spacing.png>
+<img src="resources/spacing.png">
 
 ### Minimalismo y sofisticación:
 El uso exclusivo de la palabra "BLISS" en el logo sigue el principio del minimalismo, eliminando elementos gráficos innecesarios y permitiendo que el nombre de la marca sea el centro de atención. En la industria de la belleza, menos es más: la simplicidad comunica elegancia, profesionalismo y calidad, sin distracciones. Esto asegura que el logo no sature visualmente, sino que proyecte una imagen limpia y sofisticada, consistente con los servicios ofrecidos.
