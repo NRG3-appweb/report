@@ -186,7 +186,7 @@ Los iconos son una extensión visual integral de la identidad de la marca y alin
 
 Los iconos son coherentes en estilo y forma a lo largo de toda la plataforma. Siguen un estilo de diseño uniforme, incluyendo el grosor de las líneas, el estilo de los bordes y la paleta de colores. Los iconos no pueden variar en estilo, asegurando una apariencia ordenada y consistente.
 
-<img src="resources/Icons-Regular.png>
+<img src="resources/Icons-Regular.png">
 
 #### 4.1.2. Web Style Guidelines
 
