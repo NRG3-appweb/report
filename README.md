@@ -18,18 +18,9 @@
   - [Capítulo I: Introducción ](#capítulo-i-introducción-)
     - [1.1. Startup Profile](#11-startup-profile)
       - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-          - [**Misión:**](#misión)
-          - [**Visión:**](#visión)
       - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
       - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-          - [What](#what)
-          - [When](#when)
-          - [Where](#where)
-          - [Who](#who)
-          - [Why](#why)
-          - [How](#how)
-          - [How Much](#how-much)
       - [1.2.2 Lean UX Process](#122-lean-ux-process)
         - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
         - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -117,10 +108,10 @@ La competencia entre salones de belleza, especialmente los gestionados por peque
 
 Para destacar en un mercado competitivo y en crecimiento, es crucial mejorar la calidad del servicio y ofrecer experiencias personalizadas que profesionalicen la industria y fortalezcan las relaciones con los clientes.
 
-###### **Misión:**
+**Misión:**
 Brindar servicios de belleza y cuidado personal altamente personalizados, enfocados en satisfacer las necesidades y expectativas únicas de cada cliente, ofreciendo una atención cercana y de calidad.
 
-###### **Visión:**
+**Visión:**
 Convertirnos en el referente líder en la industria de la belleza y cuidado personal en Perú, conocidos por ofrecer experiencias personalizadas y contribuir al crecimiento y profesionalización del sector.
 
 
@@ -167,7 +158,7 @@ Convertirnos en el referente líder en la industria de la belleza y cuidado pers
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
 
-###### What
+**What**
 - ¿Cuál es el problema?
 
 El problema radica en la falta de personalización y profesionalización en los servicios de belleza, donde las personas tienen dificultades para reservar citas, y las Mypes enfrentan retos para atraer nuevos clientes en un mercado competitivo e informal.
@@ -176,7 +167,7 @@ El problema radica en la falta de personalización y profesionalización en los 
 
 La relación es conectar a clientes que buscan servicios de belleza convenientes y confiables con estilistas y dueños de negocios que desean expandir su clientela y visibilizar sus servicios.
 
-###### When
+**When**
 - ¿Cuándo sucede el problema?
 
 El problema surge cuando los clientes quieren reservar citas de belleza, pero no tienen tiempo para buscar proveedores o hacer reservas por teléfono.
@@ -185,7 +176,7 @@ El problema surge cuando los clientes quieren reservar citas de belleza, pero no
 
 El cliente utiliza el producto cuando desea buscar, reservar y pagar servicios de cuidado y belleza, ya sea en casa o en el establecimiento, y cuando los proveedores necesitan una plataforma para promocionar sus servicios.
 
-###### Where
+**Where**
 - ¿Dónde está el cliente cuando usa el producto?
 
 El cliente usa el producto desde cualquier lugar con acceso a Internet, como su hogar, lugar de trabajo o mientras se desplaza.
@@ -194,22 +185,22 @@ El cliente usa el producto desde cualquier lugar con acceso a Internet, como su 
 
 El problema surge cuando los clientes intentan reservar citas para servicios de belleza y encuentran dificultades para encontrar proveedores confiables o coordinar horarios adecuados.
 
-###### Who
+**Who**
 - ¿Quienes se ven involucrados en el problema?
 
 Se ven involucrados los clientes que buscan servicios de belleza y cuidado personal, así como los proveedores que los ofrecen.
 
-###### Why
+**Why**
 - ¿Cuáles son las causas del problema?
 
 La causa del problema es la falta de una plataforma centralizada que facilite la conexión conveniente entre clientes y proveedores de servicios de belleza, así como la dificultad para coordinar horarios y encontrar proveedores confiables.
 
-###### How
+**How**
 - ¿En qué condiciones los clientes usan nuestro producto?
 
 Nuestros clientes usan el producto cuando están en casa buscando servicios para ocasiones especiales, durante descansos en el trabajo navegando opciones, o en movimiento para reservar rápidamente servicios mientras están fuera de casa.
 
-###### How Much
+**How Much**
 
 - ¿Cuál es la magnitud del problema?
 
