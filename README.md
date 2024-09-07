@@ -152,6 +152,7 @@ Este enfoque visual fortalece la experiencia de usuario y fomenta una sensación
 #### 4.1.1. General Style Guidelines
 Los colores son fundamentales para transmitir la identidad visual de la marca. En el caso de una empresa de servicios de belleza, es ideal basarse en colores de temporada, lo que mantiene la marca relevante y conectada con las últimas tendencias.
 Además, deben estar en sintonía con los valores de innovación, compromiso y bienestar.
+
 <img src="resources/Main Colors.png">
 <img src="resources/Secondary Colors.png">
 <img src="resources/Neutral Colors.png">
@@ -171,6 +172,7 @@ Tajawal: Un espaciado ligeramente más amplio entre letras puede acentuar la ele
 Montserrat: Al ser más sólida y geométrica, un espaciado moderado en los títulos permite que las letras "respiren", lo que refuerza el carácter moderno y confiable de la marca.
 
 El espaciado en un style guideline es fundamental para crear una experiencia visual armoniosa, especialmente en una plataforma de servicios de belleza, donde la estética y la claridad son primordiales. El espaciado adecuado asegura que el contenido sea fácil de leer, que la interfaz se sienta organizada y que el diseño transmita una sensación de calma y sofisticación.
+
 <img src="resources/spacing.png>
 
 ### Minimalismo y sofisticación:
