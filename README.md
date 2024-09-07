@@ -678,6 +678,14 @@ No se emplearon servicios adicionales, ya que este primer sprint se centró excl
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 **Diseño**
 Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
+* Para el uso de figma, primero es necesario crear tu propia cuenta, para esto se deberá ingresar al página oficial de figma (https://www.figma.com/) y registrarse.
+* 
+<img src="resources/chapter-5/figma-acc-setup-1.png">
+<img src="resources/chapter-5/figma-acc-setup-2.png">
+
+* Una vez se tiene la cuenta, se debe crear un draft en el que se trabajan los diseños de manera colaborativa.
+<img src="resources/chapter-5/figma-draft-setup-1.png">
+
 **Despliege**
 Para poder realizar todos los procesos realizados en este sprint relacionados con la landing page, loscuales corresponden a la creción de la landing page, se necesito de crear una organización dentro de github, así como crear un repositorio el cual almacenará la landing page.
 * Para el uso de github, primero es necesario de crear tu porpia cuenta, para esto se deberá ingresar al página oficial de github (https://github.com/) y registrarse.
