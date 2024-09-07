@@ -144,11 +144,12 @@ Convertirnos en el referente líder en la industria de la belleza y cuidado pers
     <td> Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Me considero una persona bastante capaz y versátil en el ámbito académico. Creo que mi principal fortaleza es mi capacidad para dirigir y trabajar bien bajo presión. A pesar de no disfrutar los trabajos grupales, considero que siempre desempeñó un rol sobresaliente en ellos. </td>
   </tr>
 <tr>
-    <th colspan="2"> Intengrante 3 </th>
+    <th colspan="2"> Gianluca Santino Pasquale Barrenechea </th>
   </tr>
   <tr>
-    <td>Foto Intengrante 3 </td>
-    <td> desc </td>
+    <td> 
+      </td>
+    <td> Me llamo Gianluca Santino Pasquale Barrenechea, con código de alumno u202112078, tengo 20 años y soy estudiante de la carrera de Ingenieria de Software. Como miembro de equipo, me centraré en el desarrollo del frontend y backend de nuestra Startup, utilizare mis habilidades en C++, C#, Python, Java y HTML para lograr esto. Mi objetivo está en tener un código limpio y eficiente. </td>
   </tr>
 <tr>
     <th colspan="2"> Intengrante 4 </th>
