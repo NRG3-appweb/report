@@ -955,7 +955,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
             <td colspan="1">
             <strong>E01: Visualización de alianzas</strong>
             <br>
-            <strong>Dado que</strong> el usuario quiere saber las alianzas estrategicas que posee el producto
+            <strong>Dado que</strong> el visitante quiere saber las alianzas estrategicas que posee el producto
             <br>
             <strong>Cuando</strong> observe la sección de Alianzas
             <br>
@@ -963,7 +963,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
             <br><br>
             <strong>E02: Incorrecta visualización de alianzas</strong>
             <br>
-            <strong>Dado que</strong> el usuario quiere saber las alianzas estrategicas que posee elproducto
+            <strong>Dado que</strong> el visitante quiere saber las alianzas estrategicas que posee elproducto
             <br>
             <strong>Cuando</strong> observe la sección de Alianzas
             <br>
@@ -971,10 +971,61 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
             </td>
             <td colspan="1">EP011</td>
 	    </tr>
+	<tr>
+            <td colspan="1">US027</td>
+            <td colspan="1">Visualizar equipo de Bliss</td>
+            <td colspan="1">
+            <strong>Como</strong> visitante de la landing page, <strong>quiero</strong> ver la información sobre el equipo, <strong>para</strong> conocer a las personas detrás de la empresa y su experiencia. 
+            </td>
+            <td colspan="1">
+            <strong>E01: Información Correcta</strong>
+            <br>
+            <strong>Dado que</strong> el visitante está en la sección "Quiénes Somos"
+            <br>
+            <strong>Cuando</strong> revisa la información del equipo
+            <br>
+            <strong>Entonces</strong> puede ver perfiles detallados de los miembros del equipo, incluyendo sus nombres, roles y biografías.
+            <br><br>
+            <strong>E02: Información Incorrecta</strong>
+            <br>
+            <strong>Dado que</strong> que el visitante está en la sección "Quiénes Somos"
+            <br>
+            <strong>Cuando</strong>  revisa la información del equipo
+            <br>
+            <strong>Entonces</strong> la información de los perfiles está incompleta o desactualizada.
+            </td>
+            <td colspan="1">EP011</td>
+	</tr>
+	<tr>
+            <td colspan="1">US028</td>
+            <td colspan="1">Visualizar visión del equipo</td>
+            <td colspan="1">
+            <strong>Como</strong> visitante de la landing page, <strong>quiero</strong> ver la visión de la empresa <strong>para</strong> entender los objetivos y valores fundamentales de la empresa. 
+            </td>
+            <td colspan="1">
+            <strong>E01: Visión Correcta</strong>
+            <br>
+            <strong>Dado que</strong> el visitante está en la sección "Nuestra visión"
+            <br>
+            <strong>Cuando</strong> revisa la visión de la empresa
+            <br>
+            <strong>Entonces</strong> puede leer una declaración clara y bien presentada de la visión y objetivos de la empresa.
+            <br><br>
+            <strong>E02: Visión Inorrecta</strong>
+            <br>
+            <strong>Dado que</strong> el visitante está en la sección "Nuestra visión"
+            <br>
+            <strong>Cuando</strong> revisa la visión de la empresa
+            <br>
+            <strong>Entonces</strong> la declaración de la visión está desactualizada o mal redactada.
+            </td>
+            <td colspan="1">EP011</td>
+	</tr>
     </tbody>
 </table>
 
 #### 3.2.5 Technical Stories
+
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
 
