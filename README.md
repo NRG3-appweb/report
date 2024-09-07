@@ -131,9 +131,7 @@ Convertirnos en el referente líder en la industria de la belleza y cuidado pers
     <th colspan="2"> Juan Diego Astonitas </th>
   </tr>
   <tr>
-    <td> 
-  <img src="https://cdn.discordapp.com/attachments/1270161417323937843/1278753546887762020/JuanAstonitas.png?ex=66d1f38b&is=66d0a20b&hm=e9de34dad15d2cab53ab6f1aa35e74d1ddc6b056a359f9a483c8880d921af2c7&" width=300px >
-  </td>
+    <td> <img src="resources/chapter-1/JuanAstonitas-pfp.png" width=300px > </td>
     <td> Mi nombre es Juan Diego Astonitas Diaz, mi código de estudiante es u202110237 ,tengo 20 años, actualmente curso el 5to ciclo de la carrera de Ingeniería de Software, en la UPC en la sede San Miguel. Mis principales cualidades son el liderazgo y el dominio de Python. Haré todo lo que esté a mi alcance para respaldar al equipo en la finalización oportuna y efectiva de las tareas asignadas. </td>
   </tr>
   <tr>
