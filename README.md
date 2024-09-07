@@ -1136,7 +1136,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
 </table>
 
 ### 3.3. Impact Mapping
-![Impact Mapping NRG](https://github.com/user-attachments/assets/517b348f-f197-457b-b646-1d3cd3766037)
+![Impact Mapping NRG](https://github.com/user-attachments/assets/f5541286-c392-4af6-bbff-0c727d5be726)
 
 ### 3.4. Product Backlog
 <table>
