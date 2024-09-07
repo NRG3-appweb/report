@@ -50,6 +50,8 @@
 |         |       |       |                             |
 
 ## Project Report Collaboration Insights
+Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio. 
+
 
 ## Contenido
 
@@ -57,6 +59,7 @@
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
+- [Student Outcome](#student-outcome-1)
 - [Capítulo I: Introducción ](#capítulo-i-introducción-)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -143,6 +146,8 @@
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
+## Student Outcome
 
 ## Capítulo I: Introducción <a id="cap1"></a>
 
