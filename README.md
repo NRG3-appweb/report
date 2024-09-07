@@ -55,6 +55,8 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
+        - [Estrategias:](#estrategias)
+        - [Tácticas:](#tácticas)
   - [2.2. Entrevistas.](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
     - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
@@ -63,13 +65,19 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
     - [2.3.1. User Personas](#231-user-personas)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+        - [Segmento #1](#segmento-1)
+        - [Segmento #2](#segmento-2)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+        - [User Persona #1](#user-persona-1)
+        - [User Persona #2](#user-persona-2)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+        - [User Persona #1](#user-persona-1-1)
+        - [User Persona #2](#user-persona-2-1)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification ](#capítulo-iii-requirements-specification-)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-        - [User Persona #1](#user-persona-1)
-        - [User Persona #2](#user-persona-2)
+        - [User Persona #1](#user-persona-1-2)
+        - [User Persona #2](#user-persona-2-2)
   - [3.2. User Stories](#32-user-stories)
     - [3.2.1 Epics](#321-epics)
     - [3.2.2 User Stories - Clientes](#322-user-stories---clientes)
@@ -147,14 +155,14 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td> Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>
-	    Juan Astonitas</br> TB1: A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.</br>
+	    Juan Astonitas<br> TB1: A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.<br>Gabriel Casas<br>TB1: Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor produto.
     </td>
     <td></td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
-	    Juan Astonitas</br> TB1: Durante el proyecto, he contribuido a la creación de un entorno inclusivo y colaborativo, fomentando la participación de todos los miembros del equipo. He trabajado en la definición de metas claras, la planificación de tareas detalladas, y el seguimiento del cumplimiento de los objetivos, asegurando que cada miembro se sienta valorado y comprometido con los resultados.</br>
+	    Juan Astonitas<br> TB1: Durante el proyecto, he contribuido a la creación de un entorno inclusivo y colaborativo, fomentando la participación de todos los miembros del equipo. He trabajado en la definición de metas claras, la planificación de tareas detalladas, y el seguimiento del cumplimiento de los objetivos, asegurando que cada miembro se sienta valorado y comprometido con los resultados.<br>Gabriel Casas<br>TB1:Durante el proyecto fue de mi prioridad ayudar a mis compañeros en la realización de sus tareas, por este motivo he reviso todo el proyecto, corregido errores, como tmambién aportado a la creación de items externos a mis responsabilidades asignadas.
     </td>
     <td></td>
   </tr>
