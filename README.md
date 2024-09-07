@@ -672,6 +672,9 @@ En este apartado se hace presenta el despliegue de la landing page del producto 
 <img src="resources/chapter-5/landing-evidence-4.png">
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación del landing page.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 **Diseño**
 Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
