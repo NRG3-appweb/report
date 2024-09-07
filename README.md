@@ -336,7 +336,7 @@ Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios
     <td>Lima, Perú</td>
   </tr>
   <tr>
-    <td>Duración de la Entrevista: 15:31 min</td>
+    <td>Duración de la Entrevista: 15:31 min </td>
     <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/EYfdTsB84mtEobrppZAME08Ba9K5QzSKCXQqUzccGAj5Yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=beNxq1">enlace</a></td>
   </tr>
 </table>
@@ -361,8 +361,8 @@ Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios
     <td>Lima, Perú</td>
   </tr>
   <tr>
-    <td></td>
-    <td>URL:<a href="">enlace</a></td>
+    <td>Duración de entrevistas: 11:09 </td>
+    <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/EU8TdhBV29FKnpTXpAvRjmIBXUavhlU3arDi7ww46tCJWg?e=OwbF8T&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">enlace</a></td>
   </tr>
 </table>
 <table>
@@ -386,7 +386,7 @@ Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios
     <td>Lima, Perú</td>
   </tr>
   <tr>
-    <td>Duración de la Entrevista: 10:27 min</td>
+    <td>Duración de la Entrevista: 10:27 min </td>
     <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/Ed_5wn0qyYhOtBjPGYesvcMBpie3AcIklWVngJTxRKtdqw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4osTj7">enlace</a></td>
   </tr>
 </table>
@@ -411,7 +411,7 @@ Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios
     <td>Lima, Perú</td>
   </tr>
   <tr>
-    <td>Duración de la Entrevista: 13:01 min</td>
+    <td>Duración de la Entrevista: 13:01 min </td>
     <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/ETN6Tf9UZTtCkub6Ob1gKNMBQrxBSIRUwkHEwGE4FFWkLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ug5dXo">enlace</a></td>
   </tr>
 </table>
