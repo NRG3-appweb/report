@@ -44,6 +44,7 @@
     - [2.4. Ubiquitous Language](#24-ubiquitous-language)
   - [Capítulo III: Requirements Specification ](#capítulo-iii-requirements-specification-)
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [3.2. User Stories](#32-user-stories)
           - [User Persona #1](#user-persona-1)
           - [User Persona #2](#user-persona-2)
     - [3.2. User Stories](#32-user-stories)
@@ -108,16 +109,200 @@
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
+El sector de belleza y cuidado personal en Perú está experimentando un crecimiento acelerado, especialmente en los tratamientos faciales y la dermocosmética, que se han multiplicado casi ocho veces en la última década. Este crecimiento se da en respuesta a una demanda creciente de la clase media emergente, que busca servicios más personalizados y de alta calidad. En este contexto, los salones de belleza juegan un papel clave, pero muchos de ellos operan en un mercado polarizado e informal.
+
+La competencia entre salones de belleza, especialmente los gestionados por pequeñas empresas familiares, es alta, y la personalización del servicio se ha convertido en un factor diferenciador clave. La mayoría de estos establecimientos, dirigidos en un 75.6% por mujeres según datos del INEI, enfrentan el desafío de profesionalizar su atención y mejorar la experiencia del usuario. A medida que la industria sigue creciendo, se vuelve esencial elevar la calidad del servicio, mejorar la gestión de la atención al cliente y formalizar las operaciones para establecer relaciones más duraderas y significativas con los clientes.
+
+Para destacar en un mercado competitivo y en crecimiento, es crucial mejorar la calidad del servicio y ofrecer experiencias personalizadas que profesionalicen la industria y fortalezcan las relaciones con los clientes.
+
+**Misión:**
+Brindar servicios de belleza y cuidado personal altamente personalizados, enfocados en satisfacer las necesidades y expectativas únicas de cada cliente, ofreciendo una atención cercana y de calidad.
+
+**Visión:**
+Convertirnos en el referente líder en la industria de la belleza y cuidado personal en Perú, conocidos por ofrecer experiencias personalizadas y contribuir al crecimiento y profesionalización del sector.
+
+
 #### 1.1.2. Perfiles de integrantes del equipo
+
+<table>
+  <tr>
+    <th colspan="2"> Juan Diego Astonitas </th>
+  </tr>
+  <tr>
+    <td> <img src="resources/chapter-1/JuanAstonitas-pfp.png" width=300px > </td>
+    <td> Mi nombre es Juan Diego Astonitas Diaz, mi código de estudiante es u202110237 ,tengo 20 años, actualmente curso el 5to ciclo de la carrera de Ingeniería de Software, en la UPC en la sede San Miguel. Mis principales cualidades son el liderazgo y el dominio de Python. Haré todo lo que esté a mi alcance para respaldar al equipo en la finalización oportuna y efectiva de las tareas asignadas. </td>
+  </tr>
+  <tr>
+    <th colspan="2"> Casas Sanchez Gabriel Alexander </th>
+  </tr>
+  <tr>
+    <td> <img src="resources/chapter-1/alex-pfp.jpg" style="width: 300px"> </td>
+    <td> Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Me considero una persona bastante capaz y versátil en el ámbito académico. Creo que mi principal fortaleza es mi capacidad para dirigir y trabajar bien bajo presión. A pesar de no disfrutar los trabajos grupales, considero que siempre desempeñó un rol sobresaliente en ellos. </td>
+  </tr>
+<tr>
+    <th colspan="2"> Gianluca Santino Pasquale Barrenechea </th>
+  </tr>
+  <tr>
+    <td> <img src="resources/chapter-1/gianluca-pfp.jpg" style="width: 300px"> </td>
+    <td> Me llamo Gianluca Santino Pasquale Barrenechea, con código de alumno u202112078, tengo 20 años y soy estudiante de la carrera de Ingenieria de Software. Como miembro de equipo, me centraré en el desarrollo del frontend y backend de nuestra Startup, utilizare mis habilidades en C++, C#, Python, Java y HTML para lograr esto. Mi objetivo está en tener un código limpio y eficiente. </td>
+  </tr>
+<tr>
+    <th colspan="2"> Elvia Marcela Rodríguez Villa </th>
+  </tr>
+  <tr>
+    <td> <img src="resources/chapter-1/elvia-pfp.jpg" style="width: 300px"> </td>
+    <td> Soy Elvia Rodríguez, actual estudiante universitaria y egresada de Laboratoria. Soy actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU. Asimismo, soy maestra de inglés y suelo incorporar mis conocimientos de programación de interfaces de usuario en mi labor educativa. </td>
+  </tr>
+<tr>
+    <th colspan="2"> Sebastian Carbajal Santivañez </th>
+  </tr>
+  <tr>
+    <td> <img src="resources/chapter-1/sebastian-pfp.jpg" style="width: 300px"> </td>
+    <td>Mi nombre es sebastian carbajal santivañez, me encuentro cursando la carrera de ingeniería de software, me apasiona mucho el explorar nuevos horizontes y oportunidades dentro de mi rubro académico y profesional, me considero además una persona creativa con pensamiento innovador.</td>
+  </tr>
+</table>
+
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
+
+**What**
+- ¿Cuál es el problema?
+
+El problema radica en la falta de personalización y profesionalización en los servicios de belleza, donde las personas tienen dificultades para reservar citas, y las Mypes enfrentan retos para atraer nuevos clientes en un mercado competitivo e informal.
+
+- ¿Cuál es la relación con la persona en cuestión?
+
+La relación es conectar a clientes que buscan servicios de belleza convenientes y confiables con estilistas y dueños de negocios que desean expandir su clientela y visibilizar sus servicios.
+
+**When**
+- ¿Cuándo sucede el problema?
+
+El problema surge cuando los clientes quieren reservar citas de belleza, pero no tienen tiempo para buscar proveedores o hacer reservas por teléfono.
+
+- ¿Cuándo utiliza el cliente el producto?
+
+El cliente utiliza el producto cuando desea buscar, reservar y pagar servicios de cuidado y belleza, ya sea en casa o en el establecimiento, y cuando los proveedores necesitan una plataforma para promocionar sus servicios.
+
+**Where**
+- ¿Dónde está el cliente cuando usa el producto?
+
+El cliente usa el producto desde cualquier lugar con acceso a Internet, como su hogar, lugar de trabajo o mientras se desplaza.
+
+- ¿Dónde surge el problema?
+
+El problema surge cuando los clientes intentan reservar citas para servicios de belleza y encuentran dificultades para encontrar proveedores confiables o coordinar horarios adecuados.
+
+**Who**
+- ¿Quienes se ven involucrados en el problema?
+
+Se ven involucrados los clientes que buscan servicios de belleza y cuidado personal, así como los proveedores que los ofrecen.
+
+**Why**
+- ¿Cuáles son las causas del problema?
+
+La causa del problema es la falta de una plataforma centralizada que facilite la conexión conveniente entre clientes y proveedores de servicios de belleza, así como la dificultad para coordinar horarios y encontrar proveedores confiables.
+
+**How**
+- ¿En qué condiciones los clientes usan nuestro producto?
+
+Nuestros clientes usan el producto cuando están en casa buscando servicios para ocasiones especiales, durante descansos en el trabajo navegando opciones, o en movimiento para reservar rápidamente servicios mientras están fuera de casa.
+
+**How Much**
+
+- ¿Cuál es la magnitud del problema?
+
+La magnitud del problema es considerable, ya que, según la Asociación Peruana de Empresarios de la Belleza (2022), 4 de cada 10 peluquerías tuvieron que cerrar debido a la pandemia, y solo el 30% de las que permanecen siguen en la formalidad. Esto se debe a los altos costos de alquiler y materia prima, que afectan la viabilidad y profesionalización de muchos negocios en el sector.
+
 #### 1.2.2 Lean UX Process
+El lean UX process es un enfoque iterativo centrado en el usuario para el diseño de proyectos y productos. Este enfoque se base en ciclos rápidos (sprints) de investigación, diseño y pruebas para validar la propuesta o ideas planteadas por el equipo. Estas propuestas estarán siempre orientadas a satisfacer las necesidades de los usuarios. 
 ##### 1.2.2.1. Lean UX Problem Statements
+
+Nuestro servicio ofrece la capacidadad de mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal. Sin embargo, se ha observado un factor crítico que afecta la confianza del cliente al seleccionar un centro de belleza, este es la alta tasa de informalidad en la industria. Esta falta de transparencia y garantías sobre la calidad de los servicios ofrecidos crea incertidumbre y afecta negativamente la experiencia del usuario.
+
+¿Cómo podemos mejorar el proceso de selección del cliente para salones, tratamientos y servicios, asegurando un diseño que promueva la confianza y seguridad?
+
+* Se deberá proporcionar un sistema eficiente y transparente para la búsqueda y reserva de servicios, así como establecer canales de comunicación efectivos con los clientes. Nos enfrentamos a otro desafío significativo, los sistemas de gestión de citas para servicios de cuidado y belleza son ineficientes y generan desconfiaza en el usuario final. Reconocemos la importancia de garantizar una experiencia segura y sin preocupaciones para los usuarios que utilizan nuestra plataforma para reservar servicios de belleza. La altan tasa de informalidad en la industria de los centros de belleza crea desafíos adicionales para garantizar la calidad y confiabilidad de los servicios ofrecidos.
+
 ##### 1.2.2.2. Lean UX Assumptions
+
+Creo que mis clientes necesitan saber cómo y dónde acceder a servicios de manicure, pedicure y tratamientos faciales a domicilio de manera conveniente y segura.
+
+Estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad.
+
+Mis clientes son personas que buscan comodidad y confiabilidad al reservar servicios de belleza, sin comprometer la calidad y la seguridad.
+
+El valor N°1 que mi cliente quiere de mi servicio es la facilidad de reserva, la calidad de los servicios y la tranquilidad de tener profesionales confiables en su hogar.
+
+El cliente también puede adquirir beneficios adicionales como descuentos por lealtad, recomendaciones personalizadas y acceso a productos exclusivos.
+
+Voy a adquirir a la mayoría de mis clientes a través de estrategias de marketing digital, colaboraciones con empresas de belleza y programas de referidos. Haré dinero a través de anuncios por colaboraciones con marcas de belleza, comisiones por reservas y membresías premium.
+
+Mi competencia principal en el mercado serán aplicaciones similares que ofrecen servicios de belleza a domicilio, salones de belleza locales y plataformas de reserva en línea. Los venceremos debido a nuestra estrategia de enfoque en la seguridad y calidad, personalización de servicios, y programas de fidelización.
+
+Mi mayor riesgo de producto es que los clientes no confíen en la seguridad de tener desconocidos en sus hogares o que prefieran la experiencia tradicional en un salón de belleza.
+
+Resolveremos esto a través de la implementación de rigurosos procesos de verificación de profesionales, garantías de seguridad y promoción de la comodidad y conveniencia de nuestros servicios a domicilio.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
+
+**Hypothesis Statement 01:**
+
+**Creemos que** ofrecer una amplia gama de servicios de cuidado y belleza a través de nuestra aplicación **para** usuarios que buscan comodidad y conveniencia permitirá que estos puedan reservar citas fácilmente y acceder a servicios de calidad.
+
+**Sabremos que** hemos tenido éxito
+
+**Cuando** se vea un aumento significativo en la cantidad de reservas realizadas a través de nuestra aplicación, así como una mayor retención de clientes satisfechos.
+
+**Hypothesis Statement 02:**
+
+**Creemos que** implementar un sistema de verificación de estilistas calificados y negocios confiables garantizará la calidad de las citas reservadas y brindará seguridad a nuestros usuarios al reservar servicios de cuidado y belleza.
+
+**Sabremos que** hemos tenido éxito
+
+**Cuando** se reciban comentarios positivos de los usuarios acerca de la garantía y la buena calidad del servicio recibido, así como cuando veamos un mayor tráfico en la aplicación.
+
+**Hypothesis Statement 03:**
+
+**Creemos que** establecer colaboraciones estratégicas con salones de belleza, estilistas, marcas de belleza relevantes, y ofrecer programas de referidos atractivos ayudará a aumentar la visibilidad de nuestra aplicación.
+
+**Sabremos que** hemos tenido éxito
+
+**Cuando** observemos un aumento del 30% en la adquisición de clientes durante los períodos activos de nuestras colaboraciones, así como una mayor interacción de los usuarios con la aplicación a través de programas de referidos.
+
+**Hypothesis Statement 04:**
+**Creemos que** aumentaremos la confianza del usuario y fomentaremos la lealtad a nuestra marca si incorporamos funciones de calificación y reseñas para que los usuarios puedan evaluar la calidad de los servicios recibidos y compartir sus experiencias con otros usuarios.
+
+**Sabremos que** hemos tenido éxito
+
+**Cuando** observemos un aumento del 60% en la participación de los usuarios en la función de calificación y reseñas, así como un incremento en la cantidad de reseñas positivas y una mejora general en la percepción de la calidad de los servicios por parte de los usuarios.
+
 ##### 1.2.2.4. Lean UX Canvas
+
+<img src="resources/chapter-1/canvas-bliss.png">
+
 ### 1.3. Segmentos objetivo
 
+**Segmento objetivo #1: Clientas Aficionadas al Embellecimiento**
+
+Este grupo está compuesto por mujeres de entre 20 y 45 años, pertenecientes a los sectores socioeconómicos B-C, que residen en Lima. Estas clientas buscan activamente servicios de embellecimiento y cuidado personal para realzar su apariencia y bienestar. A menudo enfrentan desafíos relacionados con la accesibilidad y la calidad de los servicios de belleza disponibles en el mercado.
+
+Características clave de este segmento:
+
+- Buscan servicios de belleza y cuidado personal para mejorar su apariencia y bienestar.
+- Valoran la calidad y personalización en los servicios que reciben.
+- Residen en áreas urbanas y tienen un interés constante en mantenerse al tanto de las últimas tendencias en belleza.
+- Enfrentan dificultades para acceder a servicios de alta calidad debido a la falta de opciones confiables y convenientes.
+
+**Segmento objetivo #2: MYPES del Sector de Belleza**
+
+Este grupo está compuesto por dueños de pequeños y medianos negocios que brindan servicios de cuidado y belleza en Lima. Estos empresarios enfrentan retos significativos relacionados con la promoción de sus servicios, la captación de nuevos clientes y la competencia en un mercado en constante cambio. La realidad de este segmento se caracteriza por la necesidad de adoptar soluciones eficaces para mejorar su visibilidad y profesionalizar sus operaciones.
+
+Características clave de este segmento:
+
+- Enfrentan desafíos en la promoción de sus servicios y en la atracción de nuevos clientes.
+- Buscan herramientas y plataformas que les permitan mejorar su visibilidad y profesionalizar sus operaciones.
+- Operan en un mercado competitivo donde la diferenciación y la calidad del servicio son cruciales para su éxito.
+- Valoran soluciones que les ayuden a gestionar eficientemente su negocio y a destacar en el mercado de belleza.
 
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 
@@ -140,6 +325,9 @@
 ## Capítulo III: Requirements Specification <a id="cap3"></a>
 
 ### 3.1. To-Be Scenario Mapping
+### 3.2. User Stories
+### 3.3. Impact Mapping
+### 3.4. Product Backlog
 
 ###### User Persona #1
 ![To-be Scenario Mapping NRG #1](https://github.com/user-attachments/assets/a05d77a1-4384-4991-80db-a30c58996843)
@@ -1409,6 +1597,21 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
 ### 5.1. Software Configuration Management
+#### 5.1.1. Software Development Environment Configuration
+#### 5.1.2. Source Code Management
+#### 5.1.3. Source Code Style Guide & Conventions
+#### 5.1.4. Software Deployment Configuration
+### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
+##### 5.2.1.2. Sprint Backlog 1
+##### 5.2.1.3. Development Evidence for Sprint Review
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+##### 5.2.1.5. Execution Evidence for Sprint Review
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+=======
 
 En este ítem se definirán todas las reglas y procesos que hemos seguido en el proyecto al momento de crear y desplegar la página web de Bliss. El objetivo de estas reglas y procesos es garantizar la integridad y consistencia del software, desde el inicio hasta el despliegue y mantenimiento.
 
