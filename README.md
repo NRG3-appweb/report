@@ -50,12 +50,28 @@
   - [Capítulo IV: Product Design ](#capítulo-iv-product-design-)
     - [4.1. Style Guidelines](#41-style-guidelines)
       - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [Typography](#typography)
+    - [Minimalismo y sofisticación:](#minimalismo-y-sofisticación)
+    - [Sentido emocional:](#sentido-emocional)
+    - [Icons](#icons)
       - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
     - [4.2. Information Architecture](#42-information-architecture)
       - [4.2.1. Organization Systems](#421-organization-systems)
       - [4.2.2. Labeling Systems](#422-labeling-systems)
       - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+        - [Página de Aterrizaje (Landing Page)](#página-de-aterrizaje-landing-page)
+        - [Aplicación Web](#aplicación-web)
       - [4.2.4. Searching Systems](#424-searching-systems)
+        - [Opciones de Búsqueda](#opciones-de-búsqueda)
+        - [Barra de Búsqueda](#barra-de-búsqueda)
+        - [Categorías](#categorías)
+        - [Etiquetas Populares](#etiquetas-populares)
+        - [Filtros Disponibles](#filtros-disponibles)
+        - [Filtros por Tipo de Servicio](#filtros-por-tipo-de-servicio)
+        - [Filtro por Precio](#filtro-por-precio)
+        - [Resumen y Descripción](#resumen-y-descripción)
+        - [Opciones de Ordenación y Filtros Aplicados](#opciones-de-ordenación-y-filtros-aplicados)
+        - [Revisiones y Comentarios](#revisiones-y-comentarios)
       - [4.2.5. Navigation Systems](#425-navigation-systems)
     - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
       - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
@@ -70,6 +86,11 @@
       - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
       - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
       - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+        - [Service Management Component](#service-management-component)
+        - [User Management Component](#user-management-component)
+        - [Booking Management Component](#booking-management-component)
+        - [Notification Component](#notification-component)
+        - [Payments Component](#payments-component)
     - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
       - [4.7.1. Class Diagrams](#471-class-diagrams)
       - [4.7.2. Class Dictionary](#472-class-dictionary)
@@ -141,17 +162,158 @@
 
 ### 4.1. Style Guidelines
 Estas directrices de estilo describen los principios y prácticas que se deben seguir al diseñar la interfaz de usuario (UI) de Bliss. El objetivo de estas directrices es crear una experiencia de usuario coherente, intuitiva y atractiva que sea fácil de usar para todos los usuarios.
+ 
+El concepto general es crear una atmósfera de confianza y modernidad. Al reflejar las últimas tendencias en colores y al usar tipografías claras y refinadas, se apoya el objetivo de ser una plataforma moderna y exclusiva que atiende las necesidades de los usuarios que buscan servicios de belleza de alta calidad.
+
+Este enfoque visual fortalece la experiencia de usuario y fomenta una sensación de bienestar, invitando a los clientes a sentirse en armonía con la estética y el cuidado que la empresa promete.
 #### 4.1.1. General Style Guidelines
+Los colores son fundamentales para transmitir la identidad visual de la marca. En el caso de una empresa de servicios de belleza, es ideal basarse en colores de temporada, lo que mantiene la marca relevante y conectada con las últimas tendencias.
+Además, deben estar en sintonía con los valores de innovación, compromiso y bienestar.
+
+<img src="resources/Main Colors.png">
+<img src="resources/Secondary Colors.png">
+<img src="resources/Neutral Colors.png">
+<img src="resources/Alert Colors.png">
+
+### Typography
+ 
+La combinación de Tajawal y Montserrat ofrece una mezcla de elegancia minimalista y presencia contemporánea. Tajawal brinda un toque único que conecta con audiencias que valoran la diversidad cultural, mientras que Montserrat asegura que la marca se vea moderna y profesional.
+
+Ambas tipografías son sans-serif, lo que significa que tienen un enfoque limpio y sin adornos, ideal para entornos digitales y modernos, donde la facilidad de lectura y la atracción visual son fundamentales. Además, sus líneas geométricas y proporciones balanceadas refuerzan la identidad visual de una empresa que se especializa en servicios de belleza de alta calidad, ofreciendo una experiencia visual coherente y atractiva.
+
+<img src="resources/Typography.png">
+
+En las tipografías Tajawal y Montserrat, el espaciado entre letras y palabras debe ser lo suficientemente amplio para garantizar una buena legibilidad sin que se sienta disperso. Debido a que ambas son tipografías sans-serif, el espaciado natural es bastante limpio, pero ajustarlo ligeramente puede generar diferentes efectos:
+
+Tajawal: Un espaciado ligeramente más amplio entre letras puede acentuar la elegancia y fluidez, ideal para cuerpos de texto o descripciones de los servicios.
+Montserrat: Al ser más sólida y geométrica, un espaciado moderado en los títulos permite que las letras "respiren", lo que refuerza el carácter moderno y confiable de la marca.
+
+El espaciado en un style guideline es fundamental para crear una experiencia visual armoniosa, especialmente en una plataforma de servicios de belleza, donde la estética y la claridad son primordiales. El espaciado adecuado asegura que el contenido sea fácil de leer, que la interfaz se sienta organizada y que el diseño transmita una sensación de calma y sofisticación.
+
+<img src="resources/spacing.png">
+
+### Minimalismo y sofisticación:
+El uso exclusivo de la palabra "BLISS" en el logo sigue el principio del minimalismo, eliminando elementos gráficos innecesarios y permitiendo que el nombre de la marca sea el centro de atención. En la industria de la belleza, menos es más: la simplicidad comunica elegancia, profesionalismo y calidad, sin distracciones. Esto asegura que el logo no sature visualmente, sino que proyecte una imagen limpia y sofisticada, consistente con los servicios ofrecidos.
+
+### Sentido emocional:
+"BLISS", que en inglés significa felicidad suprema o estado de éxtasis, conecta directamente con las emociones del público objetivo. El nombre evoca sensaciones de bienestar, relajación y satisfacción, que son precisamente los sentimientos que se buscan en los servicios de belleza. Al usar esta palabra como el logo, se establece una asociación inmediata con una experiencia placentera, posicionando a la marca como un facilitador de estos estados de ánimo.
+
+<img src="resources/logo.png">
+
+### Icons
+Los iconos son una extensión visual integral de la identidad de la marca y alinean perfectamente con el estilo general de la empresa. En la plataforma de belleza, los iconos refuerzan la sofisticación y elegancia de la marca, integrándose armoniosamente con el resto del diseño.
+
+Los iconos son coherentes en estilo y forma a lo largo de toda la plataforma. Siguen un estilo de diseño uniforme, incluyendo el grosor de las líneas, el estilo de los bordes y la paleta de colores. Los iconos no pueden variar en estilo, asegurando una apariencia ordenada y consistente.
+
+<img src="resources/Icons-Regular.png">
+
 #### 4.1.2. Web Style Guidelines
+
+El Web Style Guide nos permitió garantizar una apariencia uniforme en toda la web. Definimos colores, tipografías y elementos de diseño para asegurar que todos los componentes mantengan una coherencia visual. Esto refuerza la identidad de la marca y facilita la navegación del usuario. El Web Style Guide refleja la personalidad y valores de la marca a través de nuestras elecciones de diseño. Utilizamos una paleta de colores y tipografías que transmiten el mensaje y la estética de la empresa, fortaleciendo su presencia visual y distinguiéndola en el mercado.
+
+Para proporcionar una comprensión visual más clara de nuestra Web Style Guide, a continuación, incluimos imágenes que ilustran los principales aspectos de las guías de estilo. Estas imágenes representan las directrices clave que hemos establecido para asegurar la consistencia y coherencia en el diseño web. Cada sección visual incluye detalles sobre la paleta de colores, las tipografías seleccionadas, y las normas de espaciado, entre otros elementos.
+
+
+
 ### 4.2. Information Architecture
+
 #### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
 #### 4.2.3. SEO Tags and Meta Tags
+
+##### Página de Aterrizaje (Landing Page)
+Title: Bliss - Elige, Agenda y Personaliza Tu Servicio de Belleza
+Meta Description: Bliss te permite elegir, agendar y personalizar tu servicio de cuidado o belleza en un solo lugar. Descubre la manera más fácil de recibir el mejor cuidado con total comodidad.
+Meta Keywords: servicios de belleza, cuidado personal, agenda de belleza, personaliza tus servicios, Bliss
+Meta Author: NRG3
+##### Aplicación Web
+Title: Bliss - Reserva y Personaliza Servicios de Belleza Online
+Meta Description: Bliss te ofrece una plataforma para elegir, agendar y personalizar tus servicios de belleza con facilidad. Disfruta de una experiencia intuitiva y adaptada a tus necesidades.
+Meta Keywords: reserva de belleza, aplicación de belleza, servicios personalizados, Bliss
+Meta Author: NRG3
+
 #### 4.2.4. Searching Systems
+
+Estas decisiones están diseñadas para evitar que los usuarios se sientan abrumados por grandes volúmenes de información, facilitando una navegación eficiente y una búsqueda precisa. A continuación, se detallan las opciones de búsqueda y los filtros disponibles, así como la presentación de los datos después de la búsqueda.
+
+##### Opciones de Búsqueda
+##### Barra de Búsqueda
+La barra de búsqueda permite a los usuarios ingresar términos específicos para encontrar rápidamente servicios, características o productos relacionados. La búsqueda se realiza en todos los campos de datos relevantes, proporcionando resultados instantáneos.
+
+##### Categorías
+Los usuarios pueden seleccionar entre diferentes categorías, como "Hair", "Nails", "Lashes", "Brows", "Skin", "Body", y "Toes", para limitar los resultados a un grupo específico de servicios.
+
+##### Etiquetas Populares
+Las etiquetas populares, como "Agata" y "Jelly Nails", permiten a los usuarios buscar elementos relacionados con términos específicos, facilitando la localización de servicios populares o especializados.
+
+##### Filtros Disponibles
+##### Filtros por Tipo de Servicio
+
+Hair: Incluye opciones como "Dye", "Treatment", "Botox", "Curly", "Perm".
+Nails: Incluye opciones para diferentes tipos de servicios de uñas.
+Makeup: Servicios relacionados con el maquillaje.
+Filtros por Salón
+Los usuarios pueden seleccionar salones específicos, como "Vera", "SOHO", "Daniela’s Art", "Lucky", "Honey Moon", y "Magaly’s Salon", para encontrar servicios ofrecidos en lugares preferidos.
+
+##### Filtro por Precio
+
+Rango de Precio: Los usuarios pueden ajustar el rango de precio para filtrar los resultados entre 0 y 1000 unidades monetarias, ayudando a encontrar opciones dentro de su presupuesto.
+Filtro de Popularidad
+
+Popular Tags: Permite filtrar resultados por etiquetas populares, como "Agata" (9), "Jelly Nails" (15), etc., para encontrar servicios que tienen alta demanda.
+Apariencia de los Datos Después de la Búsqueda
+Listados de Resultados
+Los resultados de búsqueda se presentan en una lista ordenada con información clave, como nombre del servicio, descripción breve, y etiquetas relevantes. Se incluyen opciones para ver más detalles o realizar una acción directa, como agendar o contactar.
+
+##### Resumen y Descripción
+Cada resultado incluye un resumen y descripción que destaca la información más relevante, facilitando una rápida evaluación sin necesidad de acceder a la vista completa.
+
+##### Opciones de Ordenación y Filtros Aplicados
+Los resultados se pueden ordenar por criterios como relevancia o precio. Los filtros aplicados se muestran claramente para que los usuarios puedan ver qué opciones están activas y ajustar su búsqueda según sea necesario.
+
+##### Revisiones y Comentarios
+Se muestra un resumen de las revisiones y comentarios (si los hay), permitiendo a los usuarios evaluar la calidad y popularidad de los servicios.
+
+<img src="resources/filters.png" />
+
 #### 4.2.5. Navigation Systems
+
+La estructura de navegación y las opciones disponibles en nuestro producto digital están diseñadas para proporcionar una experiencia de usuario intuitiva y eficiente. A continuación se muestra un resumen de las secciones y elementos clave:
+
+1. Páginas Principales
+Home: Página principal del sitio web.
+About: Información sobre la empresa o producto.
+Contact: Información de contacto y formulario.
+Pricing: Información sobre precios y planes.
+Services: Detalles sobre los servicios ofrecidos.
+2. Opciones de Usuario
+Login: Acceso a cuentas de usuario.
+Sign-up: Registro de nuevos usuarios.
+Become a member: Opción para unirse como miembro.
+Login / Register: Alternativa para iniciar sesión o registrarse.
+3. Búsqueda y Navegación
+Search: Barra de búsqueda para encontrar contenido.
+Category: Filtros por categoría para organizar la información.
+Explore: Opciones para explorar diferentes secciones o servicios.
+4. Branding y Identidad
+BrandName: Logo y nombre de la marca, repetido en varias secciones para mantener la identidad visual.
+1: Referencias genéricas que podrían indicar elementos de navegación repetidos o destacadas.
+
+<img src="resources/navbar-style-1 navbar-light.png" />
+
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+
+El wireframe de la landing page de Bliss sirve como una guía visual básica que estructura los elementos clave de la página sin enfocarse en los detalles de diseño. Este esquema inicial muestra la disposición de secciones como el encabezado con el logo y menú de navegación, una propuesta de valor clara, testimonios de usuarios, y llamadas a la acción (call to action) prominentes para motivar a los visitantes a explorar los servicios. El objetivo es asegurar que la experiencia del usuario sea intuitiva y que los elementos estén estratégicamente ubicados para facilitar la conversión de visitantes en usuarios registrados.
+
+![Wireframe](resources/LandingPageWireframe.png)
+
 #### 4.3.2. Landing Page Mock-up
+
+El mockup de la landing page representa una versión más detallada y cercana al diseño final de la página, integrando los colores, tipografías, e imágenes que reflejan la identidad visual de Bliss. Este diseño proporciona una vista realista de cómo se verá la página en su versión final, destacando la estética moderna y amigable que busca atraer y retener a los usuarios. Además, resalta la importancia de la coherencia en los elementos gráficos y la alineación con la propuesta de valor de Bliss, asegurando una presentación profesional y atractiva que comunica confianza y calidad a los visitantes.
+
+![MockUp](resources/LandingPageMockUp.png)
+
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
 #### 4.4.2. Web Applications Wireflow Diagrams
@@ -160,13 +322,49 @@ Estas directrices de estilo describen los principios y prácticas que se deben s
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
+
+En el diagrama de contexto se consideraron tres actores clave para el negocio: los visitantes, que pueden convertirse en usuarios potenciales al visitar la página de inicio; los dueños del negocio, que incluyen tanto a estilistas como a empresas con salones de belleza; y los consumidores, que utilizan el producto final.
+<img src="resources/bliss-context-diagram.png">
+
 #### 4.6.2. Software Architecture Container Diagrams
+
+En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en la cual los usuarios pueden conectarse a través de sus dispositivos móviles o navegadores a la aplicación. Esta aplicación interactúa con una API REST, la cual gestiona los cinco bounded contexts identificados. Todos estos contextos están integrados a una única base de datos.
+<img src="resources/container-diagram.png">
+
 #### 4.6.3. Software Architecture Components Diagrams
+
+Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas clave: Service Management, User Management, Booking Management, Notifications, y Payments.
+
+##### Service Management Component
+
+<img src="resources/services-component.png" />
+
+##### User Management Component
+
+<img src="resources/user-component.png" />
+
+##### Booking Management Component
+
+<img src="resources/booking-component.png" />
+
+##### Notification Component
+
+<img src="resources/notification-component.png" />
+
+##### Payments Component
+
+<img src="resources/payments-component.png" />
+
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+
+<img src="resources/Main.png" />
+
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+
+![Database](resources/BlissDatabaseDesign.png "Bliss Database")
 
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
