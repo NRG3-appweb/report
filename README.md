@@ -18,9 +18,18 @@
   - [Capítulo I: Introducción ](#capítulo-i-introducción-)
     - [1.1. Startup Profile](#11-startup-profile)
       - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+          - [**Misión:**](#misión)
+          - [**Visión:**](#visión)
       - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
       - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+          - [What](#what)
+          - [When](#when)
+          - [Where](#where)
+          - [Who](#who)
+          - [Why](#why)
+          - [How](#how)
+          - [How Much](#how-much)
       - [1.2.2 Lean UX Process](#122-lean-ux-process)
         - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
         - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -147,11 +156,11 @@ Convertirnos en el referente líder en la industria de la belleza y cuidado pers
     <td> Soy Elvia Rodríguez, actual estudiante universitaria y egresada de Laboratoria. Soy actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU. Asimismo, soy maestra de inglés y suelo incorporar mis conocimientos de programación de interfaces de usuario en mi labor educativa. </td>
   </tr>
 <tr>
-    <th colspan="2"> Intengrante 5 </th>
+    <th colspan="2"> Sebastian Carbajal Santivañez </th>
   </tr>
   <tr>
-    <td>Foto Intengrante 5 </td>
-    <td> desc </td>
+    <td> <img src="resources/chapter-1/sebastian-pfp.jpg" style="width: 300px"> </td>
+    <td>Mi nombre es sebastian carbajal santivañez, me encuentro cursando la carrera de ingeniería de software, me apasiona mucho el explorar nuevos horizontes y oportunidades dentro de mi rubro académico y profesional, me considero además una persona creativa con pensamiento innovador.</td>
   </tr>
 </table>
 
