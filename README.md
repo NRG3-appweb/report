@@ -291,6 +291,7 @@ Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios
 * ¿Te gustaría tener acceso a promociones especiales o descuentos exclusivos al reservar servicios de cuidado y belleza a través de una plataforma digital? ¿Cómo te gustaría recibir esta información?
 * ¿Qué características adicionales te gustaría ver en una plataforma digital para reservar servicios de cuidado y belleza que aún no existan en otras plataformas?
 * ¿Qué tan importante es para ti la seguridad y confianza en la plataforma digital al proporcionar información personal y financiera para reservar servicios de cuidado y belleza?
+
 **Segmento 2**
 * ¿Qué servicios de cuidado y belleza ofrece actualmente en su negocio?
 * ¿Cuáles son los servicios más solicitados por los clientes de su negocio?
