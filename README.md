@@ -149,13 +149,11 @@ Convertirnos en el referente líder en la industria de la belleza y cuidado pers
     <td> Me llamo Gianluca Santino Pasquale Barrenechea, con código de alumno u202112078, tengo 20 años y soy estudiante de la carrera de Ingenieria de Software. Como miembro de equipo, me centraré en el desarrollo del frontend y backend de nuestra Startup, utilizare mis habilidades en C++, C#, Python, Java y HTML para lograr esto. Mi objetivo está en tener un código limpio y eficiente. </td>
   </tr>
 <tr>
-    <th colspan="2"> Intengrante 4 </th>
+    <th colspan="2"> Elvia Marcela Rodríguez Villa </th>
   </tr>
   <tr>
-    <td>
-        Foto Intengrante 4
-    </td>
-    <td> desc </td>
+    <td> <img src="resources/chapter-1/elvia-pfp.jpg" style="width: 300px"> </td>
+    <td> Soy Elvia Rodríguez, actual estudiante universitaria y egresada de Laboratoria. Soy actual embajadora del programa de estudiantes de Microsoft y fui participante de diversos voluntariados y Hackathons cómo Ciencia en tu Comunidad y el Laboratorio de Emprendimientos de SENAJU. Asimismo, soy maestra de inglés y suelo incorporar mis conocimientos de programación de interfaces de usuario en mi labor educativa. </td>
   </tr>
 <tr>
     <th colspan="2"> Intengrante 5 </th>
