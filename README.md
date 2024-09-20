@@ -76,8 +76,6 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification ](#capítulo-iii-requirements-specification-)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-        - [User Persona #1](#user-persona-1-2)
-        - [User Persona #2](#user-persona-2-2)
   - [3.2. User Stories](#32-user-stories)
     - [3.2.1 Epics](#321-epics)
     - [3.2.2 User Stories - Clientes](#322-user-stories---clientes)
@@ -798,10 +796,10 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 ### 3.1. To-Be Scenario Mapping
 
-###### User Persona #1
+#### User Persona #1
 ![To-be Scenario Mapping NRG #1](https://github.com/user-attachments/assets/a05d77a1-4384-4991-80db-a30c58996843)
 
-###### User Persona #2
+#### User Persona #2
 ![To-be Scenario Mapping NRG #2](https://github.com/user-attachments/assets/c34fb5cd-5bef-4bc0-9481-5ca27f4efdf7)
 
 
