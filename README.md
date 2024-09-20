@@ -2216,6 +2216,7 @@ El mockup de la landing page representa una versión más detallada y cercana al
 
 #### 4.4.4. Web Applications User Flow Diagrams
 <img src="resources/Captura de pantalla 2024-09-07 184824.png">
+
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
