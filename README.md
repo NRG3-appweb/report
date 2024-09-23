@@ -76,6 +76,8 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification ](#capítulo-iii-requirements-specification-)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [User Persona #1](#user-persona-1-2)
+    - [User Persona #2](#user-persona-2-2)
   - [3.2. User Stories](#32-user-stories)
     - [3.2.1 Epics](#321-epics)
     - [3.2.2 User Stories - Clientes](#322-user-stories---clientes)
@@ -87,19 +89,33 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
 - [Capítulo IV: Product Design ](#capítulo-iv-product-design-)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+  - [Typography](#typography)
+  - [Minimalismo y sofisticación:](#minimalismo-y-sofisticación)
+  - [Sentido emocional:](#sentido-emocional)
+  - [Icons](#icons)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
   - [4.2. Information Architecture](#42-information-architecture)
     - [4.2.1. Organization Systems](#421-organization-systems)
     - [4.2.2. Labeling Systems](#422-labeling-systems)
     - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      - [Página de Aterrizaje (Landing Page)](#página-de-aterrizaje-landing-page)
+      - [Aplicación Web](#aplicación-web)
     - [4.2.4. Searching Systems](#424-searching-systems)
+      - [Opciones de Búsqueda](#opciones-de-búsqueda)
+      - [Barra de Búsqueda](#barra-de-búsqueda)
+      - [Categorías](#categorías)
+      - [Etiquetas Populares](#etiquetas-populares)
+      - [Filtros Disponibles](#filtros-disponibles)
+      - [Filtros por Tipo de Servicio](#filtros-por-tipo-de-servicio)
+      - [Filtro por Precio](#filtro-por-precio)
+      - [Resumen y Descripción](#resumen-y-descripción)
+      - [Opciones de Ordenación y Filtros Aplicados](#opciones-de-ordenación-y-filtros-aplicados)
+      - [Revisiones y Comentarios](#revisiones-y-comentarios)
     - [4.2.5. Navigation Systems](#425-navigation-systems)
   - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
     - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
     - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
   - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
     - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
     - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
   - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
@@ -107,6 +123,11 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
     - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
     - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+      - [Service Management Component](#service-management-component)
+      - [User Management Component](#user-management-component)
+      - [Booking Management Component](#booking-management-component)
+      - [Notification Component](#notification-component)
+      - [Payments Component](#payments-component)
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
@@ -283,11 +304,15 @@ La magnitud del problema es considerable, ya que, según la Asociación Peruana 
 El lean UX process es un enfoque iterativo centrado en el usuario para el diseño de proyectos y productos. Este enfoque se base en ciclos rápidos (sprints) de investigación, diseño y pruebas para validar la propuesta o ideas planteadas por el equipo. Estas propuestas estarán siempre orientadas a satisfacer las necesidades de los usuarios. 
 ##### 1.2.2.1. Lean UX Problem Statements
 
-Nuestro servicio ofrece la capacidadad de mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal. Sin embargo, se ha observado un factor crítico que afecta la confianza del cliente al seleccionar un centro de belleza, este es la alta tasa de informalidad en la industria. Esta falta de transparencia y garantías sobre la calidad de los servicios ofrecidos crea incertidumbre y afecta negativamente la experiencia del usuario.
+El estado actual de la industria de la belleza y el cuidado personal se ha centrado principalmente en abordar las necesidades de los clientes en cuanto a comodidad a la hora de buscar y reservar servicios. Sin embargo, el mercado enfrenta importantes puntos débiles, en particular el alto nivel de informalidad en la industria. Esto conduce a una falta de transparencia e incertidumbre sobre la calidad de los servicios, afectando la confianza y la experiencia del cliente.
 
-¿Cómo podemos mejorar el proceso de selección del cliente para salones, tratamientos y servicios, asegurando un diseño que promueva la confianza y seguridad?
+Lo que los productos y servicios existentes no logran abordar es la necesidad de un sistema confiable que garantice la seguridad, la transparencia y la credibilidad de los proveedores de servicios. Los clientes a menudo se enfrentan a ineficiencias en los sistemas de reservas y a dudas sobre la calidad y fiabilidad de los servicios, lo que deteriora aún más su confianza en estas plataformas.
 
-* Se deberá proporcionar un sistema eficiente y transparente para la búsqueda y reserva de servicios, así como establecer canales de comunicación efectivos con los clientes. Nos enfrentamos a otro desafío significativo, los sistemas de gestión de citas para servicios de cuidado y belleza son ineficientes y generan desconfiaza en el usuario final. Reconocemos la importancia de garantizar una experiencia segura y sin preocupaciones para los usuarios que utilizan nuestra plataforma para reservar servicios de belleza. La altan tasa de informalidad en la industria de los centros de belleza crea desafíos adicionales para garantizar la calidad y confiabilidad de los servicios ofrecidos.
+Nuestro producto abordará esta brecha ofreciendo una plataforma eficiente y transparente para buscar, reservar y comunicarse con proveedores de servicios de belleza. También implementaremos salvaguardas para promover la confianza, como revisiones verificadas, métricas de calidad estandarizadas y perfiles de proveedores claros.
+
+Nuestro enfoque inicial estará en los clientes que buscan servicios de belleza que prioricen la seguridad, la calidad y la facilidad de reserva en regiones con una alta prevalencia de proveedores informales.
+
+Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes, tasas de reserva más altas y una mejora notable en la satisfacción y confianza del cliente, como lo demuestran las reseñas positivas y las tasas de cancelación más bajas.
 
 ##### 1.2.2.2. Lean UX Assumptions
 
