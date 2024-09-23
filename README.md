@@ -711,11 +711,12 @@ Las entrevistas a l@s emprendedores/ras y/o MYPES demuestra que hay dificultades
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 
-**Segmento Objetivo 1:**
-![Andrea Salazar](https://github.com/user-attachments/assets/dab19bd6-e2cb-4b4d-aa3d-caa4aacbec54)
+###### **MYPES o Emprendedores**
 
-**Segmento Objetivo 2:**
-![Rosa Martínez](https://github.com/user-attachments/assets/4f8c92c7-4352-4b25-a592-ffc87203118e)
+![user-persona](resources/chapter-2/userpersona1.png)
+
+###### **Clientes de la industria de belleza y bienestar**
+![user-persona](resources/chapter-2/userpersona2.png)
 
 #### 2.3.2. User Task Matrix
 
