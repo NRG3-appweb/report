@@ -723,37 +723,35 @@ Andrea Salazar representa a las mujeres ocupadas que buscan servicios de belleza
 
 #### 2.3.2. User Task Matrix
 
-Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya presenteados que son:
+###### **MYPES o Emprendedores**
+La siguiente tabla detalla las actividades clave que Rosa Martínez, propietaria de un salón de belleza, lleva a cabo para gestionar su negocio. Estas tareas incluyen la promoción del salón, la atención a clientes y la gestión de reservas, necesarias para mantener el funcionamiento del negocio sin depender de una aplicación digital. 
 
-1. Clientas
-2. MYPES
+| **Task**                                                       | **Frecuencia** | **Importancia** |
+| -------------------------------------------------------------- | -------------- | --------------- |
+| Publicitar el salón a través de métodos tradicionales e internet| Alta           | Alta            |
+| Mantener un catálogo físico o digital de servicios actualizado  | Alta           | Alta            |
+| Gestionar reservas por teléfono o en persona                   | Media          | Media           |
+| Atender a clientes y gestionar citas                           | Alta           | Alta            |
+| Hacer cambios en los servicios a pedido de los clientes        | Media          | Media           |
+| Mantener comunicación con los clientes para fidelización       | Alta           | Alta            |
+| Gestionar inventario de productos y materiales del salón       | Media          | Media           |
+| Crear promociones y descuentos para atraer nuevos clientes     | Media          | Baja            |
+| Responder a la retroalimentación de los clientes               | Media          | Media           |
 
-**Clientas**
+###### **Clientes de la industria de belleza y bienestar**
+Esta tabla resume las principales tareas que realiza Andrea Salazar, una clienta aficionada a la belleza, al buscar y acceder a servicios de cuidado personal. Incluye desde la búsqueda de salones confiables hasta la reserva de citas y ajustes en los servicios, todas estas tareas se realizan actualmente sin la asistencia de herramientas digitales.
 
-| Task Matrix                                                               | Importancia |
-|---------------------------------------------------------------------------|-------------|
-| Requerir servicios de belleza                                             | Alta        |
-| Buscar locales de servicios de belleza cercanos                           | Alta        |
-| Seleccionar un centro de belleza                                          | Media       |
-| Pedir atención o realizar una reserva en el local de servicios de belleza | Alta        |
-| Recibir confirmación de reserva                                           | Baja        |
-| Elegir el servicio requerido                                              | Alta        |
-| En caso sea necesario pedir cambios en el servicio requerido              | Alta        |
-| Proporcionar retroalimentación sobre el servicio recibido                 | Baja        |
 
-**MYPES**
-
-| Task Matrix                                                              | Importancia |
-|--------------------------------------------------------------------------|-------------|
-| Publicitar el local de belleza en internet                               | Alta        |
-| Mantener un catálogo de servicios actualizado                            | Alta        |
-| Atencer, confirmar y gestionar reservas por distintos medios             | Media       |
-| Atender las reservas y a todos los clientes                              | Media       |
-| Realizar cambios en el servicio realizado en caso el cliente lo requiera | Media       |
-| Mantener constante comunicación con los clientes                         | Alta        |
-| Gestionar y actualizar información del centro de belleza                 | Media       |
-| Crear y administrar promociones del local                                | Baja        |
-| Recibir y responder a la retroalimentación de los clientes               | Media       |
+| **Task**                                           | **Frecuencia** | **Importancia** |
+| -------------------------------------------------- | -------------- | --------------- |
+| Requerir servicios de belleza personalizados       | Alta           | Alta            |
+| Buscar salones de belleza confiables y cercanos    | Alta           | Alta            |
+| Comparar diferentes centros de belleza             | Media          | Media           |
+| Realizar reservas para servicios de belleza        | Alta           | Alta            |
+| Confirmar disponibilidad de los servicios          | Media          | Baja            |
+| Elegir el servicio específico requerido            | Alta           | Alta            |
+| Solicitar ajustes o cambios en el servicio         | Baja           | Alta            |
+| Proporcionar retroalimentación sobre el servicio   | Baja           | Baja            |
 
 
 #### 2.3.3. User Journey Mapping
