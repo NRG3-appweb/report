@@ -712,10 +712,13 @@ Las entrevistas a l@s emprendedores/ras y/o MYPES demuestra que hay dificultades
 #### 2.3.1. User Personas
 
 ###### **MYPES o Emprendedores**
+Rosa Martínez encarna a las propietarias de pequeñas y medianas empresas en el sector de belleza, quienes enfrentan desafíos para competir en un mercado saturado. A través de las entrevistas, se destacó su necesidad de atraer más clientes y profesionalizar la gestión de su negocio. Rosa busca herramientas que le permitan mejorar la visibilidad de su salón y fidelizar a sus clientes, reflejando el perfil de las MYPES que intentan crecer en un entorno competitivo, pero carecen de los recursos tecnológicos necesarios para optimizar su operación.
 
 ![user-persona](resources/chapter-2/userpersona1.png)
 
 ###### **Clientes de la industria de belleza y bienestar**
+Andrea Salazar representa a las mujeres ocupadas que buscan servicios de belleza personalizados y de alta calidad. A partir del análisis de entrevistas, se identificaron sus principales necesidades: acceder a salones confiables que ofrezcan una atención constante y ahorrar tiempo en la búsqueda de estos servicios. Andrea refleja el perfil de clientas que valoran la estética como parte importante de su estilo de vida, pero que se frustran al no encontrar soluciones eficientes y adaptadas a sus expectativas.
+
 ![user-persona](resources/chapter-2/userpersona2.png)
 
 #### 2.3.2. User Task Matrix
