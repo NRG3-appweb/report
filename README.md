@@ -1801,6 +1801,8 @@ En esta sección se presenta el Impact Mapping para el modelo de negocio digital
 ![Impact Mapping NRG](https://github.com/user-attachments/assets/f5541286-c392-4af6-bbff-0c727d5be726)
 
 ### 3.4. Product Backlog
+En esta sección se presenta el Product Backlog, que incluye la estimación y priorización de User Stories basadas en los requisitos del modelo de negocio digital. Se utiliza la herramienta indicada para estructurar las User Stories, organizándolas de acuerdo con su valor para el negocio y su relevancia en el contexto del producto. La tabla correspondiente detalla el orden, identificación, título, descripción y puntos de historia asignados a cada User Story, asegurando que aquellas relacionadas con la seguridad y el sitio web estático se prioricen adecuadamente desde el inicio del desarrollo. Además, se incluye una captura de la herramienta UXPressia del Product Backlog. 
+
 ![Product-Backlog NRG](https://github.com/user-attachments/assets/c824fc5a-35c4-49c3-9374-cba937ea80af)
 
 <table>
