@@ -796,11 +796,16 @@ Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya pr
 
 ### 3.1. To-Be Scenario Mapping
 
-#### User Persona #1
-![To-be Scenario Mapping NRG #1](https://github.com/user-attachments/assets/a05d77a1-4384-4991-80db-a30c58996843)
+###### Clientas Aficionadas al Embellecimiento
+En esta sección se presenta el To-Be Scenario Mapping para las Clientas Aficionadas al Embellecimiento. El equipo siguió un proceso de preparación y lluvia de ideas para identificar las fases de la experiencia mejorada en la búsqueda de servicios de belleza. Al comparar con el As-Is Scenario Mapping, se resaltan los cambios potenciales que podrían optimizar sus acciones, pensamientos y emociones, ofreciendo una experiencia más satisfactoria.
 
-#### User Persona #2
-![To-be Scenario Mapping NRG #2](https://github.com/user-attachments/assets/c34fb5cd-5bef-4bc0-9481-5ca27f4efdf7)
+![to-be-scenario-mapping](resources/chapter-3/touser1.jpg)
+
+###### MYPES del Sector de Belleza
+Esta sección introduce el To-Be Scenario Mapping para las MYPES del Sector de Belleza, centrándose en la evolución de la experiencia de los propietarios de salones. A través de un proceso de revisión y comparación con el As-Is Scenario Mapping, se identifican mejoras en las fases clave de su recorrido. Esto permite vislumbrar cambios que pueden facilitar sus acciones, pensamientos y sentimientos, contribuyendo a un funcionamiento más eficiente de sus negocios.
+
+![to-be-scenario-mapping](resources/chapter-3/touser2.jpg)
+
 
 
 ### 3.2. User Stories
