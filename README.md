@@ -755,9 +755,13 @@ Esta tabla resume las principales tareas que realiza Andrea Salazar, una clienta
 
 
 #### 2.3.3. User Journey Mapping
-###### Segmento #1
+###### **Clientas Aficionadas al Embellecimiento**
+Este User Journey Map ilustra el recorrido de las Clientas Aficionadas al Embellecimiento en su búsqueda de servicios de belleza en la situación actual. Desde la identificación de sus necesidades hasta la reserva de citas en salones de belleza, este mapa destaca los pasos que siguen, sus emociones y las frustraciones que enfrentan al tratar de acceder a servicios personalizados de calidad. Al comprender este viaje, se pueden identificar áreas de mejora y oportunidades para optimizar la experiencia del usuario.
+
 ![User Journey Mapping NRG #1](https://github.com/user-attachments/assets/fba971fd-7610-485c-899a-e4ba82dc3374)
-###### Segmento #2 
+###### **MYPES del Sector de Belleza**
+El User Journey Map para las MYPES del Sector de Belleza representa el recorrido que siguen los propietarios de salones al gestionar su negocio en el contexto actual. Este mapa abarca desde la promoción de sus servicios hasta la atención al cliente y la gestión de reservas. Se enfoca en los desafíos y oportunidades que enfrentan para atraer y retener clientes, destacando sus emociones y necesidades a lo largo del proceso. Analizar este viaje permite identificar puntos críticos y áreas en las que se puede mejorar la operación y la experiencia del cliente en el sector de belleza.
+
 ![User Journey Mapping NRG #2](https://github.com/user-attachments/assets/2fd920c8-80da-4ba4-8418-05a2aaab71b7)
 
 #### 2.3.4. Empathy Mapping
