@@ -779,11 +779,16 @@ El Empathy Map para las MYPES del Sector de Belleza se elabora para profundizar 
 
 #### 2.3.5. As-is Scenario Mapping
 
-###### User Persona #1
-![As-is Scenario Mapping NRG #1](https://github.com/user-attachments/assets/d6343ffc-0c26-4943-8b55-133aa90df54a)
+###### Clientas Aficionadas al Embellecimiento
+En esta sección se presenta el As-Is Scenario Mapping para las Clientas Aficionadas al Embellecimiento. El equipo llevó a cabo un proceso de lluvia de ideas y revisión para identificar las fases de la experiencia de búsqueda de servicios de belleza, abarcando acciones, pensamientos y emociones. Este mapeo destaca áreas positivas, negativas y aquellas que requieren más investigación, sentando las bases para mejorar su experiencia.
 
-###### User Persona #2
-![As-is Scenario Mapping NRG #2](https://github.com/user-attachments/assets/98de1940-ceb7-4727-9e3f-28d0c4382109)
+![as-is-scenario-mapping](resources/chapter-2/asuser1.jpg)
+
+
+###### MYPES del Sector de Belleza
+Esta sección introduce el As-Is Scenario Mapping para las MYPES del Sector de Belleza, enfocándose en el recorrido actual de los propietarios de salones. Mediante un proceso de preparación y lluvia de ideas, se identificaron las fases clave de su experiencia, así como sus acciones, pensamientos y sentimientos. El mapeo también resalta áreas favorables y desfavorables, así como aquellas que necesitan mayor comprensión, proporcionando una visión clara de los desafíos actuales.
+
+![as-is-scenario-mapping](resources/chapter-2/asuser2.jpg)
 
 
 ### 2.4. Ubiquitous Language
