@@ -766,10 +766,14 @@ El User Journey Map para las MYPES del Sector de Belleza representa el recorrido
 
 #### 2.3.4. Empathy Mapping
 
-###### User Persona #1
+###### Clientas Aficionadas al Embellecimiento
+sta sección presenta el Empathy Map para las Clientas Aficionadas al Embellecimiento, diseñado para entender sus necesidades, emociones y preocupaciones en la búsqueda de servicios de belleza. Al centrarse en el User Persona, se han recopilado observaciones clave que permiten identificar sus Pains y Gains, fundamentales para desarrollar soluciones que optimicen su experiencia en el sector.
+
 ![Empathy Map User Persona #1](https://github.com/user-attachments/assets/632964a6-011a-4979-9164-95d1026f68b2)
 
-###### User Persona #2
+###### MYPES del Sector de Belleza
+El Empathy Map para las MYPES del Sector de Belleza se elabora para profundizar en las preocupaciones y aspiraciones de los propietarios de salones. Al colocar al User Persona en el centro, se recogen observaciones sobre sus desafíos y motivaciones, identificando Pains y Gains específicos. Este análisis ofrece una visión clara que ayudará a diseñar estrategias efectivas para mejorar la operación de sus negocios en un mercado competitivo.
+
 ![Empathy Map User Persona #2](https://github.com/user-attachments/assets/2f79ea95-bdce-460b-ba11-b7833b419b04)
 
 
