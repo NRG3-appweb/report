@@ -1796,6 +1796,8 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
 </table>
 
 ### 3.3. Impact Mapping
+En esta sección se presenta el Impact Mapping para el modelo de negocio digital, donde se identifican los Business Goals utilizando criterios SMART y se vinculan con los User Personas de Clientas Aficionadas al Embellecimiento y MYPES del Sector de Belleza. Se analiza cómo estos segmentos pueden contribuir a alcanzar los objetivos comerciales, se definen los impactos deseados, los entregables necesarios y se desarrollan User Stories que guiarán la creación de características clave del negocio digital.
+
 ![Impact Mapping NRG](https://github.com/user-attachments/assets/f5541286-c392-4af6-bbff-0c727d5be726)
 
 ### 3.4. Product Backlog
