@@ -25,9 +25,11 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                 | Descripción de modificación |
-|---------|------------|-----------------------|-----------------------------|
-| TB1     | 07/09/2024 | Todos los integrantes | Desarrollo de la TB1        |
+| Versión | Fecha      | Autor                                 | Descripción de modificación           |
+|---------|------------|---------------------------------------|---------------------------------------|
+| TB1     | 07/09/2024 | Todos los integrantes                 | Desarrollo de la TB1                  |
+| 1.2     | 24/09/2024 | Gianluca Santino Pasquale Barrenechea | Actualización de los esquemas Lean UX |
+| 1.3     | 23/09/2024 | Gabriel Alexander Casas Sanchez       | Actualización de Problem Statement    |
 
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |                URL del repositorio del reporte                |
@@ -199,7 +201,8 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td> Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>
-	    Juan Astonitas<br> TB1: A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.<br>Gabriel Casas<br>TB1: Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor produto.<br>Elvia Rodriguez<br>TB1:Durante el proyecto Bliss, mi enfoque ha sido mantener la cohesión del equipo, facilitando una comunicación fluida y asegurando que todas las voces fueran escuchadas. He trabajado mano a mano con mis compañeros para resolver conflictos y establecer un liderazgo compartido, lo que ha sido clave para el éxito del equipo. </br> Gianluca Pasquale</br>TB1: He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.
+	    Juan Astonitas<br>TB1: A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.<br>
+        Gabriel Casas<br>TB1: Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor produto.<br>Elvia Rodriguez<br>TB1:Durante el proyecto Bliss, mi enfoque ha sido mantener la cohesión del equipo, facilitando una comunicación fluida y asegurando que todas las voces fueran escuchadas. He trabajado mano a mano con mis compañeros para resolver conflictos y establecer un liderazgo compartido, lo que ha sido clave para el éxito del equipo. </br> Gianluca Pasquale</br>TB1: He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.
     </td>
     <td>
 	    TB1: 
@@ -220,19 +223,23 @@ Durante el proyecto Bliss, hemos logrado crear un entorno inclusivo y colaborati
 
 ## Capítulo I: Introducción <a id="cap1"></a>
 ### 1.1. Startup Profile
+
 #### 1.1.1. Descripción de la Startup
-El sector de belleza y cuidado personal en Perú está experimentando un crecimiento acelerado, especialmente en los tratamientos faciales y la dermocosmética, que se han multiplicado casi ocho veces en la última década. Este crecimiento se da en respuesta a una demanda creciente de la clase media emergente, que busca servicios más personalizados y de alta calidad. En este contexto, los salones de belleza juegan un papel clave, pero muchos de ellos operan en un mercado polarizado e informal.
+Bliss es una plataforma digital dedicada a optimizar la gestión de clientes para centros de belleza y cuidado personal, mejorando la experiencia del usuario al facilitar la búsqueda, selección y reserva de servicios de belleza. Nuestro enfoque está en crear un ambiente de confianza y transparencia tanto para los clientes como para los proveedores de servicios, promoviendo la formalización de pequeños emprendimientos familiares en la industria de la belleza.
+
+Misión:</br>
+Empoderar a los clientes y pequeños negocios de la industria de la belleza mediante una plataforma que simplifica la búsqueda y reserva de servicios, garantizando transparencia, calidad y eficiencia en cada interacción.
+
+Visión:</br>
+Convertirnos en la plataforma líder de servicios de belleza, reconocida por su confianza, transparencia y apoyo a los emprendimientos familiares, creando un ecosistema formal y de alta calidad para la industria del cuidado personal.
+
+Problema Identificado:</br> El sector de belleza y cuidado personal en Perú está experimentando un crecimiento acelerado, especialmente en los tratamientos faciales y la dermocosmética, que se han multiplicado casi ocho veces en la última década. Este crecimiento se da en respuesta a una demanda creciente de la clase media emergente, que busca servicios más personalizados y de alta calidad. En este contexto, los salones de belleza juegan un papel clave, pero muchos de ellos operan en un mercado polarizado e informal.
 
 La competencia entre salones de belleza, especialmente los gestionados por pequeñas empresas familiares, es alta, y la personalización del servicio se ha convertido en un factor diferenciador clave. La mayoría de estos establecimientos, dirigidos en un 75.6% por mujeres según datos del INEI, enfrentan el desafío de profesionalizar su atención y mejorar la experiencia del usuario. A medida que la industria sigue creciendo, se vuelve esencial elevar la calidad del servicio, mejorar la gestión de la atención al cliente y formalizar las operaciones para establecer relaciones más duraderas y significativas con los clientes.
 
 Para destacar en un mercado competitivo y en crecimiento, es crucial mejorar la calidad del servicio y ofrecer experiencias personalizadas que profesionalicen la industria y fortalezcan las relaciones con los clientes.
 
-**Misión:**
-Brindar servicios de belleza y cuidado personal altamente personalizados, enfocados en satisfacer las necesidades y expectativas únicas de cada cliente, ofreciendo una atención cercana y de calidad.
-
-**Visión:**
-Convertirnos en el referente líder en la industria de la belleza y cuidado personal en Perú, conocidos por ofrecer experiencias personalizadas y contribuir al crecimiento y profesionalización del sector.
-
+Solución Propuesta:</br> Bliss proporciona una plataforma que conecta a clientes con centros de belleza confiables, garantizando la transparencia y formalidad de los proveedores a través de un sistema de verificación y evaluación de calidad. Además, ofrece una interfaz intuitiva y eficiente que centraliza la comunicación y facilita la reserva directa, mejorando la confianza del usuario y optimizando los procesos de los emprendedores en la industria.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
@@ -771,21 +778,21 @@ Las entrevistas a l@s emprendedores/ras y/o MYPES demuestra que hay dificultades
 
 Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya presenteados que son:
 
-1. Clientas
-2. MYPES
+1. Cliente de servicios de belleza 
+2. Empresa 
 
-**Clientas**
+**Cliente de servicios de belleza**
 
-| Task Matrix                                                               | Importancia |
-|---------------------------------------------------------------------------|-------------|
-| Requerir servicios de belleza                                             | Alta        |
-| Buscar locales de servicios de belleza cercanos                           | Alta        |
-| Seleccionar un centro de belleza                                          | Media       |
-| Pedir atención o realizar una reserva en el local de servicios de belleza | Alta        |
-| Recibir confirmación de reserva                                           | Baja        |
-| Elegir el servicio requerido                                              | Alta        |
-| En caso sea necesario pedir cambios en el servicio requerido              | Alta        |
-| Proporcionar retroalimentación sobre el servicio recibido                 | Baja        |
+| Task Matrix                                                                                   | Importancia |
+|-----------------------------------------------------------------------------------------------|-------------|
+| Requerir servicios de belleza                                                                 | Alta        |
+| Buscar locales de servicios de belleza mediante contenido en linea y redes sociales           | Alta        |
+| Explorar los detalles de los locales y servicios mediante contenido en linea y redes sociales | Media       |
+| Contactar a la empresa mediante un mensaje en alguna red social                               | Alta        |
+| Dar información sobre las especificaciones del servicio requerido                             | Baja        |
+| Analizar la propuesta del especialista respecto a sus posibilidades y disponibilidad          | Alta        |
+| Reservar una cita                                                                             | Alta        |
+| Dejar un comentario en redes sociales respecto a su experiencia en el                         | Baja        |
 
 **MYPES**
 
