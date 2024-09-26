@@ -726,32 +726,33 @@ Andrea Salazar representa a las mujeres ocupadas que buscan servicios de belleza
 ###### **MYPES o Emprendedores**
 La siguiente tabla detalla las actividades clave que Rosa Martínez, propietaria de un salón de belleza, lleva a cabo para gestionar su negocio. Estas tareas incluyen la promoción del salón, la atención a clientes y la gestión de reservas, necesarias para mantener el funcionamiento del negocio sin depender de una aplicación digital. 
 
-| **Task**                                                       | **Frecuencia** | **Importancia** |
-| -------------------------------------------------------------- | -------------- | --------------- |
-| Publicitar el salón a través de métodos tradicionales e internet| Alta           | Alta            |
-| Mantener un catálogo físico o digital de servicios actualizado  | Alta           | Alta            |
-| Gestionar reservas por teléfono o en persona                   | Media          | Media           |
-| Atender a clientes y gestionar citas                           | Alta           | Alta            |
-| Hacer cambios en los servicios a pedido de los clientes        | Media          | Media           |
-| Mantener comunicación con los clientes para fidelización       | Alta           | Alta            |
-| Gestionar inventario de productos y materiales del salón       | Media          | Media           |
-| Crear promociones y descuentos para atraer nuevos clientes     | Media          | Baja            |
-| Responder a la retroalimentación de los clientes               | Media          | Media           |
+| **Task**                                                         | **Importancia** | Frecuencia |
+|------------------------------------------------------------------|-----------------|------------|
+| Publicitar el salón a través de métodos tradicionales e internet | High            | Many       |
+| Mantener un catálogo físico o digital de servicios actualizado   | High            | Many       |
+| Gestionar reservas por teléfono o en persona                     | Moderate        | Rare       |
+| Atender a clientes y gestionar citas                             | High            | Always     |
+| Hacer cambios en los servicios a pedido de los clientes          | Moderate        | Always     |
+| Mantener comunicación con los clientes para fidelización         | High            | Many       |
+| Gestionar inventario de productos y materiales del salón         | Moderate        | Many       |
+| Crear promociones y descuentos para atraer nuevos clientes       | Low             | Rare       |
+| Responder a la retroalimentación de los clientes                 | Moderate        | Rare       |
 
 ###### **Clientes de la industria de belleza y bienestar**
 Esta tabla resume las principales tareas que realiza Andrea Salazar, una clienta aficionada a la belleza, al buscar y acceder a servicios de cuidado personal. Incluye desde la búsqueda de salones confiables hasta la reserva de citas y ajustes en los servicios, todas estas tareas se realizan actualmente sin la asistencia de herramientas digitales.
 
-
-| **Task**                                           | **Frecuencia** | **Importancia** |
-| -------------------------------------------------- | -------------- | --------------- |
-| Requerir servicios de belleza personalizados       | Alta           | Alta            |
-| Buscar salones de belleza confiables y cercanos    | Alta           | Alta            |
-| Comparar diferentes centros de belleza             | Media          | Media           |
-| Realizar reservas para servicios de belleza        | Alta           | Alta            |
-| Confirmar disponibilidad de los servicios          | Media          | Baja            |
-| Elegir el servicio específico requerido            | Alta           | Alta            |
-| Solicitar ajustes o cambios en el servicio         | Baja           | Alta            |
-| Proporcionar retroalimentación sobre el servicio   | Baja           | Baja            |
+| Task Matrix                                                                                   | Importancia | Frecuencia |
+|-----------------------------------------------------------------------------------------------|-------------|------------|
+| Requerir servicios de belleza                                                                 | High        | Many       |
+| Buscar locales de servicios de belleza mediante contenido en linea y redes sociales           | High        | Multiple   |
+| Explorar los detalles de los locales y servicios mediante contenido en linea y redes sociales | Moderate    | Rare       |
+| Contactar a la empresa mediante un mensaje en alguna red social                               | High        | Many       |
+| Dar información sobre las especificaciones del servicio requerido                             | Moderate    | Rare       |
+| Analizar la propuesta del especialista respecto a sus posibilidades y disponibilidad          | High        | Many       |
+| Reservar una cita                                                                             | High        | Many       |
+| Asisitir a la cita                                                                            | High        | Always     |
+| Pagar después del servicio en el centro de servicio                                           | High        | Many       |
+| Dejar un comentario en redes sociales respecto a su experiencia en el centro de servicio      | Low         | Rare       |
 
 
 #### 2.3.3. User Journey Mapping
@@ -1859,7 +1860,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
     <td>TS003</td>
     <td>Implementación de la sección de alianzas</td>
     <td>Como desarrollador, quiero implementar la sección de alianzas en la landing page, para mostrar las colaboraciones de Bliss con Montalvo, Soho Color y Artemis.</td>
-    <td3></td>
+    <td></td>
   </tr>
   <tr>
     <td>7</td>
