@@ -30,7 +30,32 @@
 | TB1     | 07/09/2024 | Todos los integrantes | Desarrollo de la TB1        |
 
 ## Project Report Collaboration Insights
-Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio. 
+| URL de la organización del proyecto |                URL del repositorio del reporte                |
+|:-----------------------------------:|:-------------------------------------------------------------:|
+|   https://github.com/SI729-Bliss    | https://github.com/SI729-Bliss/OpenSource-Bliss-Documentation |
+
+### TB1 
+
+| Integrante                                 | Tareas Asignadas                                                                                                          |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Elvia Marcela Rodriguez Villa              | Elaboración de prototipado y wireframes<br/> Elaboración del capítulo 4 del reporte <br/> Implementación del landing page |
+| Gabriel Alexander Casas Sanchez            | Desarrollo de landing page <br/> Elaboración y corrección de capítulo 1, 2 y 4 del reporte                                |
+| Gianluca Santino Pasquale Barrenechea      | Elaboración de la documentación Lean UX                                                                                   |
+| Juan Diego Astonitas Díaz                  | Elaboración del capítulo 1,2 y 3<br/>Elaboración del diagrama de clases y el modelo de base de datos                      |
+| Sebastian Aaron Anibal Carbajal Santivañez | Elaboración y análisis de entrevistas                                                                                     |
+
+
+### TP (Trabajo Parcial)
+
+| Integrante                                 | Tareas Asignadas                                                       |
+|--------------------------------------------|------------------------------------------------------------------------|
+| Elvia Marcela Rodriguez Villa              | Elaboración de prototipado y wireframes<br/> Actualización del reporte |
+| Gabriel Alexander Casas Sanchez            | Desarrollo de aplicación web                                           |
+| Gianluca Santino Pasquale Barrenechea      | Actualización del reporte y elaboración del capitulo 5                 |
+| Juan Diego Astonitas Díaz                  | Desarrollo de aplicación web                                           |
+| Sebastian Aaron Anibal Carbajal Santivañez |                                                                        |
+
+### Capturas de la colaboración
 
 
 ## Contenido
@@ -1869,7 +1894,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
     <td>TS003</td>
     <td>Implementación de la sección de alianzas</td>
     <td>Como desarrollador, quiero implementar la sección de alianzas en la landing page, para mostrar las colaboraciones de Bliss con Montalvo, Soho Color y Artemis.</td>
-    <td3></td>
+    <td></td>
   </tr>
   <tr>
     <td>7</td>
