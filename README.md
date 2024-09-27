@@ -366,7 +366,7 @@ Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes,
 - Competencia: Mi principal competencia en el mercado será aplicaciones similares de servicios de belleza y salones de belleza locales.
 - Los superaremos debido a nuestro enfoque en profesionales verificados, personalización de servicios y facilidad de reserva.
 ###### Technical Assumptions (Suposiciones Técnicas)
-- Tecnología utilizada: Podemos utilizar tecnologías móviles y web actuales para construir la aplicación.
+- Tecnología utilizada: Podemos utilizar tecnologías web actuales para construir la aplicación.
 - Integraciones: La aplicación se integrará sin problemas con sistemas de pago y plataformas de marketing digital.
 - Escalabilidad: La solución podrá escalar para manejar un número creciente de usuarios y datos sin problemas de rendimiento.
 ###### Market Assumptions (Suposiciones de Mercado)
@@ -384,34 +384,136 @@ Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes,
 
 **Hypothesis Statement 01:**
 
-**Creemos que** ofrecer una amplia gama de servicios de cuidado y belleza a través de nuestra aplicación **para** usuarios que buscan comodidad y conveniencia permitirá que estos puedan reservar citas fácilmente y acceder a servicios de calidad.
-
-**Sabremos que** hemos tenido éxito
-
-**Cuando** se vea un aumento significativo en la cantidad de reservas realizadas a través de nuestra aplicación, así como una mayor retención de clientes satisfechos.
+- Creemos que el usuario es alguien que busca servicios de belleza convenientes y confiables.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre la conveniencia y confiabilidad de nuestros servicios y un aumento en el número de usuarios registrados.
 
 **Hypothesis Statement 02:**
 
-**Creemos que** implementar un sistema de verificación de estilistas calificados y negocios confiables garantizará la calidad de las citas reservadas y brindará seguridad a nuestros usuarios al reservar servicios de cuidado y belleza.
+- Creemos que nuestro producto encaja en la rutina diaria del usuario proporcionando una manera fácil de reservar servicios de belleza de forma fácil y eficiente.
 
-**Sabremos que** hemos tenido éxito
-
-**Cuando** se reciban comentarios positivos de los usuarios acerca de la garantía y la buena calidad del servicio recibido, así como cuando veamos un mayor tráfico en la aplicación.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos sobre la facilidad de uso y un aumento en la frecuencia de reservas.
 
 **Hypothesis Statement 03:**
 
-**Creemos que** establecer colaboraciones estratégicas con salones de belleza, estilistas, marcas de belleza relevantes, y ofrecer programas de referidos atractivos ayudará a aumentar la visibilidad de nuestra aplicación.
+- Creemos que nuestro producto resuelve el problema de encontrar y reservar servicios de belleza confiables de manera conveniente y segura.
 
-**Sabremos que** hemos tenido éxito
-
-**Cuando** observemos un aumento del 30% en la adquisición de clientes durante los períodos activos de nuestras colaboraciones, así como una mayor interacción de los usuarios con la aplicación a través de programas de referidos.
+- Sabremos que estamos en lo correcto cuando veamos una disminución en las quejas sobre la confiabilidad y seguridad de los servicios y un aumento en las reservas repetidas.
 
 **Hypothesis Statement 04:**
-**Creemos que** aumentaremos la confianza del usuario y fomentaremos la lealtad a nuestra marca si incorporamos funciones de calificación y reseñas para que los usuarios puedan evaluar la calidad de los servicios recibidos y compartir sus experiencias con otros usuarios.
 
-**Sabremos que** hemos tenido éxito
+- Creemos que el producto se usa cuando el usuario necesita reservar un servicio de belleza, típicamente a través de una aplicación web.
 
-**Cuando** observemos un aumento del 60% en la participación de los usuarios en la función de calificación y reseñas, así como un incremento en la cantidad de reseñas positivas y una mejora general en la percepción de la calidad de los servicios por parte de los usuarios.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en el uso de la aplicación web durante las horas pico de reserva.
+
+**Hypothesis Statement 05:**
+
+- Creemos que características importantes incluyen una interfaz fácil de usar, perfiles de profesionales verificados, detalles del servicio, reseñas de servicios y opciones de pago seguras.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre estas características y un aumento en la tasa de conversión de visitas a reservas.
+
+**Hypothesis Statement 06:**
+
+- Creemos que el producto debe tener un diseño limpio y minimalista, ser fácil de navegar y proporcionar una experiencia de reserva sin complicaciones.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre el diseño y la navegación, y un aumento en la tasa de retención de usuarios.
+
+**Hypothesis Statement 07:**
+
+- Creemos que nuestros clientes tienen la necesidad de saber cómo y dónde acceder a servicios de belleza de manera conveniente y segura.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en las búsquedas y reservas a través de nuestra plataforma.
+
+**Hypothesis Statement 08:**
+
+- Creemos que estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en la satisfacción del cliente y en las reservas a través de la aplicación.
+
+**Hypothesis Statement 09:**
+
+- Creemos que nuestros clientes iniciales son (o serán) personas que buscan comodidad y confiabilidad al reservar servicios de belleza.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en el número de usuarios registrados que buscan estos atributos.
+
+**Hypothesis Statement 10:**
+
+- Creemos que el valor número uno que un cliente quiere obtener de nuestro servicio es la conveniencia en la reserva y recepción de servicios de belleza de calidad.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre la conveniencia y un aumento en las reservas repetidas.
+
+**Hypothesis Statement 11:**
+
+- Creemos que el cliente también puede obtener estos beneficios adicionales como profesionales verificados, servicios personalizados y garantía de calidad.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre estos beneficios y un aumento en la tasa de retención de usuarios.
+
+**Hypothesis Statement 12:**
+
+- Creemos que adquiriremos la mayoría de nuestros clientes a través de marketing digital, redes sociales y asociaciones con marcas de belleza.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en el tráfico y las conversiones provenientes de estas fuentes.
+
+**Hypothesis Statement 13:**
+
+- Creemos que generaremos ingresos a través de comisiones por reservas, membresías premium y colaboraciones con marcas de belleza.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en los ingresos provenientes de estas fuentes.
+
+**Hypothesis Statement 14:**
+
+- Creemos que nuestra principal competencia en el mercado serán aplicaciones similares de servicios de belleza y salones de belleza locales.
+- Sabremos que estamos en lo correcto cuando veamos un análisis competitivo que confirme esta suposición y un aumento en nuestra cuota de mercado.
+
+**Hypothesis Statement 15:**
+
+- Creemos que superaremos a la competencia debido a nuestro enfoque en profesionales verificados, personalización de servicios y facilidad de reserva.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre estos aspectos y un aumento en la tasa de conversión de usuarios de la competencia a nuestra plataforma.
+
+**Hypothesis Statement 16:**
+
+- Creemos que podemos utilizar tecnologías móviles y web actuales para construir la aplicación.
+- Sabremos que estamos en lo correcto cuando veamos una implementación exitosa y sin problemas técnicos significativos.
+
+**Hypothesis Statement 17:**
+
+- Creemos que la aplicación se integrará sin problemas con sistemas de pago y plataformas de marketing digital.
+- Sabremos que estamos en lo correcto cuando veamos una integración exitosa y sin problemas técnicos significativos.
+
+**Hypothesis Statement 18:**
+
+- Creemos que la solución podrá escalar para manejar un número creciente de usuarios y datos sin problemas de rendimiento.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en el número de usuarios sin una disminución en el rendimiento de la aplicación.
+
+**Hypothesis Statement 19:**
+
+- Creemos que existe una gran cantidad de potenciales usuarios interesados en servicios de belleza y cuidado personal.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en el número de usuarios registrados y en las reservas.
+
+**Hypothesis Statement 20:**
+
+- Creemos que las aplicaciones similares y redes sociales son los principales competidores.
+- Sabremos que estamos en lo correcto cuando veamos un análisis competitivo que confirme esta suposición y un aumento en nuestra cuota de mercado.
+
+**Hypothesis Statement 21:**
+
+- Creemos que el mercado de servicios de belleza y cuidado está creciendo en la región, sin embargo, esta no parece crecer dentro de los parámetros de formalidad.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en la demanda de servicios formales y un crecimiento en nuestra base de usuarios.
+
+**Hypothesis Statement 22:**
+
+- Creemos que los usuarios encontrarán más fácil navegar por la aplicación si implementamos filtros por categoría y tipo de servicio.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre la navegación y un aumento en la tasa de conversión.
+
+**Hypothesis Statement 23:**
+
+- Creemos que los usuarios valorarán una experiencia de reserva intuitiva y sin complicaciones.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre la experiencia de reserva y un aumento en la tasa de retención de usuarios.
+
+**Hypothesis Statement 24:**
+
+- Creemos que los usuarios prefieren una paleta de colores suaves y una tipografía legible.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre el diseño visual y un aumento en la tasa de retención de usuarios.
+
+**Hypothesis Statement 25:**
+
+- Creemos que los usuarios consideran atractivo un diseño limpio y minimalista.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre el diseño visual y un aumento en la tasa de retención de usuarios.
+
+**Hypothesis Statement 26:**
+
+- Creemos que necesitamos validar la facilidad de uso y la efectividad del diseño a través de pruebas de usabilidad.
+- Sabremos que estamos en lo correcto cuando veamos resultados positivos en las pruebas de usabilidad y un aumento en la tasa de conversión.
 
 ##### 1.2.2.4. Lean UX Canvas
 
