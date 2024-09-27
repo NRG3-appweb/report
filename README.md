@@ -25,11 +25,14 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                 | Descripción de modificación           |
-|---------|------------|---------------------------------------|---------------------------------------|
-| TB1     | 07/09/2024 | Todos los integrantes                 | Desarrollo de la TB1                  |
-| 1.2     | 24/09/2024 | Gianluca Santino Pasquale Barrenechea | Actualización de los esquemas Lean UX |
-| 1.3     | 23/09/2024 | Gabriel Alexander Casas Sanchez       | Actualización de Problem Statement    |
+| Versión | Fecha      | Autor                                                            | Descripción de modificación          |
+|---------|------------|------------------------------------------------------------------|--------------------------------------|
+| 0.1     | 28/08/2024 | Juan Astonitas                                                   | Desarollo Capitulo 1 y seccion 2.1   |
+| 0.2     | 29/08/2024 | Gialuca Pasquale                                                 | Desarollo Cuadros del capitulo 2 y 3 |
+| 0.3     | 29/08/2024 | Elvia Rodrigrez, Gabriel Casas , Juan Astonitas                  | Desarollo Capitulo 4                 |
+| 1       | 07/09/2024 | Todos los integrantes                                            | Entregas TB1                         |
+| 1.1     | 27/09/2024 | Elvia Elvia, Gialuca Pasquale                                    | Correciones TB1                      |
+| 2       | 27/09/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas | Entrega TP                           |
 
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |                URL del repositorio del reporte                |
