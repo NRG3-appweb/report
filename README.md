@@ -128,6 +128,15 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -1844,7 +1853,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
     <td>TS003</td>
     <td>Implementación de la sección de alianzas</td>
     <td>Como desarrollador, quiero implementar la sección de alianzas en la landing page, para mostrar las colaboraciones de Bliss con Montalvo, Soho Color y Artemis.</td>
-    <td3></td>
+    <td></td>
   </tr>
   <tr>
     <td>7</td>
@@ -3135,6 +3144,18 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
 * Elvia Rodriguez: 7 commits.
 
 <img src="resources/chapter-5/landing-gitflow-evidence.png">
+
+#### 5.2.2. Sprint 2
+##### 5.2.2.1. Sprint Planning 2
+##### 5.2.2.2. Sprint Backlog 2
+##### 5.2.2.3. Development Evidence for Sprint Review.
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+##### 5.2.2.5. Execution Evidence for Sprint Review.
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+##### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+
 
 ## Conclusiones
 
