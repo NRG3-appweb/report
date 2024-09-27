@@ -25,12 +25,39 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                 | Descripción de modificación |
-|---------|------------|-----------------------|-----------------------------|
-| TB1     | 07/09/2024 | Todos los integrantes | Desarrollo de la TB1        |
+| Versión | Fecha      | Autor                                 | Descripción de modificación           |
+|---------|------------|---------------------------------------|---------------------------------------|
+| TB1     | 07/09/2024 | Todos los integrantes                 | Desarrollo de la TB1                  |
+| 1.2     | 24/09/2024 | Gianluca Santino Pasquale Barrenechea | Actualización de los esquemas Lean UX |
+| 1.3     | 23/09/2024 | Gabriel Alexander Casas Sanchez       | Actualización de Problem Statement    |
 
 ## Project Report Collaboration Insights
-Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio. 
+| URL de la organización del proyecto |                URL del repositorio del reporte                |
+|:-----------------------------------:|:-------------------------------------------------------------:|
+|   https://github.com/SI729-Bliss    | https://github.com/SI729-Bliss/OpenSource-Bliss-Documentation |
+
+### TB1 
+
+| Integrante                                 | Tareas Asignadas                                                                                                          |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Elvia Marcela Rodriguez Villa              | Elaboración de prototipado y wireframes<br/> Elaboración del capítulo 4 del reporte <br/> Implementación del landing page |
+| Gabriel Alexander Casas Sanchez            | Desarrollo de landing page <br/> Elaboración y corrección de capítulo 1, 2 y 4 del reporte                                |
+| Gianluca Santino Pasquale Barrenechea      | Elaboración de la documentación Lean UX                                                                                   |
+| Juan Diego Astonitas Díaz                  | Elaboración del capítulo 1,2 y 3<br/>Elaboración del diagrama de clases y el modelo de base de datos                      |
+| Sebastian Aaron Anibal Carbajal Santivañez | Elaboración y análisis de entrevistas                                                                                     |
+
+
+### TP (Trabajo Parcial)
+
+| Integrante                                 | Tareas Asignadas                                                       |
+|--------------------------------------------|------------------------------------------------------------------------|
+| Elvia Marcela Rodriguez Villa              | Elaboración de prototipado y wireframes<br/> Actualización del reporte |
+| Gabriel Alexander Casas Sanchez            | Desarrollo de aplicación web                                           |
+| Gianluca Santino Pasquale Barrenechea      | Actualización del reporte y elaboración del capitulo 5                 |
+| Juan Diego Astonitas Díaz                  | Desarrollo de aplicación web                                           |
+| Sebastian Aaron Anibal Carbajal Santivañez |                                                                        |
+
+### Capturas de la colaboración
 
 
 ## Contenido
@@ -76,6 +103,8 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification ](#capítulo-iii-requirements-specification-)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [User Persona #1](#user-persona-1-2)
+    - [User Persona #2](#user-persona-2-2)
   - [3.2. User Stories](#32-user-stories)
     - [3.2.1 Epics](#321-epics)
     - [3.2.2 User Stories - Clientes](#322-user-stories---clientes)
@@ -87,19 +116,33 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
 - [Capítulo IV: Product Design ](#capítulo-iv-product-design-)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+  - [Typography](#typography)
+  - [Minimalismo y sofisticación:](#minimalismo-y-sofisticación)
+  - [Sentido emocional:](#sentido-emocional)
+  - [Icons](#icons)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
   - [4.2. Information Architecture](#42-information-architecture)
     - [4.2.1. Organization Systems](#421-organization-systems)
     - [4.2.2. Labeling Systems](#422-labeling-systems)
     - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      - [Página de Aterrizaje (Landing Page)](#página-de-aterrizaje-landing-page)
+      - [Aplicación Web](#aplicación-web)
     - [4.2.4. Searching Systems](#424-searching-systems)
+      - [Opciones de Búsqueda](#opciones-de-búsqueda)
+      - [Barra de Búsqueda](#barra-de-búsqueda)
+      - [Categorías](#categorías)
+      - [Etiquetas Populares](#etiquetas-populares)
+      - [Filtros Disponibles](#filtros-disponibles)
+      - [Filtros por Tipo de Servicio](#filtros-por-tipo-de-servicio)
+      - [Filtro por Precio](#filtro-por-precio)
+      - [Resumen y Descripción](#resumen-y-descripción)
+      - [Opciones de Ordenación y Filtros Aplicados](#opciones-de-ordenación-y-filtros-aplicados)
+      - [Revisiones y Comentarios](#revisiones-y-comentarios)
     - [4.2.5. Navigation Systems](#425-navigation-systems)
   - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
     - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
     - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
   - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
     - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
     - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
   - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
@@ -107,6 +150,11 @@ Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuale
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
     - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
     - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+      - [Service Management Component](#service-management-component)
+      - [User Management Component](#user-management-component)
+      - [Booking Management Component](#booking-management-component)
+      - [Notification Component](#notification-component)
+      - [Payments Component](#payments-component)
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
@@ -153,7 +201,8 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td> Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>
-	    Juan Astonitas<br> TB1: A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.<br>Gabriel Casas<br>TB1: Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor produto.<br>Elvia Rodriguez<br>TB1:Durante el proyecto Bliss, mi enfoque ha sido mantener la cohesión del equipo, facilitando una comunicación fluida y asegurando que todas las voces fueran escuchadas. He trabajado mano a mano con mis compañeros para resolver conflictos y establecer un liderazgo compartido, lo que ha sido clave para el éxito del equipo. </br> Gianluca Pasquale</br>TB1: He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.
+	    Juan Astonitas<br>TB1: A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.<br>
+        Gabriel Casas<br>TB1: Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor produto.<br>Elvia Rodriguez<br>TB1:Durante el proyecto Bliss, mi enfoque ha sido mantener la cohesión del equipo, facilitando una comunicación fluida y asegurando que todas las voces fueran escuchadas. He trabajado mano a mano con mis compañeros para resolver conflictos y establecer un liderazgo compartido, lo que ha sido clave para el éxito del equipo. </br> Gianluca Pasquale</br>TB1: He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.
     </td>
     <td>
 	    TB1: 
@@ -174,19 +223,23 @@ Durante el proyecto Bliss, hemos logrado crear un entorno inclusivo y colaborati
 
 ## Capítulo I: Introducción <a id="cap1"></a>
 ### 1.1. Startup Profile
+
 #### 1.1.1. Descripción de la Startup
-El sector de belleza y cuidado personal en Perú está experimentando un crecimiento acelerado, especialmente en los tratamientos faciales y la dermocosmética, que se han multiplicado casi ocho veces en la última década. Este crecimiento se da en respuesta a una demanda creciente de la clase media emergente, que busca servicios más personalizados y de alta calidad. En este contexto, los salones de belleza juegan un papel clave, pero muchos de ellos operan en un mercado polarizado e informal.
+Bliss es una plataforma digital dedicada a optimizar la gestión de clientes para centros de belleza y cuidado personal, mejorando la experiencia del usuario al facilitar la búsqueda, selección y reserva de servicios de belleza. Nuestro enfoque está en crear un ambiente de confianza y transparencia tanto para los clientes como para los proveedores de servicios, promoviendo la formalización de pequeños emprendimientos familiares en la industria de la belleza.
+
+Misión:</br>
+Empoderar a los clientes y pequeños negocios de la industria de la belleza mediante una plataforma que simplifica la búsqueda y reserva de servicios, garantizando transparencia, calidad y eficiencia en cada interacción.
+
+Visión:</br>
+Convertirnos en la plataforma líder de servicios de belleza, reconocida por su confianza, transparencia y apoyo a los emprendimientos familiares, creando un ecosistema formal y de alta calidad para la industria del cuidado personal.
+
+Problema Identificado:</br> El sector de belleza y cuidado personal en Perú está experimentando un crecimiento acelerado, especialmente en los tratamientos faciales y la dermocosmética, que se han multiplicado casi ocho veces en la última década. Este crecimiento se da en respuesta a una demanda creciente de la clase media emergente, que busca servicios más personalizados y de alta calidad. En este contexto, los salones de belleza juegan un papel clave, pero muchos de ellos operan en un mercado polarizado e informal.
 
 La competencia entre salones de belleza, especialmente los gestionados por pequeñas empresas familiares, es alta, y la personalización del servicio se ha convertido en un factor diferenciador clave. La mayoría de estos establecimientos, dirigidos en un 75.6% por mujeres según datos del INEI, enfrentan el desafío de profesionalizar su atención y mejorar la experiencia del usuario. A medida que la industria sigue creciendo, se vuelve esencial elevar la calidad del servicio, mejorar la gestión de la atención al cliente y formalizar las operaciones para establecer relaciones más duraderas y significativas con los clientes.
 
 Para destacar en un mercado competitivo y en crecimiento, es crucial mejorar la calidad del servicio y ofrecer experiencias personalizadas que profesionalicen la industria y fortalezcan las relaciones con los clientes.
 
-**Misión:**
-Brindar servicios de belleza y cuidado personal altamente personalizados, enfocados en satisfacer las necesidades y expectativas únicas de cada cliente, ofreciendo una atención cercana y de calidad.
-
-**Visión:**
-Convertirnos en el referente líder en la industria de la belleza y cuidado personal en Perú, conocidos por ofrecer experiencias personalizadas y contribuir al crecimiento y profesionalización del sector.
-
+Solución Propuesta:</br> Bliss proporciona una plataforma que conecta a clientes con centros de belleza confiables, garantizando la transparencia y formalidad de los proveedores a través de un sistema de verificación y evaluación de calidad. Además, ofrece una interfaz intuitiva y eficiente que centraliza la comunicación y facilita la reserva directa, mejorando la confianza del usuario y optimizando los procesos de los emprendedores en la industria.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
@@ -283,64 +336,184 @@ La magnitud del problema es considerable, ya que, según la Asociación Peruana 
 El lean UX process es un enfoque iterativo centrado en el usuario para el diseño de proyectos y productos. Este enfoque se base en ciclos rápidos (sprints) de investigación, diseño y pruebas para validar la propuesta o ideas planteadas por el equipo. Estas propuestas estarán siempre orientadas a satisfacer las necesidades de los usuarios. 
 ##### 1.2.2.1. Lean UX Problem Statements
 
-Nuestro servicio ofrece la capacidadad de mejorar la gestión de clientes mediante una plataforma que facilite a los clientes la búsqueda y reserva de servicios de belleza y cuidado personal. Sin embargo, se ha observado un factor crítico que afecta la confianza del cliente al seleccionar un centro de belleza, este es la alta tasa de informalidad en la industria. Esta falta de transparencia y garantías sobre la calidad de los servicios ofrecidos crea incertidumbre y afecta negativamente la experiencia del usuario.
+El estado actual de la industria de la belleza y el cuidado personal se ha centrado principalmente en abordar las necesidades de los clientes en cuanto a comodidad a la hora de buscar y reservar servicios. Sin embargo, el mercado enfrenta importantes puntos débiles, en particular el alto nivel de informalidad en la industria. Esto conduce a una falta de transparencia e incertidumbre sobre la calidad de los servicios, afectando la confianza y la experiencia del cliente.
 
-¿Cómo podemos mejorar el proceso de selección del cliente para salones, tratamientos y servicios, asegurando un diseño que promueva la confianza y seguridad?
+Lo que los productos y servicios existentes no logran abordar es la necesidad de un sistema confiable que garantice la seguridad, la transparencia y la credibilidad de los proveedores de servicios. Los clientes a menudo se enfrentan a ineficiencias en los sistemas de reservas y a dudas sobre la calidad y fiabilidad de los servicios, lo que deteriora aún más su confianza en estas plataformas.
 
-* Se deberá proporcionar un sistema eficiente y transparente para la búsqueda y reserva de servicios, así como establecer canales de comunicación efectivos con los clientes. Nos enfrentamos a otro desafío significativo, los sistemas de gestión de citas para servicios de cuidado y belleza son ineficientes y generan desconfiaza en el usuario final. Reconocemos la importancia de garantizar una experiencia segura y sin preocupaciones para los usuarios que utilizan nuestra plataforma para reservar servicios de belleza. La altan tasa de informalidad en la industria de los centros de belleza crea desafíos adicionales para garantizar la calidad y confiabilidad de los servicios ofrecidos.
+Nuestro producto abordará esta brecha ofreciendo una plataforma eficiente y transparente para buscar, reservar y comunicarse con proveedores de servicios de belleza. También implementaremos salvaguardas para promover la confianza, como revisiones verificadas, métricas de calidad estandarizadas y perfiles de proveedores claros.
+
+Nuestro enfoque inicial estará en los clientes que buscan servicios de belleza que prioricen la seguridad, la calidad y la facilidad de reserva en regiones con una alta prevalencia de proveedores informales.
+
+Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes, tasas de reserva más altas y una mejora notable en la satisfacción y confianza del cliente, como lo demuestran las reseñas positivas y las tasas de cancelación más bajas.
 
 ##### 1.2.2.2. Lean UX Assumptions
 
-Creo que mis clientes necesitan saber cómo y dónde acceder a servicios de manicure, pedicure y tratamientos faciales a domicilio de manera conveniente y segura.
-
-Estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad.
-
-Mis clientes son personas que buscan comodidad y confiabilidad al reservar servicios de belleza, sin comprometer la calidad y la seguridad.
-
-El valor N°1 que mi cliente quiere de mi servicio es la facilidad de reserva, la calidad de los servicios y la tranquilidad de tener profesionales confiables en su hogar.
-
-El cliente también puede adquirir beneficios adicionales como descuentos por lealtad, recomendaciones personalizadas y acceso a productos exclusivos.
-
-Voy a adquirir a la mayoría de mis clientes a través de estrategias de marketing digital, colaboraciones con empresas de belleza y programas de referidos. Haré dinero a través de anuncios por colaboraciones con marcas de belleza, comisiones por reservas y membresías premium.
-
-Mi competencia principal en el mercado serán aplicaciones similares que ofrecen servicios de belleza a domicilio, salones de belleza locales y plataformas de reserva en línea. Los venceremos debido a nuestra estrategia de enfoque en la seguridad y calidad, personalización de servicios, y programas de fidelización.
-
-Mi mayor riesgo de producto es que los clientes no confíen en la seguridad de tener desconocidos en sus hogares o que prefieran la experiencia tradicional en un salón de belleza.
-
-Resolveremos esto a través de la implementación de rigurosos procesos de verificación de profesionales, garantías de seguridad y promoción de la comodidad y conveniencia de nuestros servicios a domicilio.
+###### User Assumptions (Suposiciones de Usuario)
+- ¿Quién es el usuario?: El usuario es alguien que busca servicios de belleza convenientes y confiables.
+- ¿Dónde encaja nuestro producto en su trabajo o vida?: Nuestro producto encaja en su rutina diaria proporcionando una manera fácil de reservar servicios de belleza de forma fácil y eficiente.
+- ¿Qué problemas resuelve nuestro producto? : Resuelve el problema de encontrar y reservar servicios de belleza confiables de manera conveniente y segura.
+- ¿Cuándo y cómo se usa nuestro producto? El producto se usa cuando el usuario necesita reservar un servicio de belleza, típicamente a través de una aplicación web.
+- Qué características son importantes?: Características importantes incluyen una interfaz fácil de usar, perfiles de profesionales verificados,detalles del servicio , reseñas de servicios y opciones de pago seguras.
+- ¿Cómo debe verse y comportarse nuestro producto? :El producto debe tener un diseño limpio y minimalista, ser fácil de navegar y proporcionar una experiencia de reserva sin complicaciones.
+###### Business Assumptions (Suposiciones de Negocio)
+- Necesidades y problemas: Creo que mis clientes tienen la necesidad de saber  cómo y dónde acceder a servicios de belleza de manera conveniente y segura.
+- Plataforma: Estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad.
+- Segmentación: Mis clientes iniciales son (o serán) personas que buscan comodidad y confiabilidad al reservar servicios de belleza,.
+- Comportamientos: El valor número uno que un cliente quiere obtener de mi servicio es la conveniencia en la reserva y recepción de servicios de belleza de calidad.
+- Beneficios: El cliente también puede obtener estos beneficios adicionales como profesionales verificados, servicios personalizados y garantía de calidad.
+- Captación de clientes: Adquiriré la mayoría de mis clientes a través de marketing digital, redes sociales y asociaciones con marcas de belleza.
+- Modelo de ingresos: Generaré ingresos a través de comisiones por reservas, membresías premium y colaboraciones con marcas de belleza.
+- Competencia: Mi principal competencia en el mercado será aplicaciones similares de servicios de belleza y salones de belleza locales.
+- Los superaremos debido a nuestro enfoque en profesionales verificados, personalización de servicios y facilidad de reserva.
+###### Technical Assumptions (Suposiciones Técnicas)
+- Tecnología utilizada: Podemos utilizar tecnologías web actuales para construir la aplicación.
+- Integraciones: La aplicación se integrará sin problemas con sistemas de pago y plataformas de marketing digital.
+- Escalabilidad: La solución podrá escalar para manejar un número creciente de usuarios y datos sin problemas de rendimiento.
+###### Market Assumptions (Suposiciones de Mercado)
+- Tamaño del mercado: Existe una gran cantidad de potenciales usuarios interesados en servicios de belleza y cuidado personal.
+- Competencia: Las aplicaciones similares y redes sociales son los principales competidores.
+- Tendencias: El mercado de servicios de belleza y cuidado está creciendo en la región, sin embargo esta no parece crecer dentro de los parámetros de formalidad.
+###### Design Assumptions (Suposiciones de Diseño)
+- Interacción del usuario: Los usuarios encontrarán más fácil navegar por la aplicación si implementamos filtros por categoría y tipo de servicio.
+- Experiencia del usuario: Los usuarios valorarán una experiencia de reserva intuitiva y sin complicaciones.
+- Colores y la tipografía: Los usuarios prefieren una paleta de colores suaves y una tipografía legible.
+- Preferencias visuales: Los usuarios consideran atractivo un diseño limpio y minimalista.
+- Prototipos y pruebas: Necesitamos validar la facilidad de uso y la efectividad del diseño a través de pruebas de usabilidad.
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
 **Hypothesis Statement 01:**
 
-**Creemos que** ofrecer una amplia gama de servicios de cuidado y belleza a través de nuestra aplicación **para** usuarios que buscan comodidad y conveniencia permitirá que estos puedan reservar citas fácilmente y acceder a servicios de calidad.
-
-**Sabremos que** hemos tenido éxito
-
-**Cuando** se vea un aumento significativo en la cantidad de reservas realizadas a través de nuestra aplicación, así como una mayor retención de clientes satisfechos.
+- Creemos que el usuario es alguien que busca servicios de belleza convenientes y confiables.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre la conveniencia y confiabilidad de nuestros servicios y un aumento en el número de usuarios registrados.
 
 **Hypothesis Statement 02:**
 
-**Creemos que** implementar un sistema de verificación de estilistas calificados y negocios confiables garantizará la calidad de las citas reservadas y brindará seguridad a nuestros usuarios al reservar servicios de cuidado y belleza.
+- Creemos que nuestro producto encaja en la rutina diaria del usuario proporcionando una manera fácil de reservar servicios de belleza de forma fácil y eficiente.
 
-**Sabremos que** hemos tenido éxito
-
-**Cuando** se reciban comentarios positivos de los usuarios acerca de la garantía y la buena calidad del servicio recibido, así como cuando veamos un mayor tráfico en la aplicación.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos sobre la facilidad de uso y un aumento en la frecuencia de reservas.
 
 **Hypothesis Statement 03:**
 
-**Creemos que** establecer colaboraciones estratégicas con salones de belleza, estilistas, marcas de belleza relevantes, y ofrecer programas de referidos atractivos ayudará a aumentar la visibilidad de nuestra aplicación.
+- Creemos que nuestro producto resuelve el problema de encontrar y reservar servicios de belleza confiables de manera conveniente y segura.
 
-**Sabremos que** hemos tenido éxito
-
-**Cuando** observemos un aumento del 30% en la adquisición de clientes durante los períodos activos de nuestras colaboraciones, así como una mayor interacción de los usuarios con la aplicación a través de programas de referidos.
+- Sabremos que estamos en lo correcto cuando veamos una disminución en las quejas sobre la confiabilidad y seguridad de los servicios y un aumento en las reservas repetidas.
 
 **Hypothesis Statement 04:**
-**Creemos que** aumentaremos la confianza del usuario y fomentaremos la lealtad a nuestra marca si incorporamos funciones de calificación y reseñas para que los usuarios puedan evaluar la calidad de los servicios recibidos y compartir sus experiencias con otros usuarios.
 
-**Sabremos que** hemos tenido éxito
+- Creemos que el producto se usa cuando el usuario necesita reservar un servicio de belleza, típicamente a través de una aplicación web.
 
-**Cuando** observemos un aumento del 60% en la participación de los usuarios en la función de calificación y reseñas, así como un incremento en la cantidad de reseñas positivas y una mejora general en la percepción de la calidad de los servicios por parte de los usuarios.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en el uso de la aplicación web durante las horas pico de reserva.
+
+**Hypothesis Statement 05:**
+
+- Creemos que características importantes incluyen una interfaz fácil de usar, perfiles de profesionales verificados, detalles del servicio, reseñas de servicios y opciones de pago seguras.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre estas características y un aumento en la tasa de conversión de visitas a reservas.
+
+**Hypothesis Statement 06:**
+
+- Creemos que el producto debe tener un diseño limpio y minimalista, ser fácil de navegar y proporcionar una experiencia de reserva sin complicaciones.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre el diseño y la navegación, y un aumento en la tasa de retención de usuarios.
+
+**Hypothesis Statement 07:**
+
+- Creemos que nuestros clientes tienen la necesidad de saber cómo y dónde acceder a servicios de belleza de manera conveniente y segura.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en las búsquedas y reservas a través de nuestra plataforma.
+
+**Hypothesis Statement 08:**
+
+- Creemos que estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en la satisfacción del cliente y en las reservas a través de la aplicación.
+
+**Hypothesis Statement 09:**
+
+- Creemos que nuestros clientes iniciales son (o serán) personas que buscan comodidad y confiabilidad al reservar servicios de belleza.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en el número de usuarios registrados que buscan estos atributos.
+
+**Hypothesis Statement 10:**
+
+- Creemos que el valor número uno que un cliente quiere obtener de nuestro servicio es la conveniencia en la reserva y recepción de servicios de belleza de calidad.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre la conveniencia y un aumento en las reservas repetidas.
+
+**Hypothesis Statement 11:**
+
+- Creemos que el cliente también puede obtener estos beneficios adicionales como profesionales verificados, servicios personalizados y garantía de calidad.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre estos beneficios y un aumento en la tasa de retención de usuarios.
+
+**Hypothesis Statement 12:**
+
+- Creemos que adquiriremos la mayoría de nuestros clientes a través de marketing digital, redes sociales y asociaciones con marcas de belleza.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en el tráfico y las conversiones provenientes de estas fuentes.
+
+**Hypothesis Statement 13:**
+
+- Creemos que generaremos ingresos a través de comisiones por reservas, membresías premium y colaboraciones con marcas de belleza.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en los ingresos provenientes de estas fuentes.
+
+**Hypothesis Statement 14:**
+
+- Creemos que nuestra principal competencia en el mercado serán aplicaciones similares de servicios de belleza y salones de belleza locales.
+- Sabremos que estamos en lo correcto cuando veamos un análisis competitivo que confirme esta suposición y un aumento en nuestra cuota de mercado.
+
+**Hypothesis Statement 15:**
+
+- Creemos que superaremos a la competencia debido a nuestro enfoque en profesionales verificados, personalización de servicios y facilidad de reserva.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre estos aspectos y un aumento en la tasa de conversión de usuarios de la competencia a nuestra plataforma.
+
+**Hypothesis Statement 16:**
+
+- Creemos que podemos utilizar tecnologías móviles y web actuales para construir la aplicación.
+- Sabremos que estamos en lo correcto cuando veamos una implementación exitosa y sin problemas técnicos significativos.
+
+**Hypothesis Statement 17:**
+
+- Creemos que la aplicación se integrará sin problemas con sistemas de pago y plataformas de marketing digital.
+- Sabremos que estamos en lo correcto cuando veamos una integración exitosa y sin problemas técnicos significativos.
+
+**Hypothesis Statement 18:**
+
+- Creemos que la solución podrá escalar para manejar un número creciente de usuarios y datos sin problemas de rendimiento.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en el número de usuarios sin una disminución en el rendimiento de la aplicación.
+
+**Hypothesis Statement 19:**
+
+- Creemos que existe una gran cantidad de potenciales usuarios interesados en servicios de belleza y cuidado personal.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en el número de usuarios registrados y en las reservas.
+
+**Hypothesis Statement 20:**
+
+- Creemos que las aplicaciones similares y redes sociales son los principales competidores.
+- Sabremos que estamos en lo correcto cuando veamos un análisis competitivo que confirme esta suposición y un aumento en nuestra cuota de mercado.
+
+**Hypothesis Statement 21:**
+
+- Creemos que el mercado de servicios de belleza y cuidado está creciendo en la región, sin embargo, esta no parece crecer dentro de los parámetros de formalidad.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en la demanda de servicios formales y un crecimiento en nuestra base de usuarios.
+
+**Hypothesis Statement 22:**
+
+- Creemos que los usuarios encontrarán más fácil navegar por la aplicación si implementamos filtros por categoría y tipo de servicio.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre la navegación y un aumento en la tasa de conversión.
+
+**Hypothesis Statement 23:**
+
+- Creemos que los usuarios valorarán una experiencia de reserva intuitiva y sin complicaciones.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre la experiencia de reserva y un aumento en la tasa de retención de usuarios.
+
+**Hypothesis Statement 24:**
+
+- Creemos que los usuarios prefieren una paleta de colores suaves y una tipografía legible.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre el diseño visual y un aumento en la tasa de retención de usuarios.
+
+**Hypothesis Statement 25:**
+
+- Creemos que los usuarios consideran atractivo un diseño limpio y minimalista.
+- Sabremos que estamos en lo correcto cuando veamos comentarios cualitativos positivos sobre el diseño visual y un aumento en la tasa de retención de usuarios.
+
+**Hypothesis Statement 26:**
+
+- Creemos que necesitamos validar la facilidad de uso y la efectividad del diseño a través de pruebas de usabilidad.
+- Sabremos que estamos en lo correcto cuando veamos resultados positivos en las pruebas de usabilidad y un aumento en la tasa de conversión.
 
 ##### 1.2.2.4. Lean UX Canvas
 
@@ -348,7 +521,7 @@ Resolveremos esto a través de la implementación de rigurosos procesos de verif
 
 ### 1.3. Segmentos objetivo
 
-**Segmento objetivo #1: Clientas Aficionadas al Embellecimiento**
+**Segmento objetivo #1: Usuarios de servicios de belleza y cuidad**
 
 Este grupo está compuesto por mujeres de entre 20 y 45 años, pertenecientes a los sectores socioeconómicos B-C, que residen en Lima. Estas clientas buscan activamente servicios de embellecimiento y cuidado personal para realzar su apariencia y bienestar. A menudo enfrentan desafíos relacionados con la accesibilidad y la calidad de los servicios de belleza disponibles en el mercado.
 
@@ -721,21 +894,21 @@ Las entrevistas a l@s emprendedores/ras y/o MYPES demuestra que hay dificultades
 
 Para la realizar el User Task Matrix se tomo a los dos sengmetos objetivos ya presenteados que son:
 
-1. Clientas
-2. MYPES
+1. Cliente de servicios de belleza 
+2. Empresa 
 
-**Clientas**
+**Cliente de servicios de belleza**
 
-| Task Matrix                                                               | Importancia |
-|---------------------------------------------------------------------------|-------------|
-| Requerir servicios de belleza                                             | Alta        |
-| Buscar locales de servicios de belleza cercanos                           | Alta        |
-| Seleccionar un centro de belleza                                          | Media       |
-| Pedir atención o realizar una reserva en el local de servicios de belleza | Alta        |
-| Recibir confirmación de reserva                                           | Baja        |
-| Elegir el servicio requerido                                              | Alta        |
-| En caso sea necesario pedir cambios en el servicio requerido              | Alta        |
-| Proporcionar retroalimentación sobre el servicio recibido                 | Baja        |
+| Task Matrix                                                                                   | Importancia |
+|-----------------------------------------------------------------------------------------------|-------------|
+| Requerir servicios de belleza                                                                 | Alta        |
+| Buscar locales de servicios de belleza mediante contenido en linea y redes sociales           | Alta        |
+| Explorar los detalles de los locales y servicios mediante contenido en linea y redes sociales | Media       |
+| Contactar a la empresa mediante un mensaje en alguna red social                               | Alta        |
+| Dar información sobre las especificaciones del servicio requerido                             | Baja        |
+| Analizar la propuesta del especialista respecto a sus posibilidades y disponibilidad          | Alta        |
+| Reservar una cita                                                                             | Alta        |
+| Dejar un comentario en redes sociales respecto a su experiencia en el                         | Baja        |
 
 **MYPES**
 
@@ -1844,7 +2017,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
     <td>TS003</td>
     <td>Implementación de la sección de alianzas</td>
     <td>Como desarrollador, quiero implementar la sección de alianzas en la landing page, para mostrar las colaboraciones de Bliss con Montalvo, Soho Color y Artemis.</td>
-    <td3></td>
+    <td></td>
   </tr>
   <tr>
     <td>7</td>
