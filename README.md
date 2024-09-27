@@ -534,7 +534,7 @@ Considerando el análisis competitivo y las características únicas de nuestra 
 ### 2.2. Entrevistas.
 Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios a través de preguntas que serán diseñadas y analizadas por nuestro equipo, previa realización de las entrevistas.
 #### 2.2.1. Diseño de entrevistas
-**Segmento 1**
+**Segmento 1: Usuario se servicios de belleza y cuidado**
 * ¿Cómo sueles enterarte de nuevos servicios de cuidado y belleza, como tratamientos de belleza, manicura, masajes, extensiones de pestañas, tintes de cabello, depilación, etc.?
 * ¿Qué canales de información utilizas con más frecuencia para buscar estos servicios? (Por ejemplo, redes sociales, buscadores en línea, recomendaciones de amigos o familiares, etc.)
 * Cuando buscas un servicio específico, como manicura o extensiones de pestañas, ¿qué características te gustaría ver en un catálogo en línea para ayudarte a tomar una decisión informada?
@@ -548,7 +548,7 @@ Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios
 * ¿Qué características adicionales te gustaría ver en una plataforma digital para reservar servicios de cuidado y belleza que aún no existan en otras plataformas?
 * ¿Qué tan importante es para ti la seguridad y confianza en la plataforma digital al proporcionar información personal y financiera para reservar servicios de cuidado y belleza?
 
-**Segmento 2**
+**Segmento 2: MYPES del sector de belleza y cuidado**
 * ¿Qué servicios de cuidado y belleza ofrece actualmente en su negocio?
 * ¿Cuáles son los servicios más solicitados por los clientes de su negocio?
 * ¿Cómo suelen los clientes reservar citas actualmente en su negocio?
@@ -565,150 +565,99 @@ Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios
 * ¿Qué sugerencias o comentarios adicionales tiene para mejorar la experiencia de reserva de servicios de cuidado y belleza a través de una aplicación?
 #### 2.2.2. Registro de entrevistas
 
-<table>
-  <tr>
-    <td colspan="2">Entrevista a Cliente - 1</td>
-  </tr>
-  <tr>
-    <td>Nombre Entrevistad@</td>
-    <td>Emma Solis Espinoza</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>73 Años</td>
-  </tr>
-  <tr>
-    <td>Profesión</td>
-    <td>Ex - Asistenta Social Universitaria</td>
-  </tr>
-  <tr>
-    <td>Departamento</td>
-    <td>Lima, Perú</td>
-  </tr>
-  <tr>
-    <td>Duración de la Entrevista: 15:31 min </td>
-    <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/EYfdTsB84mtEobrppZAME08Ba9K5QzSKCXQqUzccGAj5Yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=beNxq1">enlace</a></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td colspan="2">Entrevista a Cliente - 2</td>
-  </tr>
-  <tr>
-    <td>Nombre Entrevistad@</td>
-    <td>Clara Rivas</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>24 Años</td>
-  </tr>
-  <tr>
-    <td>Profesión</td>
-    <td>Estudiante de ciencias ambientales</td>
-  </tr>
-  <tr>
-    <td>Departamento</td>
-    <td>Lima, Perú</td>
-  </tr>
-  <tr>
-    <td>Duración de entrevistas: 11:09 </td>
-    <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/EU8TdhBV29FKnpTXpAvRjmIBXUavhlU3arDi7ww46tCJWg?e=OwbF8T&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">enlace</a></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td colspan="2">Entrevista a Cliente - 3</td>
-  </tr>
-  <tr>
-    <td>Nombre Entrevistad@</td>
-    <td>Cesar Santivañez</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>42 Años</td>
-  </tr>
-  <tr>
-    <td>Profesión</td>
-    <td>Gerente de Ingeniería de Procesos de Seguridad</td>
-  </tr>
-  <tr>
-    <td>Departamento</td>
-    <td>Lima, Perú</td>
-  </tr>
-  <tr>
-    <td>Duración de la Entrevista: 10:27 min </td>
-    <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/Ed_5wn0qyYhOtBjPGYesvcMBpie3AcIklWVngJTxRKtdqw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4osTj7">enlace</a></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td colspan="2">Entrevista a Emprendedor/MYPE - 1</td>
-  </tr>
-  <tr>
-    <td>Nombre Entrevistad@</td>
-    <td>Ysabel Santivañez Solis</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>41 Años</td>
-  </tr>
-  <tr>
-    <td>Profesión</td>
-    <td>Administradora / Estilista</td>
-  </tr>
-  <tr>
-    <td>Departamento</td>
-    <td>Lima, Perú</td>
-  </tr>
-  <tr>
-    <td>Duración de la Entrevista: 13:01 min </td>
-    <td>URL:<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111461_upc_edu_pe/ETN6Tf9UZTtCkub6Ob1gKNMBQrxBSIRUwkHEwGE4FFWkLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ug5dXo">enlace</a></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td colspan="2">Entrevista a Emprendedor/MYPE - 2</td>
-  </tr>
-  <tr>
-    <td>Nombre Entrevistad@</td>
-    <td>Elena Hernandez</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>29 Años</td>
-  </tr>
-  <tr>
-    <td>Profesión</td>
-    <td>Pedicurista - Manicurista</td>
-  </tr>
-  <tr>
-    <td>Departamento</td>
-    <td>Piura,Perú</td>
-  </tr>
-  <tr>
-    <td>Duración de la Entrevista:</td>
-    <td>URL:<a href="">enlace</a></td>
-  </tr>
-</table>
+| Entrevista 1: Usuario se servicios de belleza y cuidado |                                                                                                                                                                                          |
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     | Emma Solis Espinoza                                                                                                                                                                      |
+| Edad                                                    | 73 Años                                                                                                                                                                                  |
+| Profesión                                               | Ex - Asistenta Social Universitaria                                                                                                                                                      |
+| Departamento                                            | Lima, Perú                                                                                                                                                                               |
+| Duración de la Entrevista                               | 15:31 min                                                                                                                                                                                |
+| **Análisis de la Entrevista**                           |                                                                                                                                                                                          |
+| Fuentes de Información                                  | Redes sociales y contactos personales. Indica la importancia de recomendaciones boca a boca y visibilidad en plataformas digitales.                                                      |
+| Preferencias en Catálogos                               | Prioriza la seriedad y la higiene en los servicios. Los aspectos de presentación y confianza son esenciales para la toma de decisiones.                                                  |
+| Búsqueda de Precios                                     | Frustración por la falta de precios publicados. Necesidad de mayor transparencia en la información de costos.                                                                            |
+| Uso de Plataformas Digitales                            | Aprecia el uso de WhatsApp y correo electrónico para comunicarse con proveedores. La integración de múltiples canales es beneficiosa.                                                    |
+| Seguridad y Confianza                                   | Prefiere transacciones presenciales por preocupaciones sobre la seguridad de sus datos personales. Confianza en plataformas digitales sigue siendo delicada, especialmente para mayores. |
+| Seguridad y Confianza                                   | Prefiere transacciones presenciales por preocupaciones sobre la seguridad de sus datos personales. Confianza en plataformas digitales sigue siendo delicada, especialmente para mayores. |
+
+| Entrevista 2: Usuario se servicios de belleza y cuidado |                                                                                                                                                                |
+|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     | Clara Rivas                                                                                                                                                    |
+| Edad                                                    | 24 Años                                                                                                                                                        |
+| Profesión                                               | Estudiante de ciencias ambientales                                                                                                                             |
+| Departamento                                            | Lima, Perú                                                                                                                                                     |
+| Duración de la Entrevista                               | 11:09 min                                                                                                                                                      |
+| **Análisis de la Entrevista**                           |                                                                                                                                                                |
+| Fuentes de Información                                  | Utiliza redes sociales y plataformas de búsqueda para informarse. La interacción digital es fundamental para su proceso de decisión.                           |
+| Interés por la Sostenibilidad                           | Alta conciencia sobre prácticas sostenibles y responsables. Busca productos y servicios que alineen con sus valores ambientales.                               |
+| Preferencias en Servicios                               | Valora la personalización en servicios, así como la transparencia en los procesos. La comunicación clara es clave para su confianza.                           |
+| Uso de Plataformas Digitales                            | Prefiere aplicaciones móviles y sitios web que ofrezcan experiencias interactivas y visualmente atractivas. La usabilidad es esencial.                         |
+| Expectativas de Nuevas Características                  | Desea ver opciones de comparación de servicios y precios, así como reseñas de otros usuarios. La participación activa de la comunidad es importante para ella. |
+
+| Entrevista 3: Usuario se servicios de belleza y cuidado |                                                                                                                                                            |
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     | Cesar Santivañez                                                                                                                                           |
+| Edad                                                    | 42 Años                                                                                                                                                    |
+| Profesión                                               | Gerente de Ingeniería de Procesos de Seguridad                                                                                                             |
+| Departamento                                            | Lima, Perú                                                                                                                                                 |
+| Duración de la Entrevista                               | 10:27 min                                                                                                                                                  |
+| **Análisis de la Entrevista**                           |                                                                                                                                                            |
+| Proceso de Reserva                                      | Prefiere realizar reservas en línea por la conveniencia y rapidez. Aprecia plataformas que ofrecen un resumen claro de servicios y precios.                |
+| Expectativas                                            | Busca un proceso de reserva sin complicaciones, con confirmaciones rápidas. Valora un servicio al cliente eficiente para resolver cualquier inconveniente. |
+| Preferencias en la Comunicación                         | Prefiere recibir notificaciones sobre la reserva y recordatorios de citas a través de mensajes de texto o correo electrónico.                              |
+| Experiencia Previa                                      | Ha tenido malas experiencias con la falta de comunicación de salones, lo que ha llevado a cancelar o cambiar de lugar.                                     |
+
+
+| Entrevista 4: Mypes o emprendedores |                                                                                                                                                                                                                                                                       |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado               | Ysabel Santivañez Solis                                                                                                                                                                                                                                               |
+| Edad                              | 41 Años                                                                                                                                                                                                                                                               |
+| Profesión                         | Administradora / Estilista                                                                                                                                                                                                                                            |
+| Departamento                      | Lima, Perú                                                                                                                                                                                                                                                            |
+| Duración de la Entrevista         | 13:01 min                                                                                                                                                                                                                                                             |
+| Análisis de la Entrevista         |                                                                                                                                                                                                                                                                       |
+| Método de Reserva                 | Las reservas se gestionan a través de WhatsApp e Instagram, buscando mayor visibilidad.                                                                                                                                                                               |
+| Desafíos en la Gestión            | Enfrenta la falta de puntualidad de algunas clientas, lo que provoca desorganización en el horario de atención. Especifica que se respeta un horario con una tolerancia de 15 minutos; si no llegan en ese tiempo, se anula la reserva para atender a otros clientes. |
+| Requerimientos de Aplicación      | Necesita una aplicación fácil de usar para reservas y pagos, incluyendo promociones para evitar pérdidas económicas. También menciona la importancia de dar a conocer su negocio a más personas.                                                                      |
+| Uso de Redes Sociales             | Importante para llegar a su público objetivo, principalmente mujeres.                                                                                                                                                                                                 |
+| Estrategias de Promoción          | Realiza promociones como 2x1 y descuentos por referidos, buscando afianzar la relación con sus clientas.                                                                                                                                                              |
+| Expectativas de la Aplicación     | Cree que una aplicación bien diseñada podría facilitar la gestión de reservas, pagos y promociones. Está dispuesta a pagar una comisión razonable por su uso.                                                                                                         |
+| Sugerencias Adicionales           | Propone incluir funcionalidades para enviar notificaciones y realizar agendas de citas, mejorando la experiencia del cliente. También desea características que ayuden a gestionar las reservas y citas de su negocio.                                                |
+
+
+| Entrevista a Emprendedor/MYPE - 2                    |                                                                                                                                                              |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistad@                                  | Elena Hernandez                                                                                                                                              |
+| Edad                                                 | 29 Años                                                                                                                                                      |
+| Profesión                                            | Pedicurista - Manicurista                                                                                                                                    |
+| Departamento                                         | Piura, Perú                                                                                                                                                  |
+| Duración de la Entrevista                            | 11:12 min                                                                                                                                                    |
+| **Análisis de la Entrevista**                        |                                                                                                                                                              |
+| Visibilidad en un Mercado Saturado                   | Los pequeños emprendedores enfrentan alta competencia, lo que dificulta destacar. Sin una estrategia de marketing clara, es fácil perderse en la saturación. |
+| Costos de Publicidad                                 | La inversión en publicidad digital puede ser alta, y muchos emprendedores deben sopesar su presupuesto frente al retorno de inversión.                       |
+| Estrategias de Marketing Limitadas                   | La falta de formación en marketing digital limita la capacidad de atraer clientes.                                                                           |
+| Gestión del Tiempo                                   | La atención al cliente consume tiempo que podría dedicarse a la promoción del negocio.                                                                       |
+| Importancia de la Experiencia del Cliente            | La visibilidad es clave; los testimonios deben ser accesibles para impactar.                                                                                 |
+| Recursos Limitados para Capacitación                 | Muchos carecen de acceso a capacitación en marketing digital.                                                                                                |
+| Falta de Apoyo Comunitario                           | La ausencia de redes locales dificulta la colaboración entre pequeños negocios.                                                                              |
+| Adaptación a Cambios en el Comportamiento del Consumidor | Los emprendedores deben estar actualizados sobre las tendencias para ajustar sus ofertas.                                                                    |
 
 #### 2.2.3. Análisis de entrevistas
-**Segmento Objetivo 1: Clientes de la industria de belleza y bienestar**
-- La primera entrevista revela varios patrones en sus preferencias y preocupaciones. En este caso, la clienta destaca preocupaciones específicas relacionadas con la seguridad en las transacciones en línea. A pesar de que las redes sociales, especialmente Whatsapp, son una fuente importante para ofrecer servicios de belleza debido a la versatilidad y la facilidad, Emma expresa desconfianza hacia las plataformas que solicitan datos de tarjetas de crédito. Ella prefiere realizar las transacciones de manera presencial o en persona debido al aumento de casos de robo de información y brechas de seguridad en línea. Según indica, “La seguridad en las reservas es crucial para mí. Prefiero hacer estos trámites en persona porque me siento más segura que colocando mis datos en una página web, incluso si esta ofrece medidas de seguridad adicionales.”
-- En la segunda entrevista, se destaca la importancia crucial de la organización y eficiencia en los negocios de cuidado y belleza. Clara señala que, a pesar de las ventajas de la reserva en línea, la falta de una buena gestión de tiempos y organización en los establecimientos puede generar frustración significativa. Como ella misma comenta, "uno entra y le dicen que espere para ser atendido en un momento, pero ese momento termina en minutos incluso horas, y me he visto perjudicada esperando casi 3 horas para que hagan algo sencillo". Esto revela que los problemas de organización y gestión del tiempo son fundamentales para la experiencia del cliente.
-- En ultima parte de nuestras entrevistas, se demuestra que el tiempo de atención y la implementación de sistemas automatizados en los medios de comunicación es algo fundamental y preocupante al mismo tiempo, ya que, según César, manifiesta que hasta el momento, con una significativa sobredemanda de emprendimientos y negocios de este rubro, en ninguno de los casos ha llegado a ver un sistema eficiente con los medios de comunicación directa que estos tienen, si bien ha podido acceder a diferentes beneficios que algunos negocios le brindaron, el poder tener una personalización más adaptada al usuario para su experiencia, a la vez de poder implementar un “SRA” en plataformas como whatsapp o en la misma web, como menciona “brindará más confianza al cliente, lo que ayudaría a que tenga una preferencia en especifica, beneficiando también al negocio”.
 
+Los usuarios de servicios de belleza se informan sobre nuevos productos y servicios principalmente a través de redes sociales y recomendaciones de personas cercanas. La comunicación directa con los proveedores es fundamental para estos consumidores, quienes prefieren recibir catálogos y detalles sobre servicios por medio de mensajes. Esta interacción personalizada no solo genera confianza, sino que también motiva a los clientes a explorar y probar nuevos servicios de belleza, lo que demuestra la importancia de un enfoque centrado en el cliente.
 
-**Segmento Objetivo 2: MYPES o Emprendedores**
-* La primera entrevistada, propietaria de MYPES, señala que enfrentan desafíos particulares en la gestión de sus negocios. Ella utiliza Instagram como su principal plataforma para impulsar su marca. Sin embargo, enfrenta un reto significativo debido a la diversidad en el nivel de familiaridad de sus clientes con las aplicaciones y plataformas digitales. Ella observa que su clientela está dividida entre aquellos que tienen conocimientos avanzados y se sienten cómodos utilizando diversas plataformas, y aquellos que prefieren realizar sus gestiones por teléfono o en persona. Esta diversidad en las preferencias de los clientes presenta un desafío en la organización y gestión de reservas. Como señala: “La dificultad principal radica en la falta de uniformidad en el uso de las aplicaciones entre mis clientes. Mientras algunos están completamente familiarizados con Instagram y otras plataformas, otros aún prefieren métodos tradicionales como el teléfono o la visita en persona. Esto puede llevar a una mala organización si no se maneja adecuadamente.”
+Por otro lado, al evaluar catálogos en línea, los usuarios consideran crucial la seriedad y la higiene de los establecimientos. La transparencia en la información sobre precios es otro aspecto esencial, ya que muchos clientes desean conocer las tarifas antes de realizar una visita. Este deseo de claridad resalta la necesidad de una comunicación efectiva por parte de los emprendedores de la industria, quienes deben asegurarse de que la información proporcionada sea accesible y comprensible para atraer a más clientes.
 
+Las Mypes y emprendedores de la industria de belleza, a pesar de la creciente digitalización, se enfrentan al desafío de mantener la preferencia de sus clientes por métodos de comunicación tradicionales como WhatsApp y correo electrónico. Esto se debe a que muchos consumidores aún valoran la posibilidad de realizar cotizaciones de manera directa. La facilidad de uso de las plataformas digitales es esencial para estos negocios; por lo tanto, es fundamental que diseñen interfaces amigables que sean accesibles para personas de todas las edades y niveles de familiaridad con la tecnología.
 
-**Conclusiones de las entrevistas**
+Uno de los desafíos recurrentes que enfrentan las Mypes es la falta de puntualidad de algunos clientes, lo que puede afectar la programación de citas y, en consecuencia, la atención a otros usuarios. Para mitigar este problema, los emprendedores deberían implementar un sistema que gestione el tiempo de manera eficiente, incluyendo tolerancias y avisos automáticos que recuerden a los clientes sus citas. Esto no solo mejoraría la puntualidad, sino que también optimizaría la experiencia general del cliente y la operación del negocio.
 
-Las entrevistas a clientes revela que la seguridad en las transacciones en línea, la capacitación del personal y la organización según la demanda es una preocupación significativa para los usuarios de servicios de belleza, A pesar de la conveniencia de las redes sociales y las plataformas digitales para ofrecer estos servicios,muchos prefieren realizar transacciones en persona debido a sus dudas sobre la seguridad de proporcionar información financiera en línea.
+Los usuarios de servicios de belleza también anhelan características específicas en las plataformas digitales, tales como recordatorios de citas, facilidad para realizar reservas y la posibilidad de acceder a promociones o descuentos. Para las Mypes, es crucial mantenerse actualizados sobre la calidad de los productos ofrecidos y los servicios disponibles, ya que esto impacta directamente en la satisfacción del cliente y su fidelización.
 
-Las entrevistas a l@s emprendedores/ras y/o MYPES demuestra que hay dificultades debido a la variabilidad en el nivel de familiaridad de sus clientes con las herramientas digitales. La clientela se divide entre aquellos que se sienten cómodos con las plataformas digitales y aquellos que prefieren métodos tradicionales como el teléfono o la atención en persona, subrayando asi la necesidad de implementar estrategias que integren y armonicen diversos canales de comunicación, garantizando una experiencia de cliente fluida y eficiente, independientemente del método de contacto preferido.
+Finalmente, tanto los usuarios como las Mypes expresan preocupaciones sobre la seguridad al proporcionar información personal y financiera. Los consumidores valoran la privacidad y la protección de sus datos, lo que significa que los emprendedores de la industria de belleza deben garantizar que sus plataformas digitales ofrezcan altos estándares de seguridad. Fomentar la confianza en el uso de sus servicios es esencial para el crecimiento y la sostenibilidad de sus negocios en un mercado cada vez más competitivo.
 
 ### 2.3. Needfinding
+
 #### 2.3.1. User Personas
 
 ###### **MYPES o Emprendedores**
