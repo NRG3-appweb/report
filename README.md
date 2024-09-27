@@ -521,7 +521,7 @@ Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes,
 
 ### 1.3. Segmentos objetivo
 
-**Segmento objetivo #1: Clientas Aficionadas al Embellecimiento**
+**Segmento objetivo #1: Usuarios de servicios de belleza y cuidad**
 
 Este grupo está compuesto por mujeres de entre 20 y 45 años, pertenecientes a los sectores socioeconómicos B-C, que residen en Lima. Estas clientas buscan activamente servicios de embellecimiento y cuidado personal para realzar su apariencia y bienestar. A menudo enfrentan desafíos relacionados con la accesibilidad y la calidad de los servicios de belleza disponibles en el mercado.
 
