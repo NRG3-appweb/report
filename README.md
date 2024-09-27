@@ -36,6 +36,38 @@
 |:-----------------------------------:|:-------------------------------------------------------------:|
 |   https://github.com/SI729-Bliss    | https://github.com/SI729-Bliss/OpenSource-Bliss-Documentation |
 
+TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend.
+
+Vista de commits: Landing page:
+
+
+
+
+- Juan Diego Astonitas Díaz: -
+- Gabriel Alexander Casas Sanchez: 6
+- Gianluca Santino Pasquale Barrenechea: -
+- Elvia Marcela Rodriguez Villa: 7
+
+
+Web Application Frontend:
+
+
+
+- Juan Diego Astonitas Díaz: 31
+- Gabriel Alexander Casas Sanchez: 30
+- Gianluca Santino Pasquale Barrenechea: 9
+- Elvia Marcela Rodriguez Villa: -
+
+
+Report: 
+
+
+
+- Juan Diego Astonitas Díaz: 38
+- Gabriel Alexander Casas Sanchez: 52
+- Gianluca Santino Pasquale Barrenechea: 30
+- Elvia Marcela Rodriguez Villa: 26
+- 
 ### TB1 
 
 | Integrante                                 | Tareas Asignadas                                                                                                          |
