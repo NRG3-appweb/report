@@ -105,6 +105,9 @@ Report:
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [TB1](#tb1)
+  - [TP (Trabajo Parcial)](#tp-trabajo-parcial)
+  - [Capturas de la colaboración](#capturas-de-la-colaboración)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción ](#capítulo-i-introducción-)
@@ -116,6 +119,11 @@ Report:
     - [1.2.2 Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+        - [User Assumptions (Suposiciones de Usuario)](#user-assumptions-suposiciones-de-usuario)
+        - [Business Assumptions (Suposiciones de Negocio)](#business-assumptions-suposiciones-de-negocio)
+        - [Technical Assumptions (Suposiciones Técnicas)](#technical-assumptions-suposiciones-técnicas)
+        - [Market Assumptions (Suposiciones de Mercado)](#market-assumptions-suposiciones-de-mercado)
+        - [Design Assumptions (Suposiciones de Diseño)](#design-assumptions-suposiciones-de-diseño)
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
@@ -131,27 +139,26 @@ Report:
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
+        - [**MYPES o Emprendedores**](#mypes-o-emprendedores)
+        - [**Clientes de la industria de belleza y bienestar**](#clientes-de-la-industria-de-belleza-y-bienestar)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
+        - [**MYPES o Emprendedores**](#mypes-o-emprendedores-1)
+        - [**Clientes de la industria de belleza y bienestar**](#clientes-de-la-industria-de-belleza-y-bienestar-1)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-        - [Segmento #1](#segmento-1)
-        - [Segmento #2](#segmento-2)
+        - [**Clientas Aficionadas al Embellecimiento**](#clientas-aficionadas-al-embellecimiento)
+        - [**MYPES del Sector de Belleza**](#mypes-del-sector-de-belleza)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-        - [User Persona #1](#user-persona-1)
-        - [User Persona #2](#user-persona-2)
+        - [Clientas Aficionadas al Embellecimiento](#clientas-aficionadas-al-embellecimiento-1)
+        - [MYPES del Sector de Belleza](#mypes-del-sector-de-belleza-1)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-        - [User Persona #1](#user-persona-1-1)
-        - [User Persona #2](#user-persona-2-1)
+        - [Clientas Aficionadas al Embellecimiento](#clientas-aficionadas-al-embellecimiento-2)
+        - [MYPES del Sector de Belleza](#mypes-del-sector-de-belleza-2)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification ](#capítulo-iii-requirements-specification-)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-    - [User Persona #1](#user-persona-1-2)
-    - [User Persona #2](#user-persona-2-2)
+        - [Clientas Aficionadas al Embellecimiento](#clientas-aficionadas-al-embellecimiento-3)
+        - [MYPES del Sector de Belleza](#mypes-del-sector-de-belleza-3)
   - [3.2. User Stories](#32-user-stories)
-    - [3.2.1 Epics](#321-epics)
-    - [3.2.2 User Stories - Clientes](#322-user-stories---clientes)
-    - [3.2.3 User Stories - Empresas](#323-user-stories---empresas)
-    - [3.2.4 User Stories - Landing Page](#324-user-stories---landing-page)
-    - [3.2.5 Technical Stories](#325-technical-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
 - [Capítulo IV: Product Design ](#capítulo-iv-product-design-)
@@ -184,6 +191,13 @@ Report:
     - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
     - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
   - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
+      - [Registro y Perfil de Empresa](#registro-y-perfil-de-empresa)
+      - [Gestión de Usuario](#gestión-de-usuario)
+      - [Visualización de Historial y Agenda](#visualización-de-historial-y-agenda)
+      - [Reserva de Servicio](#reserva-de-servicio)
+      - [Creación de Servicio](#creación-de-servicio)
     - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
     - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
   - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
@@ -192,10 +206,6 @@ Report:
     - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
     - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
       - [Service Management Component](#service-management-component)
-      - [User Management Component](#user-management-component)
-      - [Booking Management Component](#booking-management-component)
-      - [Notification Component](#notification-component)
-      - [Payments Component](#payments-component)
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
@@ -217,6 +227,15 @@ Report:
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
+      - [5.2.2.2.Sprint Backlog 2.](#5222sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -1360,8 +1379,7 @@ El presente user flow corresponde con la creación de servicio, en el cual la em
 
 A continuación un diagrama que representa los user goals.
 
-![User Goals](resources/chapter_4/userflow/User%20Goals.png)
-
+<img src="resources\chapter_4\userflow\user-flow-diagram.png">
 
 ### 4.5. Web Applications Prototyping
 
@@ -1388,7 +1406,6 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 ##### Service Management Component
 
 ![C4 Image 3](resources/chapter_4/c4/c41%20(3).jpeg)
-
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
@@ -2787,6 +2804,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
 Para este sprint no se realizaron pruebas debido a que solo corresponde al desarrollo de la primera version del web application.
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review.
+Acontinuación se entrega el enlace a la landing page actualizada [https://nrg3-appweb.github.io/Landing-Page/](https://nrg3-appweb.github.io/Landing-Page/)
 
 En este apartado se hace presente el despliegue de la primera versión web application del producto solución Bliss:
 [Bliss](https://frontend-steel-tau-46.vercel.app/)
