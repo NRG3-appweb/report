@@ -3171,17 +3171,534 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
  US005             | Búsqueda de servicios          | TS013                   | Desarrollar cuadro de búsqueda                         | Implementar el componente de cuadro de búsqueda en la landing page.                 | 3                        | done       |
  US005             | Búsqueda de servicios          | TS014                   | Programar endpoint en RESTful API                      | Desarrollar el endpoint que permita la búsqueda de servicios aplicando filtros.     | 3                        | done       |
 
-##### 5.2.2.3.Development Evidence for Sprint Review.
+##### 5.2.2.3. Development Evidence for Sprint Review.
 
-##### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+**Tabla de commits del Frontend**
 
-##### 5.2.2.5.Execution Evidence for Sprint Review.
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 0f3ecb8 </td>
+    <td colspan="1"> chore: initial commit. </td>
+    <td colspan="1"> chore: initial commit. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 9eb46eb </td>
+    <td colspan="1"> chore: setup dependencies </td>
+    <td colspan="1"> chore: setup dependencies </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> ec6f912 </td>
+    <td colspan="1"> feat(i18n): added internationalization. </td>
+    <td colspan="1"> feat(i18n): added internationalization. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 808108f </td>
+    <td colspan="1"> chore: cleaned app.vue. </td>
+    <td colspan="1"> chore: cleaned app.vue. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1">  a540b37 </td>
+    <td colspan="1">  fix: header-toolbar location. </td>
+    <td colspan="1">  fix: header-toolbar location. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1">  7122d5e </td>
+    <td colspan="1">  feat(pages): added home, schedule and services pages </td>
+    <td colspan="1">  feat(pages): added home, schedule and services pages </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1">  6d8b77d </td>
+    <td colspan="1">  feat(routing): added routing dependencies. </td>
+    <td colspan="1">  feat(routing): added routing dependencies. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> f9707d6 </td>
+    <td colspan="1"> feat(routing): added routing paths. </td>
+    <td colspan="1"> feat(routing): added routing paths. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1">  a51149c </td>
+    <td colspan="1">  feat(routing): added routing to the toolbar. </td>
+    <td colspan="1">  feat(routing): added routing to the toolbar. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1">  d8a5391 </td>
+    <td colspan="1">  feat(i18n): added language-switcher.. </td>
+    <td colspan="1">  feat(i18n): added language-switcher.. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1">  b985ebc </td>
+    <td colspan="1">  feat(environment): setup environment variables. </td>
+    <td colspan="1">  feat(environment): setup environment variables. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 9033686 </td>
+    <td colspan="1"> feat(http): setup http networking support. </td>
+    <td colspan="1"> feat(http): setup http networking support. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1">  1eb58eb </td>
+    <td colspan="1"> feat(fake-api): setup setup fake api. </td>
+    <td colspan="1"> feat(fake-api): setup setup fake api. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> def4fad </td>
+    <td colspan="1"> fix: header-toolbar location. </td>
+    <td colspan="1"> fix: header-toolbar location. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1">  515cb87 </td>
+    <td colspan="1"> feat(pages): added home, schedule and services pages </td>
+    <td colspan="1"> feat(pages): added home, schedule and services pages </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> dfa3579 </td>
+    <td colspan="1"> feat(routing): added routing dependencies. </td>
+    <td colspan="1"> feat(routing): added routing dependencies. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 95b839a</td>
+    <td colspan="1"> feat(routing): added routing paths. </td>
+    <td colspan="1"> feat(routing): added routing paths. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 59a4a16 </td>
+    <td colspan="1"> feat(routing): added routing to the toolbar. </td>
+    <td colspan="1"> feat(routing): added routing to the toolbar. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> efdbe56 </td>
+    <td colspan="1"> feat(i18n): added language-switcher.. </td>
+    <td colspan="1"> feat(i18n): added language-switcher.. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> ee2c7b4 </td>
+    <td colspan="1"> feat(environment): setup environment variables. </td>
+    <td colspan="1"> feat(environment): setup environment variables. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 903368 </td> 
+    <td colspan="1"> feat(http): setup http networking support. </td>
+    <td colspan="1"> feat(http): setup http networking support. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 7480ed1 </td>
+    <td colspan="1"> feat(fake-api): setup setup fake api. </td>
+    <td colspan="1"> feat(fake-api): setup setup fake api. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 6cd1aa0 </td>
+    <td colspan="1"> feat(server): added db.json data. </td>
+    <td colspan="1"> feat(server): added db.json data. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> b0e0ae9 </td>
+    <td colspan="1"> feat(model): added service entity. </td>
+    <td colspan="1"> feat(model): added service entity. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> d98b4ea </td>
+    <td colspan="1"> feat(service-api): added service-api get functionality. </td>
+    <td colspan="1"> feat(service-api): added service-api get functionality. </td>
+    <td colspan="1"> 26/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> ee3a0cd </td>
+    <td colspan="1"> feat(service): changed service main page dir. </td>
+    <td colspan="1"> feat(service): changed service main page dir. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 9936f7c </td>
+    <td colspan="1"> feat(service): changed service main page dir. </td>
+    <td colspan="1"> feat(service): changed service main page dir. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> b589247 </td>
+    <td colspan="1"> feat(service-list): setup service-list component. </td>
+    <td colspan="1"> feat(service-list): setup service-list component. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 721989c </td>
+    <td colspan="1"> feat(service-item): setup service-item component. </td>
+    <td colspan="1"> feat(service-item): setup service-item component. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 1149d28 </td>
+    <td colspan="1"> feat(service-detail): setup service-detail page. </td>
+    <td colspan="1"> feat(service-detail): setup service-detail page. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> ae5abe9 </td>
+    <td colspan="1"> feat(price-filter): setup price-filter page. </td>
+    <td colspan="1"> feat(price-filter): setup price-filter page. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> f3a6748 </td>
+    <td colspan="1"> feat(category-filter): setup category-filter component. </td>
+    <td colspan="1"> feat(category-filter): setup category-filter component. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> f8f18cb </td>
+    <td colspan="1"> feat(service-entity): added service entity. </td>
+    <td colspan="1"> feat(service-entity): added service entity. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 7ef8940 </td>
+    <td colspan="1"> feat(main): updated global imports. </td>
+    <td colspan="1"> feat(main): updated global imports. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 1ee0f8e </td>
+    <td colspan="1"> feat(categoty-filter): added category-filter component . </td>
+    <td colspan="1"> feat(categoty-filter): added category-filter component . </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> f0d065e </td>
+    <td colspan="1"> feat(price-filter): price-filter component implementation. </td>
+    <td colspan="1"> feat(price-filter): price-filter component implementation. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> eb8759a </td>
+    <td colspan="1"> feat(service-item): service-item component implementation. </td>
+    <td colspan="1"> feat(service-item): service-item component implementation. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> eb1cf33 </td>
+    <td colspan="1"> feat(service-list): service-list component implementation. </td>
+    <td colspan="1"> feat(service-list): service-list component implementation. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 08e03b5 </td>
+    <td colspan="1"> feat(http-common): added provisional base url implementation. </td>
+    <td colspan="1"> feat(http-common): added provisional base url implementation. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 1d017b8 </td>
+    <td colspan="1"> feat(services-page): added filters and service list. </td>
+    <td colspan="1"> feat(services-page): added filters and service list. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 8cbdd19 </td>
+    <td colspan="1"> feat(routes): added service detail routes. </td>
+    <td colspan="1"> feat(routes): added service detail routes. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> d273a62 </td>
+    <td colspan="1"> fix(price-filter): fixed warning . </td>
+    <td colspan="1"> fix(price-filter): fixed warning . </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> c947bc8 </td>
+    <td colspan="1"> feat(service-item): added redirect to service detail. </td>
+    <td colspan="1"> feat(service-item): added redirect to service detail. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> c23717f </td>
+    <td colspan="1"> feat(services-page): added provisional styles. </td>
+    <td colspan="1"> feat(services-page): added provisional styles. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 759c04b </td>
+    <td colspan="1"> feat(index): added routes. </td>
+    <td colspan="1"> feat(index): added routes. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 0201e7b </td>
+    <td colspan="1"> fix(client-service): name refactor of components. </td>
+    <td colspan="1"> fix(client-service): name refactor of components. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 65014de </td>
+    <td colspan="1"> fix(category-filter): fixed api call. </td>
+    <td colspan="1"> fix(category-filter): fixed api call. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 44b37ca </td>
+    <td colspan="1"> feat(client-service-detail): added service detail implementation. </td>
+    <td colspan="1"> feat(client-service-detail): added service detail implementation. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 75ef4d5 </td>
+    <td colspan="1"> feat(routes): added routes. </td>
+    <td colspan="1"> feat(routes): added routes. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 26932dc </td>
+    <td colspan="1"> fix(client-services-page): rename of component. </td>
+    <td colspan="1"> fix(client-services-page): rename of component. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1">  336d712 </td>
+    <td colspan="1"> feat(buisness-services): added buisnness services components. </td>
+    <td colspan="1"> feat(buisness-services): added buisnness services components. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 802d5eb </td>
+    <td colspan="1"> feat(toolbar): fixed toolbar position in page. </td>
+    <td colspan="1"> feat(toolbar): fixed toolbar position in page. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> ce89ef8 </td>
+    <td colspan="1"> feat(business-services): Added business service component. </td>
+    <td colspan="1"> feat(business-services): Added business service component. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 057bc3f </td>
+    <td colspan="1"> feat(business-services): Added business service item component. </td>
+    <td colspan="1"> feat(business-services): Added business service item component. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1">  12b8672 </td>
+    <td colspan="1"> feat(create-business-service): added create business service form. </td>
+    <td colspan="1"> feat(create-business-service): added create business service form. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> a051ab5 </td>
+    <td colspan="1"> feat(create-business-service): added POST function to created a new service. </td>
+    <td colspan="1"> feat(create-business-service): added POST function to created a new service. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 256c068 </td>
+    <td colspan="1"> feat(create-business-service): added the post function to the component create business service. </td>
+    <td colspan="1"> feat(create-business-service): added the post function to the component create business service. </td>
+    <td colspan="1"> 27/09/2024 </td>
+  </tr>
 
-##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+</table>
 
-##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
-##### 5.2.2.8.Team Collaboration Insights during Sprint.
+Para este sprint no se realizaron pruebas debido a que solo corresponde al desarrollo de la primera version del web application.
+
+##### 5.2.2.5. Execution Evidence for Sprint Review.
+
+En este apartado se hace presente el despliegue de la primera versión web application del producto solución Bliss:
+[Bliss](https://frontend-steel-tau-46.vercel.app/)
+
+![execution evidence1](resources/chapter-5/execution-evidence-1.png)
+![execution evidence2](resources/chapter-5/execution-evidence-2.png)
+![execution evidence3](resources/chapter-5/execution-evidence-3.png)
+![execution evidence4](resources/chapter-5/execution-evidence-4.png)
+![execution evidence5](resources/chapter-5/execution-evidence-5.png)
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Antes de hacer el deployment de la aplicacion web, primero se utilizó
+my json server para hacer el deployment de la fake api y poder consumir
+los servicios de la aplicacion web desplegada.
+
+![deployment evidence1](resources/chapter-5/deployment-evidence-1.png)
+![deployment evidence2](resources/chapter-5/deployment-evidence-2.png)
+![deployment evidence3](resources/chapter-5/deployment-evidence-3.png)
+![deployment evidence4](resources/chapter-5/deployment-evidence-4.png)
+![deployment evidence5](resources/chapter-5/deployment-evidence-5.png)
+![deployment evidence6](resources/chapter-5/deployment-evidence-6.png)
+![deployment evidence7](resources/chapter-5/deployment-evidence-7.png)
+![deployment evidence8](resources/chapter-5/deployment-evidence-8.png)
+
+Para hacer el deployment de la aplicacion web se utilizó Vercel,
+una plataforma de deployment de aplicaciones web que permite hacer el
+deployment de aplicaciones web de forma sencilla y rápida.
+
+![deployment evidence9](resources/chapter-5/deployment-evidence-9.png)
+![deployment evidence10](resources/chapter-5/deployment-evidence-10.png)
+![deployment evidence11](resources/chapter-5/deployment-evidence-11.png)
+![deployment evidence12](resources/chapter-5/deployment-evidence-12.png)
+![deployment evidence13](resources/chapter-5/deployment-evidence-13.png)
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Para este sprint se dividieron las tareas en diseño e implementación de la primera version del web application. El desarrollo e implementación de la web application estuvo bajo responsabilidad de Gabriel Casas y Juan Astonitas.
+
+![insight sprint2 1](resources/chapter-5/insights-2sprint-1.png)
+- Juan Astonitas: 31 commits.
+- Gabriel Casas: 30 commits.
+- Gialuca Pasquale: 9 commits.
+
+![insight sprint2 2](resources/chapter-5/insights-2sprint-2.png)
+
 
 ## Conclusiones
 
