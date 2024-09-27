@@ -353,7 +353,7 @@ Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes,
 - ¿Dónde encaja nuestro producto en su trabajo o vida?: Nuestro producto encaja en su rutina diaria proporcionando una manera fácil de reservar servicios de belleza de forma fácil y eficiente.
 - ¿Qué problemas resuelve nuestro producto? : Resuelve el problema de encontrar y reservar servicios de belleza confiables de manera conveniente y segura.
 - ¿Cuándo y cómo se usa nuestro producto? El producto se usa cuando el usuario necesita reservar un servicio de belleza, típicamente a través de una aplicación web.
-- Qué características son importantes?: Características importantes incluyen una interfaz fácil de usar, perfiles de profesionales verificados,detalles del servicio y reseñas de servicios y opciones de pago seguras.
+- Qué características son importantes?: Características importantes incluyen una interfaz fácil de usar, perfiles de profesionales verificados,detalles del servicio , reseñas de servicios y opciones de pago seguras.
 - ¿Cómo debe verse y comportarse nuestro producto? :El producto debe tener un diseño limpio y minimalista, ser fácil de navegar y proporcionar una experiencia de reserva sin complicaciones.
 ###### Business Assumptions (Suposiciones de Negocio)
 - Necesidades y problemas: Creo que mis clientes tienen la necesidad de saber  cómo y dónde acceder a servicios de belleza de manera conveniente y segura.
