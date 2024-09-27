@@ -40,8 +40,9 @@ TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cu
 
 Vista de commits: Landing page:
 
-
-
+![landing-pulse](resources/landingpulse.png)
+![landing-contributors](resources/landingcontributors.png)
+![landing-network](resources/landingnetwork.png)
 
 - Juan Diego Astonitas Díaz: -
 - Gabriel Alexander Casas Sanchez: 6
@@ -51,7 +52,9 @@ Vista de commits: Landing page:
 
 Web Application Frontend:
 
-
+![front-pulse](resources/frontpulse.png)
+![front-contributors](resources/frontcontributors.png)
+![front-network](resources/frontgnetwork.png)
 
 - Juan Diego Astonitas Díaz: 31
 - Gabriel Alexander Casas Sanchez: 30
@@ -61,13 +64,16 @@ Web Application Frontend:
 
 Report: 
 
-
+![report-pulse](resources/reportpulse.png)
+![report-contributors](resources/reportcontributors.png)
+![report-network](resources/reportgnetwork.png)
 
 - Juan Diego Astonitas Díaz: 38
 - Gabriel Alexander Casas Sanchez: 52
 - Gianluca Santino Pasquale Barrenechea: 30
 - Elvia Marcela Rodriguez Villa: 26
-- 
+
+  
 ### TB1 
 
 | Integrante                                 | Tareas Asignadas                                                                                                          |
