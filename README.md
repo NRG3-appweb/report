@@ -348,23 +348,37 @@ Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes,
 
 ##### 1.2.2.2. Lean UX Assumptions
 
-Creo que mis clientes necesitan saber cómo y dónde acceder a servicios de manicure, pedicure y tratamientos faciales a domicilio de manera conveniente y segura.
-
-Estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad.
-
-Mis clientes son personas que buscan comodidad y confiabilidad al reservar servicios de belleza, sin comprometer la calidad y la seguridad.
-
-El valor N°1 que mi cliente quiere de mi servicio es la facilidad de reserva, la calidad de los servicios y la tranquilidad de tener profesionales confiables en su hogar.
-
-El cliente también puede adquirir beneficios adicionales como descuentos por lealtad, recomendaciones personalizadas y acceso a productos exclusivos.
-
-Voy a adquirir a la mayoría de mis clientes a través de estrategias de marketing digital, colaboraciones con empresas de belleza y programas de referidos. Haré dinero a través de anuncios por colaboraciones con marcas de belleza, comisiones por reservas y membresías premium.
-
-Mi competencia principal en el mercado serán aplicaciones similares que ofrecen servicios de belleza a domicilio, salones de belleza locales y plataformas de reserva en línea. Los venceremos debido a nuestra estrategia de enfoque en la seguridad y calidad, personalización de servicios, y programas de fidelización.
-
-Mi mayor riesgo de producto es que los clientes no confíen en la seguridad de tener desconocidos en sus hogares o que prefieran la experiencia tradicional en un salón de belleza.
-
-Resolveremos esto a través de la implementación de rigurosos procesos de verificación de profesionales, garantías de seguridad y promoción de la comodidad y conveniencia de nuestros servicios a domicilio.
+###### User Assumptions (Suposiciones de Usuario)
+- ¿Quién es el usuario?: El usuario es alguien que busca servicios de belleza convenientes y confiables.
+- ¿Dónde encaja nuestro producto en su trabajo o vida?: Nuestro producto encaja en su rutina diaria proporcionando una manera fácil de reservar servicios de belleza de forma fácil y eficiente.
+- ¿Qué problemas resuelve nuestro producto? : Resuelve el problema de encontrar y reservar servicios de belleza confiables de manera conveniente y segura.
+- ¿Cuándo y cómo se usa nuestro producto? El producto se usa cuando el usuario necesita reservar un servicio de belleza, típicamente a través de una aplicación web.
+- Qué características son importantes?: Características importantes incluyen una interfaz fácil de usar, perfiles de profesionales verificados,detalles del servicio y reseñas de servicios y opciones de pago seguras.
+- ¿Cómo debe verse y comportarse nuestro producto? :El producto debe tener un diseño limpio y minimalista, ser fácil de navegar y proporcionar una experiencia de reserva sin complicaciones.
+###### Business Assumptions (Suposiciones de Negocio)
+- Necesidades y problemas: Creo que mis clientes tienen la necesidad de saber  cómo y dónde acceder a servicios de belleza de manera conveniente y segura.
+- Plataforma: Estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad.
+- Segmentación: Mis clientes iniciales son (o serán) personas que buscan comodidad y confiabilidad al reservar servicios de belleza,.
+- Comportamientos: El valor número uno que un cliente quiere obtener de mi servicio es la conveniencia en la reserva y recepción de servicios de belleza de calidad.
+- Beneficios: El cliente también puede obtener estos beneficios adicionales como profesionales verificados, servicios personalizados y garantía de calidad.
+- Captación de clientes: Adquiriré la mayoría de mis clientes a través de marketing digital, redes sociales y asociaciones con marcas de belleza.
+- Modelo de ingresos: Generaré ingresos a través de comisiones por reservas, membresías premium y colaboraciones con marcas de belleza.
+- Competencia: Mi principal competencia en el mercado será aplicaciones similares de servicios de belleza y salones de belleza locales.
+- Los superaremos debido a nuestro enfoque en profesionales verificados, personalización de servicios y facilidad de reserva.
+###### Technical Assumptions (Suposiciones Técnicas)
+- Tecnología utilizada: Podemos utilizar tecnologías móviles y web actuales para construir la aplicación.
+- Integraciones: La aplicación se integrará sin problemas con sistemas de pago y plataformas de marketing digital.
+- Escalabilidad: La solución podrá escalar para manejar un número creciente de usuarios y datos sin problemas de rendimiento.
+###### Market Assumptions (Suposiciones de Mercado)
+- Tamaño del mercado: Existe una gran cantidad de potenciales usuarios interesados en servicios de belleza y cuidado personal.
+- Competencia: Las aplicaciones similares y redes sociales son los principales competidores.
+- Tendencias: El mercado de servicios de belleza y cuidado está creciendo en la región, sin embargo esta no parece crecer dentro de los parámetros de formalidad.
+###### Design Assumptions (Suposiciones de Diseño)
+- Interacción del usuario: Los usuarios encontrarán más fácil navegar por la aplicación si implementamos filtros por categoría y tipo de servicio.
+- Experiencia del usuario: Los usuarios valorarán una experiencia de reserva intuitiva y sin complicaciones.
+- Colores y la tipografía: Los usuarios prefieren una paleta de colores suaves y una tipografía legible.
+- Preferencias visuales: Los usuarios consideran atractivo un diseño limpio y minimalista.
+- Prototipos y pruebas: Necesitamos validar la facilidad de uso y la efectividad del diseño a través de pruebas de usabilidad.
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
