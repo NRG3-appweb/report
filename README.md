@@ -54,7 +54,7 @@ Web Application Frontend:
 
 ![front-pulse](resources/frontpulse.png)
 ![front-contributors](resources/frontcontributors.png)
-![front-network](resources/frontgnetwork.png)
+![front-network](resources/frontnetwork.png)
 
 - Juan Diego Astonitas Díaz: 31
 - Gabriel Alexander Casas Sanchez: 30
@@ -66,7 +66,7 @@ Report:
 
 ![report-pulse](resources/reportpulse.png)
 ![report-contributors](resources/reportcontributors.png)
-![report-network](resources/reportgnetwork.png)
+![report-network](resources/reportnetwork.png)
 
 - Juan Diego Astonitas Díaz: 38
 - Gabriel Alexander Casas Sanchez: 52
