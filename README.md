@@ -1844,7 +1844,7 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
     <td>TS003</td>
     <td>Implementación de la sección de alianzas</td>
     <td>Como desarrollador, quiero implementar la sección de alianzas en la landing page, para mostrar las colaboraciones de Bliss con Montalvo, Soho Color y Artemis.</td>
-    <td3></td>
+    <td></td>
   </tr>
   <tr>
     <td>7</td>
@@ -2199,6 +2199,8 @@ BrandName: Logo y nombre de la marca, repetido en varias secciones para mantener
 
 El wireframe de la landing page de Bliss sirve como una guía visual básica que estructura los elementos clave de la página sin enfocarse en los detalles de diseño. Este esquema inicial muestra la disposición de secciones como el encabezado con el logo y menú de navegación, una propuesta de valor clara, testimonios de usuarios, y llamadas a la acción (call to action) prominentes para motivar a los visitantes a explorar los servicios. El objetivo es asegurar que la experiencia del usuario sea intuitiva y que los elementos estén estratégicamente ubicados para facilitar la conversión de visitantes en usuarios registrados.
 
+
+
 ![Wireframe](resources/LandingPageWireframe.png)
 
 #### 4.3.2. Landing Page Mock-up
@@ -2209,23 +2211,89 @@ El mockup de la landing page representa una versión más detallada y cercana al
 
 ### 4.4. Web Applications UX/UI Design
 
+#### 4.4.1. Web Applications Wireframes.
+
+Los wireframes de las aplicaciones web de Bliss representan la estructura y disposición de las pantallas clave, mostrando la ubicación de los elementos de la interfaz de usuario y la navegación. Estos esquemas visuales proporcionan una guía clara para el diseño final, asegurando que la experiencia del usuario sea intuitiva y eficiente. Los wireframes se centran en la funcionalidad y la usabilidad, permitiendo a los diseñadores y desarrolladores visualizar la interacción del usuario con la aplicación y optimizar la disposición de los elementos para una experiencia fluida y atractiva.
+
+![Book Appointment wireframe](resources/chapter_4/desktop-Book%20Appointment%20wireframe.png)
+![Register Version wireframe](resources/chapter_4/desktop-register-version%20wireframe.png)
+![Login Version wireframe 1](resources/chapter_4/desktop-login-version%20wireframe-1.png)
+![Login Version wireframe](resources/chapter_4/desktop-login-version%20wireframe.png)
+![Form Company Service wireframe](resources/chapter_4/desktop-formCompanyService%20wireframe.png)
+![Form Company Profile wireframe](resources/chapter_4/desktop-formCompanyProfile%20wireframe.png)
+![Company wireframe](resources/chapter_4/desktop-Company%20wireframe.png)
+![Company Detail Version wireframe 1](resources/chapter_4/desktop-company%20Detail-version%20wireframe-1.png)
+![Company Detail Version wireframe](resources/chapter_4/desktop-company%20Detail-version%20wireframe.png)
+![My Services wireframe](resources/chapter_4/desktop-Myservices%20wireframe.png)
+![Schedule wireframe](resources/chapter_4/desktop-Schedule%20wireframe.png)
+![Service Detail wireframe](resources/chapter_4/desktop-Service%20Detail%20wireframe.png)
+![Services wireframe](resources/chapter_4/desktop-Services%20wireframe.png)
+![User Profile Version wireframe](resources/chapter_4/desktop-user%20profile-version%20wireframe.png)
+
+
+#### 4.4.2. Web Applications Wireflow Diagrams.
+##### Registro y Perfil de Empresa
+El presente user flow corresponde con el formulario de registro que solicita el ingreso de la información empresarial, al hacer el registro el visitante cambia de rol a empresa asociada.
+![Registro y Perfil de Empresa](resources/chapter_4/userflow/Registro%20y%20perfil%20de%20empresa.png)
+##### Gestión de Usuario
+El presente user flow corresponde con la gestión de usuario, en el cual el usuario puede iniciar sesión, registrarse, ver su perfil y editar su información.
+![Gestión de Usuario](resources/chapter_4/userflow/Gestión%20de%20usuario.png)
+##### Visualización de Historial y Agenda
+El presente user flow corresponde con la visualización de historial y agenda, en el cual el usuario puede ver su historial de servicios y agendar una cita.
+![Visualización de Historial y Agenda](resources/chapter_4/userflow/Visualización%20de%20historial%20y%20agenda.png)
+##### Reserva de Servicio
+El presente user flow corresponde con la reserva de servicio, en el cual el usuario puede buscar un servicio, ver la disponibilidad y reservar una cita.
+![Reserva de Servicio](resources/chapter_4/userflow/Reserva%20de%20servicio.png)
+##### Creación de Servicio
+El presente user flow corresponde con la creación de servicio, en el cual la empresa puede crear y especificar los detalles de un servicio.
+![Creación de Servicio](resources/chapter_4/userflow/Creación%20de%20servicio.png)
+
+
 #### 4.4.3. Web Applications Mock-ups
-<img src="resources/Section 80.png">
+
+![Schedule Mockup 1](resources/chapter_4/mockup/desktop-Schedule-1.png)
+![Schedule Mockup](resources/chapter_4/mockup/desktop-Schedule.png)
+![Register Version Mockup](resources/chapter_4/mockup/desktop-register-version.png)
+![My Services Mockup](resources/chapter_4/mockup/desktop-Myservices.png)
+![Login Version Mockup 1](resources/chapter_4/mockup/desktop-login-version-1.png)
+![Login Version Mockup](resources/chapter_4/mockup/desktop-login-version.png)
+![Form Company Service Mockup](resources/chapter_4/mockup/desktop-formCompanyService.png)
+![Form Company Profile Mockup 1](resources/chapter_4/mockup/desktop-formCompanyProfile-1.png)
+![Form Company Profile Mockup](resources/chapter_4/mockup/desktop-formCompanyProfile.png)
+![Company Detail Version Mockup 1](resources/chapter_4/mockup/desktop-company%20Detail-version-1.png)
+![Company Detail Version Mockup](resources/chapter_4/mockup/desktop-company%20Detail-version.png)
+![User Profile Version Mockup](resources/chapter_4/mockup/desktop-user%20profile-version.png)
+![Services Mockup](resources/chapter_4/mockup/desktop-Services.png)
+![Service Detail Mockup](resources/chapter_4/mockup/desktop-Service%20Detail.png)
+![Company Mockup](resources/chapter_4/mockup/desktop-Company.png)
+![Book Appointment Mockup](resources/chapter_4/mockup/desktop-Book%20Appointment.png)
+![Container Mockup](resources/chapter_4/mockup/container.png)
+
 
 #### 4.4.4. Web Applications User Flow Diagrams
-<img src="resources/Captura de pantalla 2024-09-07 184824.png">
+
+A continuación un diagrama que representa los user goals.
+
+![User Goals](resources/chapter_4/userflow/User%20Goals.png)
+
 
 ### 4.5. Web Applications Prototyping
+
+A continuación el prototipo de la aplicación web de Bliss, el cual permite a los usuarios interactuar con la interfaz y navegar por las diferentes secciones de la plataforma. El prototipo incluye las principales funcionalidades y características de la aplicación, brindando una vista previa de la experiencia del usuario y facilitando la evaluación y prueba de la interfaz antes de su implementación final.
+ [Link del prototipo en Figma](https://www.figma.com/proto/q8ko2mrIU6grV8qMSgCY3i/BLISS-UX%2FUI-APP-WEB?node-id=1-2&t=VM9izIhSuY0cSXUQ-1)
+
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
 
 En el diagrama de contexto se consideraron tres actores clave para el negocio: los visitantes, que pueden convertirse en usuarios potenciales al visitar la página de inicio; los dueños del negocio, que incluyen tanto a estilistas como a empresas con salones de belleza; y los consumidores, que utilizan el producto final.
-<img src="resources/bliss-context-diagram.png">
+
+![C4 Image 1](resources/chapter_4/c4/c41%20(1).jpeg)
 
 #### 4.6.2. Software Architecture Container Diagrams
 
 En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en la cual los usuarios pueden conectarse a través de sus dispositivos móviles o navegadores a la aplicación. Esta aplicación interactúa con una API REST, la cual gestiona los cinco bounded contexts identificados. Todos estos contextos están integrados a una única base de datos.
-<img src="resources/container-diagram.png">
+
+![C4 Image 2](resources/chapter_4/c4/c41%20(2).jpeg)
 
 #### 4.6.3. Software Architecture Components Diagrams
 
@@ -2233,23 +2301,8 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 
 ##### Service Management Component
 
-<img src="resources/services-component.png" />
+![C4 Image 3](resources/chapter_4/c4/c41%20(3).jpeg)
 
-##### User Management Component
-
-<img src="resources/user-component.png" />
-
-##### Booking Management Component
-
-<img src="resources/booking-component.png" />
-
-##### Notification Component
-
-<img src="resources/notification-component.png" />
-
-##### Payments Component
-
-<img src="resources/payments-component.png" />
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
@@ -2649,7 +2702,7 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
     <td>Enlace</td>
   </tr>
   <tr>
-    <td>Github Pages</td>
+    <td>GitHub Pages</td>
     <td>Para realizar el despliegue de nuestra landing page.</td>
     <td><a href="https://pages.github.com/" target="_blank">https://pages.github.com/</a></td>
   </tr>
