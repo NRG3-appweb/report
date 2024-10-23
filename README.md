@@ -14,9 +14,9 @@
   <h2 >Integrantes:</h2>
   <ul style="list-style: none; padding: 0;">
       <li><h3>Juan Diego Astonitas Díaz</h3></li>
-      <li><h3>Sebastian Aaron Anibal Carbajal Santivañez</h3></li>
       <li><h3>Gabriel Alexander Casas Sanchez</h3></li>
       <li><h3>Gianluca Santino Pasquale Barrenechea</h3></li>
+      <li><h3>Godofredo Quispe Tipo</h3></li>
       <li><h3>Elvia Marcela Rodriguez Villa</h3></li>
   </ul>
   <br>
@@ -62,6 +62,7 @@ Web Application Frontend:
 - Juan Diego Astonitas Díaz: 31
 - Gabriel Alexander Casas Sanchez: 30
 - Gianluca Santino Pasquale Barrenechea: 9
+- Godofredo Quispe Tipo -
 - Elvia Marcela Rodriguez Villa: -
 
 
@@ -74,6 +75,7 @@ Report:
 - Juan Diego Astonitas Díaz: 38
 - Gabriel Alexander Casas Sanchez: 52
 - Gianluca Santino Pasquale Barrenechea: 30
+- Godofredo Quispe Tipo: 
 - Elvia Marcela Rodriguez Villa: 26
 
   
@@ -338,11 +340,11 @@ Solución Propuesta:</br> Bliss proporciona una plataforma que conecta a cliente
     <td> Soy Elvia Rodríguez, estudiante universitaria, egresada de Laboratoria y embajadora de Microsoft. He participado en voluntariados y Hackathons, aplicando mis habilidades en desarrollo de interfaces de usuario (UI) y programación web. Mi experiencia en el ámbito tecnológico y educativo puede contribuir al modelo de negocio mediante la creación de soluciones digitales innovadoras y funcionales. </td>
   </tr>
 <tr>
-    <th colspan="2"> Sebastian Carbajal Santivañez </th>
+    <th colspan="2"> Godofredo Quispe Tipo </th>
   </tr>
   <tr>
-    <td> <img src="resources/chapter-1/sebastian-pfp.jpg" style="width: 300px"> </td>
-    <td>Mi nombre es sebastian carbajal santivañez, me encuentro cursando la carrera de ingeniería de software, me apasiona mucho el explorar nuevos horizontes y oportunidades dentro de mi rubro académico y profesional, me considero además una persona creativa con pensamiento innovador.</td>
+    <td> <img src="resources\chapter-1\Godofredo-pfp.jpg" style="width: 300px"> </td>
+    <td>Mi nombre es Godofredo y actualmente me encuentro cursando la carrera de Ingeniería de Software, un campo que me apasiona profundamente. Mi interés por las nuevas tecnologías es constante, y estoy siempre al tanto de las últimas innovaciones que están redefiniendo el panorama tecnológico. Me considero un entusiasta de la programación, área en la que he adquirido un dominio en diversos lenguajes, tales como Python, C++ y Assembler, lo que me ha permitido abordar una amplia gama de proyectos y desafíos técnicos.</td>
   </tr>
 </table>
 
