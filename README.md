@@ -2292,6 +2292,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
 
 <img src="resources/chapter-5/landing-gitflow-evidence.png">
 
+<<<<<<< HEAD
 ### 5.2.2. Sprint 2
 
 ##### 5.2.2.1.Sprint Planning 2.
@@ -2857,6 +2858,8 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 ![insight sprint2 2](resources/chapter-5/insights-2sprint-2.png)
 
 
+=======
+>>>>>>> parent of db01e8f (Merge pull request #34 from NRG3-appweb/feature/chapter_5)
 ## Conclusiones
 
 - El proyecto Bliss aborda una necesidad creciente en el mercado de servicios de belleza y cuidado personal, donde la demanda por conveniencia y personalización sigue en aumento. Al ofrecer una plataforma que facilita la búsqueda, reserva y pago de estos servicios, Bliss se posiciona estratégicamente para capturar la atención de clientes y proveedores que buscan eficiencia y calidad en sus interacciones. Esta solución no solo mejora la experiencia del usuario, sino que también contribuye a la formalización y profesionalización de un sector con gran potencial de crecimiento.
