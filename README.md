@@ -2923,6 +2923,203 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 </table>
 
 ##### 5.2.3.2. Sprint Backlog 3.
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US006</td>
+    <td rowspan="2">Búsqueda de servicios</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente de búsqueda.</td>
+    <td>Implementar un componente que permita ingresar parámetros para una búsqueda de servicios personalizada.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear Métodos para filtrar los servicios mostrados según los datos del componente de búsqueda</td>
+    <td>Crear el método de filtración que obtenga los parámetros ingresados al componente para un filtrado de los servicios.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US009</td>
+    <td>Visualización del cronograma de citas</td>
+    <td>T01</td>
+    <td>Diseñar e implementar los componentes necesarios para poder visualizar las citas relacionadas con una empresa.</td>
+    <td>Diseñar e implementar la muestra de información de servicio mediante el uso de cards.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US010</td>
+    <td rowspan="2">Pantalla de inicio</td>
+    <td>T01</td>
+    <td>Diseñar e implementar la vista de home donde muestre los servicios y compañías principales para clientes.</td>
+    <td>Diseñar los estilos e implementar un componente que muestre servicios populares.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementación de filtro por popularidad en compañías y servicios.</td>
+    <td>Programar una función que permita ordenar los servicios según su popularidad.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US011</td>
+    <td rowspan="2">Perfil de compañía.</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente de perfil de empresa.</td>
+    <td>Diseñar e implementar un component que muestre la información de la empresa.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementación perfil de empresa, incluyendo rating, reseñas y servicios.</td>
+    <td>Implementar una función que muestre los rating reseñas y servicios relacionados con la empresa.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US012</td>
+    <td rowspan="2">Reservar una cita.</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente para la creación de una reserva.</td>
+    <td>Diseñar e implementar un botón que redirija al formulario de creación de servicios.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear método y validaciones para manejar la información ingresada al formulario de reserva.</td>
+    <td>Crear un método para obtener la información presente en el formulario y construir un nuevo servicio a partir de esta.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US013</td>
+    <td rowspan="2">Dejar valoración y reseña después de la cita.</td>
+    <td>T01</td>
+    <td>Diseñar e Implementar el componente de valoración y reseña.</td>
+    <td>Diseñar e implementar un botón que redirija al formulario de creación de una reseña.</td>
+    <td>4</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear método y validaciones para el formulario de creación y edición de reseña.</td>
+    <td>Crear un método que permita la construcción de una reseña a partir de la información ingresada en el formulario.</td>
+    <td>4</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+      <td rowspan="2">US015</td>
+      <td rowspan="2">Eliminación de servicio</td>
+      <td>T01</td>
+      <td>Diseñar e implementar el componente de eliminación de servicios.</td>
+      <td>Se debe implementar un botón dentro del componente del servicio de la empresa.</td>
+      <td>4</td>
+      <td>Gabriel Alexander Casas Sanchez</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T02</td>
+      <td>Implementar la funcionalidad para eliminar un servicio.</td>
+      <td>Al accionar el botón de eliminación se debe eliminar el servicio sobre el cual esta presente el botón.</td>
+      <td>4</td>
+      <td>Gabriel Alexander Casas Sanchez</td>
+      <td>Done</td>
+    </tr>
+  <tr>
+    <td rowspan="2">US016</td>
+    <td rowspan="2">Actualización de servicios ofrecidos</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente de edición de servicios.</td>
+    <td>Se debe diseñar y agregar un formulario para poder actualizar los datos de un servicio</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear método para manejar los datos del formulario de edición de los datos de un servicio.</td>
+    <td>Se debe implementar un formulario que sea capaz de mostrar la información actual del servicio, así como ingresar los datos que se desean modificar en el mismo formulario.</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US026</td>
+    <td>Cancelación de una cita(compañía)</td>
+    <td>T01</td>
+    <td>Diseñar e implementar un action button para la cancelación de una reserva.</td>
+    <td>Diseñar e implementar un botón que permita cancelar una reserva.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US027</td>
+    <td>Visualización de citas</td>
+    <td>T01</td>
+    <td>Diseñar e implementar los componentes necesarios para poder visualizar las citas relacionadas con un cliente.</td>
+    <td>Diseñar e implementar un componente que muestre las citas pendientes que existen, mostrando la información del servicio y cliente.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US028</td>
+    <td>Cancelación de una cita(cliente)</td>
+    <td>T01</td>
+    <td>Diseñar e implementar un action button para la cancelación de una reserva.</td>
+    <td>Diseñar e implementar un botón que permita cancelar una reserva.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US029</td>
+    <td>Visualización de historial de citas.</td>
+    <td>T01</td>
+    <td>Diseñar e implementar un componente donde se muestren las citas ya completadas.</td>
+    <td>Diseñar e implementar un componente que muestre las citas con estado terminado.</td>
+    <td>4</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 ##### 5.2.3.3. Development Evidence for Sprint Review.
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
