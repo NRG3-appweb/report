@@ -297,7 +297,7 @@ A lo largo del desarrollo del proyecto Bliss, hemos demostrado una fuerte capaci
     </td>
     <td>
 	    TB1: 
-Durante el proyecto Bliss, hemos logrado crear un entorno inclusivo y colaborativo que ha facilitado la participación activa de todos los miembros del equipo. Hemos definido metas claras y planificado tareas detalladamente, lo que ha permitido un seguimiento efectivo del progreso y el cumplimiento de los objetivos. La colaboración y el apoyo mutuo han sido esenciales para asegurar que cada miembro del equipo se sintiera valorado y comprometido. Este enfoque ha contribuido significativamente a la eficiencia y éxito del proyecto.</br>
+Durante el proyecto Bliss, hemos logrado crear un entorno inclusivo y colaborativo que ha facilitado la participación activa de todos los miembros del equipo. Hemos definido metas claras y planificado tareas detalladamente, lo que ha permitido un seguimiento efectivo del progreso y el cumplimiento de los objetivos. La colaboración y el apoyo mutuo han sido esenciales para asegurar que cada miembro del equipo se sintiera valorado y comprometido. Este enfoque ha contribuido significativamente a la eficiencia y éxito del proyecto.<br>
     </td>
   </tr>
 </table>
@@ -3121,6 +3121,83 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 </table>
 
 ##### 5.2.3.3. Development Evidence for Sprint Review.
+
+*Commits realizados en el repositorio de frontend durante el sprint 3:*
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 9271c91 </td>
+    <td colspan="1"> feat(service-management): added the edit business service component. </td>
+    <td colspan="1"> feat(service-management): added the edit business service component. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 7013871 </td>
+    <td colspan="1"> feat(service-management): added redirection to the edit service component. </td>
+    <td colspan="1"> feat(service-management): added redirection to the edit service component. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 3287858 </td>
+    <td colspan="1"> feat(routes): redefined business routes index. </td>
+    <td colspan="1"> feat(routes): redefined business routes index. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 76120f5 </td>
+    <td colspan="1"> feat(service-api): added get service by id endpoint. </td>
+    <td colspan="1"> feat(service-api): added get service by id endpoint. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 4f47a5d </td>
+    <td colspan="1"> feat(service-management): enabled delete service button. </td>
+    <td colspan="1"> feat(service-management): enabled delete service button. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 55e08aa </td>
+    <td colspan="1"> feat(service-management): added edit service form. </td>
+    <td colspan="1"> feat(service-management): added edit service form. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> b910378 </td>
+    <td colspan="1"> feat(service-management): added style to the edit form. </td>
+    <td colspan="1"> feat(service-management): added style to the edit form. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 10d83f4 </td>
+    <td colspan="1"> feat(service-management): enabled edit service button functionality. </td>
+    <td colspan="1"> feat(service-management): enabled edit service button functionality. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+</table>
+
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
