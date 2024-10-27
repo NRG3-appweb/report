@@ -238,6 +238,20 @@ Report:
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1.Spring Planning 3.](#5229sprint-planning-3)
+      - [5.2.3.2.Sprint Backlog 3.](#5230sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review.](#5231-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5232-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5233-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5234-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5235-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5236-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews.](#53-validation-interviews)
+      - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+      - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones según heurísticas.](#533-valuaciones-según-heurísticas)
+  - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -2852,6 +2866,27 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 - Gialuca Pasquale: 9 commits.
 
 ![insight sprint2 2](resources/chapter-5/insights-2sprint-2.png)
+
+
+
+#### 5.2.3. Sprint 3
+##### 5.2.3.1. Spring Planning 3.
+##### 5.2.3.2. Sprint Backlog 3.
+##### 5.2.3.3. Development Evidence for Sprint Review.
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+##### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+### 5.3. Validation Interviews
+#### 5.3.1 Diseño de Entrevistas
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluaciones según heurísticas.
+
+
+### 5.4. Video About-the-Product
 
 
 ## Conclusiones
