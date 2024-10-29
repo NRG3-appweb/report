@@ -3198,6 +3198,338 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
   </tr>
 </table>
 
+*Commits realizados en el repositorio de frontend durante el sprint 3:*
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 30631ed </td>
+    <td colspan="1"> chore: set up project. </td>
+    <td colspan="1"> chore: set up project. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 157c294 </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 84d2016 </td>
+    <td colspan="1"> chore: add database connection string. </td>
+    <td colspan="1"> chore: add database connection string. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 22f2f20 </td>
+    <td colspan="1"> chore: add efc persistence base contracts. </td>
+    <td colspan="1"> chore: add efc persistence base contracts. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 6c42dad </td>
+    <td colspan="1"> chore: add efc persistence extensions. </td>
+    <td colspan="1"> chore: add efc persistence extensions. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 6145c20 </td>
+    <td colspan="1"> feat(services): add service aggregate and create service command. </td>
+    <td colspan="1"> feat(services): add service aggregate and create service command. </td>
+    <td colspan="1"> 25/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 47ddf17 </td>
+    <td colspan="1"> feat(services): added auditable service entity. </td>
+    <td colspan="1"> feat(services): added auditable service entity. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 9d472db </td>
+    <td colspan="1"> feat(services): added services principal queries. </td>
+    <td colspan="1"> feat(services): added services principal queries. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> ce145d4 </td>
+    <td colspan="1"> feat(services): add command, query and outbound service contracts. </td>
+    <td colspan="1"> feat(services): add command, query and outbound service contracts. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 98222f9 </td>
+    <td colspan="1"> chore: add missing share context elements. </td>
+    <td colspan="1"> chore: add missing share context elements. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 1ec3a710 </td>
+    <td colspan="1"> feat(services): added category and company entities. </td>
+    <td colspan="1"> feat(services): added category and company entities. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 4e32fae8 </td>
+    <td colspan="1"> feat(orm): add object-relational mapping rules. </td>
+    <td colspan="1"> feat(orm): add object-relational mapping rules. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 07d37eed </td>
+    <td colspan="1"> feat(services): add service outbound service implementation. </td>
+    <td colspan="1"> feat(services): add service outbound service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 7fff2eee </td>
+    <td colspan="1"> feat(categories): add category auditable features. </td>
+    <td colspan="1"> feat(categories): add category auditable features. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 20993714 </td>
+    <td colspan="1"> feat(companies): add company auditable features. </td>
+    <td colspan="1"> feat(companies): add company auditable features. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 1e70d278 </td>
+    <td colspan="1"> feat(companies): add company commands. </td>
+    <td colspan="1"> feat(companies): add company commands. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> dc44b049 </td>
+    <td colspan="1"> feat(categories): add category commands. </td>
+    <td colspan="1"> feat(categories): add category commands. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 7b38e30b </td>
+    <td colspan="1"> feat(companies): add company get all query. </td>
+    <td colspan="1"> feat(companies): add company get all query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> e4aabd5b </td>
+    <td colspan="1"> feat(categories): add category get all query. </td>
+    <td colspan="1"> feat(categories): add category get all query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 05d2c581 </td>
+    <td colspan="1"> feat(categories): add command, query and outbound service contracts. </td>
+    <td colspan="1"> feat(categories): add command, query and outbound service contracts. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> f5255362 </td>
+    <td colspan="1"> feat(companies): add command, query and outbound service contracts. </td>
+    <td colspan="1"> feat(companies): add command, query and outbound service contracts. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> efa8501c </td>
+    <td colspan="1"> feat(categories): add category outbound service implementation. </td>
+    <td colspan="1"> feat(categories): add category outbound service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> e817ec23 </td>
+    <td colspan="1"> feat(company): add company outbound service implementation. </td>
+    <td colspan="1"> feat(company): add company outbound service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 5a60011b </td>
+    <td colspan="1"> feat(services): add service command service implementation. </td>
+    <td colspan="1"> feat(services): add service command service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 38ead981 </td>
+    <td colspan="1"> feat(services): add service query service implementation. </td>
+    <td colspan="1"> feat(services): add service query service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> ab32248f </td>
+    <td colspan="1"> feat(app) add main application services configuration. </td>
+    <td colspan="1"> feat(app) add main application services configuration. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 68d509f7 </td>
+    <td colspan="1"> feat(categories): added command constructor. </td>
+    <td colspan="1"> feat(categories): added command constructor. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> e9259f24 </td>
+    <td colspan="1"> feat(company): added command constructor. </td>
+    <td colspan="1"> feat(company): added command constructor. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> a0522ce7 </td>
+    <td colspan="1"> feat(categories): add category command and query service implementation. </td>
+    <td colspan="1"> feat(categories): add category command and query service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 9e9d4c9f </td>
+    <td colspan="1"> feat(company): add company command and query service implementation. </td>
+    <td colspan="1"> feat(company): add company command and query service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 752ef955 </td>
+    <td colspan="1"> feat(app): add missing bounded context dependency injection configuration. </td>
+    <td colspan="1"> feat(app): add missing bounded context dependency injection configuration. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> a91db2d2 </td>
+    <td colspan="1"> feat(service-management): add resources. </td>
+    <td colspan="1"> feat(service-management): add resources. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 7165b7a9 </td>
+    <td colspan="1"> feat(service-management): added assemblers. </td>
+    <td colspan="1"> feat(service-management): added assemblers. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 487b3a98 </td>
+    <td colspan="1"> feat(categories): added and implemented find by id query. </td>
+    <td colspan="1"> feat(categories): added and implemented find by id query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 0684bb31 </td>
+    <td colspan="1"> feat(companies): added and implemented find by id query. </td>
+    <td colspan="1"> feat(companies): added and implemented find by id query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> ee73e542 </td>
+    <td colspan="1"> feat(service-management): add category inbound service. </td>
+    <td colspan="1"> feat(service-management): add category inbound service. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> b5d36054 </td>
+    <td colspan="1"> feat(service-management): add company inbound service. </td>
+    <td colspan="1"> feat(service-management): add company inbound service. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> cabd6762 </td>
+    <td colspan="1"> feat(service-management): add service inbound service. </td>
+    <td colspan="1"> feat(service-management): add service inbound service. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> cc2a5d27 </td>
+    <td colspan="1"> feat(service-management): add inbound services. </td>
+    <td colspan="1"> feat(service-management): add inbound services. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 288e18fd </td>
+    <td colspan="1"> fix: added missing swagger run line. </td>
+    <td colspan="1"> fix: added missing swagger run line. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+</table>
+
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
