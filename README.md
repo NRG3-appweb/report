@@ -3539,6 +3539,82 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 
 ### 5.3. Validation Interviews
 #### 5.3.1 Diseño de Entrevistas
+
+## Objetivo de la Entrevista
+Validar la usabilidad y efectividad de la landing page y la aplicación para cada uno de los segmentos de usuarios, asegurando que los flujos de usuario (user flows) sean intuitivos y satisfactorios.
+
+## Elementos de Validación
+- **Landing Page**: Los usuarios interactuarán con la landing page para evaluar la claridad del mensaje, las llamadas a la acción (CTA), la navegación y el diseño.
+- **Aplicación**: Se guiará a los usuarios a través de flujos principales, como la reserva de servicios de belleza, la gestión de servicios y el sistema de feedback.
+
+## User Flows a Validar
+
+### Para el Segmento Cliente
+1. **Navegación del Catálogo de Servicios**: Facilidad para encontrar y explorar servicios (manicure, pedicure, tratamientos faciales, etc.).
+2. **Proceso de Reserva**: Facilidad para reservar un servicio, seleccionar una hora y elegir un profesional.
+3. **Recepción de Servicios**: Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
+
+### Para el Segmento Empresa
+1. **Edición de Cuenta**: Cómo las empresas editan su perfil, incluyendo los servicios que ofrecen.
+2. **Visualización del Perfil de la Empresa**: Cómo la empresa visualiza su propio perfil.
+3. **Creación de Servicio**: Facilidad para crear y personalizar nuevos servicios.
+4. **Gestión de Reservas**: Capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
+5. **Recepción de Reviews y Feedback de Clientes**: Cómo las empresas reciben y gestionan reseñas de los clientes.
+
+## Formato de Registro de la Entrevista
+1. **Datos del Entrevistado**:
+   - Nombre y apellidos
+   - Edad
+   - Distrito de residencia
+   - Dispositivo utilizado (smartphone, tablet, laptop)
+
+### Preguntas para el Segmento Cliente
+
+#### Visualización de Perfil
+- ¿Cómo fue tu experiencia al intentar acceder a tu perfil desde la página principal?
+- ¿Qué aspectos fueron útiles o confusos al revisar la información de tu perfil?
+- Si tuvieras que actualizar tu perfil, ¿cómo procederías? ¿Fue intuitivo?
+- ¿Algo te frustró o sentiste que faltaba al revisar tu perfil?
+
+#### Catálogo de Servicios
+- ¿Fue fácil encontrar lo que buscabas en el catálogo?
+- ¿Cómo describirías la información presentada sobre los servicios?
+- ¿Algún momento te sentiste perdido al explorar el catálogo?
+- ¿Pudiste comparar fácilmente diferentes servicios? ¿Cómo mejorarías este proceso?
+
+#### Creación de Reserva de Cita
+- ¿Qué tan sencillo fue comenzar a reservar una cita?
+- Describe el flujo para crear una reserva. ¿Algún paso generó dudas?
+- ¿El sistema brindó suficiente retroalimentación al completar la reserva?
+- ¿Hubo obstáculos al elegir la fecha o el servicio adecuado?
+
+#### Visualización de Historial
+- Describe tu experiencia al buscar el historial de reservas. ¿Fue intuitivo?
+- ¿Pudiste encontrar la información fácilmente?
+- ¿Hay algo en el historial que cambiarías para mejorar la gestión de reservas pasadas?
+
+#### Reviews
+- Describe el proceso para dejar una review. ¿Fue sencillo?
+- ¿Recibiste suficiente guía para incluir tu review?
+- ¿Te resultó útil valorar tanto el servicio como al proveedor?
+
+### Preguntas para el Segmento Empresa
+
+#### Visualización de Servicios
+- ¿Fue clara la visualización de los servicios de tu empresa en el perfil?
+- ¿Cómo fue la funcionalidad para actualizar o modificar los servicios?
+
+#### Creación de Servicio
+- Describe el proceso para crear un nuevo servicio. ¿Fue claro desde el principio?
+- ¿Qué tan intuitivo fue definir los detalles del servicio (nombre, precio, disponibilidad)?
+- ¿Recibiste suficiente orientación durante la creación del servicio?
+
+#### Gestión de Servicios y Reservas
+- ¿En qué medida el sistema te permite gestionar eficientemente los servicios?
+- ¿Qué desafíos enfrentaste al actualizar la información de la empresa y servicios?
+- ¿Qué aspectos del sistema valoras más en comparación con otras plataformas que usas?
+
+
 #### 5.3.2. Registro de Entrevistas
 #### 5.3.3. Evaluaciones según heurísticas.
 
