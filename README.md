@@ -3570,12 +3570,6 @@ Validar la usabilidad y efectividad de la landing page y la aplicación para cad
 
 ### Preguntas para el Segmento Cliente
 
-#### Visualización de Perfil
-- ¿Cómo fue tu experiencia al intentar acceder a tu perfil desde la página principal?
-- ¿Qué aspectos fueron útiles o confusos al revisar la información de tu perfil?
-- Si tuvieras que actualizar tu perfil, ¿cómo procederías? ¿Fue intuitivo?
-- ¿Algo te frustró o sentiste que faltaba al revisar tu perfil?
-
 #### Catálogo de Servicios
 - ¿Fue fácil encontrar lo que buscabas en el catálogo?
 - ¿Cómo describirías la información presentada sobre los servicios?
