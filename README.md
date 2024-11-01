@@ -3528,6 +3528,88 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> fix: added missing swagger run line. </td>
     <td colspan="1"> 29/10/2024 </td>
   </tr>
+ <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 0a9d9d2 </td>
+    <td colspan="1"> fix: included missing entity when fetching data when searching services by company id. </td>
+    <td colspan="1"> fix: included missing entity when fetching data when searching services by company id. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 2b04774 </td>
+    <td colspan="1"> fix(service-management): added missing queries implementations. </td>
+    <td colspan="1"> fix(service-management): added missing queries implementations. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> eb9c1f0 </td>
+    <td colspan="1"> fix(service-management): fixed access information trough endpoint. </td>
+    <td colspan="1"> fix(service-management): fixed access information trough endpoint. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 5c0e121 </td>
+    <td colspan="1"> feat(controller): implemented delete appointment endpoint. </td>
+    <td colspan="1"> feat(controller): implemented delete appointment endpoint. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 0788e19 </td>
+    <td colspan="1"> fix(controller): added await to handle call for delete appointment command service in appointment controller. </td>
+    <td colspan="1"> fix(controller): added await to handle call for delete appointment command service in appointment controller. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> b584982 </td>
+    <td colspan="1"> feat(repositories): implemented find by service id and time , and find by user d and time. </td>
+    <td colspan="1"> feat(repositories): implemented find by service id and time , and find by user d and time. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> cec503e </td>
+    <td colspan="1"> feat(repositories): aded find appointment by id contract. </td>
+    <td colspan="1"> feat(repositories): aded find appointment by id contract. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 6f38927 </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 6589f77 </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 6825f04 </td>
+    <td colspan="1"> feat(controller): added new endpoint to update an existing appointment. </td>
+    <td colspan="1"> feat(controller): added new endpoint to update an existing appointment. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+  
+
 </table>
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
