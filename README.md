@@ -4541,20 +4541,20 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Historial y reseña                                     | Preferiría otro título para la sección y menciona que poder arrastrar la imagen hacia la sección de reviews facilitaría el proceso                   |
 | Navegación general                                     | Aprecia mucho la facilidad de uso de la toolbar, sin embargo comenta preferir un sidebar para mayor comodidad de navegación vertical                 |
 
-| Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                                                        |
-|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                     |                                                                                                                                          |
-| Edad                                                    |                                                                                                                                                 |
-| Profesión                                               |                                                                                                           |
-| Departamento                                            |                                                                                                                                               |
-| Duración de la Entrevista                               |                                                                                                                                                |
-| **Análisis de la Entrevista**                           |                                                                                                                                                        |
-| Búsqueda de servicio                                    |                                                   |
-| Visualización de informacaión del servicio              |                                                |
-| Reservar un servicio                                    |                                                                         |
-| Confirmación y agenda de citas pendientes               |                                                 |
-| Historial y reseña                                      |  |
-| Navegación general                                      |  |
+| Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                               |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                    | Aldo Vasquez                                                                                                  |
+| Edad                                                   | 20 Años                                                                                                                       |
+| Profesión                                              | Estudiante de Ingeniería Ambiental                                                                                                    |
+| Departamento                                           | Lima, Perú                                                                                                                    |
+| Duración de la Entrevista                              | 00:00 min                                                                                                                     |
+| **Análisis de la Entrevista**                          |                                                                                                                               |
+| Búsqueda de servicio                                   | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos. |
+| Visualización de información del servicio              | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente. |
+| Reservar un servicio                                   | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo. |
+| Confirmación y agenda de citas pendientes              | Valora la retroalimentación del sistema, especialmente la confirmación inmediata y los recordatorios previos a cada cita.       |
+| Historial y reseña                                     | Encuentra el historial fácil de acceder, pero sugiere agregar opciones de filtro para organizar reservas pasadas por fecha o tipo de servicio. |
+| Navegación general                                     | Destaca la utilidad del toolbar, sin mayores sugerencias al respecto.                                                         |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
 
