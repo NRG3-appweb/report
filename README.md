@@ -3977,8 +3977,361 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 Enlace a video de demostración: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/EbpLlx7efLpAlmAg8vZigzEBkE0KLOMuZW2g1ZvFq_6Mpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFybCk">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/EbpLlx7efLpAlmAg8vZigzEBkE0KLOMuZW2g1ZvFq_6Mpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFybCk</a>
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+Para este sprint se logró documentar 21 endpoints repartidos en 5 controladores siendo estos el appointment controller, review controller, service controller, category controller y company controller. Para la documentación de los servicios se utilizó Swagger, una herramienta que permite documentar y probar servicios REST de manera sencilla y rápida. Para acceder a la documentación de los servicios se debe ingresar a la URL del servidor en el puerto designado según el tipo de ejecución (http, https, IIS), seguido de /swagger/index.html.
 
+**AppointmentController**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Appointments </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/appointments/{appointmentId} </td>
+        <td colspan="1"> Get appointments by id </td>
+        <td colspan="1"> Get an appointments by the id it has </td>
+        <td colspan="1"> GetAppointmentById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> appointmentId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Appointments </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/appointments/{appointmentId} </td>
+        <td colspan="1"> Delete an appointment by id </td>
+        <td colspan="1"> Delete an appointment in a system by its id </td>
+        <td colspan="1"> DeleteAppointmentById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> appointmentId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Appointments </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/appointments/{appointmentId} </td>
+        <td colspan="1"> Update an existing appointment </td>
+        <td colspan="1"> Update an appointment by its id </td>
+        <td colspan="1"> UpdateAppointmentById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> appointmentId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Appointments </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/appointments/user/{userId} </td>
+        <td colspan="1"> Get appointments by user id </td>
+        <td colspan="1"> Get the appointments a user has </td>
+        <td colspan="1"> GetAppointmentsByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Appointments </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/appointments </td>
+        <td colspan="1"> Create a new appointment </td>
+        <td colspan="1"> Create a new appointment in the system </td>
+        <td colspan="1"> CreateAppointment </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
 
+**CategoryController**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Categories </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/categories </td>
+        <td colspan="1"> Create a new category </td>
+        <td colspan="1"> Create a new category in the system </td>
+        <td colspan="1"> CreateCategory </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Categories </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/categories </td>
+        <td colspan="1"> Get all categories </td>
+        <td colspan="1"> Get all categories in the system </td>
+        <td colspan="1"> GetAllCategories </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Categories </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/categories/{categoryId} </td>
+        <td colspan="1"> Get category by id </td>
+        <td colspan="1"> Get a category by its id </td>
+        <td colspan="1"> GetCategoryById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> categoryId   </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+
+**CompanyController**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Companies </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/companies </td>
+        <td colspan="1"> Create a new company </td>
+        <td colspan="1"> Create a new company in the system </td>
+        <td colspan="1"> CreateCompany </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Companies </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/companies </td>
+        <td colspan="1"> Get all company </td>
+        <td colspan="1"> Get all company in the system </td>
+        <td colspan="1"> GetAllCompanies </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Companies </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/companies/{companyId} </td>
+        <td colspan="1"> Get company by id </td>
+        <td colspan="1"> Get a company by its id </td>
+        <td colspan="1"> GetCompanyById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2 companyId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+
+**ReviewController**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/reviews/{reviewId}</td>
+        <td colspan="1"> Get review by id </td>
+        <td colspan="1"> Get a review by the id it has </td>
+        <td colspan="1"> GetReviewById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> reviewId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/reviews/{reviewId}</td>
+        <td colspan="1"> Delete a review by id </td>
+        <td colspan="1"> Delete a review in the system by its id </td>
+        <td colspan="1"> DeleteReviewById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> reviewId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/reviews/{reviewId}</td>
+        <td colspan="1"> Update a review by id </td>
+        <td colspan="1"> Update a review in the system by its id </td>
+        <td colspan="1"> UpdateReviewById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> reviewId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/reviews/user/{userId}</td>
+        <td colspan="1"> Get reviews by user id </td>
+        <td colspan="1"> Get the reviews a user has </td>
+        <td colspan="1"> GetReviewsByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/reviews/company/{companyId}</td>
+        <td colspan="1"> Get reviews by company id </td>
+        <td colspan="1"> Get the reviews a company has </td>
+        <td colspan="1"> GetReviewsByCompanyId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> companyId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/reviews</td>
+        <td colspan="1"> Create a new review </td>
+        <td colspan="1"> Create a new review in the system </td>
+        <td colspan="1"> CreateReview </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+**ServiceController**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Services </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/companies/{companyId}/services </td>
+        <td colspan="1"> Get all services by company id </td>
+        <td colspan="1"> Get all services for a company in the system </td>
+        <td colspan="1"> GetServicesByCompanyId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> companyId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Services </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/service/{serviceId} </td>
+        <td colspan="1"> Get service by id </td>
+        <td colspan="1"> Get a service by its id </td>
+        <td colspan="1"> GetServiceById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> serviceId </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Services </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/service </td>
+        <td colspan="1"> Get all services </td>
+        <td colspan="1"> Get all services in the system </td>
+        <td colspan="1"> GetAllServices </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Services </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/service </td>
+        <td colspan="1"> Create a new service </td>
+        <td colspan="1"> Create a new service in the system </td>
+        <td colspan="1"> CreateService </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 **Diseño**
