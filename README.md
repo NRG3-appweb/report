@@ -4556,7 +4556,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
 
-| Entrevista 4: Mypes o emprendedores |                                                                                                                                                                                                                        |
+| Entrevista 1: Mypes o emprendedores |                                                                                                                                                                                                                        |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nombre Entrevistado                 | Eliana                                                                                                                                                                                                                 |
 | Edad                                | 18 Años                                                                                                                                                                                                                |
@@ -4570,35 +4570,34 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Recepción de reviews                | Menciona que le gusta la opción de reseñas, pero preferiría que solo algunas fueran visibles y que se pudiera responde                                                                                                               |
 | Navegación general                  | Navegar es sencillo, pero menciona que le gustaría que fuera más rápido y con menos pasos entre secciones |
 
-| Entrevista a Emprendedor/MYPE - 2                    |                                                                                                                                                             |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistad@                                  |                                                                                                                                              |
-| Edad                                                 |                                                                                                                                                       |
-| Profesión                                            |                                                                                                                                    |
-| Departamento                                         |                                                                                                                                                  |
-| Duración de la Entrevista                            |                                                                                                                                                    |
-| **Análisis de la Entrevista**                        |                                                                                                                                                             |
-| Análisis de la Entrevista           |                                                                                                                                                                                                                        |
-| Visualización de Perfil             |                                                                                                                                      |
-| Manejo de servicios                 |                                                                             |
-| Gestión de reservas                 |                                                                            |
-| Recepción de reviews                |                                                                                                                |
-| Navegación general                  |  |
+| Entrevista 2: Mypes o emprendedores    |                                                                                                                         |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                | Flavio Gallardo                                                                                                               |
+| **Edad**                               | 20 Años                                                                                                                |
+| **Profesión**                          | Dueño de centro de belleza independiente                                                                                           |
+| **Departamento**                       | Lima, Perú                                                                                                             |
+| **Duración de la Entrevista**          | 00:00 min                                                                                                              |
+| **Análisis de la Entrevista**          |                                                                                                                         |
+| **Visualización de Perfil**            | El perfil es claro, pero Flavio desearía que fuera más dinámico y visual para atraer mejor la atención de los clientes. |
+| **Manejo de servicios**                | La creación de servicios le resulta fácil, aunque le gustaría más opciones de personalización, como intervalos de tiempo predefinidos. |
+| **Gestión de reservas**                | Encuentra funcional la gestión de reservas, pero preferiría tener un calendario visual con todas las citas pendientes para facilitar el seguimiento. |
+| **Recepción de reviews**               | Le agrada la opción de recibir reseñas, pero preferiría que solo algunas fueran visibles y que pudiera responder a ellas para interactuar con sus clientes. |
+| **Navegación general**                 | La navegación es sencilla, aunque le gustaría que fuera más rápida y con menos pasos entre secciones. |
 
-| Entrevista a Emprendedor/MYPE - 2                    |                                                                                                                                                             |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistad@                                  |                                                                                                                                              |
-| Edad                                                 |                                                                                                                                                      |
-| Profesión                                            |                                                                                                                                    |
-| Departamento                                         |                                                                                                                                                  |
-| Duración de la Entrevista                            |                                                                                                                                                     |
-| **Análisis de la Entrevista**                        |                                                                                                                                                             |
-| Análisis de la Entrevista           |                                                                                                                                                                                                                        |
-| Visualización de Perfil             |                                                                                                                                      |
-| Manejo de servicios                 |                                                                             |
-| Gestión de reservas                 |                                                                            |
-| Recepción de reviews                |                                                                                                                |
-| Navegación general                  |  |
+
+| Entrevista 3: Mypes o emprendedores    |                                                                                                                         |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                | Juan Esteban                                                                                                              |
+| **Edad**                               | 20 Años                                                                                                                |
+| **Profesión**                          | Dueño de centro de belleza independiente                                                                                              |
+| **Departamento**                       | Lima, Perú                                                                                                         |
+| **Duración de la Entrevista**          | 00:00 min                                                                                                              |
+| **Análisis de la Entrevista**          |                                                                                                                         |
+| **Visualización de Perfil**            | Considera que el perfil es claro y fácil de leer, aunque cree que añadir una breve descripción o imagen destacada junto a cada servicio lo haría más atractivo. |
+| **Manejo de servicios**                | Encuentra sencillo el proceso de crear servicios, pero preferiría poder hacer cambios rápidos desde la lista general, sin necesidad de editar cada servicio por separado. |
+| **Gestión de reservas**                | Comenta que la gestión de reservas es práctica, aunque le gustaría tener un tablero de control que muestre un resumen de las reservas activas. |
+| **Recepción de reviews**               | Le gusta la opción de recibir reseñas, pero sugiere incluir una opción de organización por fecha o relevancia para facilitar la visualización. |
+| **Navegación general**                 | Menciona que la navegación es intuitiva, pero sugiere que un tablero con funciones clave reduciría la necesidad de tantos pasos entre secciones. |
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
