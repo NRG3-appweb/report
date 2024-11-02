@@ -238,20 +238,20 @@ Report:
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
-  - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1.Spring Planning 3.](#5229sprint-planning-3)
-      - [5.2.3.2.Sprint Backlog 3.](#5230sprint-backlog-3)
-      - [5.2.3.3. Development Evidence for Sprint Review.](#5231-development-evidence-for-sprint-review)
-      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5232-testing-suite-evidence-for-sprint-review)
-      - [5.2.3.5. Execution Evidence for Sprint Review.](#5233-execution-evidence-for-sprint-review)
-      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5234-services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5235-software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5236-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews.](#53-validation-interviews)
-      - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-      - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
-      - [5.3.3. Evaluaciones según heurísticas.](#533-valuaciones-según-heurísticas)
-  - [5.4. Video About-the-Product.](#54-video-about-the-product)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Spring Planning 3.](#5231-spring-planning-3)
+      - [5.2.3.2. Sprint Backlog 3.](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -1328,8 +1328,6 @@ BrandName: Logo y nombre de la marca, repetido en varias secciones para mantener
 
 El wireframe de la landing page de Bliss sirve como una guía visual básica que estructura los elementos clave de la página sin enfocarse en los detalles de diseño. Este esquema inicial muestra la disposición de secciones como el encabezado con el logo y menú de navegación, una propuesta de valor clara, testimonios de usuarios, y llamadas a la acción (call to action) prominentes para motivar a los visitantes a explorar los servicios. El objetivo es asegurar que la experiencia del usuario sea intuitiva y que los elementos estén estratégicamente ubicados para facilitar la conversión de visitantes en usuarios registrados.
 
-
-
 ![Wireframe](resources/LandingPageWireframe.png)
 
 #### 4.3.2. Landing Page Mock-up
@@ -1377,7 +1375,6 @@ El presente user flow corresponde con la reserva de servicio, en el cual el usua
 El presente user flow corresponde con la creación de servicio, en el cual la empresa puede crear y especificar los detalles de un servicio.
 ![Creación de Servicio](resources/chapter_4/userflow/Creación%20de%20servicio.png)
 
-
 #### 4.4.3. Web Applications Mock-ups
 
 ![Schedule Mockup 1](resources/chapter_4/mockup/desktop-Schedule-1.png)
@@ -1398,7 +1395,6 @@ El presente user flow corresponde con la creación de servicio, en el cual la em
 ![Book Appointment Mockup](resources/chapter_4/mockup/desktop-Book%20Appointment.png)
 ![Container Mockup](resources/chapter_4/mockup/container.png)
 
-
 #### 4.4.4. Web Applications User Flow Diagrams
 
 A continuación un diagrama que representa los user goals.
@@ -1415,13 +1411,13 @@ A continuación el prototipo de la aplicación web de Bliss, el cual permite a l
 
 En el diagrama de contexto se consideraron tres actores clave para el negocio: los visitantes, que pueden convertirse en usuarios potenciales al visitar la página de inicio; los dueños del negocio, que incluyen tanto a estilistas como a empresas con salones de belleza; y los consumidores, que utilizan el producto final.
 
-![C4 Image 1](resources/chapter_4/c4/c41%20(1).jpeg)
+![C4 Image 1](resources/chapter_4/c4/c4-context-diagram.png)
 
 #### 4.6.2. Software Architecture Container Diagrams
 
 En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en la cual los usuarios pueden conectarse a través de sus dispositivos móviles o navegadores a la aplicación. Esta aplicación interactúa con una API REST, la cual gestiona los cinco bounded contexts identificados. Todos estos contextos están integrados a una única base de datos.
 
-![C4 Image 2](resources/chapter_4/c4/c41%20(2).jpeg)
+![C4 Image 2](resources/chapter_4/c4/c4-container-diagram.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
 
@@ -1429,12 +1425,19 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 
 ##### Service Management Component
 
-![C4 Image 3](resources/chapter_4/c4/c41%20(3).jpeg)
+**Service Management Bounded Context**
+![C4 Service Management](resources/chapter_4/c4/c4-component-diagram-service-management.png)
+
+**Review Management Bounded Context**
+![C4 Review Management](resources/chapter_4/c4/c4-component-diagram-review-management.png)
+
+**Appointment Management Bounded Context**
+![C4 Appointment Management](resources/chapter_4/c4/c4-component-diagram-appointment-management.png)
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 
-<img src="resources/classdiagram1.png" />
+<img src="resources/chapter_4/uml-diagram-class.PNG"/>
 
 #### 4.7.2. Class Dictionary
 
@@ -1446,82 +1449,49 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
     <td><strong>Tipo de dato</strong></td>
   </tr>
   <tr>
-    <td colspan = "4">Customer</td>
+    <td colspan = "4">User</td>
   </tr>
   <tr>
     <td>1</td>
-    <td>firstName</td>
+    <td>FirstName</td>
     <td>Almacena el primer nombre del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>lastName</td>
+    <td>LastName</td>
     <td>Almacena el apellido del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>3</td>
     <td>DNI</td>
     <td>Almacena el dni del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>phone</td>
+    <td>Phone</td>
     <td>Almacena el telefono del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>adress</td>
+    <td>Adress</td>
     <td>Almacena la dirección del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>city</td>
+    <td>City</td>
     <td>Almacena la ciudad del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>fechaNacimiento</td>
+    <td>BirthDate</td>
     <td>Almacena la fecha de nacimiento del cliente.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>region</td>
-    <td>Almacena la region del cliente.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>historial</td>
-    <td>Almacena el historial de reservas del cliente.</td>
-    <td>Historial</td>
-  </tr>
-  <tr>
-    <td colspan = "4">User</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>nickname</td>
-    <td>Almacena el apodo del usuario.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>emailAdress</td>
-    <td>Almacena el email del usuario.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>password</td>
-    <td>Almacena la contrseña del usuario.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td colspan = "4">Company</td>
@@ -1530,233 +1500,189 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
     <td>1</td>
     <td>name</td>
     <td>Almacena el nombre de la compañia.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>RUC</td>
-    <td>Almacena el RUC de la empresa.</td>
-    <td>String</td>
+    <td>Email</td>
+    <td>Almacena el email de la empresa.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>city</td>
-    <td>Almacena la ciudad en la que se encuentra la empresa.</td>
-    <td>String</td>
+    <td>WebsiteUrl</td>
+    <td>Almacena el enlace a la página web de la empresa.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>address</td>
-    <td>Almacena la dirección de la compañia.</td>
-    <td>String</td>
+    <td>PhoneNumber</td>
+    <td>Almacena el telefono de contacto de la compañia.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>phone</td>
-    <td>Almacena el telefono de contacto de la compañia.</td>
-    <td>String</td>
+    <td>Description</td>
+    <td>Almacena una breve descripción relacionada con la empresa.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>email</td>
-    <td>Almacena el correo electrónico de la empresa.</td>
-    <td>String</td>
+    <td>Specialists</td>
+    <td>Almacena una lista de los especialistas de la empresa.</td>
+    <td>List< Specialist ></td>
   </tr>
   <tr>
     <td>7</td>
-    <td>description</td>
-    <td>Almacena una breve descripción relacionada con la empresa.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>region</td>
-    <td>Almacena la region en la que se encuentra la empresa.</td>
-    <td>String</td>
-  </tr>
-  <tr> 
-    <td colspan="4">Local</td>
-  </tr> 
-  <tr>
-    <td>1</td> 
-    <td>name</td> 
-    <td>Almacena el nombre del local.</td> 
-    <td>String</td> 
-  </tr> 
-  <tr> 
-    <td>2</td> 
-    <td>address</td> 
-    <td>Almacena la dirección del local.</td> 
-    <td>String</td> 
-  </tr> 
-  <tr> 
-    <td>3</td> 
-    <td>phone</td> 
-    <td>Almacena el número de teléfono del local.</td> 
-    <td>String</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Payment</td>
-  </tr>
-  <tr> 
-  <td colspan="4">Payment</td> 
-  </tr> 
-  <tr> 
-    <td>1</td> 
-    <td>status</td> 
-    <td>Almacena el estado del pago.</td> 
-    <td>String</td> 
+    <td>Services</td>
+    <td>Almacena una lista de los servicios de la empresa.</td>
+    <td>List< Service ></td>
   </tr>
   <tr>
     <td colspan = "4">Appointment</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>status</td> 
+    <td>Status</td> 
     <td>Almacena el estado de la cita.</td> 
-    <td>String</td> 
+    <td>int</td> 
   </tr> 
   <tr> 
     <td>2</td> 
-    <td>date</td> 
+    <td>ReservationDate</td> 
     <td>Almacena la fecha de la cita.</td> 
-    <td>Date</td> 
+    <td>DateTime</td> 
   </tr> 
   <tr> 
     <td>3</td> 
-    <td>requirements</td> 
-    <td>Almacena los requisitos de la cita.</td> 
-    <td>Requirements[]</td> 
+    <td>ReservationStartTime</td> 
+    <td>Almacena la hora de inicio de la reserva.</td> 
+    <td>TimeOnly</td> 
   </tr> 
   <tr> 
     <td>4</td> 
-    <td>service</td> 
-    <td>Almacena el servicio relacionado con la cita.</td> 
+    <td>Requirements</td> 
+    <td>Almacena los requisitos de la cita.</td> 
+    <td>string</td> 
+  </tr>
+    <tr> 
+    <td>5</td> 
+    <td>Service</td> 
+    <td>Almacena el servicio de la cita.</td> 
     <td>Service</td> 
   </tr>
-  <tr>
-    <td colspan = "4">Appointment_cart</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>appointment</td> 
-    <td>Almacena los detalles de la cita en el carrito.</td> 
-    <td>Appointment</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Historial</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>appointment</td>
-    <td>Almacena los detalles de la cita histórica.</td>
-    <td>Appointment</td>
+    <tr> 
+    <td>6</td> 
+    <td>User</td> 
+    <td>Almacena el usuario de la cita.</td> 
+    <td>User</td> 
   </tr>
   <tr>
     <td colspan = "4">Specialist</td>
   </tr>
   <tr>
     <td>1</td>
-    <td>firstName</td> 
+    <td>Name</td> 
     <td>Almacena el nombre del especialista.</td> 
-    <td>String</td> 
+    <td>string</td> 
   </tr> 
-  <tr> 
-    <td>2</td> 
-    <td>lastName</td> 
-    <td>Almacena el apellido del especialista.</td> 
-    <td>String</td> 
-  </tr> 
-  <tr> 
-    <td>3</td> 
-    <td>speciality</td> 
-    <td>Almacena la especialidad del especialista.</td> 
-    <td>String</td> 
-  </tr>
   <tr>
     <td colspan = "4">Category</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>name</td> 
+    <td>Name</td> 
     <td>Almacena el nombre de la categoría.</td> 
-    <td>String</td> 
+    <td>string</td> 
   </tr>
+  <tr> 
+    <td>2</td> 
+    <td>Description</td> 
+    <td>Almacena la descripción de la categoría.</td> 
+    <td>string</td> 
+  </tr> 
   <tr>
     <td colspan = "4">Service</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>serviceName</td> 
+    <td>Name</td> 
     <td>Almacena el nombre del servicio.</td> 
-    <td>String</td> 
-  </tr> 
+    <td>string</td> 
+  </tr>
   <tr> 
     <td>2</td> 
-    <td>price</td> 
-    <td>Almacena el precio del servicio.</td> 
-    <td>Double</td> 
+    <td>Description</td> 
+    <td>Almacena una breve descripción del servicio.</td> 
+    <td>string</td> 
   </tr> 
   <tr> 
     <td>3</td> 
-    <td>duration</td> 
-    <td>Almacena la duración del servicio.</td> 
-    <td>Double</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Service_type</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>name</td> 
-    <td>Almacena el nombre del tipo de servicio.</td> 
-    <td>String</td> 
+    <td>Price</td> 
+    <td>Almacena el precio del servicio.</td> 
+    <td>double</td> 
   </tr> 
   <tr> 
-    <td>2</td> 
-    <td>category</td> 
-    <td>Almacena la categoría relacionada con el tipo de servicio.</td> 
+    <td>4</td> 
+    <td>Duration</td> 
+    <td>Almacena la duración del servicio.</td> 
+    <td>double</td> 
+  </tr>
+  <tr> 
+    <td>5</td> 
     <td>Category</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Requirement</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>attribute</td> 
-    <td>Almacena el atributo requerido.</td> 
-    <td>String</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">RequirementsDecorator/td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>requirement</td> 
-    <td>Almacena el requisito decorado.</td> 
-    <td>Requirement</td> 
+    <td>Almacena la categoria del servicio.</td> 
+    <td>Category</td> 
   </tr>
   <tr>
     <td colspan = "4">Review</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>description</td> 
-    <td>Almacena la descripción de la reseña.</td> 
-    <td>String</td> 
+    <td>Rating</td> 
+    <td>Almacena la calificación de la reseña.</td> 
+    <td>double</td> 
   </tr> 
   <tr> 
     <td>2</td> 
-    <td>value</td> 
-    <td>Almacena el valor de la reseña (calificación).</td> 
-    <td>Int</td> 
+    <td>Comment</td> 
+    <td>Almacena el comentario relacionado con la reseña.</td> 
+    <td>string</td> 
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Image</td>
+    <td>Almacena la imagen de la reseña</td>
+    <td>Image</td>
+  </tr>
+    <tr>
+    <td>4</td>
+    <td>Usuario</td>
+    <td>Almacena el usuario de la reseña</td>
+    <td>Image</td>
+  </tr>
+    <tr>
+    <td>5</td>
+    <td>Appoinment</td>
+    <td>Almacena la cita de la reseña</td>
+    <td>Appoinment</td>
+  </tr>
+  <tr>
+    <td colspan = "4">Image</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>1</td>
+    <td>ImgUrl</td>
+    <td>Almacena el enlace de la imagen</td>
+    <td>string</td>
   </tr>
 </table>
 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 
-![Database](resources/BlissDatabaseDesign.png "Bliss Database")
+![Database](resources/chapter_4/bliss-data-base.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
