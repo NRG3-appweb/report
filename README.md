@@ -2863,7 +2863,7 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 3 Goal</strong></td>
-    <td colspan="1">Nuestro enfoque es mejorar la experiencia de los clientes y dueños mediante la optimización de la gestión de servicios y citas, proporcionando herramientas que faciliten la toma de decisiones informadas y el seguimiento de las reservas.<br>Creemos que esto proporcionará a los clientes una manera más sencilla de seleccionar y administrar sus servicios, así como una mejor visibilidad de sus citas y reseñas. Para los dueños, ofrecerá la capacidad de gestionar eficazmente la información de su empresa y servicios, mejorando la calidad del servicio brindado.<br>Esto se confirmará cuando los clientes puedan realizar reservas informadas basadas en sus necesidades, agendar y cancelar citas fácilmente, y los dueños puedan editar, crear y eliminar servicios, así como mejorar la gestión de sus citas y la calidad del servicio ofrecido.</td>
+    <td colspan="1">Nuestro enfoque es mejorar la experiencia de los clientes y dueños mediante la optimización de la gestión de servicios y citas, proporcionando herramientas que faciliten la toma de decisiones informadas y el seguimiento de las reservas. Creemos que esto proporcionará a los clientes una manera más sencilla de seleccionar y administrar sus servicios, así como una mejor visibilidad de sus citas y reseñas. Para los dueños, ofrecerá la capacidad de gestionar eficazmente la información de su empresa y servicios, mejorando la calidad del servicio brindado. Además de brindar una interfaz de programación de aplicaciones para el manejo de citas y servicios al equipo de desarrollo. Esto se confirmará cuando los clientes puedan realizar reservas informadas basadas en sus necesidades, agendar y cancelar citas fácilmente, y los dueños puedan editar, crear y eliminar servicios, así como mejorar la gestión de sus citas y la calidad del servicio ofrecido. Y los desarrolladores puedan implementar nuevos objetos a través del API.</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 3 Velocity</strong></td>
@@ -4007,7 +4007,11 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 ![execution_front18](resources/chapter-5/front18.png)
 ![execution_front19](resources/chapter-5/front19.png)
 Enlace a video de demostración: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/EbpLlx7efLpAlmAg8vZigzEBkE0KLOMuZW2g1ZvFq_6Mpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFybCk">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/EbpLlx7efLpAlmAg8vZigzEBkE0KLOMuZW2g1ZvFq_6Mpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFybCk</a>
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 **Diseño**
 Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
