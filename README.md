@@ -2817,11 +2817,11 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
     <td colspan="1">Juan Astonitas, Gabriel Casas, Godofredo Quispe, Gianluca Pasquale, Elvia Rodriguez</td>
   </tr>
   <tr>
-    <td colspan="1"><strong>Sprint n – 2 Review Summary</strong></td>
+    <td colspan="1"><strong>Sprint 2 Review Summary</strong></td>
     <td colspan="1">Se realizó el primer despliegue de la web application, implementando funcionalidades básicas como la creación de servicios y visualización de datos.</td>
   </tr>
   <tr>
-    <td colspan="1"><strong>Sprint n – 2 Retrospective Summary</strong></td>
+    <td colspan="1"><strong>Sprint 2 Retrospective Summary</strong></td>
     <td colspan="1">Hubo un incremento considerable en la productividad y compromiso del equipo hacia el trabajo. Ademá se plantearon las bases para una organización efectiva.</td>
   </tr>
   <tr>
