@@ -1136,6 +1136,9 @@ En esta sección se presenta el Impact Mapping para el modelo de negocio digital
 | 32        | US027    | Visualización de citas                       | Como centro de belleza, quiero poder cancelar una cita programada para gestionar la disponibilidad de nuestros servicios.                                                     | 3  |
 | 33        | US028    | Cancelación de una cita(cliente)             | Como cliente, quiero poder cancelar una cita programada para liberar mi tiempo en caso de no poder asistir.                                                                   | 4  |
 | 34        | US029    | Visualización de historial de citas          | Como cliente, quiero poder visualizar el historial de mis citas anteriores para revisar detalles de los servicios que he recibido.                                            | 3  |
+| 35        | TS010    | Endpoint de gestión de companias             | Como Developer, quiero crear un endpoint para permitir a las companias poder registrarse, ingresar a la plataforma y editar su informacion.                                   | 3  |
+| 36        | TS011    | Endpoint de gestión de categorias            | Como Developer, quiero crear un endpoint para permitir a las companias poder obtener que categorias estas disponibles en nuestra plataforma.                                  | 2  |
+| 37        | TS012    | Endpoint de gestión de citas                 | Como Developer, quiero crear un endpoint para permitir a las empresas y a los usuarios poder crear citas, elimiarlas y aztualizarlas, asi como consultar informacion de estas.| 3  |
 
 ## Capítulo IV: Product Design <a id="cap4"></a>
 
