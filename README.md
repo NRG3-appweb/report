@@ -3946,6 +3946,77 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 </table>
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 34b250f </td>
+    <td colspan="1"> feat(service-command-service-test): add a test for service creation that validates that a service was created successfully. </td>
+    <td colspan="1"> feat(service-command-service-test): add a test for service creation that validates that a service was created successfully. </td>
+    <td colspan="1"> 2/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 075e8dc </td>
+    <td colspan="1"> feat(service-query-service-test): add unit test to get all services by company ID. </td>
+    <td colspan="1"> feat(service-query-service-test): add unit test to get all services by company ID. </td>
+    <td colspan="1"> 2/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 5cb4eea </td>
+    <td colspan="1"> feat(test-unit):  add test to get company by ID. </td>
+    <td colspan="1"> validate that when a company is not found an exception is shown </td>
+    <td colspan="1"> 1/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> d0afd63 </td>
+    <td colspan="1"> feat(test-integration):  add test of company creation. </td>
+    <td colspan="1"> It is validated that the name of the company is not repeated in a general way because there cannot be 2 companies with the same name. </td>
+    <td colspan="1"> 1/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 157c294 </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Test</td>
+    <td colspan="1">Descripción</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/testing/tree/feature/Test-Company </td>
+    <td colspan="1"> Test Company </td>
+    <td colspan="1"> En este se encuentra la documentación de test para las validaciones de compañias. </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/testing/tree/feature/Test-Service </td>
+    <td colspan="1"> Test Service </td>
+    <td colspan="1"> En este se encuentra la documentación de test para las validaciones de servicios. </td>
+  </tr>
+</table>
+
+
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 ![execution_landing1](resources/chapter-5/landing1.png)
 ![execution_landing2](resources/chapter-5/landing2.png)
