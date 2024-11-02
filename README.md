@@ -3196,6 +3196,151 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> feat(service-management): enabled edit service button functionality. </td>
     <td colspan="1"> 26/10/2024 </td>
   </tr>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> 4a40bc35 </td>
+    <td colspan="1"> feat(reservations): add appointment entity. </td>
+    <td colspan="1"> feat(reservations): add appointment entity. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> c9d5b76d </td>
+    <td colspan="1"> feat(reservations): add form of appointment. </td>
+    <td colspan="1"> feat(reservations): add form of appointment. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> 413be245 </td>
+    <td colspan="1"> feat(reservations): added requirements attribute to appointment entity. </td>
+    <td colspan="1"> feat(reservations): added requirements attribute to appointment entity. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> 58f78394 </td>
+    <td colspan="1"> feat(reservations): implemented appointments api. </td>
+    <td colspan="1"> feat(reservations): implemented appointments api. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/company-detail-profile </td>
+    <td colspan="1"> d3278162 </td>
+    <td colspan="1"> feat(company-detail-profile): add the company profile with the average rating and their respective services. </td>
+    <td colspan="1"> feat(company-detail-profile): add the company profile with the average rating and their respective services. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/home-service-category </td>
+    <td colspan="1"> d2b9c2db </td>
+    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
+    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/home-service-category </td>
+    <td colspan="1"> 5ee92b4c </td>
+    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
+    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/home-best-companies </td>
+    <td colspan="1"> 1f7e7ded </td>
+    <td colspan="1"> feat(home-best-companies): updates style the best companies. </td>
+    <td colspan="1"> feat(home-best-companies): updates style the best companies. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/review-service </td>
+    <td colspan="1"> d8ac4234 </td>
+    <td colspan="1"> feat(review-service): update get user by id method. </td>
+    <td colspan="1"> feat(review-service): update get user by id method. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> 562f9312 </td>
+    <td colspan="1"> feat(reservations): added confirmation booking dialog to appointment form. </td>
+    <td colspan="1"> feat(reservations): added confirmation booking dialog to appointment form. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> a5ffdc9e </td>
+    <td colspan="1"> feat(reservations): implemented event handling for an appointment of a service. </td>
+    <td colspan="1"> feat(reservations): implemented event handling for an appointment of a service. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> c02c42e7 </td>
+    <td colspan="1"> feat(reservations): added after booking dialog. </td>
+    <td colspan="1"> feat(reservations): added after booking dialog. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> 42c1471f </td>
+    <td colspan="1"> fix(reservations): fixed filter by category and price implementation. </td>
+    <td colspan="1"> fix(reservations): fixed filter by category and price implementation. </td>
+    <td colspan="1"> 30/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> f2ec5609 </td>
+    <td colspan="1"> fix: fixed methods for new api service. </td>
+    <td colspan="1"> fix: fixed methods for new api service. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 9e07eb1d </td>
+    <td colspan="1"> fix: fixed structure for business appointment api service. </td>
+    <td colspan="1"> fix: fixed structure for business appointment api service. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 07cb7e5d </td>
+    <td colspan="1"> feat: added new api service for appointments. </td>
+    <td colspan="1"> feat: added new api service for appointments. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 8bf28535 </td>
+    <td colspan="1"> fix: fixed general descriptions. </td>
+    <td colspan="1"> fix: fixed general descriptions. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
    <tr>
     <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
     <td colspan="1"> feat/appointments </td>
@@ -3218,7 +3363,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> 5c908776 </td>
     <td colspan="1"> fix: fixed fields to display details on users information. </td>
     <td colspan="1"> fix: fixed fields to display details on users information. </td>
-    <td colspan="1"> 01/11/2024 </td>
+    <td colspan="1"> 02/11/2024 </td>
   </tr>	
    <tr>
     <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
@@ -3226,7 +3371,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> 59abae59 </td>
     <td colspan="1"> fix: added new filter to display only pending appointments, and fixed problem related to cancel an appointment. </td>
     <td colspan="1"> fix: added new filter to display only pending appointments, and fixed problem related to cancel an appointment. </td>
-    <td colspan="1"> 01/11/2024 </td>
+    <td colspan="1"> 02/11/2024 </td>
   </tr>	
    <tr>
     <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
@@ -3234,7 +3379,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> e3787b2d </td>
     <td colspan="1"> fix: fixed image display size to keep style and fixed title size. </td>
     <td colspan="1"> fix: fixed image display size to keep style and fixed title size. </td>
-    <td colspan="1"> 01/11/2024 </td>
+    <td colspan="1"> 02/11/2024 </td>
   </tr>	
    <tr>
     <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
@@ -3242,7 +3387,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> 5483d59c </td>
     <td colspan="1"> feat: added i18n for for top rated reviews component and applied new styles. </td>
     <td colspan="1"> feat: added i18n for for top rated reviews component and applied new styles. </td>
-    <td colspan="1"> 01/11/2024 </td>
+    <td colspan="1"> 02/11/2024 </td>
   </tr>	  
 </table>
 
