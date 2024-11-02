@@ -4577,7 +4577,7 @@ Validar la usabilidad y efectividad de la landing page y la aplicación para cad
 
 |                                                           |                                                                                                                                                   |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Link de video de entrevistas**                          | [Link de acceso](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/Ee9kcISPYAROhgFooQrxMpEBfTMiAdkTTqVLeM7VB-_itg?e=WE4x5F) |
+| **Link de video de entrevistas**                          | [Link de acceso](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EVYo5ReeSKRAqdpb5EU6LncBM81_d8LYMkmrLAQ8TUjiIQ?e=cSdX49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios y MYPES del sector de belleza y cuidado personal.
 
