@@ -3755,6 +3755,134 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
   </tr>	
   <tr>
     <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/commands </td>
+    <td colspan="1"> 8d14eae9 </td>
+    <td colspan="1"> feat: added delete appointment command </td>
+    <td colspan="1"> feat: added delete appointment command </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/repositories </td>
+    <td colspan="1"> 29f612d8 </td>
+    <td colspan="1"> feat(repositories): implemented appointment repository. </td>
+    <td colspan="1"> feat(repositories): implemented appointment repository. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/repositories </td>
+    <td colspan="1"> babdcc00 </td>
+    <td colspan="1"> feat(rest): implemented get appointments by user id endpoint. </td>
+    <td colspan="1"> feat(rest): implemented get appointments by user id endpoint. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/resources </td>
+    <td colspan="1"> adeba3c7 </td>
+    <td colspan="1"> feat(resources): added user resource. </td>
+    <td colspan="1"> feat(resources): added user resource. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/queries </td>
+    <td colspan="1"> 74a28360 </td>
+    <td colspan="1"> feat(queries): add get appointment by id query. </td>
+    <td colspan="1"> feat(queries): add get appointment by id query. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+	  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/query-services </td>
+    <td colspan="1"> 6589f771 </td>
+    <td colspan="1"> feat(query-services): added call to find appointment by id of appointment repository. </td>
+    <td colspan="1"> feat(query-services): added call to find appointment by id of appointment repository. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 7e309ebc </td>
+    <td colspan="1"> feat(user): Review collection interface added. </td>
+    <td colspan="1"> feat(user): Review collection interface added. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 4b71beb1 </td>
+    <td colspan="1"> feat: Implement ReviewController with necessary endpoints. </td>
+    <td colspan="1"> feat: Implement ReviewController with necessary endpoints. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> fd55c5d0 </td>
+    <td colspan="1"> feat: Define ReviewResource and related resources. </td>
+    <td colspan="1"> feat: Define ReviewResource and related resources. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/queries </td>
+    <td colspan="1"> ad40fb11 </td>
+    <td colspan="1"> feat(query-services): "Add IReviewQueryService interface and implement query handling for reviews". </td>
+    <td colspan="1"> feat(query-services): "Add IReviewQueryService interface and implement query handling for reviews". </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 059f00f7 </td>
+    <td colspan="1"> feat: Add IReviewQueryService interface definition. </td>
+    <td colspan="1"> feat: Add IReviewQueryService interface definition. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 0940ca53 </td>
+    <td colspan="1"> feat: Register ReviewCommandService, ReviewQueryService, and ReviewRepository in Program.cs. </td>
+    <td colspan="1"> feat: Register ReviewCommandService, ReviewQueryService, and ReviewRepository in Program.cs. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 7de882b2 </td>
+    <td colspan="1"> feat: Add UpdateReviewCommand for updating review details. </td>
+    <td colspan="1"> feat: Add UpdateReviewCommand for updating review details. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 7404c323 </td>
+    <td colspan="1"> feat: added new resource to update an existing appointment. </td>
+    <td colspan="1"> feat: added new resource to update an existing appointment. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 321a9371 </td>
+    <td colspan="1"> feat: added new command services for update appointments. </td>
+    <td colspan="1"> feat: added new command services for update appointments. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/repositories </td>
+    <td colspan="1"> 55888fbf </td>
+    <td colspan="1"> feat(repositories): Add methods to find reviews by user id, appointment id, and company id. </td>
+    <td colspan="1"> feat(repositories): Add methods to find reviews by user id, appointment id, and company id. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+	<tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
     <td colspan="1"> feat/appointments </td>
     <td colspan="1"> 0788e19 </td>
     <td colspan="1"> fix(controller): added await to handle call for delete appointment command service in appointment controller. </td>
@@ -3801,6 +3929,23 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> feat(controller): added new endpoint to update an existing appointment. </td>
     <td colspan="1"> 01/11/2024 </td>
   </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> dc594d1d </td>
+    <td colspan="1"> feat: Add UpdateReviewResource for updating review data. </td>
+    <td colspan="1"> feat: Add UpdateReviewResource for updating review data. </td>
+    <td colspan="1"> 02/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 2646361d </td>
+    <td colspan="1"> feat: Add UpdateReviewCommandResourceFromEntityAssembler for converting UpdateReviewResource to UpdateReviewCommand. </td>
+    <td colspan="1"> feat: Add UpdateReviewCommandResourceFromEntityAssembler for converting UpdateReviewResource to UpdateReviewCommand. </td>
+    <td colspan="1"> 02/11/2024 </td>
+  </tr>
+  
 </table>
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
