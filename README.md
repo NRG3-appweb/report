@@ -37,7 +37,7 @@
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |                URL del repositorio del reporte                |
 |:-----------------------------------:|:-------------------------------------------------------------:|
-|   https://github.com/SI729-Bliss    | https://github.com/SI729-Bliss/OpenSource-Bliss-Documentation |
+|   https://github.com/SI729-Bliss    | https://github.com/NRG3-appweb/report |
 
 TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend.
 
@@ -78,7 +78,21 @@ Report:
 - Godofredo Quispe Tipo: 
 - Elvia Marcela Rodriguez Villa: 26
 
-  
+TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/NRG3-appweb/backend.
+
+Vista de commits Frontend:
+
+<img src="resources/sprint-3/front-1.png">
+<img src="resources/sprint-3/front-2.png">
+
+- Juan Diego Astonitas Díaz: 47 commits.
+- Gabriel Alexander Casas Sanchez: 21 commits.
+- Gianluca Santino Pasquale Barrenechea: 88 commits.
+- Godofredo Quispe Tipo: 41 commits.
+- Elvia Marcela Rodriguez Villa: 26 commits.
+
+### Repartición de tareas:
+
 ### TB1 
 
 | Integrante                                 | Tareas Asignadas                                                                                                          |
@@ -100,18 +114,17 @@ Report:
 | Juan Diego Astonitas Díaz                  | Desarrollo de aplicación web                                           |
 | Sebastian Aaron Anibal Carbajal Santivañez |                                                                        |
 
-### Capturas de la colaboración
-
+### TB2
+| Integrante                            | Tareas Asignadas                                               |
+|---------------------------------------|----------------------------------------------------------------|
+| Elvia Marcela Rodriguez Villa         | Elaboración del web application y web service.                 |
+| Gabriel Alexander Casas Sanchez       | Elaboración de la landing page, web application y web service. |
+| Gianluca Santino Pasquale Barrenechea | Elaboración del web application y web service.                 |
+| Juan Diego Astonitas Díaz             | Elaboración del web application y web service.                 |
+| Godofreado Quispe Tipo                | Elaboración del web application y web service.                 |
 
 ## Contenido
 
-- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-  - [TB1](#tb1)
-  - [TP (Trabajo Parcial)](#tp-trabajo-parcial)
-  - [Capturas de la colaboración](#capturas-de-la-colaboración)
-- [Contenido](#contenido)
-- [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción ](#capítulo-i-introducción-)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
