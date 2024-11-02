@@ -3807,6 +3807,17 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para hacer el deployment de la aplicacion web se utilizó Vercel,
+una plataforma de deployment de aplicaciones web que permite hacer el
+deployment de aplicaciones web de forma sencilla y rápida.
+
+![deployment evidence9](resources/chapter-5/deployment-evidence-9.png)
+![deployment evidence10](resources/chapter-5/deployment-evidence-10.png)
+![deployment evidence11](resources/chapter-5/deployment-evidence-11.png)
+![deployment evidence12](resources/chapter-5/deployment-evidence-12.png)
+![deployment evidence13](resources/chapter-5/deployment-evidence-13.png)
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 
