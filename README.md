@@ -3953,6 +3953,38 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+**Diseño**
+Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
+* Para el uso de figma, primero es necesario crear tu propia cuenta, para esto se deberá ingresar al página oficial de figma (https://www.figma.com/) y registrarse.
+
+<img src="resources/chapter-5/figma-acc-setup-1.png">
+<img src="resources/chapter-5/figma-acc-setup-2.png">
+
+* Una vez se tiene la cuenta, se debe crear un draft en el que se trabajan los diseños de manera colaborativa.
+  <img src="resources/chapter-5/figma-draft-setup-1.png">
+
+**Landing Page**
+
+Para hacer el deployment de la landing page se utilizó Github Pages,
+una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública.
+
+Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
+![landingdeployment1](resources/chapter-5/landing-deploy-1.png)
+
+Escogemos la opcion de hacer el deploy a través de una rama.
+![landingdeployment2](resources/chapter-5/landing-deploy-2.png)
+
+Escogemos la rama de develop (para futuros cambios)
+![landingdeployment3](resources/chapter-5/landing-deploy-3.png)
+
+Guadrdamos la configuracion usando el boton save
+![landingdeployment5](resources/chapter-5/landing-deploy-5.png)
+
+La pagina cargara en algunos minutos y se podra acceder a ella a través del link que se muestra en la parte superior.
+![landingdeployment6](resources/chapter-5/landing-deploy-6.png)
+
+
+**Frontend**
 Para hacer el deployment de la aplicacion web se utilizó Vercel,
 una plataforma de deployment de aplicaciones web que permite hacer el
 deployment de aplicaciones web de forma sencilla y rápida.
@@ -3962,6 +3994,10 @@ deployment de aplicaciones web de forma sencilla y rápida.
 ![deployment evidence11](resources/chapter-5/deployment-evidence-11.png)
 ![deployment evidence12](resources/chapter-5/deployment-evidence-12.png)
 ![deployment evidence13](resources/chapter-5/deployment-evidence-13.png)
+
+**Backend**
+
+wip
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
 
