@@ -3950,6 +3950,34 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
+![execution_landing1](resources/chapter-5/landing1.png)
+![execution_landing2](resources/chapter-5/landing2.png)
+![execution_landing3](resources/chapter-5/landing3.png)
+![execution_landing4](resources/chapter-5/landing4.png)
+![execution_landing5](resources/chapter-5/landing5.png)
+![execution_landing6](resources/chapter-5/landing6.png)
+![execution_front1](resources/chapter-5/front1.png)
+![execution_front2](resources/chapter-5/front2.png)
+![execution_front3](resources/chapter-5/front3.png)
+![execution_front4](resources/chapter-5/front4.png)
+![execution_front5](resources/chapter-5/front5.png)
+![execution_front6](resources/chapter-5/front6.png)
+![execution_front7](resources/chapter-5/front7.png)
+![execution_front8](resources/chapter-5/front8.png)
+![execution_front9](resources/chapter-5/front9.png)
+![execution_front10](resources/chapter-5/front10.png)
+![execution_front11](resources/chapter-5/front11.png)
+![execution_front12](resources/chapter-5/front12.png)
+![execution_front13](resources/chapter-5/front13.png)
+![execution_front14](resources/chapter-5/front14.png)
+![execution_front15](resources/chapter-5/front15.png)
+![execution_front16](resources/chapter-5/front16.png)
+![execution_front17](resources/chapter-5/front17.png)
+![execution_front18](resources/chapter-5/front18.png)
+![execution_front19](resources/chapter-5/front19.png)
+
+Enlace a video de demostración: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/EbpLlx7efLpAlmAg8vZigzEBkE0KLOMuZW2g1ZvFq_6Mpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFybCk">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/EbpLlx7efLpAlmAg8vZigzEBkE0KLOMuZW2g1ZvFq_6Mpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFybCk</a>
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
