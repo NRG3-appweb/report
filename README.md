@@ -2817,11 +2817,11 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
     <td colspan="1">Juan Astonitas, Gabriel Casas, Godofredo Quispe, Gianluca Pasquale, Elvia Rodriguez</td>
   </tr>
   <tr>
-    <td colspan="1"><strong>Sprint n – 2 Review Summary</strong></td>
+    <td colspan="1"><strong>Sprint 2 Review Summary</strong></td>
     <td colspan="1">Se realizó el primer despliegue de la web application, implementando funcionalidades básicas como la creación de servicios y visualización de datos.</td>
   </tr>
   <tr>
-    <td colspan="1"><strong>Sprint n – 2 Retrospective Summary</strong></td>
+    <td colspan="1"><strong>Sprint 2 Retrospective Summary</strong></td>
     <td colspan="1">Hubo un incremento considerable en la productividad y compromiso del equipo hacia el trabajo. Ademá se plantearon las bases para una organización efectiva.</td>
   </tr>
   <tr>
@@ -3946,6 +3946,77 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 </table>
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 34b250f </td>
+    <td colspan="1"> feat(service-command-service-test): add a test for service creation that validates that a service was created successfully. </td>
+    <td colspan="1"> feat(service-command-service-test): add a test for service creation that validates that a service was created successfully. </td>
+    <td colspan="1"> 2/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 075e8dc </td>
+    <td colspan="1"> feat(service-query-service-test): add unit test to get all services by company ID. </td>
+    <td colspan="1"> feat(service-query-service-test): add unit test to get all services by company ID. </td>
+    <td colspan="1"> 2/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 5cb4eea </td>
+    <td colspan="1"> feat(test-unit):  add test to get company by ID. </td>
+    <td colspan="1"> validate that when a company is not found an exception is shown </td>
+    <td colspan="1"> 1/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> d0afd63 </td>
+    <td colspan="1"> feat(test-integration):  add test of company creation. </td>
+    <td colspan="1"> It is validated that the name of the company is not repeated in a general way because there cannot be 2 companies with the same name. </td>
+    <td colspan="1"> 1/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 157c294 </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Test</td>
+    <td colspan="1">Descripción</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/testing/tree/feature/Test-Company </td>
+    <td colspan="1"> Test Company </td>
+    <td colspan="1"> En este se encuentra la documentación de test para las validaciones de compañias. </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/testing/tree/feature/Test-Service </td>
+    <td colspan="1"> Test Service </td>
+    <td colspan="1"> En este se encuentra la documentación de test para las validaciones de servicios. </td>
+  </tr>
+</table>
+
+
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 ![execution_landing1](resources/chapter-5/landing1.png)
 ![execution_landing2](resources/chapter-5/landing2.png)
@@ -4691,6 +4762,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ### 5.4. Video About-the-Product
 
+About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZogCGD99yBHmKE3jLLeATUBrqbjUwB3OSZZm5LFC0b4cQ?e=yJGD06&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZogCGD99yBHmKE3jLLeATUBrqbjUwB3OSZZm5LFC0b4cQ?e=yJGD06&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 ## Conclusiones
 
@@ -4705,3 +4777,5 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 ## Bibliografía
 
 ## Anexos
+
+About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZogCGD99yBHmKE3jLLeATUBrqbjUwB3OSZZm5LFC0b4cQ?e=yJGD06&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZogCGD99yBHmKE3jLLeATUBrqbjUwB3OSZZm5LFC0b4cQ?e=yJGD06&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
