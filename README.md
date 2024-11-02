@@ -4416,8 +4416,6 @@ Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma
 ![deployment evidence11](resources/chapter-5/deployment-evidence-11.png)
 ![deployment evidence12](resources/chapter-5/deployment-evidence-12.png)
 ![deployment evidence13](resources/chapter-5/deployment-evidence-13.png)
-**Backend**
-wip
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
 Para este sprint se desarrollaron 3 productos siendo estos: landing page, web application y web services. Para la landing page hubo un solo encargado debido a q ya se encontraba en la etapa final de su desarrollo. Para lode más productos todo los integrantes participaron. La distribución de commit fue la siguiente:
