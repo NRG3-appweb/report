@@ -1429,7 +1429,7 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 
-<img src="resources/chapter_4/uml-diagram-class.PNG"/>
+<img src="resources/chapter_4/uml-diagram-class.png"/>
 
 #### 4.7.2. Class Dictionary
 
@@ -1441,82 +1441,49 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
     <td><strong>Tipo de dato</strong></td>
   </tr>
   <tr>
-    <td colspan = "4">Customer</td>
+    <td colspan = "4">User</td>
   </tr>
   <tr>
     <td>1</td>
-    <td>firstName</td>
+    <td>FirstName</td>
     <td>Almacena el primer nombre del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>lastName</td>
+    <td>LastName</td>
     <td>Almacena el apellido del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>3</td>
     <td>DNI</td>
     <td>Almacena el dni del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>phone</td>
+    <td>Phone</td>
     <td>Almacena el telefono del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>adress</td>
+    <td>Adress</td>
     <td>Almacena la dirección del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>city</td>
+    <td>City</td>
     <td>Almacena la ciudad del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>fechaNacimiento</td>
+    <td>BirthDate</td>
     <td>Almacena la fecha de nacimiento del cliente.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>region</td>
-    <td>Almacena la region del cliente.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>historial</td>
-    <td>Almacena el historial de reservas del cliente.</td>
-    <td>Historial</td>
-  </tr>
-  <tr>
-    <td colspan = "4">User</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>nickname</td>
-    <td>Almacena el apodo del usuario.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>emailAdress</td>
-    <td>Almacena el email del usuario.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>password</td>
-    <td>Almacena la contrseña del usuario.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td colspan = "4">Company</td>
@@ -1525,226 +1492,182 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
     <td>1</td>
     <td>name</td>
     <td>Almacena el nombre de la compañia.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>RUC</td>
-    <td>Almacena el RUC de la empresa.</td>
-    <td>String</td>
+    <td>Email</td>
+    <td>Almacena el email de la empresa.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>city</td>
-    <td>Almacena la ciudad en la que se encuentra la empresa.</td>
-    <td>String</td>
+    <td>WebsiteUrl</td>
+    <td>Almacena el enlace a la página web de la empresa.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>address</td>
-    <td>Almacena la dirección de la compañia.</td>
-    <td>String</td>
+    <td>PhoneNumber</td>
+    <td>Almacena el telefono de contacto de la compañia.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>phone</td>
-    <td>Almacena el telefono de contacto de la compañia.</td>
-    <td>String</td>
+    <td>Description</td>
+    <td>Almacena una breve descripción relacionada con la empresa.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>email</td>
-    <td>Almacena el correo electrónico de la empresa.</td>
-    <td>String</td>
+    <td>Specialists</td>
+    <td>Almacena una lista de los especialistas de la empresa.</td>
+    <td>List< Specialist ></td>
   </tr>
   <tr>
     <td>7</td>
-    <td>description</td>
-    <td>Almacena una breve descripción relacionada con la empresa.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>region</td>
-    <td>Almacena la region en la que se encuentra la empresa.</td>
-    <td>String</td>
-  </tr>
-  <tr> 
-    <td colspan="4">Local</td>
-  </tr> 
-  <tr>
-    <td>1</td> 
-    <td>name</td> 
-    <td>Almacena el nombre del local.</td> 
-    <td>String</td> 
-  </tr> 
-  <tr> 
-    <td>2</td> 
-    <td>address</td> 
-    <td>Almacena la dirección del local.</td> 
-    <td>String</td> 
-  </tr> 
-  <tr> 
-    <td>3</td> 
-    <td>phone</td> 
-    <td>Almacena el número de teléfono del local.</td> 
-    <td>String</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Payment</td>
-  </tr>
-  <tr> 
-  <td colspan="4">Payment</td> 
-  </tr> 
-  <tr> 
-    <td>1</td> 
-    <td>status</td> 
-    <td>Almacena el estado del pago.</td> 
-    <td>String</td> 
+    <td>Services</td>
+    <td>Almacena una lista de los servicios de la empresa.</td>
+    <td>List< Service ></td>
   </tr>
   <tr>
     <td colspan = "4">Appointment</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>status</td> 
+    <td>Status</td> 
     <td>Almacena el estado de la cita.</td> 
-    <td>String</td> 
+    <td>int</td> 
   </tr> 
   <tr> 
     <td>2</td> 
-    <td>date</td> 
+    <td>ReservationDate</td> 
     <td>Almacena la fecha de la cita.</td> 
-    <td>Date</td> 
+    <td>DateTime</td> 
   </tr> 
   <tr> 
     <td>3</td> 
-    <td>requirements</td> 
-    <td>Almacena los requisitos de la cita.</td> 
-    <td>Requirements[]</td> 
+    <td>ReservationStartTime</td> 
+    <td>Almacena la hora de inicio de la reserva.</td> 
+    <td>TimeOnly</td> 
   </tr> 
   <tr> 
     <td>4</td> 
-    <td>service</td> 
-    <td>Almacena el servicio relacionado con la cita.</td> 
+    <td>Requirements</td> 
+    <td>Almacena los requisitos de la cita.</td> 
+    <td>string</td> 
+  </tr>
+    <tr> 
+    <td>5</td> 
+    <td>Service</td> 
+    <td>Almacena el servicio de la cita.</td> 
     <td>Service</td> 
   </tr>
-  <tr>
-    <td colspan = "4">Appointment_cart</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>appointment</td> 
-    <td>Almacena los detalles de la cita en el carrito.</td> 
-    <td>Appointment</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Historial</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>appointment</td>
-    <td>Almacena los detalles de la cita histórica.</td>
-    <td>Appointment</td>
+    <tr> 
+    <td>6</td> 
+    <td>User</td> 
+    <td>Almacena el usuario de la cita.</td> 
+    <td>User</td> 
   </tr>
   <tr>
     <td colspan = "4">Specialist</td>
   </tr>
   <tr>
     <td>1</td>
-    <td>firstName</td> 
+    <td>Name</td> 
     <td>Almacena el nombre del especialista.</td> 
-    <td>String</td> 
+    <td>string</td> 
   </tr> 
-  <tr> 
-    <td>2</td> 
-    <td>lastName</td> 
-    <td>Almacena el apellido del especialista.</td> 
-    <td>String</td> 
-  </tr> 
-  <tr> 
-    <td>3</td> 
-    <td>speciality</td> 
-    <td>Almacena la especialidad del especialista.</td> 
-    <td>String</td> 
-  </tr>
   <tr>
     <td colspan = "4">Category</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>name</td> 
+    <td>Name</td> 
     <td>Almacena el nombre de la categoría.</td> 
-    <td>String</td> 
+    <td>string</td> 
   </tr>
+  <tr> 
+    <td>2</td> 
+    <td>Description</td> 
+    <td>Almacena la descripción de la categoría.</td> 
+    <td>string</td> 
+  </tr> 
   <tr>
     <td colspan = "4">Service</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>serviceName</td> 
+    <td>Name</td> 
     <td>Almacena el nombre del servicio.</td> 
-    <td>String</td> 
-  </tr> 
+    <td>string</td> 
+  </tr>
   <tr> 
     <td>2</td> 
-    <td>price</td> 
-    <td>Almacena el precio del servicio.</td> 
-    <td>Double</td> 
+    <td>Description</td> 
+    <td>Almacena una breve descripción del servicio.</td> 
+    <td>string</td> 
   </tr> 
   <tr> 
     <td>3</td> 
-    <td>duration</td> 
-    <td>Almacena la duración del servicio.</td> 
-    <td>Double</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Service_type</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>name</td> 
-    <td>Almacena el nombre del tipo de servicio.</td> 
-    <td>String</td> 
+    <td>Price</td> 
+    <td>Almacena el precio del servicio.</td> 
+    <td>double</td> 
   </tr> 
   <tr> 
-    <td>2</td> 
-    <td>category</td> 
-    <td>Almacena la categoría relacionada con el tipo de servicio.</td> 
+    <td>4</td> 
+    <td>Duration</td> 
+    <td>Almacena la duración del servicio.</td> 
+    <td>double</td> 
+  </tr>
+  <tr> 
+    <td>5</td> 
     <td>Category</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Requirement</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>attribute</td> 
-    <td>Almacena el atributo requerido.</td> 
-    <td>String</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">RequirementsDecorator/td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>requirement</td> 
-    <td>Almacena el requisito decorado.</td> 
-    <td>Requirement</td> 
+    <td>Almacena la categoria del servicio.</td> 
+    <td>Category</td> 
   </tr>
   <tr>
     <td colspan = "4">Review</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>description</td> 
-    <td>Almacena la descripción de la reseña.</td> 
-    <td>String</td> 
+    <td>Rating</td> 
+    <td>Almacena la calificación de la reseña.</td> 
+    <td>double</td> 
   </tr> 
   <tr> 
     <td>2</td> 
-    <td>value</td> 
-    <td>Almacena el valor de la reseña (calificación).</td> 
-    <td>Int</td> 
+    <td>Comment</td> 
+    <td>Almacena el comentario relacionado con la reseña.</td> 
+    <td>string</td> 
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Image</td>
+    <td>Almacena la imagen de la reseña</td>
+    <td>Image</td>
+  </tr>
+    <tr>
+    <td>4</td>
+    <td>Usuario</td>
+    <td>Almacena el usuario de la reseña</td>
+    <td>Image</td>
+  </tr>
+    <tr>
+    <td>5</td>
+    <td>Appoinment</td>
+    <td>Almacena la cita de la reseña</td>
+    <td>Appoinment</td>
+  </tr>
+  <tr>
+    <td colspan = "4">Image</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>1</td>
+    <td>ImgUrl</td>
+    <td>Almacena el enlace de la imagen</td>
+    <td>string</td>
   </tr>
 </table>
 
