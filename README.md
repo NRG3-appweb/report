@@ -1429,7 +1429,7 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 
-<img src="resources/classdiagram1.png" />
+<img src="resources/chapter_4/uml-diagram-class.PNG"/>
 
 #### 4.7.2. Class Dictionary
 
