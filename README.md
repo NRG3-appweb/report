@@ -80,8 +80,7 @@ Report:
 
 TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/NRG3-appweb/backend.
 
-Vista de commits Frontend:
-
+**Vista de commits Frontend:**
 <img src="resources/sprint-3/front-1.png">
 <img src="resources/sprint-3/front-2.png">
 
@@ -90,6 +89,16 @@ Vista de commits Frontend:
 - Gianluca Santino Pasquale Barrenechea: 88 commits.
 - Godofredo Quispe Tipo: 41 commits.
 - Elvia Marcela Rodriguez Villa: 26 commits.
+
+**Vista de commits Backend:**
+<img src="resources/sprint-3/back-1.png">
+<img src="resources/sprint-3/back-2.png">
+
+- Juan Diego Astonitas Díaz: 70commits.
+- Gabriel Alexander Casas Sanchez: 40 commits.
+- Gianluca Santino Pasquale Barrenechea: 20 commits.
+- Godofredo Quispe Tipo: 26 commits.
+- Elvia Marcela Rodriguez Villa: 34 commits.
 
 ### Repartición de tareas:
 
@@ -4069,6 +4078,17 @@ Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de 
 - Gianluca Santino Pasquale Barrenechea: 88 commits.
 - Godofredo Quispe Tipo: 41 commits.
 - Elvia Marcela Rodriguez Villa: 26 commits.
+
+**Backend**
+<img src="resources/sprint-3/back-1.png">
+<img src="resources/sprint-3/back-2.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 70commits.
+- Gabriel Alexander Casas Sanchez: 40 commits.
+- Gianluca Santino Pasquale Barrenechea: 20 commits.
+- Godofredo Quispe Tipo: 26 commits.
+- Elvia Marcela Rodriguez Villa: 34 commits.
 
 ### 5.3. Validation Interviews
 #### 5.3.1 Diseño de Entrevistas
