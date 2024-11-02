@@ -1751,7 +1751,7 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 
-![Database](resources\chapter_4\bliss-data-base.png)
+![Database](resources/chapter_4/bliss-data-base.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
