@@ -2803,6 +2803,12 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 
 #### 5.2.3. Sprint 3
 ##### 5.2.3.1. Spring Planning 3.
+
+Sprint board en trello:
+<img src="resources/sprint-3/trello-ss.png">
+
+Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/ATTI490782e2faf288b64e3816a5adcfb6a3C861D89F/sprint-backlog-3">https://trello.com/invite/b/6712f201c0bfde492775a33d/ATTI490782e2faf288b64e3816a5adcfb6a3C861D89F/sprint-backlog-3</a>
+
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
@@ -4031,7 +4037,21 @@ Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma
 wip
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
+Para este sprint se desarrollaron 3 productos siendo estos: landing page, web application y web services. Para la landing page hubo un solo encargado debido a q ya se encontraba en la etapa final de su desarrollo. Para lode más productos todo los integrantes participaron. La distribución de commit fue la siguiente:
 
+**Landing Page**
+Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de 7 commits.
+
+**Frontend**
+<img src="resources/sprint-3/front-1.png">
+<img src="resources/sprint-3/front-2.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 47 commits.
+- Gabriel Alexander Casas Sanchez: 21 commits.
+- Gianluca Santino Pasquale Barrenechea: 88 commits.
+- Godofredo Quispe Tipo: 41 commits.
+- Elvia Marcela Rodriguez Villa: 26 commits.
 
 ### 5.3. Validation Interviews
 #### 5.3.1 Diseño de Entrevistas
