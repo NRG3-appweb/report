@@ -3196,9 +3196,57 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> feat(service-management): enabled edit service button functionality. </td>
     <td colspan="1"> 26/10/2024 </td>
   </tr>
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 8bf28535 </td>
+    <td colspan="1"> fix: fixed general descriptions. </td>
+    <td colspan="1"> fix: fixed general descriptions. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 4769dcd6 </td>
+    <td colspan="1"> feat: added new method to display images from service id. </td>
+    <td colspan="1"> feat: added new method to display images from service id. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 5c908776 </td>
+    <td colspan="1"> fix: fixed fields to display details on users information. </td>
+    <td colspan="1"> fix: fixed fields to display details on users information. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 59abae59 </td>
+    <td colspan="1"> fix: added new filter to display only pending appointments, and fixed problem related to cancel an appointment. </td>
+    <td colspan="1"> fix: added new filter to display only pending appointments, and fixed problem related to cancel an appointment. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> e3787b2d </td>
+    <td colspan="1"> fix: fixed image display size to keep style and fixed title size. </td>
+    <td colspan="1"> fix: fixed image display size to keep style and fixed title size. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 5483d59c </td>
+    <td colspan="1"> feat: added i18n for for top rated reviews component and applied new styles. </td>
+    <td colspan="1"> feat: added i18n for for top rated reviews component and applied new styles. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	  
 </table>
 
-*Commits realizados en el repositorio de frontend durante el sprint 3:*
+*Commits realizados en el repositorio de backend durante el sprint 3:*
 <table>
   <tr>
     <td colspan="1">Repository</td>
@@ -3608,8 +3656,6 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> feat(controller): added new endpoint to update an existing appointment. </td>
     <td colspan="1"> 01/11/2024 </td>
   </tr>	
-  
-
 </table>
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
