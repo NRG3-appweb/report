@@ -238,20 +238,20 @@ Report:
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
-  - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1.Spring Planning 3.](#5229sprint-planning-3)
-      - [5.2.3.2.Sprint Backlog 3.](#5230sprint-backlog-3)
-      - [5.2.3.3. Development Evidence for Sprint Review.](#5231-development-evidence-for-sprint-review)
-      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5232-testing-suite-evidence-for-sprint-review)
-      - [5.2.3.5. Execution Evidence for Sprint Review.](#5233-execution-evidence-for-sprint-review)
-      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5234-services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5235-software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5236-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews.](#53-validation-interviews)
-      - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-      - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
-      - [5.3.3. Evaluaciones según heurísticas.](#533-valuaciones-según-heurísticas)
-  - [5.4. Video About-the-Product.](#54-video-about-the-product)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Spring Planning 3.](#5231-spring-planning-3)
+      - [5.2.3.2. Sprint Backlog 3.](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -1320,8 +1320,6 @@ BrandName: Logo y nombre de la marca, repetido en varias secciones para mantener
 
 El wireframe de la landing page de Bliss sirve como una guía visual básica que estructura los elementos clave de la página sin enfocarse en los detalles de diseño. Este esquema inicial muestra la disposición de secciones como el encabezado con el logo y menú de navegación, una propuesta de valor clara, testimonios de usuarios, y llamadas a la acción (call to action) prominentes para motivar a los visitantes a explorar los servicios. El objetivo es asegurar que la experiencia del usuario sea intuitiva y que los elementos estén estratégicamente ubicados para facilitar la conversión de visitantes en usuarios registrados.
 
-
-
 ![Wireframe](resources/LandingPageWireframe.png)
 
 #### 4.3.2. Landing Page Mock-up
@@ -1369,7 +1367,6 @@ El presente user flow corresponde con la reserva de servicio, en el cual el usua
 El presente user flow corresponde con la creación de servicio, en el cual la empresa puede crear y especificar los detalles de un servicio.
 ![Creación de Servicio](resources/chapter_4/userflow/Creación%20de%20servicio.png)
 
-
 #### 4.4.3. Web Applications Mock-ups
 
 ![Schedule Mockup 1](resources/chapter_4/mockup/desktop-Schedule-1.png)
@@ -1390,7 +1387,6 @@ El presente user flow corresponde con la creación de servicio, en el cual la em
 ![Book Appointment Mockup](resources/chapter_4/mockup/desktop-Book%20Appointment.png)
 ![Container Mockup](resources/chapter_4/mockup/container.png)
 
-
 #### 4.4.4. Web Applications User Flow Diagrams
 
 A continuación un diagrama que representa los user goals.
@@ -1407,13 +1403,13 @@ A continuación el prototipo de la aplicación web de Bliss, el cual permite a l
 
 En el diagrama de contexto se consideraron tres actores clave para el negocio: los visitantes, que pueden convertirse en usuarios potenciales al visitar la página de inicio; los dueños del negocio, que incluyen tanto a estilistas como a empresas con salones de belleza; y los consumidores, que utilizan el producto final.
 
-![C4 Image 1](resources/chapter_4/c4/c41%20(1).jpeg)
+![C4 Image 1](resources/chapter_4/c4/c4-context-diagram.png)
 
 #### 4.6.2. Software Architecture Container Diagrams
 
 En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en la cual los usuarios pueden conectarse a través de sus dispositivos móviles o navegadores a la aplicación. Esta aplicación interactúa con una API REST, la cual gestiona los cinco bounded contexts identificados. Todos estos contextos están integrados a una única base de datos.
 
-![C4 Image 2](resources/chapter_4/c4/c41%20(2).jpeg)
+![C4 Image 2](resources/chapter_4/c4/c4-container-diagram.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
 
@@ -1421,7 +1417,14 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 
 ##### Service Management Component
 
-![C4 Image 3](resources/chapter_4/c4/c41%20(3).jpeg)
+**Service Management Bounded Context**
+![C4 Service Management](resources/chapter_4/c4/c4-component-diagram-service-management.png)
+
+**Review Management Bounded Context**
+![C4 Review Management](resources/chapter_4/c4/c4-component-diagram-review-management.png)
+
+**Appointment Management Bounded Context**
+![C4 Appointment Management](resources/chapter_4/c4/c4-component-diagram-appointment-management.png)
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
