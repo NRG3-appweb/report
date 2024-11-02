@@ -230,28 +230,28 @@ Report:
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
-        - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
-        - [5.2.2.2.Sprint Backlog 2.](#5222sprint-backlog-2)
-        - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
-        - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
-        - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
-        - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
-        - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
-        - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+      - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
+      - [5.2.2.2.Sprint Backlog 2.](#5222sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
     - [5.2.3. Sprint 3](#523-sprint-3)
-        - [5.2.3.1.Spring Planning 3.](#5229sprint-planning-3)
-        - [5.2.3.2.Sprint Backlog 3.](#5230sprint-backlog-3)
-        - [5.2.3.3. Development Evidence for Sprint Review.](#5231-development-evidence-for-sprint-review)
-        - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5232-testing-suite-evidence-for-sprint-review)
-        - [5.2.3.5. Execution Evidence for Sprint Review.](#5233-execution-evidence-for-sprint-review)
-        - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5234-services-documentation-evidence-for-sprint-review)
-        - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5235-software-deployment-evidence-for-sprint-review)
-        - [5.2.3.8. Team Collaboration Insights during Sprint.](#5236-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews.](#53-validation-interviews)
-      - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-      - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
-      - [5.3.3. Evaluaciones según heurísticas.](#533-valuaciones-según-heurísticas)
-  - [5.4. Video About-the-Product.](#54-video-about-the-product)
+      - [5.2.3.1. Spring Planning 3.](#5231-spring-planning-3)
+      - [5.2.3.2. Sprint Backlog 3.](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -3118,6 +3118,84 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td>Elvia Marcela Rodriguez Villa</td>
     <td>Done</td>
   </tr>
+  <tr>
+    <td>TS003</td>
+    <td>Endpoint para buscar servicios</td>
+    <td>T01</td>
+    <td>Creación del método getAll y getById.</td>
+    <td>Se debe implementar los queries necesario para la realización del get all y get by Id, se debe retornar un json con toda la infromación.</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS005</td>
+    <td>Crear una cita</td>
+    <td>T01</td>
+    <td>Creación del método post para citas.</td>
+    <td>Creación de un método capaz de crear una cita partir de un json.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">TS006</td>
+    <td rowspan="2">Endpoint para gestión de reseñas</td>
+    <td>T01</td>
+    <td>Creación de métodos delete, put y post.</td>
+    <td>Cración de métodos post, put y delete by id</td>
+    <td>3</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Creación de métodos getById. getByUserId, getByCompanyId</td>
+    <td>Implementar los métodos getById, getByuserID y getByCompanyId</td>
+    <td>3</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS007</td>
+    <td>Creación de servicio</td>
+    <td>T01</td>
+    <td>Creación del endpoint post para servicios</td>
+    <td>Implementación del método post para la creación de servicios.</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS010</td>
+    <td>Endpoint para gestión de compañias.</td>
+    <td>T01</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS011</td>
+    <td>Endpoint para gestión de categorías.</td>
+    <td>T01</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS012</td>
+    <td>Endpoint para gestión de citas.</td>
+    <td>T01</td>
+    <td>Creación del método getById, getByUserId y delete.</td>
+    <td>Creación del método getById, getByUserId y delete.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Diaz</td>
+    <td>Done</td>
+  </tr>
 </table>
 
 ##### 5.2.3.3. Development Evidence for Sprint Review.
@@ -3196,202 +3274,9 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> feat(service-management): enabled edit service button functionality. </td>
     <td colspan="1"> 26/10/2024 </td>
   </tr>
-  <tr>
-    <td colspan="1">Repository</td>
-    <td colspan="1">Branch</td>
-    <td colspan="1">Commit Id</td>
-    <td colspan="1">Commit Message</td>
-    <td colspan="1">Commit Message Body</td>
-    <td colspan="1">Commited on (Date)</td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/reservations </td>
-    <td colspan="1"> 4a40bc35 </td>
-    <td colspan="1"> feat(reservations): add appointment entity. </td>
-    <td colspan="1"> feat(reservations): add appointment entity. </td>
-    <td colspan="1"> 27/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/reservations </td>
-    <td colspan="1"> c9d5b76d </td>
-    <td colspan="1"> feat(reservations): add form of appointment. </td>
-    <td colspan="1"> feat(reservations): add form of appointment. </td>
-    <td colspan="1"> 27/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/reservations </td>
-    <td colspan="1"> 413be245 </td>
-    <td colspan="1"> feat(reservations): added requirements attribute to appointment entity. </td>
-    <td colspan="1"> feat(reservations): added requirements attribute to appointment entity. </td>
-    <td colspan="1"> 27/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/reservations </td>
-    <td colspan="1"> 58f78394 </td>
-    <td colspan="1"> feat(reservations): implemented appointments api. </td>
-    <td colspan="1"> feat(reservations): implemented appointments api. </td>
-    <td colspan="1"> 27/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/company-detail-profile </td>
-    <td colspan="1"> d3278162 </td>
-    <td colspan="1"> feat(company-detail-profile): add the company profile with the average rating and their respective services. </td>
-    <td colspan="1"> feat(company-detail-profile): add the company profile with the average rating and their respective services. </td>
-    <td colspan="1"> 27/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/home-service-category </td>
-    <td colspan="1"> d2b9c2db </td>
-    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
-    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
-    <td colspan="1"> 27/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/home-service-category </td>
-    <td colspan="1"> 5ee92b4c </td>
-    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
-    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
-    <td colspan="1"> 27/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/home-best-companies </td>
-    <td colspan="1"> 1f7e7ded </td>
-    <td colspan="1"> feat(home-best-companies): updates style the best companies. </td>
-    <td colspan="1"> feat(home-best-companies): updates style the best companies. </td>
-    <td colspan="1"> 27/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/review-service </td>
-    <td colspan="1"> d8ac4234 </td>
-    <td colspan="1"> feat(review-service): update get user by id method. </td>
-    <td colspan="1"> feat(review-service): update get user by id method. </td>
-    <td colspan="1"> 27/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/reservations </td>
-    <td colspan="1"> 562f9312 </td>
-    <td colspan="1"> feat(reservations): added confirmation booking dialog to appointment form. </td>
-    <td colspan="1"> feat(reservations): added confirmation booking dialog to appointment form. </td>
-    <td colspan="1"> 28/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/reservations </td>
-    <td colspan="1"> a5ffdc9e </td>
-    <td colspan="1"> feat(reservations): implemented event handling for an appointment of a service. </td>
-    <td colspan="1"> feat(reservations): implemented event handling for an appointment of a service. </td>
-    <td colspan="1"> 28/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/reservations </td>
-    <td colspan="1"> c02c42e7 </td>
-    <td colspan="1"> feat(reservations): added after booking dialog. </td>
-    <td colspan="1"> feat(reservations): added after booking dialog. </td>
-    <td colspan="1"> 29/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/reservations </td>
-    <td colspan="1"> 42c1471f </td>
-    <td colspan="1"> fix(reservations): fixed filter by category and price implementation. </td>
-    <td colspan="1"> fix(reservations): fixed filter by category and price implementation. </td>
-    <td colspan="1"> 30/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> f2ec5609 </td>
-    <td colspan="1"> fix: fixed methods for new api service. </td>
-    <td colspan="1"> fix: fixed methods for new api service. </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 9e07eb1d </td>
-    <td colspan="1"> fix: fixed structure for business appointment api service. </td>
-    <td colspan="1"> fix: fixed structure for business appointment api service. </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 07cb7e5d </td>
-    <td colspan="1"> feat: added new api service for appointments. </td>
-    <td colspan="1"> feat: added new api service for appointments. </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>
-
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 8bf28535 </td>
-    <td colspan="1"> fix: fixed general descriptions. </td>
-    <td colspan="1"> fix: fixed general descriptions. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 8bf28535 </td>
-    <td colspan="1"> fix: fixed general descriptions. </td>
-    <td colspan="1"> fix: fixed general descriptions. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 4769dcd6 </td>
-    <td colspan="1"> feat: added new method to display images from service id. </td>
-    <td colspan="1"> feat: added new method to display images from service id. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 5c908776 </td>
-    <td colspan="1"> fix: fixed fields to display details on users information. </td>
-    <td colspan="1"> fix: fixed fields to display details on users information. </td>
-    <td colspan="1"> 02/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 59abae59 </td>
-    <td colspan="1"> fix: added new filter to display only pending appointments, and fixed problem related to cancel an appointment. </td>
-    <td colspan="1"> fix: added new filter to display only pending appointments, and fixed problem related to cancel an appointment. </td>
-    <td colspan="1"> 02/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> e3787b2d </td>
-    <td colspan="1"> fix: fixed image display size to keep style and fixed title size. </td>
-    <td colspan="1"> fix: fixed image display size to keep style and fixed title size. </td>
-    <td colspan="1"> 02/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 5483d59c </td>
-    <td colspan="1"> feat: added i18n for for top rated reviews component and applied new styles. </td>
-    <td colspan="1"> feat: added i18n for for top rated reviews component and applied new styles. </td>
-    <td colspan="1"> 02/11/2024 </td>
-  </tr>	  
 </table>
 
-*Commits realizados en el repositorio de backend durante el sprint 3:*
+*Commits realizados en el repositorio de frontend durante el sprint 3:*
 <table>
   <tr>
     <td colspan="1">Repository</td>
@@ -3721,387 +3606,17 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
     <td colspan="1"> fix: added missing swagger run line. </td>
     <td colspan="1"> 29/10/2024 </td>
   </tr>
- <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/services </td>
-    <td colspan="1"> 0a9d9d2 </td>
-    <td colspan="1"> fix: included missing entity when fetching data when searching services by company id. </td>
-    <td colspan="1"> fix: included missing entity when fetching data when searching services by company id. </td>
-    <td colspan="1"> 29/10/2024 </td>
-  </tr>
- <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/services </td>
-    <td colspan="1"> 2b04774 </td>
-    <td colspan="1"> fix(service-management): added missing queries implementations. </td>
-    <td colspan="1"> fix(service-management): added missing queries implementations. </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>
- <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/services </td>
-    <td colspan="1"> eb9c1f0 </td>
-    <td colspan="1"> fix(service-management): fixed access information trough endpoint. </td>
-    <td colspan="1"> fix(service-management): fixed access information trough endpoint. </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>	
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 5c0e121 </td>
-    <td colspan="1"> feat(controller): implemented delete appointment endpoint. </td>
-    <td colspan="1"> feat(controller): implemented delete appointment endpoint. </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>	
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/commands </td>
-    <td colspan="1"> 8d14eae9 </td>
-    <td colspan="1"> feat: added delete appointment command </td>
-    <td colspan="1"> feat: added delete appointment command </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/repositories </td>
-    <td colspan="1"> 29f612d8 </td>
-    <td colspan="1"> feat(repositories): implemented appointment repository. </td>
-    <td colspan="1"> feat(repositories): implemented appointment repository. </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/repositories </td>
-    <td colspan="1"> babdcc00 </td>
-    <td colspan="1"> feat(rest): implemented get appointments by user id endpoint. </td>
-    <td colspan="1"> feat(rest): implemented get appointments by user id endpoint. </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/resources </td>
-    <td colspan="1"> adeba3c7 </td>
-    <td colspan="1"> feat(resources): added user resource. </td>
-    <td colspan="1"> feat(resources): added user resource. </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/queries </td>
-    <td colspan="1"> 74a28360 </td>
-    <td colspan="1"> feat(queries): add get appointment by id query. </td>
-    <td colspan="1"> feat(queries): add get appointment by id query. </td>
-    <td colspan="1"> 31/10/2024 </td>
-  </tr>
-	  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/query-services </td>
-    <td colspan="1"> 6589f771 </td>
-    <td colspan="1"> feat(query-services): added call to find appointment by id of appointment repository. </td>
-    <td colspan="1"> feat(query-services): added call to find appointment by id of appointment repository. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/reviews </td>
-    <td colspan="1"> 7e309ebc </td>
-    <td colspan="1"> feat(user): Review collection interface added. </td>
-    <td colspan="1"> feat(user): Review collection interface added. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/reviews </td>
-    <td colspan="1"> 4b71beb1 </td>
-    <td colspan="1"> feat: Implement ReviewController with necessary endpoints. </td>
-    <td colspan="1"> feat: Implement ReviewController with necessary endpoints. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/reviews </td>
-    <td colspan="1"> fd55c5d0 </td>
-    <td colspan="1"> feat: Define ReviewResource and related resources. </td>
-    <td colspan="1"> feat: Define ReviewResource and related resources. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/queries </td>
-    <td colspan="1"> ad40fb11 </td>
-    <td colspan="1"> feat(query-services): "Add IReviewQueryService interface and implement query handling for reviews". </td>
-    <td colspan="1"> feat(query-services): "Add IReviewQueryService interface and implement query handling for reviews". </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/reviews </td>
-    <td colspan="1"> 059f00f7 </td>
-    <td colspan="1"> feat: Add IReviewQueryService interface definition. </td>
-    <td colspan="1"> feat: Add IReviewQueryService interface definition. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/reviews </td>
-    <td colspan="1"> 0940ca53 </td>
-    <td colspan="1"> feat: Register ReviewCommandService, ReviewQueryService, and ReviewRepository in Program.cs. </td>
-    <td colspan="1"> feat: Register ReviewCommandService, ReviewQueryService, and ReviewRepository in Program.cs. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/reviews </td>
-    <td colspan="1"> 7de882b2 </td>
-    <td colspan="1"> feat: Add UpdateReviewCommand for updating review details. </td>
-    <td colspan="1"> feat: Add UpdateReviewCommand for updating review details. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 7404c323 </td>
-    <td colspan="1"> feat: added new resource to update an existing appointment. </td>
-    <td colspan="1"> feat: added new resource to update an existing appointment. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 321a9371 </td>
-    <td colspan="1"> feat: added new command services for update appointments. </td>
-    <td colspan="1"> feat: added new command services for update appointments. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/repositories </td>
-    <td colspan="1"> 55888fbf </td>
-    <td colspan="1"> feat(repositories): Add methods to find reviews by user id, appointment id, and company id. </td>
-    <td colspan="1"> feat(repositories): Add methods to find reviews by user id, appointment id, and company id. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>
-	<tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 0788e19 </td>
-    <td colspan="1"> fix(controller): added await to handle call for delete appointment command service in appointment controller. </td>
-    <td colspan="1"> fix(controller): added await to handle call for delete appointment command service in appointment controller. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> b584982 </td>
-    <td colspan="1"> feat(repositories): implemented find by service id and time , and find by user d and time. </td>
-    <td colspan="1"> feat(repositories): implemented find by service id and time , and find by user d and time. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> cec503e </td>
-    <td colspan="1"> feat(repositories): aded find appointment by id contract. </td>
-    <td colspan="1"> feat(repositories): aded find appointment by id contract. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 6f38927 </td>
-    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
-    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 6589f77 </td>
-    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
-    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/appointments </td>
-    <td colspan="1"> 6825f04 </td>
-    <td colspan="1"> feat(controller): added new endpoint to update an existing appointment. </td>
-    <td colspan="1"> feat(controller): added new endpoint to update an existing appointment. </td>
-    <td colspan="1"> 01/11/2024 </td>
-  </tr>	
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/reviews </td>
-    <td colspan="1"> dc594d1d </td>
-    <td colspan="1"> feat: Add UpdateReviewResource for updating review data. </td>
-    <td colspan="1"> feat: Add UpdateReviewResource for updating review data. </td>
-    <td colspan="1"> 02/11/2024 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
-    <td colspan="1"> feat/reviews </td>
-    <td colspan="1"> 2646361d </td>
-    <td colspan="1"> feat: Add UpdateReviewCommandResourceFromEntityAssembler for converting UpdateReviewResource to UpdateReviewCommand. </td>
-    <td colspan="1"> feat: Add UpdateReviewCommandResourceFromEntityAssembler for converting UpdateReviewResource to UpdateReviewCommand. </td>
-    <td colspan="1"> 02/11/2024 </td>
-  </tr>
-  
 </table>
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
-![execution_landing1](resources/chapter-5/landing1.png)
-![execution_landing2](resources/chapter-5/landing2.png)
-![execution_landing3](resources/chapter-5/landing3.png)
-![execution_landing4](resources/chapter-5/landing4.png)
-![execution_landing5](resources/chapter-5/landing5.png)
-![execution_landing6](resources/chapter-5/landing6.png)
-![execution_front1](resources/chapter-5/front1.png)
-![execution_front2](resources/chapter-5/front2.png)
-![execution_front3](resources/chapter-5/front3.png)
-![execution_front4](resources/chapter-5/front4.png)
-![execution_front5](resources/chapter-5/front5.png)
-![execution_front6](resources/chapter-5/front6.png)
-![execution_front7](resources/chapter-5/front7.png)
-![execution_front8](resources/chapter-5/front8.png)
-![execution_front9](resources/chapter-5/front9.png)
-![execution_front10](resources/chapter-5/front10.png)
-![execution_front11](resources/chapter-5/front11.png)
-![execution_front12](resources/chapter-5/front12.png)
-![execution_front13](resources/chapter-5/front13.png)
-![execution_front14](resources/chapter-5/front14.png)
-![execution_front15](resources/chapter-5/front15.png)
-![execution_front16](resources/chapter-5/front16.png)
-![execution_front17](resources/chapter-5/front17.png)
-![execution_front18](resources/chapter-5/front18.png)
-![execution_front19](resources/chapter-5/front19.png)
-
-Enlace a video de demostración: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/EbpLlx7efLpAlmAg8vZigzEBkE0KLOMuZW2g1ZvFq_6Mpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFybCk">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/EbpLlx7efLpAlmAg8vZigzEBkE0KLOMuZW2g1ZvFq_6Mpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFybCk</a>
-
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
-
-**Diseño**
-Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
-* Para el uso de figma, primero es necesario crear tu propia cuenta, para esto se deberá ingresar al página oficial de figma (https://www.figma.com/) y registrarse.
-
-<img src="resources/chapter-5/figma-acc-setup-1.png">
-<img src="resources/chapter-5/figma-acc-setup-2.png">
-
-* Una vez se tiene la cuenta, se debe crear un draft en el que se trabajan los diseños de manera colaborativa.
-  <img src="resources/chapter-5/figma-draft-setup-1.png">
-
-**Landing Page**
-
-Para hacer el deployment de la landing page se utilizó Github Pages,
-una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública.
-
-Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
-![landingdeployment1](resources/chapter-5/landing-deploy-1.png)
-
-Escogemos la opcion de hacer el deploy a través de una rama.
-![landingdeployment2](resources/chapter-5/landing-deploy-2.png)
-
-Escogemos la rama de develop (para futuros cambios)
-![landingdeployment3](resources/chapter-5/landing-deploy-3.png)
-
-Guadrdamos la configuracion usando el boton save
-![landingdeployment5](resources/chapter-5/landing-deploy-5.png)
-
-La pagina cargara en algunos minutos y se podra acceder a ella a través del link que se muestra en la parte superior.
-![landingdeployment6](resources/chapter-5/landing-deploy-6.png)
-
-
-**Frontend**
-Para hacer el deployment de la aplicacion web se utilizó Vercel,
-una plataforma de deployment de aplicaciones web que permite hacer el
-deployment de aplicaciones web de forma sencilla y rápida.
-
-![deployment evidence9](resources/chapter-5/deployment-evidence-9.png)
-![deployment evidence10](resources/chapter-5/deployment-evidence-10.png)
-![deployment evidence11](resources/chapter-5/deployment-evidence-11.png)
-![deployment evidence12](resources/chapter-5/deployment-evidence-12.png)
-![deployment evidence13](resources/chapter-5/deployment-evidence-13.png)
-
-**Backend**
-
-wip
-
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 
 ### 5.3. Validation Interviews
 #### 5.3.1 Diseño de Entrevistas
-
-## Objetivo de la Entrevista
-Validar la usabilidad y efectividad de la landing page y la aplicación para cada uno de los segmentos de usuarios, asegurando que los flujos de usuario (user flows) sean intuitivos y satisfactorios.
-
-## Elementos de Validación
-- **Landing Page**: Los usuarios interactuarán con la landing page para evaluar la claridad del mensaje, las llamadas a la acción (CTA), la navegación y el diseño.
-- **Aplicación**: Se guiará a los usuarios a través de flujos principales, como la reserva de servicios de belleza, la gestión de servicios y el sistema de feedback.
-
-## User Flows a Validar
-
-### Para el Segmento Cliente
-1. **Navegación del Catálogo de Servicios**: Facilidad para encontrar y explorar servicios (manicure, pedicure, tratamientos faciales, etc.).
-2. **Proceso de Reserva**: Facilidad para reservar un servicio, seleccionar una hora y elegir un profesional.
-3. **Recepción de Servicios**: Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
-
-### Para el Segmento Empresa
-1. **Edición de Cuenta**: Cómo las empresas editan su perfil, incluyendo los servicios que ofrecen.
-2. **Visualización del Perfil de la Empresa**: Cómo la empresa visualiza su propio perfil.
-3. **Creación de Servicio**: Facilidad para crear y personalizar nuevos servicios.
-4. **Gestión de Reservas**: Capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
-5. **Recepción de Reviews y Feedback de Clientes**: Cómo las empresas reciben y gestionan reseñas de los clientes.
-
-## Formato de Registro de la Entrevista
-1. **Datos del Entrevistado**:
-   - Nombre y apellidos
-   - Edad
-   - Distrito de residencia
-   - Dispositivo utilizado (smartphone, tablet, laptop)
-
-### Preguntas para el Segmento Cliente
-
-#### Catálogo de Servicios
-- ¿Fue fácil encontrar lo que buscabas en el catálogo?
-- ¿Cómo describirías la información presentada sobre los servicios?
-- ¿Algún momento te sentiste perdido al explorar el catálogo?
-- ¿Pudiste comparar fácilmente diferentes servicios? ¿Cómo mejorarías este proceso?
-
-#### Creación de Reserva de Cita
-- ¿Qué tan sencillo fue comenzar a reservar una cita?
-- Describe el flujo para crear una reserva. ¿Algún paso generó dudas?
-- ¿El sistema brindó suficiente retroalimentación al completar la reserva?
-- ¿Hubo obstáculos al elegir la fecha o el servicio adecuado?
-
-#### Visualización de Historial
-- Describe tu experiencia al buscar el historial de reservas. ¿Fue intuitivo?
-- ¿Pudiste encontrar la información fácilmente?
-- ¿Hay algo en el historial que cambiarías para mejorar la gestión de reservas pasadas?
-
-#### Reviews
-- Describe el proceso para dejar una review. ¿Fue sencillo?
-- ¿Recibiste suficiente guía para incluir tu review?
-- ¿Te resultó útil valorar tanto el servicio como al proveedor?
-
-### Preguntas para el Segmento Empresa
-
-#### Visualización de Servicios
-- ¿Fue clara la visualización de los servicios de tu empresa en el perfil?
-- ¿Cómo fue la funcionalidad para actualizar o modificar los servicios?
-
-#### Creación de Servicio
-- Describe el proceso para crear un nuevo servicio. ¿Fue claro desde el principio?
-- ¿Qué tan intuitivo fue definir los detalles del servicio (nombre, precio, disponibilidad)?
-- ¿Recibiste suficiente orientación durante la creación del servicio?
-
-#### Gestión de Servicios y Reservas
-- ¿En qué medida el sistema te permite gestionar eficientemente los servicios?
-- ¿Qué desafíos enfrentaste al actualizar la información de la empresa y servicios?
-- ¿Qué aspectos del sistema valoras más en comparación con otras plataformas que usas?
-
-
 #### 5.3.2. Registro de Entrevistas
 #### 5.3.3. Evaluaciones según heurísticas.
 
