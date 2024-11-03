@@ -14,10 +14,10 @@
   <h2 >Integrantes:</h2>
   <ul style="list-style: none; padding: 0;">
       <li><h3>Juan Diego Astonitas Díaz</h3></li>
-      <li><h3>Sebastian Aaron Anibal Carbajal Santivañez</h3></li>
       <li><h3>Gabriel Alexander Casas Sanchez</h3></li>
       <li><h3>Gianluca Santino Pasquale Barrenechea</h3></li>
-      <li><h3>Elvia Marcela Rodriguez Villa</h3></li>
+      <li><h3>Godofredo Quispe Tipo</h3></li>
+      <li><h3>Elvia Marcela Rodríguez Villa</h3></li>
   </ul>
   <br>
   <h4>Septiembre del 2024</h4>
@@ -37,7 +37,7 @@
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |                URL del repositorio del reporte                |
 |:-----------------------------------:|:-------------------------------------------------------------:|
-|   https://github.com/SI729-Bliss    | https://github.com/SI729-Bliss/OpenSource-Bliss-Documentation |
+|   https://github.com/SI729-Bliss    | https://github.com/NRG3-appweb/report |
 
 TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend.
 
@@ -62,6 +62,7 @@ Web Application Frontend:
 - Juan Diego Astonitas Díaz: 31
 - Gabriel Alexander Casas Sanchez: 30
 - Gianluca Santino Pasquale Barrenechea: 9
+- Godofredo Quispe Tipo -
 - Elvia Marcela Rodriguez Villa: -
 
 
@@ -74,9 +75,33 @@ Report:
 - Juan Diego Astonitas Díaz: 38
 - Gabriel Alexander Casas Sanchez: 52
 - Gianluca Santino Pasquale Barrenechea: 30
+- Godofredo Quispe Tipo: 
 - Elvia Marcela Rodriguez Villa: 26
 
-  
+TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/NRG3-appweb/backend.
+
+**Vista de commits Frontend:**
+<img src="resources/sprint-3/front-1.png">
+<img src="resources/sprint-3/front-2.png">
+
+- Juan Diego Astonitas Díaz: 47 commits.
+- Gabriel Alexander Casas Sanchez: 21 commits.
+- Gianluca Santino Pasquale Barrenechea: 88 commits.
+- Godofredo Quispe Tipo: 41 commits.
+- Elvia Marcela Rodriguez Villa: 26 commits.
+
+**Vista de commits Backend:**
+<img src="resources/sprint-3/back-1.png">
+<img src="resources/sprint-3/back-2.png">
+
+- Juan Diego Astonitas Díaz: 70commits.
+- Gabriel Alexander Casas Sanchez: 40 commits.
+- Gianluca Santino Pasquale Barrenechea: 20 commits.
+- Godofredo Quispe Tipo: 26 commits.
+- Elvia Marcela Rodriguez Villa: 34 commits.
+
+### Repartición de tareas:
+
 ### TB1 
 
 | Integrante                                 | Tareas Asignadas                                                                                                          |
@@ -98,18 +123,17 @@ Report:
 | Juan Diego Astonitas Díaz                  | Desarrollo de aplicación web                                           |
 | Sebastian Aaron Anibal Carbajal Santivañez |                                                                        |
 
-### Capturas de la colaboración
-
+### TB2
+| Integrante                            | Tareas Asignadas                                               |
+|---------------------------------------|----------------------------------------------------------------|
+| Elvia Marcela Rodriguez Villa         | Elaboración del web application y web service.                 |
+| Gabriel Alexander Casas Sanchez       | Elaboración de la landing page, web application y web service. |
+| Gianluca Santino Pasquale Barrenechea | Elaboración del web application y web service.                 |
+| Juan Diego Astonitas Díaz             | Elaboración del web application y web service.                 |
+| Godofreado Quispe Tipo                | Elaboración del web application y web service.                 |
 
 ## Contenido
 
-- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-  - [TB1](#tb1)
-  - [TP (Trabajo Parcial)](#tp-trabajo-parcial)
-  - [Capturas de la colaboración](#capturas-de-la-colaboración)
-- [Contenido](#contenido)
-- [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción ](#capítulo-i-introducción-)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -119,11 +143,6 @@ Report:
     - [1.2.2 Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-        - [User Assumptions (Suposiciones de Usuario)](#user-assumptions-suposiciones-de-usuario)
-        - [Business Assumptions (Suposiciones de Negocio)](#business-assumptions-suposiciones-de-negocio)
-        - [Technical Assumptions (Suposiciones Técnicas)](#technical-assumptions-suposiciones-técnicas)
-        - [Market Assumptions (Suposiciones de Mercado)](#market-assumptions-suposiciones-de-mercado)
-        - [Design Assumptions (Suposiciones de Diseño)](#design-assumptions-suposiciones-de-diseño)
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
@@ -131,61 +150,31 @@ Report:
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-        - [Estrategias:](#estrategias)
-        - [Tácticas:](#tácticas)
   - [2.2. Entrevistas.](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
     - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
-        - [**MYPES o Emprendedores**](#mypes-o-emprendedores)
-        - [**Clientes de la industria de belleza y bienestar**](#clientes-de-la-industria-de-belleza-y-bienestar)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
-        - [**MYPES o Emprendedores**](#mypes-o-emprendedores-1)
-        - [**Clientes de la industria de belleza y bienestar**](#clientes-de-la-industria-de-belleza-y-bienestar-1)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-        - [**Clientas Aficionadas al Embellecimiento**](#clientas-aficionadas-al-embellecimiento)
-        - [**MYPES del Sector de Belleza**](#mypes-del-sector-de-belleza)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-        - [Clientas Aficionadas al Embellecimiento](#clientas-aficionadas-al-embellecimiento-1)
-        - [MYPES del Sector de Belleza](#mypes-del-sector-de-belleza-1)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-        - [Clientas Aficionadas al Embellecimiento](#clientas-aficionadas-al-embellecimiento-2)
-        - [MYPES del Sector de Belleza](#mypes-del-sector-de-belleza-2)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification ](#capítulo-iii-requirements-specification-)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-        - [Clientas Aficionadas al Embellecimiento](#clientas-aficionadas-al-embellecimiento-3)
-        - [MYPES del Sector de Belleza](#mypes-del-sector-de-belleza-3)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
 - [Capítulo IV: Product Design ](#capítulo-iv-product-design-)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-  - [Typography](#typography)
-  - [Minimalismo y sofisticación:](#minimalismo-y-sofisticación)
-  - [Sentido emocional:](#sentido-emocional)
-  - [Icons](#icons)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
   - [4.2. Information Architecture](#42-information-architecture)
     - [4.2.1. Organization Systems](#421-organization-systems)
     - [4.2.2. Labeling Systems](#422-labeling-systems)
     - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-      - [Página de Aterrizaje (Landing Page)](#página-de-aterrizaje-landing-page)
-      - [Aplicación Web](#aplicación-web)
     - [4.2.4. Searching Systems](#424-searching-systems)
-      - [Opciones de Búsqueda](#opciones-de-búsqueda)
-      - [Barra de Búsqueda](#barra-de-búsqueda)
-      - [Categorías](#categorías)
-      - [Etiquetas Populares](#etiquetas-populares)
-      - [Filtros Disponibles](#filtros-disponibles)
-      - [Filtros por Tipo de Servicio](#filtros-por-tipo-de-servicio)
-      - [Filtro por Precio](#filtro-por-precio)
-      - [Resumen y Descripción](#resumen-y-descripción)
-      - [Opciones de Ordenación y Filtros Aplicados](#opciones-de-ordenación-y-filtros-aplicados)
-      - [Revisiones y Comentarios](#revisiones-y-comentarios)
     - [4.2.5. Navigation Systems](#425-navigation-systems)
   - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
     - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
@@ -193,11 +182,6 @@ Report:
   - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
     - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
     - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
-      - [Registro y Perfil de Empresa](#registro-y-perfil-de-empresa)
-      - [Gestión de Usuario](#gestión-de-usuario)
-      - [Visualización de Historial y Agenda](#visualización-de-historial-y-agenda)
-      - [Reserva de Servicio](#reserva-de-servicio)
-      - [Creación de Servicio](#creación-de-servicio)
     - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
     - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
   - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
@@ -205,7 +189,6 @@ Report:
     - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
     - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
     - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-      - [Service Management Component](#service-management-component)
   - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
@@ -227,7 +210,7 @@ Report:
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1.Sprint Planning 2.](#5221sprint-planning-2)
       - [5.2.2.2.Sprint Backlog 2.](#5222sprint-backlog-2)
       - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
@@ -236,6 +219,20 @@ Report:
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Spring Planning 3.](#5231-spring-planning-3)
+      - [5.2.3.2. Sprint Backlog 3.](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review.](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -254,34 +251,34 @@ del ABET – EAC - Student Outcome 5.
 
 <table>
   <tr>
-    <td colspan="1"><strong>Criterio Específico</strong></td>
-    <td colspan="1"><strong>Acciones Realizadas</strong></td>
-    <td colspan="1"><strong>Conclusiones</strong></td>
+    <td><strong>Criterio Específico</strong></td>
+    <td><strong>Acciones Realizadas</strong></td>
+    <td><strong>Conclusiones</strong></td>
   </tr>
   <tr>
-    <td> Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>
-	    Juan Astonitas<br>TB1: <br> A lo largo del desarrollo del proyecto Bliss, he participado activamente en la toma de decisiones estratégicas y en la definición de la dirección del equipo, promoviendo la comunicación abierta y la responsabilidad compartida para garantizar un liderazgo efectivo y colectivo.<br>
-        Gabriel Casas<br>TB1: <br> Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor produto. <br> TP1: <br> Realicé una reuión antes de la entrega para colaborar como  grupo en el desarrollo del proyecto. Establecí las bases para el desarrollo del proyecto. Ayude a mis compañeros a comprender conceptos que desconocian.
-	    <br>Elvia Rodriguez<br>TB1: <br>Durante el proyecto Bliss, mi enfoque ha sido mantener la cohesión del equipo, facilitando una comunicación fluida y asegurando que todas las voces fueran escuchadas. He trabajado mano a mano con mis compañeros para resolver conflictos y establecer un liderazgo compartido, lo que ha sido clave para el éxito del equipo.
-</br> Gianluca Pasquale</br>TB1: <br>He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva. <br> TP1: <br> Participe activamente en las reuniones de grupo y promoví el avance en conjunto para asi lograr de manera satisfactoria las entregas del trabajo.
+      Juan Astonitas<br>TB1:<br> lidere el desarrollo del primer capitulo para tener una vision clara del proyecto. desarolle en conjunto la primer version de nuestras historias de usuario <br>TP1:<br> Diseñe el header general y lo implemente junto a mis compañeros. Diseñe e implemente el listado de servicios y el detalle de los servicios junto a mis compañeros. <br>TB2:<br> lidere el desarrollo de los endpoints para appointments , siendo esta una guia clave para los demas. Colabore en el replanteamiento de las respuestas de los endpoints para un mejor rendimiento y mantenibilidad. <br>
+      Gabriel Casas<br>TB1:<br> Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor producto.<br> TP1:<br> Realicé una reunión antes de la entrega para colaborar como grupo en el desarrollo del proyecto. Establecí las bases para el desarrollo del proyecto. Ayudé a mis compañeros a comprender conceptos que desconocían.<br> TB2:<br> Como líder de grupo realicé distintas reuniones virtuales y presenciales para trabajar de manera conjunta, promoviendo las consultas e intercambio de ideas entre los miembros de mi equipo. Establecí reglas de comunicación y una jerarquía basada en la división de contextos de trabajo.<br>
+      Elvia Rodriguez<br>TB1:<br> Durante el proyecto Bliss, mi enfoque ha sido mantener la cohesión del equipo, facilitando una comunicación fluida y asegurando que todas las voces fueran escuchadas. He trabajado mano a mano con mis compañeros para resolver conflictos y establecer un liderazgo compartido, lo que ha sido clave para el éxito del equipo.<br> TB2: <br> En esta entrega, he continuado promoviendo un liderazgo compartido, facilitando la toma de decisiones y asegurando que cada miembro del equipo se sienta valorado y escuchado. He trabajado en conjunto con mis compañeros para garantizar una comunicación efectiva y una distribución equitativa de responsabilidades, lo que ha fortalecido la cohesión y eficacia del grupo.<br>
+      Gianluca Pasquale<br>TB1:<br> He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br> TP1:<br> Participé activamente en las reuniones de grupo y promoví el avance en conjunto para así lograr de manera satisfactoria las entregas del trabajo. <br> TB2: <br> Durante la entrega acate las tareas brindadas por el lider del grupo y asistí a todas las reuniones formadas para el avance del proyecto. He colaborado con mis compañeros en la planificación de tareas y en la definición de metas alcanzables. <br>  
+      Godofredo Quispe<br> TB2:<br> En este entregable, presenté la lógica de negocio a implementar, compartiendo mi visión y recibiendo activamente las opiniones de los demás. Esto permitió una discusión colaborativa, donde evaluamos diferentes perspectivas para asegurar que la solución propuesta cumpliera con los objetivos del proyecto. Esta dinámica enriqueció el proceso, promoviendo un ambiente de trabajo en equipo que facilitó el desarrollo continuo del entregable.<br>
     </td>
     <td>
-	    TB1: 
-A lo largo del desarrollo del proyecto Bliss, hemos demostrado una fuerte capacidad de liderazgo compartido, destacando la importancia de la toma de decisiones conjunta y la distribución equitativa de responsabilidades. Cada miembro del equipo ha aportado activamente, promoviendo una comunicación abierta y colaborando para superar desafíos, lo cual ha fortalecido la cohesión y efectividad del grupo. La responsabilidad colectiva y el apoyo mutuo han sido pilares clave que nos han permitido dirigir el proyecto hacia el cumplimiento exitoso de nuestros objetivos. Este enfoque de liderazgo conjunto ha sido fundamental para crear un entorno de trabajo inclusivo y productivo. </br>
+      TB1:<br> A lo largo del desarrollo del proyecto Bliss, hemos demostrado una fuerte capacidad de liderazgo compartido, destacando la importancia de la toma de decisiones conjunta y la distribución equitativa de responsabilidades. Cada miembro del equipo ha aportado activamente, promoviendo una comunicación abierta y colaborando para superar desafíos, lo cual ha fortalecido la cohesión y efectividad del grupo. La responsabilidad colectiva y el apoyo mutuo han sido pilares clave que nos han permitido dirigir el proyecto hacia el cumplimiento exitoso de nuestros objetivos. Este enfoque de liderazgo conjunto ha sido fundamental para crear un entorno de trabajo inclusivo y productivo.<br>
     </td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
-	    Juan Astonitas<br> TB1: <br> Durante el proyecto, he contribuido a la creación de un entorno inclusivo y colaborativo, fomentando la participación de todos los miembros del equipo. He trabajado en la definición de metas claras, la planificación de tareas detalladas, y el seguimiento del cumplimiento de los objetivos, asegurando que cada miembro se sienta valorado y comprometido con los resultados.
-	    <br>Gabriel Casas<br>TB1: <br> Durante el proyecto fue de mi prioridad ayudar a mis compañeros en la realización de sus tareas, por este motivo he reviso todo el proyecto, corregido errores, como tmambién aportado a la creación de items externos a mis responsabilidades asignadas. <br> TP1: <br> Establecí metas de entrega para el desarrollo de las actividades correspondientes a este ciclo de trabajo. Procure que todos los miembros del equipo sean incluidos en la repartición de tareas.
-	    <br>Elvia Rodriguez:<br>TB1: <br>A lo largo del proyecto Bliss, me he centrado en establecer un entorno de trabajo colaborativo e inclusivo, asegurándome de que cada miembro del equipo tuviera las herramientas y el apoyo necesarios para cumplir con sus tareas. Además, he liderado la planificación de actividades y el establecimiento de metas alcanzables para cumplir con los objetivos de manera eficiente.
-</br> Gianluca Pasquale</br>TB1: <br> He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto. <br> TP1: <br> Durante el desarrollo del  proyecto, me aseguré de ser parte de un entorno colaborativo con mi grupo, y acatar con las responsabilidades correspondientes.
+      Juan Astonitas<br>TB1:<br> Tome la mayor parte de la responsabilidad del desarrollo del primer y segundo capitulo. <br> TP1: <br> Apoye a mis compañeros para la correcta creacion y documentacion de los api services <br> TB2:<br> Diseñe y designe las tareas para el desorrollo de los enpoints del bounded context de appointment management. <br> 
+      Gabriel Casas<br>TB1:<br> Durante el proyecto fue de mi prioridad ayudar a mis compañeros en la realización de sus tareas, por este motivo he revisado todo el proyecto, corregido errores, como también aportado a la creación de ítems externos a mis responsabilidades asignadas.<br> TP1:<br> Establecí metas de entrega para el desarrollo de las actividades correspondientes a este ciclo de trabajo. Procuré que todos los miembros del equipo sean incluidos en la repartición de tareas.<br> TB2:<br> Creé un servidor comunitario de comunicaciones para poder anclar mensajes y mantener la información importante sobre la repartición de tareas con un fácil acceso. Además de esto, se estableció una basada en un esquema de colores para dividir las tareas incluidas en el Trello del equipo. Procuré que la repartición de tareas sea la más equitativa posible.<br>
+      Elvia Rodriguez<br>TB1:<br> A lo largo del proyecto Bliss, me he centrado en establecer un entorno de trabajo colaborativo e inclusivo, asegurándome de que cada miembro del equipo tuviera las herramientas y el apoyo necesarios para cumplir con sus tareas. Además, he liderado la planificación de actividades y el establecimiento de metas alcanzables para cumplir con los objetivos de manera eficiente.<br>
+      Gianluca Pasquale<br>TB1:<br> He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br> TP1:<br> Durante el desarrollo del proyecto, me aseguré de ser parte de un entorno colaborativo con mi grupo, y acatar con las responsabilidades correspondientes. <br> TB2: <br> Desarrolle funcionalidades de mostrar información detallada dentro del agendamiento para usuarios y compañias, además implemente un boton para cancelar la cita seleccionada, tanto como para usuario como para compañias. Además seguí de manera cercana las tareas establecidas en el Trello que se me fueron asignadas. <br>  
+      Godofredo Quispe<br>TB2: <br> Durante la elaboración de este proyecto, se promovió un entorno colaborativo e inclusivo en el que todos los miembros pudieron aportar sus ideas y habilidades. Comenzamos estableciendo metas claras que reflejaran los objetivos comunes, lo que facilitó la planificación y asignación de tareas específicas para cada integrante.
     </td>
     <td>
-	    TB1: 
-Durante el proyecto Bliss, hemos logrado crear un entorno inclusivo y colaborativo que ha facilitado la participación activa de todos los miembros del equipo. Hemos definido metas claras y planificado tareas detalladamente, lo que ha permitido un seguimiento efectivo del progreso y el cumplimiento de los objetivos. La colaboración y el apoyo mutuo han sido esenciales para asegurar que cada miembro del equipo se sintiera valorado y comprometido. Este enfoque ha contribuido significativamente a la eficiencia y éxito del proyecto.</br>
+      TB1:<br> Durante el proyecto Bliss, hemos logrado crear un entorno inclusivo y colaborativo que ha facilitado la participación activa de todos los miembros del equipo. Hemos definido metas claras y planificado tareas detalladamente, lo que ha permitido un seguimiento efectivo del progreso y el cumplimiento de los objetivos. La colaboración y el apoyo mutuo han sido esenciales para asegurar que cada miembro del equipo se sintiera valorado y comprometido. Este enfoque ha contribuido significativamente a la eficiencia y éxito del proyecto.<br>
     </td>
   </tr>
 </table>
@@ -338,11 +335,11 @@ Solución Propuesta:</br> Bliss proporciona una plataforma que conecta a cliente
     <td> Soy Elvia Rodríguez, estudiante universitaria, egresada de Laboratoria y embajadora de Microsoft. He participado en voluntariados y Hackathons, aplicando mis habilidades en desarrollo de interfaces de usuario (UI) y programación web. Mi experiencia en el ámbito tecnológico y educativo puede contribuir al modelo de negocio mediante la creación de soluciones digitales innovadoras y funcionales. </td>
   </tr>
 <tr>
-    <th colspan="2"> Sebastian Carbajal Santivañez </th>
+    <th colspan="2"> Godofredo Quispe Tipo </th>
   </tr>
   <tr>
-    <td> <img src="resources/chapter-1/sebastian-pfp.jpg" style="width: 300px"> </td>
-    <td>Mi nombre es sebastian carbajal santivañez, me encuentro cursando la carrera de ingeniería de software, me apasiona mucho el explorar nuevos horizontes y oportunidades dentro de mi rubro académico y profesional, me considero además una persona creativa con pensamiento innovador.</td>
+    <td> <img src="resources\chapter-1\Godofredo-pfp.jpg" style="width: 300px"> </td>
+    <td>Mi nombre es Godofredo y actualmente me encuentro cursando la carrera de Ingeniería de Software, un campo que me apasiona profundamente. Mi interés por las nuevas tecnologías es constante, y estoy siempre al tanto de las últimas innovaciones que están redefiniendo el panorama tecnológico. Me considero un entusiasta de la programación, área en la que he adquirido un dominio en diversos lenguajes, tales como Python, C++ y Assembler, lo que me ha permitido abordar una amplia gama de proyectos y desafíos técnicos.</td>
   </tr>
 </table>
 
@@ -1028,68 +1025,72 @@ Esta sección introduce el To-Be Scenario Mapping para las MYPES del Sector de B
 ### 3.2. User Stories
 Para elaborar user stories estas deben pertenecer a una epic stories. A continuación, se mostrarán las epic stories:
 
-| Epic ID  | Título                                       | Descripción                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|----------|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| EP001    | Gestión de usuario                           | Como usuario (cliente o empresa), quiero gestionar mi perfil personal o de empresa para mantener la información actualizada.                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Story ID | Título                                       | Descripción                                                                                                                                                                                                                              | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 
-| US001    | Creación de cuenta                           | Como nuevo usuario, quiero crear una cuenta para poder reservar servicios de belleza y gestionar mis citas en línea.                                                                                                                     | E01: Registro completado <br> Dado que un nuevo visitante quiere registrarse <br> Cuando esta en la sección de registro  <br> Y acepta registrarse  <br> Entonces se envía un correo de verificación a la dirección enviada. <br> <br> E02: Registro incompleto <br> Dado que un nuevo visitante quiere registrarse <br> Cuando  <br> Y presiona el botón de Crear Cuenta <br> Entonces aparece en pantalla un mensaje de error, indicando el error y solicitando corrección                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 
-| US002    | Inicio de sesión de usuario                  | Como usuario recurrente, quiero iniciar sesión en mi cuenta para acceder a mis servicios personalizados y reservas anteriores.                                                                                                           | E01: Inicio sesión exitoso <br> Dado que un usuario quiere ingresar a su cuenta <br> Cuando está en la sección de inicio de sesión <br> Y elige acceder con sus datos  <br> Entonces es redirigido a la página principal. <br> <br> E02: Error al iniciar sesión <br> Dado que un usuario proporciona credenciales inválidas <br> Cuando intente acceder <br> Entonces se muestra un mensaje de error solicitando reingreso de credenciales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| US003    | Recuperar contraseña                         | Como cliente registrado, quiero recuperar mi contraseña para acceder a la aplicación si la he olvidado.                                                                                                                                  | E01: Recuperación de contraseña exitosa <br> Dado que el cliente olvidó su contraseña <br> Cuando desea recuperar su contrasa <br> Y recibe un correo de recuperación <br> Entonces puede restablecer la contraseña y acceder nuevamente. <br> <br> E02: Error en la recuperación <br> Dado que el cliente olvidó su contraseña <br> Cuando selecciona la opción de recuperación <br> Y no recibe el correo <br> Entonces se muestra un mensaje de error y un botón de reintentar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 
-| US004    | Edición de perfil de especialista            | **Como** empresa, **quiero** editar los perfiles de mis especialistas **para** que el cliente pueda visualizar las características y disponibilidad de los especialistas.                                                                | **E01: Modificar el perfil de empresa satisfactoriamente**<br>**Dado que** la empresa quiere editar su información<br>**Cuando** cambia la información en su formulario<br>**Y** quiere confirmar la edición<br>**Entonces** se visualiza un mensaje de correcto guardado<br>**Y** se guarda en la base de datos.<br><br>**E02: Error al modificar el perfil de empresa**<br>**Dado que** la empresa quiere editar su información<br>**Cuando** cambia la información en su formulario<br>**Y** quiere confirmar la edición<br>**Entonces** el sistema muestra un mensaje de error y no se guarda en la base de datos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| US005    | Registro de perfil de empresa                | **Como** empresa, **quiero** crear un perfil **para** mostrar información sobre mi negocio y los servicios que ofrezco.                                                                                                                  | **E01: Creación exitosa de perfil de empresa**<br>**Dado que** la empresa esta en la sección de registro<br>**Cuando** el cliente tiene la intención de registrarse<br>**Entonces** el sistema mostrará un mensaje de creación correcta de perfil de empresa.<br><br>**E02: Error al crear perfil de empresa**<br>**Dado que** la empresa quiere crear su perfil de empresa<br>**Cuando** llena el formulario de creación de perfil<br>**Entonces** el sistema mostrará un mensaje de error al crear el perfil.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 
-| TS001    | Endpoint para registro                       | **Como** Developer, **quiero** crear un endpoint para permitir a los usuarios registrarse en la aplicación y autenticar su identidad para acceder a sus cuentas.                                                                         | **E01: Registro exitoso**<br>**Dado que** el Developer implementa el endpoint "/api/register"<br>**Cuando** un usuario envía una solicitud POST con datos de registro válidos<br>**Entonces** la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/users/{id}"<br>**Y** el usuario debe estar registrado en el sistema.<br><br>**Escenario 2: Datos de registro faltantes o inválidos**<br>**Dado que** el Developer implementa el endpoint "/api/register"<br>**Cuando** un usuario envía una solicitud POST con datos de registro faltantes o inválidos<br>**Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br><br>**Escenario 3: Usuario ya registrado**<br>**Dado que** el Developer implementa el endpoint "/api/register"<br>**Cuando** un usuario envía una solicitud POST con un correo electrónico que ya está registrado en el sistema<br>**Entonces** la respuesta debe ser 409 Conflict indicando que el recurso ya existe.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Epic ID  | Título                                       | Descripción                                                                                                                                                                                                                              |
-| EP002    | Busqueda y selección de servicios            | Como cliente, quiero buscar y seleccionar servicios de belleza con facilidad, para encontrar la opción que mejor se adapte a mis necesidades.                                                                                            |
-| Story ID | Título                                       | Descripción                                                                                                                                                                                                                              | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| US005    | Búsqueda de servicios                        | Como cliente, quiero buscar un servicio o establecimiento específico para realizar una búsqueda rápida y fácil.                                                                                                                          | E01: Búsqueda por nombre <br> Dado que el usuario está en la sección de búsqueda <br> Cuando desea buscar un servicio o local específico <br> Entonces  debería visualiza los resultados coincidentes. <br> <br> E02: Filtro de servicios <br> Dado que el usuario está en la sección de búsqueda  <br> Cuando desea filtrar por tipo de servicio o rango de precios <br> Entonces  debería visualizar a los servicios coincidentes con estos condicionales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 
-| US007    | Recomendación por ubicación                  | Como cliente, quiero visualizar los servicios de belleza o cuidado de establecimientos cercanos a mi ubicación actual.                                                                                                                   | E01: Recomendaciones encontradas <br> Dado que el cliente está en la página principal <br> Cuando se reconoce su ubicación por localización satelital <br> Entonces se muestra una lista de servicios cercanos. <br> <br> E02: No se encuentran recomendaciones <br> Dado que el cliente está en la página principal <br> Cuando no se reconoce su ubicación <br> Entonces se visualizan servicios basados en su historial de servicios.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 
-| TS002    | Cuadro de búsqueda                           | **Como** desarrollador, **quiero** implementar un cuadro de búsqueda **para** que los clientes busquen servicios o establecimientos fácilmente.                                                                                          | **E01: Búsqueda por nombre**<br>**Dado que** el cliente escribe el nombre del establecimiento o servicio<br>**Cuando** envía la búsqueda<br>**Entonces** visualiza resultados coincidentes.<br><br>**E02: Filtro de servicios**<br>**Dado que** el cliente usa la barra de búsqueda<br>**Cuando** selecciona filtros<br>**Entonces** visualiza resultados filtrados.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| TS003    | Endpoint para buscar servicios               | **Como** Developer, **quiero** implementar un endpoint que permita buscar servicios de belleza según filtros aplicados.                                                                                                                  | **E01: Búsqueda exitosa de servicios**<br>**Dado que** el Developer implementa el endpoint "/api/search"<br>**Cuando** un usuario envía una solicitud GET con parámetros de búsqueda válidos (tipo de servicio, ubicación, rango de precios)<br>**Entonces** la respuesta debe ser 200 OK con una lista de servicios que coinciden con los filtros aplicados.<br><br>**Escenario 2: Parámetros de búsqueda inválidos**<br>**Dado que** el Developer implementa el endpoint "/api/search"<br>**Cuando** un usuario envía una solicitud GET con parámetros de búsqueda en un formato incorrecto<br>**Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique el formato correcto de los parámetros.<br><br>**Escenario 3: Ningún servicio encontrado**<br>**Dado que** el Developer implementa el endpoint "/api/search"<br>**Cuando** un usuario envía una solicitud GET con parámetros de búsqueda válidos pero no se encuentran servicios que coincidan<br>**Entonces** la respuesta debe ser 200 OK con una lista vacía de servicios.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Epic ID  | Título                                       | Descripción                                                                                                                                                                                                                              |
-| EP003    | Reserva y confirmacion de servicios          | Como cliente, quiero reservar un servicio y recibir una confirmación clara y rápida, para asegurarme de que mi cita esté programada.                                                                                                     |
-| Story ID | Título                                       | Descripción                                                                                                                                                                                                                              | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| US008    | Visualización de disponibilidad de citas     | Como cliente, quiero ver la disponibilidad de citas de centros de belleza y cuidado para elegir un horario conveniente.                                                                                                                  | E01: Visualización de disponibilidad <br> Dado que el cliente ha reservado una cita <br> Cuando tiene la intención de cancelarla <br> Entonces debería  ver  un mensaje de confirmación y se elimina la cita de la agenda personal. <br> <br> E02: Error de cancelación <br> Dado que el cliente selecciona cancelar una cita <br> Cuando ocurre un error <br> Entonces se muestra un mensaje de error y se sugiere intentar nuevamente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| US009    | Gestión de citas                             | **Como** empresa, **quiero** gestionar las citas realizadas a través de la aplicación **para** poder realizar el cronograma de trabajo.                                                                                                  | **E01: Visualización de citas**<br>**Dado que** la empresa esta en su perfil <br>**Cuando**  desea ver el detalle de sus citas <br>**Entonces** debería ver detalles de cada cita y gestionar las reservas.<br><br>**E02: Error en la visualización de citas**<br>**Dado que** la empresa quiere gestionar las citas<br>**Cuando** accede a la lista de citas<br>**Entonces** no aparecerá ninguna cita.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | EP009   |
-| US010    | Reserva de citas periódicas                  | Como cliente, quiero agendar servicios que requieran mantenimientos periódicos en una sola reserva.                                                                                                                                      | E01: Confirmación de citas periódicas <br> Dado que el cliente ha reservado una cita para un servicio con más de 2 citas <br> Cuando acepta agendar todo el paquete <br> Entonces las reservas se hacen válidas y se visualizan en el calendario. <br> <br> E02: Error en la reserva de citas periódicas <br> Dado que el cliente confirmó un servicio con más de 2 citas <br> Cuando ocurre un error <br> Entonces se muestra un mensaje de error indicando que no se pudieron agendar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 
-| US011    | Ver disponibilidad de especialista           | Como cliente, quiero ver la disponibilidad de un especialista específico antes de seleccionar el servicio, para poder agendar de acuerdo a mi preferencia.                                                                               | E01: Ver disponibilidad de especialista <br> Dado que el cliente se encuentra en la sección de un servicio <br> Cuando desea un especialista en particula <br> Entonces debería ver su disponibilidad en el calendario de reservas. <br> <br> E02: Error al consultar disponibilidad <br> Dado que el cliente se encuentra en la sección de un servicio <br> Cuando tenga la intención de ver la disponibilidad de un especialista pero e<br> Entonces debería visualizar un mensaje de error pidiendo intentar más tarde.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 
-| US012    | Crear reserva de citas                       | Como cliente, quiero registrar una nueva reserva para acceder a mi servicio deseado.                                                                                                                                                     | E01: Reserva correcta <br> Dado que el cliente eligió el servicio deseado <br> Cuando selecciona fecha y hora disponibles <br> Entonces la cita queda registrada y se visualiza en su perfil. <br> <br> E02: Error en la reserva <br> Dado que el cliente se encuentra en la página de un servicio seleccionado que no tenga disponibilidad  <br> y desea reservar una cita para este <br> Entonces se muestra un mensaje de error indicando falta de disponibilidad y ofreciendo horarios alternativos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | EP003   |
-| TS004    | Endpoint para gestión de citas               | **Como** Developer, **quiero** crear un endpoint para permitir a los especialistas gestionar sus citas programadas, incluyendo la actualización, visualización y cancelación.                                                            | **E01: Actualización exitosa de cita**<br>**Dado el endpoint** "/stylists/{id}/appointments/{appointmentId}"<br>**Y** la cita existe en el sistema<br>**Cuando** el estilista realiza una solicitud PUT con información válida para actualizar la cita<br>**Entonces** la respuesta debe ser 200 OK<br>**Y** la cita debe reflejar las actualizaciones realizadas.<br><br>**Escenario 2: Visualización exitosa de cita**<br>**Dado el endpoint** "/stylists/{id}/appointments/{appointmentId}"<br>**Y** la cita existe en el sistema<br>**Cuando** el estilista realiza una solicitud GET<br>**Entonces** la respuesta debe ser 200 OK con la información de la cita.<br><br>**Escenario 3: Cancelación exitosa de cita**<br>**Dado el endpoint** "/stylists/{id}/appointments/{appointmentId}"<br>**Y** la cita existe en el sistema<br>**Cuando** el estilista realiza una solicitud DELETE<br>**Entonces** la respuesta debe ser 204 No Content<br>**Y** la cita debe ser eliminada del sistema.<br><br>**Escenario 4: Cita no encontrada**<br>**Dado el endpoint** "/stylists/{id}/appointments/{appointmentId}"<br>**Cuando** el estilista realiza una solicitud GET, PUT o DELETE con un ID de cita que no existe<br>**Entonces** la respuesta debe ser 404 Not Found indicando que la cita no fue encontrada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| TS005    | Crear reserva de citas                       | **Como** desarrollador, **quiero** implementar el registro de reservas **para** que los clientes accedan a los servicios.                                                                                                                | **E01: Reserva exitosa**<br>**Dado que** el cliente quiere reservar una cita<br>**Cuando** confirma y realiza el pago<br>**Entonces** se almacena en la base de datos y se envía una confirmación.<br><br>**E02: Error de reserva**<br>**Dado que** el cliente está en la pagina de un servicio<br>**Cuando** tiene la intención de reservar pero no se logra realizar la confirmación de pago<br>**Entonces** debería visualizar un mensaje de error indicando la falla.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Epic ID  | Título                                       | Descripción                                                                                                                                                                                                                              |
-| EP004    | Retroalimentación y valoración               | Como cliente, quiero proporcionar retroalimentación y valoraciones sobre los servicios recibidos, para ayudar a otros clientes y mejorar la calidad de los servicios ofrecidos.                                                          |
-| Story ID | Título                                       | Descripción                                                                                                                                                                                                                              | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| US013    | Dejar valoración y reseña después de la cita | Como cliente, quiero dejar una valoración y reseña sobre el servicio recibido después de completar una cita.                                                                                                                             | E01: Publicación de reseña <br> Dado que el cliente esta en su historial de servicios <br> Cuando tiene la intención de dejar una reseña en alguno de sus servicios pasados <br> Y escribe su experiencia junto a una puntuación de hasta 5 estrellas <br> Entonces su reseña debería ser publicada en el perfil de la empresa. <br> <br> E02: Error en la reseña <br> Dado que el cliente completó el servicio <br> Cuando selecciona dejar una reseña <br> Y ocurre un error <br> Entonces se muestra un mensaje de error al publicar la reseña.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 
-| TS006    | Endpoint para gestión de reseñas             | **Como** Developer, **quiero** crear un endpoint para permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas.                                                    | **E0: Creación exitosa de reseña**<br>**Dado que** el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>**Cuando** un usuario envía una solicitud POST con una reseña válida<br>**Entonces** la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{serviceId}/reviews/{reviewId}"<br>**Y** la reseña debe ser guardada en el sistema.<br><br>**Escenario 2: Datos de reseña faltantes o inválidos**<br>**Dado que** el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>**Cuando** un usuario envía una solicitud POST con datos de reseña faltantes o inválidos<br>**Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br><br>**Escenario 3: Consulta exitosa de reseñas**<br>**Dado el endpoint** "/services/{serviceId}/reviews"<br>**Cuando** un usuario envía una solicitud GET para obtener las reseñas de un servicio<br>**Entonces** la respuesta debe ser 200 OK con una lista de reseñas relacionadas con ese servicio.<br><br>**Escenario 4: Actualización exitosa de reseña**<br>**Dado el endpoint** "/services/{serviceId}/reviews/{reviewId}"<br>**Y** la reseña existe en el sistema<br>**Cuando** un usuario envía una solicitud PUT con información válida para actualizar la reseña<br>**Entonces** la respuesta debe ser 200 OK<br>**Y** la reseña debe reflejar las actualizaciones realizadas.<br><br>**Escenario 5: Eliminación exitosa de reseña**<br>**Dado el endpoint** "/services/{serviceId}/reviews/{reviewId}"<br>**Y** la reseña existe en el sistema<br>**Cuando** un usuario envía una solicitud DELETE<br>**Entonces** la respuesta debe ser 204 No Content<br>**Y** la reseña debe ser eliminada del sistema.<br><br>**Escenario 6: Reseña no encontrada**<br>**Dado el endpoint** "/services/{serviceId}/reviews/{reviewId}"<br>**Cuando** un usuario envía una solicitud GET, PUT o DELETE con un ID de reseña que no existe<br>**Entonces** la respuesta debe ser 404 Not Found indicando que la reseña no fue encontrada. |
-| Epic ID  | Título                                       | Descripción                                                                                                                                                                                                                              |
-| EP005    | Gestión del catálogo de servicios            | Como empresa, quiero poder gestionar los servicios que aparecen en mi catálogo para así poder manternerlo actualizado en caso de que añada o quite alguno.                                                                               |
-| Story ID | Título                                       | Descripción                                                                                                                                                                                                                              | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| US014    | Creación de servicio                         | **Como** empresa, **quiero** crear y especificar los detalles de un servicio **para** que los usuarios lo soliciten.                                                                                                                     | **E01: Creación correcta de servicio**<br>**Dado que** la empresa esta en la sección de "Mis servicios" <br>**Cuando** quiera confirmar la creación de uno de ellos <br>**Entonces** debería visualizar que el servicio ha sido correctamente adjuntado al catálogo.<br><br>**E02: Error al crear servicio**<br>**Dado que** la empresa esta en la sección de mis servicios<br>**Cuando** desea agregar un servicio pero los datos estén incompletos<br>**Entonces** el sistema mostrará un mensaje de error.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 
-| US015    | Eliminación de servicio                      | **Como** empresa, **quiero** poder eliminar un servicio que yo creé **para** mantener los servicio relevantes y a mi criterio.                                                                                                           | **E01: Modificación correcta de servicio**<br>**Dado que** la empresa esta en la sección de "Mis Servicios"<br>**Cuando** desea eliminar un servicio<br>**Entonces** el sistema muestra que el servicio ha sido correctamente eliminado.<br><br>**E02: Modificación incorrecta de servicio**<br>**Dado que** la empresa esta en la sección de mis servicios<br>**Cuando** quiera confirmar la eliminación<br>**Entonces** el sistema muestra un mensaje de error y no guardará las modificaciones.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| US016    | Actualización de servicios ofrecidos         | **Como** empresa, **quiero** actualizar los detalles de los servicios que ofrezco en la aplicación **para** que mis clientes estén informados del servicio que brindo.                                                                   | **E01: Actualización de Servicios**<br>**Dado que** la empresa esta en la sección de servicio<br>**Cuando** modifica e intenta guardar los cambios en uno de los servicios ofrecidos<br>**Entonces** los cambios se reflejan en la aplicación.<br><br>**E02: Error de Disponibilidad de Servicios**<br>**Dado que** la empresa quiere modificar un servicio<br>**Cuando** modifica e intenta guardar los cambios en uno de los servicios ofrecidos<br>**Entonces** los cambios no se han sido guardados en la aplicación ni en la base de datos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
-| TS007    | Creación de servicio                         | **Como** Developer, **quiero** crear un servicio en la aplicación **para** que los usuarios puedan solicitarlo.                                                                                                                          | **E0 1: Creación exitosa de servicio**<br>**Dado que** el Developer implementa el endpoint "/api/services"<br>**Cuando** un usuario envía una solicitud POST con datos válidos del servicio<br>**Entonces** la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{id}"<br>**Y** el servicio debe estar registrado en el sistema.<br><br>**Escenario 2: Datos de servicio faltantes o inválidos**<br>**Dado que** el Developer implementa el endpoint "/api/services"<br>**Cuando** un usuario envía una solicitud POST con datos de servicio faltantes o inválidos<br>**Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| TS008    | Eliminación de servicio                      | **Como** Developer, **quiero** eliminar un servicio en la aplicación **para** que los usuarios no puedan solicitarlo.                                                                                                                    | **E0: Eliminación exitosa de servicio**<br>**Dado que** el Developer implementa el endpoint "/api/services/{id}"<br>**Cuando** un usuario envía una solicitud DELETE con un ID de servicio válido<br>**Entonces** la respuesta debe ser 204 No Content<br>**Y** el servicio debe ser eliminado del sistema.<br><br>**Escenario 2: Servicio no encontrado**<br>**Dado que** el Developer implementa el endpoint "/api/services/{id}"<br>**Cuando** un usuario envía una solicitud DELETE con un ID de servicio que no existe<br>**Entonces** la respuesta debe ser 404 Not Found indicando que el servicio no fue encontrado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| TS009    | Actualización de servicio                    | **Como** Developer, **quiero** actualizar un servicio en la aplicación **para** que los usuarios puedan ver la información actualizada.                                                                                                  | **E0: Actualización exitosa de servicio**<br>**Dado que** el Developer implementa el endpoint "/api/services/{id}"<br>**Cuando** un usuario envía una solicitud PUT con datos válidos del servicio<br>**Entonces** la respuesta debe ser 200 OK<br>**Y** el servicio debe reflejar las actualizaciones realizadas.<br><br>**Escenario 2: Datos de servicio faltantes o inválidos**<br>**Dado que** el Developer implementa el endpoint "/api/services/{id}"<br>**Cuando** un usuario envía una solicitud PUT con datos de servicio faltantes o inválidos<br>**Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br><br>**Escenario 3: Servicio no encontrado**<br>**Dado que** el Developer implementa el endpoint "/api/services/{id}"<br>**Cuando** un usuario envía una solicitud PUT con un ID de servicio que no existe<br>**Entonces** la respuesta debe ser 404 Not Found indicando que el servicio no fue encontrado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Epic ID  | Título                                       | Descripción                                                                                                                                                                                                                              |
-| EP006    | Personalización del servicio                 | Como cliente, quiero adaptar mi solicitud de servicios de belleza y/o cuidado de acuerdo a mis preferencias y a la disposición de la empresa que ofrece el servicio para asegurarme que el servicio que solicite sea posible de agendar. |
-| Story ID | Título                                       | Descripción                                                                                                                                                                                                                              | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| US017    | Personalización del Servicio                 | Como cliente, quiero personalizar algunos detalles del servicio reservado para cumplir con todas mis necesidades.                                                                                                                        | E01: Personalización correcta <br> Dado que el cliente está en el formulario de reserva de servicio <br> Cuando tenga la intención de agregar atributos o preferencias al servicio <br> Entonces podrá incluir el detalle del servicio personalizado. <br> <br> E02: Error en la personalización <br> Dado que el cliente quiere personalizar el servicio <br> Cuando modifica aspectos no aceptados por la empresa <br> Entonces se muestra un mensaje indicando que no se puede modificar ese aspecto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 
-| Epic ID  | Título                                       | Descripción                                                                                                                                                                                                                              |
-| EP007    | Seguridad y Verificación                     | Como usuario  (cliente o empresa), quiero asegurarme de que mi identidad y la de otros usuarios estén verificadas, para garantizar un entorno seguro y confiable dentro de la plataforma.                                                |
-| Story ID | Título                                       | Descripción                                                                                                                                                                                                                              | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| US018    | Verificación de correo electrónico           | Como visitante quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi dirección de correo electrónico.                                                                                            | E01: Verificación exitosa <br> Dado que un visitante esta en la sección de resgistro de cuenta <br> Cuando desee crear una cuenta y validar esta <br> Y proporciona el código enviado al correo correctamente <br> Entonces la cuenta es creada y redirigida a la página principal. <br> <br> E02: Error en la verificación <br> Dado que un visitante no encuentra el correo de verificación <br> Cuando presiona el botón de reenviar después de 15 minutos <br> Entonces aparecerá un mensaje indicando que el correo no se pudo verificar y pedirá ingresar nuevamente el correo electrónico.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 
-| Epic ID  | Título                                       | Descripción                                                                                                                                                                                                                              |
-| EP010    | Sistema de pagos                             | Como usuario de la aplicación (cliente o empresa), quiero gestionar los pagos de manera segura y eficiente, para asegurar transacciones confiables y sin inconvenientes.                                                                 |
-| Story ID | Título                                       | Descripción                                                                                                                                                                                                                              | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| US019    | Pago a través de la App                      | Como cliente, quiero pagar el servicio de belleza o cuidado en una plataforma integrada para asegurarme de que todo es parte del mismo sistema.                                                                                          | E01: Pago directo <br> Dado que el usuario está en la sección de pago de reserva  <br> Cuando tiene la intención de pagar por uno <br> Entonces se realiza el pago y la cita es confirmada. <br> <br> E02: Error de pago <br> Dado que el cliente tiene su tarjeta bancaria asociada <br> Cuando no se recibe la confirmación del banco <br> Entonces se muestra un mensaje de error y no se reserva el servicio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 
-| US020    | Ingresar código promocional                  | Como cliente, quiero ingresar un código promocional antes de reservar para obtener un descuento en el servicio seleccionado.                                                                                                             | E01: Promoción aplicada <br> Dado que el usuario está en la sección de pago de reserva <br> Cuando ingresa el código correcto <br> Entonces se le otorga el descuento reflejado en el pago final. <br> <br> E02: Código inválido <br> Dado que el cliente selecciona un servicio <br> Cuando ingresa un código inválido <br> Entonces deberá visualizar un mensaje de error solicitando ingresar el código nuevamente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 
-| US021    | Suscripción al sistema de pagos              | **Como** empresa, **quiero** suscribirme al sistema de pagos en la aplicación **para** gestionar los pagos de las citas de manera segura.                                                                                                | **E01: Habilitación de Pagos Seguros**<br>**Dado que** la empresa quiere recibir pagos por los servicios en la aplicación<br>**Cuando** sigue los pasos para completar la suscripción y confirma los reglamentos<br>**Entonces** está habilitado para recibir pagos de manera segura.<br><br>**E02: Error en la habilitación**<br>**Dado que** la empresa quiere recibir pagos por los servicios en la aplicación<br>**Cuando** sigue los pasos para completar la suscripción y confirma los reglamentos<br>**Entonces** el sistema muestra un mensaje de error al habilitar los pagos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 
-| Epic ID  | Título                                       | Descripción                                                                                                                                                                                                                              |
-| EP011    | Experiencia del Usuario                      | Como visitante de la landing page de Bliss, quiero interactuar de manera fluida y obtener toda la información relevante sobre el producto y sus alianzas estratégicas, para tomar una decisión informada.                                |
-| Story ID | Título                                       | Descripción                                                                                                                                                                                                                              | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 
-| US022    | Navegación por la landing page               | **Como** visitante de la landing page, **quiero** navegar por la landing page de Bliss **para** obtener más información sobre el producto.                                                                                               | **E01: Correcta reserva de cita** **Dado que** un visitante está en la página de inicio de la landing page de Bliss **Cuando** desea  saber las alianzas estratégicas que posee el producto  **Entonces** puede ver las características y ventajas que tiene este. **E02: Fallo al navegar por la landing** **Dado que** un visitante está en la página de inicio de la landing page de Bliss **Cuando** baja por la página para obtener más información sobre el producto **Entonces** la página muestra un error de carga.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 
-| US023    | Visualizar alianzas                          | **Como** visitante de la landing page, **quiero** visualizar las alianzas que tiene Bliss **para** confiar en la experiencia que brinda el producto.                                                                                     | **E01: Visualización de alianzas** **Dado que** el visitante  un visitante está en la página de inicio de la landing page de Bliss **Cuando** observe la sección de Alianzas **Entonces** el usuario puede confiar más en la excelencia del producto. **E02: Incorrecta visualización de alianzas** **Dado que** el visitante esta en la sección de alianzas  **Cuando** desee visualizar información al respecto pero tenga un error de acceso  **Entonces** no podrá informarse bien sobre la confiabilidad del producto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 
-| US024    | Visualizar equipo de Bliss                   | **Como** visitante de la landing page, **quiero** ver la información sobre el equipo, **para** conocer a las personas detrás de la empresa y su experiencia.                                                                             | **E01: Información Correcta** **Dado que** el visitante está en la sección "Quiénes Somos"**Cuando** revisa la información del equipo **Entonces** puede ver perfiles detallados de los miembros del equipo, incluyendo sus nombres, roles y biografías. **E02: Información Incorrecta** **Dado que** el visitante está en la sección "Quiénes Somos" **Cuando** revisa la información del equipo  **Entonces** la información de los perfiles está incompleta o desactualizada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
-| US025    | Visualizar visión del equipo                 | **Como** visitante de la landing page, **quiero** ver la visión de la empresa **para** entender los objetivos y valores fundamentales de la empresa.                                                                                     | **E01: Visión Correcta** **Dado que** el visitante está en la sección "Nuestra visión" **Cuando** revisa la visión de la empresa **Entonces** puede leer una declaración clara y bien presentada de la visión y objetivos de la empresa. **E02: Visión Incorrecta** **Dado que** el visitante está en la sección "Nuestra visión" **Cuando** revisa la visión de la empresa  **Entonces** la declaración de la visión está desactualizada o mal redactada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 
+| Epic ID  | Título                                          | Descripción                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EP001    | Gestión de usuario                              | **Como** usuario (cliente o empresa), **quiero** gestionar mi perfil personal o de empresa **para** mantener la información actualizada.                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Story ID | Título                                          | Descripción                                                                                                                                                                                                                                          | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 
+| US001    | Creación de cuenta                              | **Como** nuevo usuario, **quiero** crear una cuenta **para** poder reservar servicios de belleza y gestionar mis citas en línea.                                                                                                                     | **E01: Registro completado** <br> **Dado que** un nuevo visitante quiere registrarse <br> Cuando esta en la sección de registro  <br> Y acepta registrarse  <br> Entonces se envía un correo de verificación a la dirección enviada. <br> <br> **E02: Registro incompleto** <br> **Dado que** un nuevo visitante quiere registrarse <br> Cuando  <br> Y presiona el botón de Crear Cuenta <br> Entonces aparece en pantalla un mensaje de error, indicando el error y solicitando corrección                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 
+| US002    | Inicio de sesión de usuario                     | **Como** usuario recurrente, **quiero** iniciar sesión en mi cuenta **para** acceder a mis servicios personalizados y reservas anteriores.                                                                                                           | **E01: Inicio sesión exitoso**<br> **Dado que** un usuario quiere ingresar a su cuenta <br> Cuando está en la sección de inicio de sesión <br> Y elige acceder con sus datos  <br> Entonces es redirigido a la página principal. <br> <br> **E02: Error al iniciar sesión** <br> **Dado que** un usuario proporciona credenciales inválidas <br> Cuando intente acceder <br> Entonces se muestra un mensaje de error solicitando reingreso de credenciales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| US003    | Recuperar contraseña                            | **Como** cliente registrado, **quiero** recuperar mi contraseña **para** acceder a la aplicación si la he olvidado.                                                                                                                                  | **E01: Recuperación de contraseña exitosa**<br> **Dado que** el cliente olvidó su contraseña <br> Cuando desea recuperar su contrasa <br> Y recibe un correo de recuperación <br> Entonces puede restablecer la contraseña y acceder nuevamente. <br> <br> **E02: Error en la recuperación** <br> **Dado que** el cliente olvidó su contraseña <br> Cuando selecciona la opción de recuperación <br> Y no recibe el correo <br> Entonces se muestra un mensaje de error y un botón de reintentar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 
+| US004    | Edición de perfil de especialista               | **Como** empresa, **quiero** editar los perfiles de mis especialistas **para** que el cliente pueda visualizar las características y disponibilidad de los especialistas.                                                                            | **E01: Modificar el perfil de empresa satisfactoriamente**<br>**Dado que** la empresa quiere editar su información<br>**Cuando** cambia la información en su formulario<br>**Y** quiere confirmar la edición<br>**Entonces** se visualiza un mensaje de correcto guardado<br>**Y** se guarda en la base de datos.<br><br>**E02: Error al modificar el perfil de empresa**<br>**Dado que** la empresa quiere editar su información<br>**Cuando** cambia la información en su formulario<br>**Y** quiere confirmar la edición<br>**Entonces** el sistema muestra un mensaje de error y no se guarda en la base de datos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| US005    | Registro de perfil de empresa                   | **Como** empresa, **quiero** crear un perfil **para** mostrar información sobre mi negocio y los servicios que ofrezco.                                                                                                                              | **E01: Creación exitosa de perfil de empresa**<br>**Dado que** la empresa esta en la sección de registro<br>**Cuando** el cliente tiene la intención de registrarse<br>**Entonces** el sistema mostrará un mensaje de creación correcta de perfil de empresa.<br><br>**E02: Error al crear perfil de empresa**<br>**Dado que** la empresa quiere crear su perfil de empresa<br>**Cuando** llena el formulario de creación de perfil<br>**Entonces** el sistema mostrará un mensaje de error al crear el perfil.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 
+| TS001    | Endpoint para registro                          | **Como** Developer, **quiero** crear un endpoint **para** permitir a los usuarios registrarse en la aplicación y autenticar su identidad **para** acceder a sus cuentas.                                                                             | **E01: Registro exitoso**<br>**Dado que** el Developer implementa el endpoint "/api/register"<br>**Cuando** un usuario envía una solicitud POST con datos de registro válidos<br>**Entonces** la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/users/{id}"<br>**Y** el usuario debe estar registrado en el sistema.<br><br>**Escenario 2: Datos de registro faltantes o inválidos**<br>**Dado que** el Developer implementa el endpoint "/api/register"<br>**Cuando** un usuario envía una solicitud POST con datos de registro faltantes o inválidos<br>**Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br><br>**Escenario 3: Usuario ya registrado**<br>**Dado que** el Developer implementa el endpoint "/api/register"<br>**Cuando** un usuario envía una solicitud POST con un correo electrónico que ya está registrado en el sistema<br>**Entonces** la respuesta debe ser 409 Conflict indicando que el recurso ya existe.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Epic ID  | Título                                          | Descripción                                                                                                                                                                                                                                          |
+| EP002    | Busqueda y selección de servicios               | **Como** cliente, **quiero** buscar y seleccionar servicios de belleza con facilidad, **para** encontrar la opción que mejor se adapte a mis necesidades.                                                                                            |
+| Story ID | Título                                          | Descripción                                                                                                                                                                                                                                          | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| US005    | Búsqueda de servicios                           | **Como** cliente, **quiero** buscar un servicio o establecimiento específico **para** realizar una búsqueda rápida y fácil.                                                                                                                          | **E01: Búsqueda por nombre** <br> **Dado que** el usuario está en la sección de búsqueda <br> Cuando desea buscar un servicio o local específico <br> Entonces  debería visualiza los resultados coincidentes. <br> <br> **E02: Filtro de servicios** <br> **Dado que** el usuario está en la sección de búsqueda  <br> Cuando desea filtrar por tipo de servicio o rango de precios <br> Entonces  debería visualizar a los servicios coincidentes con estos condicionales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 
+| US007    | Recomendación por ubicación                     | **Como** cliente, **quiero** visualizar los servicios de belleza o cuidado de establecimientos cercanos a mi ubicación actual.                                                                                                                       | **E01: Recomendaciones encontradas** <br> **Dado que** el cliente está en la página principal <br> Cuando se reconoce su ubicación por localización satelital <br> Entonces se muestra una lista de servicios cercanos. <br> <br> **E02: No se encuentran recomendaciones** <br> **Dado que** el cliente está en la página principal <br> Cuando no se reconoce su ubicación <br> Entonces se visualizan servicios basados en su historial de servicios.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 
+| TS002    | Cuadro de búsqueda                              | **Como** desarrollador, **quiero** implementar un cuadro de búsqueda **para** que los clientes busquen servicios o establecimientos fácilmente.                                                                                                      | **E01: Búsqueda por nombre**<br>**Dado que** el cliente escribe el nombre del establecimiento o servicio<br>**Cuando** envía la búsqueda<br>**Entonces** visualiza resultados coincidentes.<br><br>**E02: Filtro de servicios**<br>**Dado que** el cliente usa la barra de búsqueda<br>**Cuando** selecciona filtros<br>**Entonces** visualiza resultados filtrados.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| TS003    | Endpoint para buscar servicios                  | **Como** Developer, **quiero** implementar un endpoint que permita buscar servicios de belleza según filtros aplicados.                                                                                                                              | **E01: Búsqueda exitosa de servicios**<br>**Dado que** el Developer implementa el endpoint "/api/search"<br>**Cuando** un usuario envía una solicitud GET con parámetros de búsqueda válidos (tipo de servicio, ubicación, rango de precios)<br>**Entonces** la respuesta debe ser 200 OK con una lista de servicios que coinciden con los filtros aplicados.<br><br>**Escenario 2: Parámetros de búsqueda inválidos**<br>**Dado que** el Developer implementa el endpoint "/api/search"<br>**Cuando** un usuario envía una solicitud GET con parámetros de búsqueda en un formato incorrecto<br>**Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique el formato correcto de los parámetros.<br><br>**Escenario 3: Ningún servicio encontrado**<br>**Dado que** el Developer implementa el endpoint "/api/search"<br>**Cuando** un usuario envía una solicitud GET con parámetros de búsqueda válidos pero no se encuentran servicios que coincidan<br>**Entonces** la respuesta debe ser 200 OK con una lista vacía de servicios.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Epic ID  | Título                                          | Descripción                                                                                                                                                                                                                                          |
+| EP003    | Reserva y confirmacion de servicios             | **Como** cliente, **quiero** reservar un servicio y recibir una confirmación clara y rápida, **para** asegurarme de que mi cita esté programada.                                                                                                     |
+| Story ID | Título                                          | Descripción                                                                                                                                                                                                                                          | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| US008    | Visualización de disponibilidad de citas        | **Como** cliente, **quiero** ver la disponibilidad de citas de centros de belleza y cuidado **para** elegir un horario conveniente.                                                                                                                  | **E01: Visualización de disponibilidad** <br> **Dado que** el cliente ha reservado una cita <br> Cuando tiene la intención de cancelarla <br> Entonces debería  ver  un mensaje de confirmación y se elimina la cita de la agenda personal. <br> <br> **E02: Error de cancelación** <br> **Dado que** el cliente selecciona cancelar una cita <br> Cuando ocurre un error <br> Entonces se muestra un mensaje de error y se sugiere intentar nuevamente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| US009    | Visualización del cronograma de citas(compañia) | **Como** centro de belleza, **quiero** visualizar el cronograma de citas de la compañía **para** gestionar la disponibilidad mis servicios.                                                                                                          | **E01: Visualización de citas**<br>**Dado que** la empresa esta en su perfil <br>**Cuando**  desea ver el detalle de sus citas <br>**Entonces** debería ver detalles de cada cita y gestionar las reservas.<br><br>**E02: Error en la visualización de citas**<br>**Dado que** la empresa quiere gestionar las citas<br>**Cuando** accede a la lista de citas<br>**Entonces** no aparecerá ninguna cita.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | EP009   |
+| US010    | Pantalla de inicio                              | **Como** cliente **quiero** visualizar compañias, servicios y categorias destacadas **para** tomar una decisión de acuerdo a la popularidad.                                                                                                         | **E01: Visualización de inicio **<br>**Dado** el cliente ha iniciado sesión en la plataforma,**cuando** se encuentre en la seccion de inicio,**entonces** debe visualizar una lista de compañías destacadas, servicios populares y categorías recomendadas.                                                                                                                                       | 
+| US011    | Perfil de compañía                              | **Como** empresa **quiero** visualizar mi información detallada **para** asegurarme que mi perfil contiene la información apropiada que será visualizada por los clientes.                                                                           | **E01: Visualización de la información del perfil**<br>**Dado** que una empresa ha iniciado sesión en la plataforma,<br>**cuando** accede a la sección de "Perfil de compañía",<br>**entonces** deberia visualiza toda su información detallada, incluyendo el nombre de la empresa, dirección, número de contacto, descripción de servicios y horario de atención,y cada sección debe ser claramente etiquetada para facilitar la lectura                                                                                                                                       | 
+| US012    | Crear reserva de citas                          | **Como** cliente, **quiero** registrar una nueva reserva **para** acceder a mi servicio deseado.                                                                                                                                                     | **E01: Reserva correcta** <br> **Dado que** el cliente eligió el servicio deseado <br> Cuando selecciona fecha y hora disponibles <br> Entonces la cita queda registrada y se visualiza en su perfil. <br> <br> E02: Error en la reserva <br> **Dado que** el cliente se encuentra en la página de un servicio seleccionado que no tenga disponibilidad  <br> y desea reservar una cita para este <br> Entonces se muestra un mensaje de error indicando falta de disponibilidad y ofreciendo horarios alternativos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | EP003   |
+| TS004    | Endpoint para gestión de citas                  | **Como** Developer, **quiero** crear un endpoint **para** permitir a los especialistas gestionar sus citas programadas, incluyendo la actualización, visualización y cancelación.                                                                    | **E01: Actualización exitosa de cita**<br>**Dado el endpoint** "/stylists/{id}/appointments/{appointmentId}"<br>**Y** la cita existe en el sistema<br>**Cuando** el estilista realiza una solicitud PUT con información válida para actualizar la cita<br>**Entonces** la respuesta debe ser 200 OK<br>**Y** la cita debe reflejar las actualizaciones realizadas.<br><br>**Escenario 2: Visualización exitosa de cita**<br>**Dado el endpoint** "/stylists/{id}/appointments/{appointmentId}"<br>**Y** la cita existe en el sistema<br>**Cuando** el estilista realiza una solicitud GET<br>**Entonces** la respuesta debe ser 200 OK con la información de la cita.<br><br>**Escenario 3: Cancelación exitosa de cita**<br>**Dado el endpoint** "/stylists/{id}/appointments/{appointmentId}"<br>**Y** la cita existe en el sistema<br>**Cuando** el estilista realiza una solicitud DELETE<br>**Entonces** la respuesta debe ser 204 No Content<br>**Y** la cita debe ser eliminada del sistema.<br><br>**Escenario 4: Cita no encontrada**<br>**Dado el endpoint** "/stylists/{id}/appointments/{appointmentId}"<br>**Cuando** el estilista realiza una solicitud GET, PUT o DELETE con un ID de cita que no existe<br>**Entonces** la respuesta debe ser 404 Not Found indicando que la cita no fue encontrada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| TS005    | Crear reserva de citas                          | **Como** desarrollador, **quiero** implementar el registro de reservas **para** que los clientes accedan a los servicios.                                                                                                                            | **E01: Reserva exitosa**<br>**Dado que** el cliente quiere reservar una cita<br>**Cuando** confirma y realiza el pago<br>**Entonces** se almacena en la base de datos y se envía una confirmación.<br><br>**E02: Error de reserva**<br>**Dado que** el cliente está en la pagina de un servicio<br>**Cuando** tiene la intención de reservar pero no se logra realizar la confirmación de pago<br>**Entonces** debería visualizar un mensaje de error indicando la falla.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| US026    | Cancelación de una cita(compañía)               | **Como** centro de belleza, **quiero** poder cancelar una cita programada **para** gestionar la disponibilidad de nuestros servicios.                                                                                                                | **E01: Solicitud de cancelación de cita**<br>**Dado** un usuario que ha iniciado sesión en la plataforma y está en la sección de gestión de citas,<br>**cuando** desea cancelar una cita,**<br>**entonces** el sistema le pide una confirmación. **E02: Cancelación no confirmada**<br>**Dado** un usuario que ha iniciado sesión en la plataforma y está en la sección de gestión de citas,<br>**cuando** se presenta la confirmación para cancelar la cita y el usuario decide no proceder,<br>**entonces** el sistema lo devuelve a la visualización de citas. **E03: Confirmación de cancelación exitosa**<br>**Dado un usuario que ha iniciado sesión en la plataforma y está en la sección de gestión de citas,<br>**cuando** se presenta la confirmación para cancelar la cita y el usuario decide confirmar la cancelación,<br>**entonces** el sistema muestra un mensaje de confirmación indicando que la cita ha sido cancelada con éxito. **E04: Error al cancelar la cita**<br>**Dado** un usuario que ha iniciado sesión en la plataforma y está en la sección de gestión de citas,<br>**cuando** se presenta la confirmación para cancelar la cita y el usuario decide confirmar la cancelación,y ocurre un error durante el proceso de cancelación,<br>**entonces** el sistema muestra un mensaje de error indicando que la cita no pudo ser cancelada.                                                                                                                                         | 
+| US027    | Visualización de citas(clientes)                | **Como** centro de belleza, **quiero** poder cancelar una cita programada **para** gestionar la disponibilidad de nuestros servicios.                                                                                                                | **E01: Visualización de citas programadas**<br>**Dado** un usuario que ha iniciado sesión en la plataforma y está en la sección de gestión de citas para revisar la programación actual,<br>**cuando** accede a la lista de citas,<br>**entonces** el sistema debe mostrar todas las citas programadas, incluyendo detalles como el nombre del cliente, la fecha y hora de la cita y el servicio reservado.                                                                                                                                       | 
+| US028    | Cancelación de una cita(cliente)                | **Como** cliente, **quiero** poder cancelar una cita programada **para** liberar mi tiempo en caso de no poder asistir.                                                                                                                              | **E01: Solicitud de cancelación de cita**<br>**Dado** un cliente que ha iniciado sesión en la plataforma y está en la sección de gestión de citas para administrar sus reservas,<br>**cuando** desea cancelar una cita programada,<br>**entonces** el sistema le pide una confirmación para proceder con la cancelación.  **E02: Cancelación no confirmada**<br>**Dado** un cliente que ha iniciado sesión en la plataforma y está en la sección de gestión de citas,<br>**cuando** se presenta la confirmación de cancelación y el cliente decide no proceder,<br>**entonces** el sistema lo devuelve a la visualización de citas sin realizar cambios. **E03: Confirmación de cancelación exitosa**<br>**Dado** un cliente que ha iniciado sesión en la plataforma y está en la sección de gestión de citas,<br>**cuando** se presenta la confirmación y el cliente decide proceder con la cancelación,<br>**entonces** el sistema muestra un mensaje de confirmación indicando que la cita ha sido cancelada con éxito.  **E04: Error al cancelar la cita**<br>**Dado** un cliente que ha iniciado sesión en la plataforma y está en la sección de gestión de citas,<br>**cuando** se presenta la confirmación y el cliente decide proceder con la cancelación,y ocurre un error durante el proceso,<br>**entonces** el sistema muestra un mensaje de error indicando que la cancelación de la cita no pudo completarse.                                                                                                                                     | 
+| US029    | Visualización de historial de citas             | **Como** cliente, **quiero** poder visualizar el historial de mis citas anteriores **para** revisar detalles de los servicios que he recibido.                                                                                                       | **E01: Visualización del historial de citas anteriores**<br>**Dado** un cliente que ha iniciado sesión en la plataforma y está en la sección de historial de citas para revisar los servicios recibidos,<br>**cuando** accede a la lista de citas anteriores,<br>**entonces** el sistema debe mostrar todas las citas pasadas, incluyendo detalles como la fecha y hora de la cita, el servicio recibido.                                                                                                                                       | 
+| Epic ID  | Título                                          | Descripción                                                                                                                                                                                                                                          |
+| EP004    | Retroalimentación y valoración                  | **Como** cliente, **quiero** proporcionar retroalimentación y valoraciones sobre los servicios recibidos, **para** ayudar a otros clientes y mejorar la calidad de los servicios ofrecidos.                                                          |
+| Story ID | Título                                          | Descripción                                                                                                                                                                                                                                          | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| US013    | Dejar valoración y reseña después de la cita    | **Como** cliente, **quiero** dejar una valoración y reseña sobre el servicio recibido después de completar una cita.                                                                                                                                 | **E01: Publicación de reseña** <br> **Dado que** el cliente esta en su historial de servicios <br> Cuando tiene la intención de dejar una reseña en alguno de sus servicios pasados <br> Y escribe su experiencia junto a una puntuación de hasta 5 estrellas <br> Entonces su reseña debería ser publicada en el perfil de la empresa. <br> <br> E02: Error en la reseña <br> **Dado que** el cliente completó el servicio <br> Cuando selecciona dejar una reseña <br> Y ocurre un error <br> Entonces se muestra un mensaje de error al publicar la reseña.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 
+| TS006    | Endpoint para gestión de reseñas                | **Como** Developer, **quiero** crear un endpoint **para** permitir a los usuarios dejar una reseña y valoración sobre el servicio recibido, así como consultar y gestionar estas reseñas.                                                            | **E0: Creación exitosa de reseña**<br>**Dado que** el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>**Cuando** un usuario envía una solicitud POST con una reseña válida<br>**Entonces** la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{serviceId}/reviews/{reviewId}"<br>**Y** la reseña debe ser guardada en el sistema.<br><br>**Escenario 2: Datos de reseña faltantes o inválidos**<br>**Dado que** el Developer implementa el endpoint "/services/{serviceId}/reviews"<br>**Cuando** un usuario envía una solicitud POST con datos de reseña faltantes o inválidos<br>**Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br><br>**Escenario 3: Consulta exitosa de reseñas**<br>**Dado el endpoint** "/services/{serviceId}/reviews"<br>**Cuando** un usuario envía una solicitud GET para obtener las reseñas de un servicio<br>**Entonces** la respuesta debe ser 200 OK con una lista de reseñas relacionadas con ese servicio.<br><br>**Escenario 4: Actualización exitosa de reseña**<br>**Dado el endpoint** "/services/{serviceId}/reviews/{reviewId}"<br>**Y** la reseña existe en el sistema<br>**Cuando** un usuario envía una solicitud PUT con información válida para actualizar la reseña<br>**Entonces** la respuesta debe ser 200 OK<br>**Y** la reseña debe reflejar las actualizaciones realizadas.<br><br>**Escenario 5: Eliminación exitosa de reseña**<br>**Dado el endpoint** "/services/{serviceId}/reviews/{reviewId}"<br>**Y** la reseña existe en el sistema<br>**Cuando** un usuario envía una solicitud DELETE<br>**Entonces** la respuesta debe ser 204 No Content<br>**Y** la reseña debe ser eliminada del sistema.<br><br>**Escenario 6: Reseña no encontrada**<br>**Dado el endpoint** "/services/{serviceId}/reviews/{reviewId}"<br>**Cuando** un usuario envía una solicitud GET, PUT o DELETE con un ID de reseña que no existe<br>**Entonces** la respuesta debe ser 404 Not Found indicando que la reseña no fue encontrada. |
+| Epic ID  | Título                                          | Descripción                                                                                                                                                                                                                                          |
+| EP005    | Gestión del catálogo de servicios               | **Como** empresa, quiero poder gestionar los servicios que aparecen en mi catálogo **para** así poder manternerlo actualizado en caso de que añada o quite alguno.                                                                                   |
+| Story ID | Título                                          | Descripción                                                                                                                                                                                                                                          | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| US014    | Creación de servicio                            | **Como** empresa, **quiero** crear y especificar los detalles de un servicio **para** que los usuarios lo soliciten.                                                                                                                                 | **E01: Creación correcta de servicio**<br>**Dado que** la empresa esta en la sección de "Mis servicios" <br>**Cuando** quiera confirmar la creación de uno de ellos <br>**Entonces** debería visualizar que el servicio ha sido correctamente adjuntado al catálogo.<br><br>**E02: Error al crear servicio**<br>**Dado que** la empresa esta en la sección de mis servicios<br>**Cuando** desea agregar un servicio pero los datos estén incompletos<br>**Entonces** el sistema mostrará un mensaje de error.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 
+| US015    | Eliminación de servicio                         | **Como** empresa, **quiero** poder eliminar un servicio que yo creé **para** mantener los servicio relevantes y a mi criterio.                                                                                                                       | **E01: Modificación correcta de servicio**<br>**Dado que** la empresa esta en la sección de "Mis Servicios"<br>**Cuando** desea eliminar un servicio<br>**Entonces** el sistema muestra que el servicio ha sido correctamente eliminado.<br><br>**E02: Modificación incorrecta de servicio**<br>**Dado que** la empresa esta en la sección de mis servicios<br>**Cuando** quiera confirmar la eliminación<br>**Entonces** el sistema muestra un mensaje de error y no guardará las modificaciones.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| US016    | Actualización de servicios ofrecidos            | **Como** empresa, **quiero** actualizar los detalles de los servicios que ofrezco en la aplicación **para** que mis clientes estén informados del servicio que brindo.                                                                               | **E01: Actualización de Servicios**<br>**Dado que** la empresa esta en la sección de servicio<br>**Cuando** modifica e intenta guardar los cambios en uno de los servicios ofrecidos<br>**Entonces** los cambios se reflejan en la aplicación.<br><br>**E02: Error de Disponibilidad de Servicios**<br>**Dado que** la empresa quiere modificar un servicio<br>**Cuando** modifica e intenta guardar los cambios en uno de los servicios ofrecidos<br>**Entonces** los cambios no se han sido guardados en la aplicación ni en la base de datos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
+| TS007    | Creación de servicio                            | **Como** Developer, **quiero** crear un servicio en la aplicación **para** que los usuarios puedan solicitarlo.                                                                                                                                      | **E0 1: Creación exitosa de servicio**<br>**Dado que** el Developer implementa el endpoint "/api/services"<br>**Cuando** un usuario envía una solicitud POST con datos válidos del servicio<br>**Entonces** la respuesta debe ser 201 Created con el encabezado 'Location' que enlace a "/services/{id}"<br>**Y** el servicio debe estar registrado en el sistema.<br><br>**Escenario 2: Datos de servicio faltantes o inválidos**<br>**Dado que** el Developer implementa el endpoint "/api/services"<br>**Cuando** un usuario envía una solicitud POST con datos de servicio faltantes o inválidos<br>**Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| TS008    | Eliminación de servicio                         | **Como** Developer, **quiero** eliminar un servicio en la aplicación **para** que los usuarios no puedan solicitarlo.                                                                                                                                | **E0: Eliminación exitosa de servicio**<br>**Dado que** el Developer implementa el endpoint "/api/services/{id}"<br>**Cuando** un usuario envía una solicitud DELETE con un ID de servicio válido<br>**Entonces** la respuesta debe ser 204 No Content<br>**Y** el servicio debe ser eliminado del sistema.<br><br>**Escenario 2: Servicio no encontrado**<br>**Dado que** el Developer implementa el endpoint "/api/services/{id}"<br>**Cuando** un usuario envía una solicitud DELETE con un ID de servicio que no existe<br>**Entonces** la respuesta debe ser 404 Not Found indicando que el servicio no fue encontrado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| TS009    | Actualización de servicio                       | **Como** Developer, **quiero** actualizar un servicio en la aplicación **para** que los usuarios puedan ver la información actualizada.                                                                                                              | **E0: Actualización exitosa de servicio**<br>**Dado que** el Developer implementa el endpoint "/api/services/{id}"<br>**Cuando** un usuario envía una solicitud PUT con datos válidos del servicio<br>**Entonces** la respuesta debe ser 200 OK<br>**Y** el servicio debe reflejar las actualizaciones realizadas.<br><br>**Escenario 2: Datos de servicio faltantes o inválidos**<br>**Dado que** el Developer implementa el endpoint "/api/services/{id}"<br>**Cuando** un usuario envía una solicitud PUT con datos de servicio faltantes o inválidos<br>**Entonces** la respuesta debe ser 400 Bad Request con un mensaje que indique los campos requeridos o el formato incorrecto.<br><br>**Escenario 3: Servicio no encontrado**<br>**Dado que** el Developer implementa el endpoint "/api/services/{id}"<br>**Cuando** un usuario envía una solicitud PUT con un ID de servicio que no existe<br>**Entonces** la respuesta debe ser 404 Not Found indicando que el servicio no fue encontrado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Epic ID  | Título                                          | Descripción                                                                                                                                                                                                                                          |
+| EP006    | Personalización del servicio                    | **Como** cliente, **quiero** adaptar mi solicitud de servicios de belleza y/o cuidado de acuerdo a mis preferencias y a la disposición de la empresa que ofrece el servicio **para** asegurarme que el servicio que solicite sea posible de agendar. |
+| Story ID | Título                                          | Descripción                                                                                                                                                                                                                                          | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| US017    | Personalización del Servicio                    | **Como** cliente, **quiero** personalizar algunos detalles del servicio reservado **para** cumplir con todas mis necesidades.                                                                                                                        | **E01: Personalización correcta** <br> **Dado que** el cliente está en el formulario de reserva de servicio <br> Cuando tenga la intención de agregar atributos o preferencias al servicio <br> Entonces podrá incluir el detalle del servicio personalizado. <br> <br> E02: Error en la personalización <br> **Dado que** el cliente quiere personalizar el servicio <br> Cuando modifica aspectos no aceptados por la empresa <br> Entonces se muestra un mensaje indicando que no se puede modificar ese aspecto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 
+| Epic ID  | Título                                          | Descripción                                                                                                                                                                                                                                          |
+| EP007    | Seguridad y Verificación                        | **Como** usuario  (cliente o empresa), **quiero** asegurarme de que mi identidad y la de otros usuarios estén verificadas, **para** garantizar un entorno seguro y confiable dentro de la plataforma.                                                |
+| Story ID | Título                                          | Descripción                                                                                                                                                                                                                                          | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| US018    | Verificación de correo electrónico              | **Como** visitante **quiero** recibir un correo electrónico de verificación después de registrarme **para** confirmar mi dirección de correo electrónico.                                                                                            | **E01: Verificación exitosa** <br> **Dado que** un visitante esta en la sección de resgistro de cuenta <br> Cuando desee crear una cuenta y validar esta <br> Y proporciona el código enviado al correo correctamente <br> Entonces la cuenta es creada y redirigida a la página principal. <br> <br> E02: Error en la verificación <br> **Dado que** un visitante no encuentra el correo de verificación <br> Cuando presiona el botón de reenviar después de 15 minutos <br> Entonces aparecerá un mensaje indicando que el correo no se pudo verificar y pedirá ingresar nuevamente el correo electrónico.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 
+| Epic ID  | Título                                          | Descripción                                                                                                                                                                                                                                          |
+| EP010    | Sistema de pagos                                | **Como** usuario de la aplicación (cliente o empresa), **quiero** gestionar los pagos de manera segura y eficiente, **para** asegurar transacciones confiables y sin inconvenientes.                                                                 |
+| Story ID | Título                                          | Descripción                                                                                                                                                                                                                                          | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| US019    | Pago a través de la App                         | **Como** cliente, **quiero** pagar el servicio de belleza o cuidado en una plataforma integrada **para** asegurarme de que todo es parte del mismo sistema.                                                                                          | **E01: Pago directo** <br> **Dado que** el usuario está en la sección de pago de reserva  <br> Cuando tiene la intención de pagar por uno <br> Entonces se realiza el pago y la cita es confirmada. <br> <br> E02: Error de pago <br> **Dado que** el cliente tiene su tarjeta bancaria asociada <br> Cuando no se recibe la confirmación del banco <br> Entonces se muestra un mensaje de error y no se reserva el servicio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 
+| US020    | Ingresar código promocional                     | **Como** cliente, **quiero** ingresar un código promocional antes de reservar **para** obtener un descuento en el servicio seleccionado.                                                                                                             | **E01: Promoción aplicada** <br> **Dado que** el usuario está en la sección de pago de reserva <br> Cuando ingresa el código correcto <br> Entonces se le otorga el descuento reflejado en el pago final. <br> <br> E02: Código inválido <br> **Dado que** el cliente selecciona un servicio <br> Cuando ingresa un código inválido <br> Entonces deberá visualizar un mensaje de error solicitando ingresar el código nuevamente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 
+| US021    | Suscripción al sistema de pagos                 | **Como** empresa, **quiero** suscribirme al sistema de pagos en la aplicación **para** gestionar los pagos de las citas de manera segura.                                                                                                            | **E01: Habilitación de Pagos Seguros**<br>**Dado que** la empresa quiere recibir pagos por los servicios en la aplicación<br>**Cuando** sigue los pasos para completar la suscripción y confirma los reglamentos<br>**Entonces** está habilitado para recibir pagos de manera segura.<br><br>**E02: Error en la habilitación**<br>**Dado que** la empresa quiere recibir pagos por los servicios en la aplicación<br>**Cuando** sigue los pasos para completar la suscripción y confirma los reglamentos<br>**Entonces** el sistema muestra un mensaje de error al habilitar los pagos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 
+| Epic ID  | Título                                          | Descripción                                                                                                                                                                                                                                          |
+| EP011    | Experiencia del Usuario                         | **Como** visitante de la landing page de Bliss, **quiero** interactuar de manera fluida y obtener toda la información relevante sobre el producto y sus alianzas estratégicas, para tomar una decisión informada.                                    |
+| Story ID | Título                                          | Descripción                                                                                                                                                                                                                                          | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 
+| US022    | Navegación por la landing page                  | **Como** visitante de la landing page, **quiero** navegar por la landing page de Bliss **para** obtener más información sobre el producto.                                                                                                           | **E01: Correcta reserva de cita** **Dado que** un visitante está en la página de inicio de la landing page de Bliss **Cuando** desea  saber las alianzas estratégicas que posee el producto  **Entonces** puede ver las características y ventajas que tiene este. **E02: Fallo al navegar por la landing** **Dado que** un visitante está en la página de inicio de la landing page de Bliss **Cuando** baja por la página para obtener más información sobre el producto **Entonces** la página muestra un error de carga.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 
+| US023    | Visualizar alianzas                             | **Como** visitante de la landing page, **quiero** visualizar las alianzas que tiene Bliss **para** confiar en la experiencia que brinda el producto.                                                                                                 | **E01: Visualización de alianzas** **Dado que** el visitante  un visitante está en la página de inicio de la landing page de Bliss **Cuando** observe la sección de Alianzas **Entonces** el usuario puede confiar más en la excelencia del producto. **E02: Incorrecta visualización de alianzas** **Dado que** el visitante esta en la sección de alianzas  **Cuando** desee visualizar información al respecto pero tenga un error de acceso  **Entonces** no podrá informarse bien sobre la confiabilidad del producto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 
+| US024    | Visualizar equipo de Bliss                      | **Como** visitante de la landing page, **quiero** ver la información sobre el equipo, **para** conocer a las personas detrás de la empresa y su experiencia.                                                                                         | **E01: Información Correcta** **Dado que** el visitante está en la sección "Quiénes Somos"**Cuando** revisa la información del equipo **Entonces** puede ver perfiles detallados de los miembros del equipo, incluyendo sus nombres, roles y biografías. **E02: Información Incorrecta** **Dado que** el visitante está en la sección "Quiénes Somos" **Cuando** revisa la información del equipo  **Entonces** la información de los perfiles está incompleta o desactualizada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
+| US025    | Visualizar visión del equipo                    | **Como** visitante de la landing page, **quiero** ver la visión de la empresa **para** entender los objetivos y valores fundamentales de la empresa.                                                                                                 | **E01: Visión Correcta** **Dado que** el visitante está en la sección "Nuestra visión" **Cuando** revisa la visión de la empresa **Entonces** puede leer una declaración clara y bien presentada de la visión y objetivos de la empresa. **E02: Visión Incorrecta** **Dado que** el visitante está en la sección "Nuestra visión" **Cuando** revisa la visión de la empresa  **Entonces** la declaración de la visión está desactualizada o mal redactada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 
 
 
 ### 3.3. Impact Mapping
@@ -1113,15 +1114,15 @@ En esta sección se presenta el Impact Mapping para el modelo de negocio digital
 | 8         | TS008    | Eliminación de servicio                      | Como Developer, quiero eliminar un servicio en la aplicación para que los usuarios no puedan solicitarlo.                                                                     | 2  |
 | 9         | US016    | Actualización de servicios ofrecidos         | Como empresa, quiero actualizar los detalles de los servicios que ofrezco en la aplicación para que mis clientes estén informados del servicio que brindo.                    | 3  |
 | 10        | TS009    | Actualización de servicio                    | Como Developer, quiero actualizar un servicio en la aplicación para que los usuarios puedan ver la información actualizada.                                                   | 2  |
-| 11        | US005    | Búsqueda de servicios                        | Como cliente, quiero buscar un servicio o establecimiento específico para realizar una búsqueda rápida y fácil.                                                               | 4  |
+| 11        | US006    | Búsqueda de servicios                        | Como cliente, quiero buscar un servicio o establecimiento específico para realizar una búsqueda rápida y fácil.                                                               | 4  |
 | 12        | TS002    | Cuadro de búsqueda                           | Como desarrollador, quiero implementar un cuadro de búsqueda para que los clientes busquen servicios o establecimientos fácilmente.                                           | 3  |
 | 13        | TS003    | Endpoint para buscar servicios               | Como Developer, quiero implementar un endpoint que permita buscar servicios de belleza según filtros aplicados.                                                               | 3  |
 | 14        | US012    | Crear reserva de citas                       | Como cliente, quiero registrar una nueva reserva para acceder a mi servicio deseado.                                                                                          | 5  |
 | 15        | TS005    | Crear reserva de citas                       | Como desarrollador, quiero implementar el registro de reservas para que los clientes accedan a los servicios.                                                                 | 4  |
 | 16        | US008    | Visualización de disponibilidad de citas     | Como cliente, quiero ver la disponibilidad de citas de centros de belleza y cuidado para elegir un horario conveniente.                                                       | 3  |
-| 17        | US011    | Ver disponibilidad de especialista           | Como cliente, quiero ver la disponibilidad de un especialista específico antes de seleccionar el servicio, para poder agendar de acuerdo a mi preferencia.                    | 3  |
-| 18        | US010    | Reserva de citas periódicas                  | Como cliente, quiero agendar servicios que requieran mantenimientos periódicos en una sola reserva.                                                                           | 2  |
-| 19        | US009    | Gestión de citas                             | Como empresa, quiero gestionar las citas realizadas a través de la aplicación para poder realizar el cronograma de trabajo.                                                   | 3  |
+| 17        | US011    | Perfil de compañía                           | Como empresa quiero visualizar mi información detallada para asegurarme que mi perfil contiene la información apropiada que será visualizada por los clientes.                | 3  |
+| 18        | US010    | Pantalla de inicio                           | Como cliente quiero visualizar compañias, servicios y categorias destacadas para tomar una decisión de acuerdo a la popularidad.                                              | 2  |
+| 19        | US009    | Visualización del cronograma de citas        | Como centro de belleza, quiero visualizar el cronograma de citas de la compañía para gestionar la disponibilidad mis servicios.                                               | 3  |
 | 20        | TS004    | Endpoint para gestión de citas               | Como Developer, quiero crear un endpoint para permitir a los especialistas gestionar sus citas programadas, incluyendo la actualización, visualización y cancelación.         | 3  |
 | 21        | US001    | Creación de cuenta                           | Como nuevo usuario, quiero crear una cuenta para poder reservar servicios de belleza y gestionar mis citas en línea.                                                          | 5  |
 | 22        | TS001    | Endpoint para registro                       | Como Developer, quiero crear un endpoint para permitir a los usuarios registrarse en la aplicación y autenticar su identidad para acceder a sus cuentas.                      | 4  |
@@ -1133,6 +1134,13 @@ En esta sección se presenta el Impact Mapping para el modelo de negocio digital
 | 28        | US019    | Pago a través de la App                      | Como cliente, quiero pagar el servicio de belleza o cuidado en una plataforma integrada para asegurarme de que todo es parte del mismo sistema.                               | 5  |
 | 29        | US020    | Ingresar código promocional                  | Como cliente, quiero ingresar un código promocional antes de reservar para obtener un descuento en el servicio seleccionado.                                                  | 3  |
 | 30        | US021    | Suscripción al sistema de pagos              | Como empresa, quiero suscribirme al sistema de pagos en la aplicación para gestionar los pagos de las citas de manera segura.                                                 | 4  |
+| 31        | US026    | Cancelación de una cita(compañía)            | Como centro de belleza, quiero poder cancelar una cita programada para gestionar la disponibilidad de nuestros servicios.                                                     | 4  |
+| 32        | US027    | Visualización de citas                       | Como centro de belleza, quiero poder cancelar una cita programada para gestionar la disponibilidad de nuestros servicios.                                                     | 3  |
+| 33        | US028    | Cancelación de una cita(cliente)             | Como cliente, quiero poder cancelar una cita programada para liberar mi tiempo en caso de no poder asistir.                                                                   | 4  |
+| 34        | US029    | Visualización de historial de citas          | Como cliente, quiero poder visualizar el historial de mis citas anteriores para revisar detalles de los servicios que he recibido.                                            | 3  |
+| 35        | TS010    | Endpoint de gestión de companias             | Como Developer, quiero crear un endpoint para permitir a las companias poder registrarse, ingresar a la plataforma y editar su informacion.                                   | 3  |
+| 36        | TS011    | Endpoint de gestión de categorias            | Como Developer, quiero crear un endpoint para permitir a las companias poder obtener que categorias estas disponibles en nuestra plataforma.                                  | 2  |
+| 37        | TS012    | Endpoint de gestión de citas                 | Como Developer, quiero crear un endpoint para permitir a las empresas y a los usuarios poder crear citas, elimiarlas y aztualizarlas, asi como consultar informacion de estas.| 3  |
 
 ## Capítulo IV: Product Design <a id="cap4"></a>
 
@@ -1304,8 +1312,6 @@ BrandName: Logo y nombre de la marca, repetido en varias secciones para mantener
 
 El wireframe de la landing page de Bliss sirve como una guía visual básica que estructura los elementos clave de la página sin enfocarse en los detalles de diseño. Este esquema inicial muestra la disposición de secciones como el encabezado con el logo y menú de navegación, una propuesta de valor clara, testimonios de usuarios, y llamadas a la acción (call to action) prominentes para motivar a los visitantes a explorar los servicios. El objetivo es asegurar que la experiencia del usuario sea intuitiva y que los elementos estén estratégicamente ubicados para facilitar la conversión de visitantes en usuarios registrados.
 
-
-
 ![Wireframe](resources/LandingPageWireframe.png)
 
 #### 4.3.2. Landing Page Mock-up
@@ -1353,7 +1359,6 @@ El presente user flow corresponde con la reserva de servicio, en el cual el usua
 El presente user flow corresponde con la creación de servicio, en el cual la empresa puede crear y especificar los detalles de un servicio.
 ![Creación de Servicio](resources/chapter_4/userflow/Creación%20de%20servicio.png)
 
-
 #### 4.4.3. Web Applications Mock-ups
 
 ![Schedule Mockup 1](resources/chapter_4/mockup/desktop-Schedule-1.png)
@@ -1374,7 +1379,6 @@ El presente user flow corresponde con la creación de servicio, en el cual la em
 ![Book Appointment Mockup](resources/chapter_4/mockup/desktop-Book%20Appointment.png)
 ![Container Mockup](resources/chapter_4/mockup/container.png)
 
-
 #### 4.4.4. Web Applications User Flow Diagrams
 
 A continuación un diagrama que representa los user goals.
@@ -1391,13 +1395,13 @@ A continuación el prototipo de la aplicación web de Bliss, el cual permite a l
 
 En el diagrama de contexto se consideraron tres actores clave para el negocio: los visitantes, que pueden convertirse en usuarios potenciales al visitar la página de inicio; los dueños del negocio, que incluyen tanto a estilistas como a empresas con salones de belleza; y los consumidores, que utilizan el producto final.
 
-![C4 Image 1](resources/chapter_4/c4/c41%20(1).jpeg)
+![C4 Image 1](resources/chapter_4/c4/c4-context-diagram.png)
 
 #### 4.6.2. Software Architecture Container Diagrams
 
 En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en la cual los usuarios pueden conectarse a través de sus dispositivos móviles o navegadores a la aplicación. Esta aplicación interactúa con una API REST, la cual gestiona los cinco bounded contexts identificados. Todos estos contextos están integrados a una única base de datos.
 
-![C4 Image 2](resources/chapter_4/c4/c41%20(2).jpeg)
+![C4 Image 2](resources/chapter_4/c4/c4-container-diagram.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
 
@@ -1405,12 +1409,19 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 
 ##### Service Management Component
 
-![C4 Image 3](resources/chapter_4/c4/c41%20(3).jpeg)
+**Service Management Bounded Context**
+![C4 Service Management](resources/chapter_4/c4/c4-component-diagram-service-management.png)
+
+**Review Management Bounded Context**
+![C4 Review Management](resources/chapter_4/c4/c4-component-diagram-review-management.png)
+
+**Appointment Management Bounded Context**
+![C4 Appointment Management](resources/chapter_4/c4/c4-component-diagram-appointment-management.png)
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 
-<img src="resources/classdiagram1.png" />
+<img src="resources/chapter_4/uml-diagram-class.PNG"/>
 
 #### 4.7.2. Class Dictionary
 
@@ -1422,82 +1433,49 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
     <td><strong>Tipo de dato</strong></td>
   </tr>
   <tr>
-    <td colspan = "4">Customer</td>
+    <td colspan = "4">User</td>
   </tr>
   <tr>
     <td>1</td>
-    <td>firstName</td>
+    <td>FirstName</td>
     <td>Almacena el primer nombre del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>lastName</td>
+    <td>LastName</td>
     <td>Almacena el apellido del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>3</td>
     <td>DNI</td>
     <td>Almacena el dni del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>phone</td>
+    <td>Phone</td>
     <td>Almacena el telefono del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>adress</td>
+    <td>Adress</td>
     <td>Almacena la dirección del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>city</td>
+    <td>City</td>
     <td>Almacena la ciudad del cliente.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>fechaNacimiento</td>
+    <td>BirthDate</td>
     <td>Almacena la fecha de nacimiento del cliente.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>region</td>
-    <td>Almacena la region del cliente.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>historial</td>
-    <td>Almacena el historial de reservas del cliente.</td>
-    <td>Historial</td>
-  </tr>
-  <tr>
-    <td colspan = "4">User</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>nickname</td>
-    <td>Almacena el apodo del usuario.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>emailAdress</td>
-    <td>Almacena el email del usuario.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>password</td>
-    <td>Almacena la contrseña del usuario.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td colspan = "4">Company</td>
@@ -1506,233 +1484,189 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
     <td>1</td>
     <td>name</td>
     <td>Almacena el nombre de la compañia.</td>
-    <td>String</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>RUC</td>
-    <td>Almacena el RUC de la empresa.</td>
-    <td>String</td>
+    <td>Email</td>
+    <td>Almacena el email de la empresa.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>city</td>
-    <td>Almacena la ciudad en la que se encuentra la empresa.</td>
-    <td>String</td>
+    <td>WebsiteUrl</td>
+    <td>Almacena el enlace a la página web de la empresa.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>address</td>
-    <td>Almacena la dirección de la compañia.</td>
-    <td>String</td>
+    <td>PhoneNumber</td>
+    <td>Almacena el telefono de contacto de la compañia.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>phone</td>
-    <td>Almacena el telefono de contacto de la compañia.</td>
-    <td>String</td>
+    <td>Description</td>
+    <td>Almacena una breve descripción relacionada con la empresa.</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>email</td>
-    <td>Almacena el correo electrónico de la empresa.</td>
-    <td>String</td>
+    <td>Specialists</td>
+    <td>Almacena una lista de los especialistas de la empresa.</td>
+    <td>List< Specialist ></td>
   </tr>
   <tr>
     <td>7</td>
-    <td>description</td>
-    <td>Almacena una breve descripción relacionada con la empresa.</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>region</td>
-    <td>Almacena la region en la que se encuentra la empresa.</td>
-    <td>String</td>
-  </tr>
-  <tr> 
-    <td colspan="4">Local</td>
-  </tr> 
-  <tr>
-    <td>1</td> 
-    <td>name</td> 
-    <td>Almacena el nombre del local.</td> 
-    <td>String</td> 
-  </tr> 
-  <tr> 
-    <td>2</td> 
-    <td>address</td> 
-    <td>Almacena la dirección del local.</td> 
-    <td>String</td> 
-  </tr> 
-  <tr> 
-    <td>3</td> 
-    <td>phone</td> 
-    <td>Almacena el número de teléfono del local.</td> 
-    <td>String</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Payment</td>
-  </tr>
-  <tr> 
-  <td colspan="4">Payment</td> 
-  </tr> 
-  <tr> 
-    <td>1</td> 
-    <td>status</td> 
-    <td>Almacena el estado del pago.</td> 
-    <td>String</td> 
+    <td>Services</td>
+    <td>Almacena una lista de los servicios de la empresa.</td>
+    <td>List< Service ></td>
   </tr>
   <tr>
     <td colspan = "4">Appointment</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>status</td> 
+    <td>Status</td> 
     <td>Almacena el estado de la cita.</td> 
-    <td>String</td> 
+    <td>int</td> 
   </tr> 
   <tr> 
     <td>2</td> 
-    <td>date</td> 
+    <td>ReservationDate</td> 
     <td>Almacena la fecha de la cita.</td> 
-    <td>Date</td> 
+    <td>DateTime</td> 
   </tr> 
   <tr> 
     <td>3</td> 
-    <td>requirements</td> 
-    <td>Almacena los requisitos de la cita.</td> 
-    <td>Requirements[]</td> 
+    <td>ReservationStartTime</td> 
+    <td>Almacena la hora de inicio de la reserva.</td> 
+    <td>TimeOnly</td> 
   </tr> 
   <tr> 
     <td>4</td> 
-    <td>service</td> 
-    <td>Almacena el servicio relacionado con la cita.</td> 
+    <td>Requirements</td> 
+    <td>Almacena los requisitos de la cita.</td> 
+    <td>string</td> 
+  </tr>
+    <tr> 
+    <td>5</td> 
+    <td>Service</td> 
+    <td>Almacena el servicio de la cita.</td> 
     <td>Service</td> 
   </tr>
-  <tr>
-    <td colspan = "4">Appointment_cart</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>appointment</td> 
-    <td>Almacena los detalles de la cita en el carrito.</td> 
-    <td>Appointment</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Historial</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>appointment</td>
-    <td>Almacena los detalles de la cita histórica.</td>
-    <td>Appointment</td>
+    <tr> 
+    <td>6</td> 
+    <td>User</td> 
+    <td>Almacena el usuario de la cita.</td> 
+    <td>User</td> 
   </tr>
   <tr>
     <td colspan = "4">Specialist</td>
   </tr>
   <tr>
     <td>1</td>
-    <td>firstName</td> 
+    <td>Name</td> 
     <td>Almacena el nombre del especialista.</td> 
-    <td>String</td> 
+    <td>string</td> 
   </tr> 
-  <tr> 
-    <td>2</td> 
-    <td>lastName</td> 
-    <td>Almacena el apellido del especialista.</td> 
-    <td>String</td> 
-  </tr> 
-  <tr> 
-    <td>3</td> 
-    <td>speciality</td> 
-    <td>Almacena la especialidad del especialista.</td> 
-    <td>String</td> 
-  </tr>
   <tr>
     <td colspan = "4">Category</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>name</td> 
+    <td>Name</td> 
     <td>Almacena el nombre de la categoría.</td> 
-    <td>String</td> 
+    <td>string</td> 
   </tr>
+  <tr> 
+    <td>2</td> 
+    <td>Description</td> 
+    <td>Almacena la descripción de la categoría.</td> 
+    <td>string</td> 
+  </tr> 
   <tr>
     <td colspan = "4">Service</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>serviceName</td> 
+    <td>Name</td> 
     <td>Almacena el nombre del servicio.</td> 
-    <td>String</td> 
-  </tr> 
+    <td>string</td> 
+  </tr>
   <tr> 
     <td>2</td> 
-    <td>price</td> 
-    <td>Almacena el precio del servicio.</td> 
-    <td>Double</td> 
+    <td>Description</td> 
+    <td>Almacena una breve descripción del servicio.</td> 
+    <td>string</td> 
   </tr> 
   <tr> 
     <td>3</td> 
-    <td>duration</td> 
-    <td>Almacena la duración del servicio.</td> 
-    <td>Double</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Service_type</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>name</td> 
-    <td>Almacena el nombre del tipo de servicio.</td> 
-    <td>String</td> 
+    <td>Price</td> 
+    <td>Almacena el precio del servicio.</td> 
+    <td>double</td> 
   </tr> 
   <tr> 
-    <td>2</td> 
-    <td>category</td> 
-    <td>Almacena la categoría relacionada con el tipo de servicio.</td> 
+    <td>4</td> 
+    <td>Duration</td> 
+    <td>Almacena la duración del servicio.</td> 
+    <td>double</td> 
+  </tr>
+  <tr> 
+    <td>5</td> 
     <td>Category</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">Requirement</td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>attribute</td> 
-    <td>Almacena el atributo requerido.</td> 
-    <td>String</td> 
-  </tr>
-  <tr>
-    <td colspan = "4">RequirementsDecorator/td>
-  </tr>
-  <tr> 
-    <td>1</td> 
-    <td>requirement</td> 
-    <td>Almacena el requisito decorado.</td> 
-    <td>Requirement</td> 
+    <td>Almacena la categoria del servicio.</td> 
+    <td>Category</td> 
   </tr>
   <tr>
     <td colspan = "4">Review</td>
   </tr>
   <tr> 
     <td>1</td> 
-    <td>description</td> 
-    <td>Almacena la descripción de la reseña.</td> 
-    <td>String</td> 
+    <td>Rating</td> 
+    <td>Almacena la calificación de la reseña.</td> 
+    <td>double</td> 
   </tr> 
   <tr> 
     <td>2</td> 
-    <td>value</td> 
-    <td>Almacena el valor de la reseña (calificación).</td> 
-    <td>Int</td> 
+    <td>Comment</td> 
+    <td>Almacena el comentario relacionado con la reseña.</td> 
+    <td>string</td> 
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Image</td>
+    <td>Almacena la imagen de la reseña</td>
+    <td>Image</td>
+  </tr>
+    <tr>
+    <td>4</td>
+    <td>Usuario</td>
+    <td>Almacena el usuario de la reseña</td>
+    <td>Image</td>
+  </tr>
+    <tr>
+    <td>5</td>
+    <td>Appoinment</td>
+    <td>Almacena la cita de la reseña</td>
+    <td>Appoinment</td>
+  </tr>
+  <tr>
+    <td colspan = "4">Image</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>1</td>
+    <td>ImgUrl</td>
+    <td>Almacena el enlace de la imagen</td>
+    <td>string</td>
   </tr>
 </table>
 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 
-![Database](resources/BlissDatabaseDesign.png "Bliss Database")
+![Database](resources/chapter_4/bliss-data-base.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
@@ -2292,7 +2226,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
 
 <img src="resources/chapter-5/landing-gitflow-evidence.png">
 
-### 5.2.2. Sprint 2
+#### 5.2.2. Sprint 2
 
 ##### 5.2.2.1.Sprint Planning 2.
 | **Sección**                        | **Contenido**                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -2851,6 +2785,1989 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 
 ![insight sprint2 2](resources/chapter-5/insights-2sprint-2.png)
 
+#### 5.2.3. Sprint 3
+##### 5.2.3.1. Spring Planning 3.
+
+Sprint board en trello:
+<img src="resources/sprint-3/trello-ss.png">
+
+Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/ATTI490782e2faf288b64e3816a5adcfb6a3C861D89F/sprint-backlog-3">https://trello.com/invite/b/6712f201c0bfde492775a33d/ATTI490782e2faf288b64e3816a5adcfb6a3C861D89F/sprint-backlog-3</a>
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">2024-10-23</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">12:50 PM</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Discord</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Gabriel Casas</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">Juan Astonitas, Gabriel Casas, Godofredo Quispe, Gianluca Pasquale, Elvia Rodriguez</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Review Summary</strong></td>
+    <td colspan="1">Se realizó el primer despliegue de la web application, implementando funcionalidades básicas como la creación de servicios y visualización de datos.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Retrospective Summary</strong></td>
+    <td colspan="1">Hubo un incremento considerable en la productividad y compromiso del equipo hacia el trabajo. Ademá se plantearon las bases para una organización efectiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Goal</strong></td>
+    <td colspan="1">Nuestro enfoque es mejorar la experiencia de los clientes y dueños mediante la optimización de la gestión de servicios y citas, proporcionando herramientas que faciliten la toma de decisiones informadas y el seguimiento de las reservas. Creemos que esto proporcionará a los clientes una manera más sencilla de seleccionar y administrar sus servicios, así como una mejor visibilidad de sus citas y reseñas. Para los dueños, ofrecerá la capacidad de gestionar eficazmente la información de su empresa y servicios, mejorando la calidad del servicio brindado. Además de brindar una interfaz de programación de aplicaciones para el manejo de citas y servicios al equipo de desarrollo. Esto se confirmará cuando los clientes puedan realizar reservas informadas basadas en sus necesidades, agendar y cancelar citas fácilmente, y los dueños puedan editar, crear y eliminar servicios, así como mejorar la gestión de sus citas y la calidad del servicio ofrecido. Y los desarrolladores puedan implementar nuevos objetos a través del API.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Velocity</strong></td>
+    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta  story points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">La suma de story point atendidos es de  story point.</td>
+  </tr>
+</table>
+
+##### 5.2.3.2. Sprint Backlog 3.
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US006</td>
+    <td rowspan="2">Búsqueda de servicios</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente de búsqueda.</td>
+    <td>Implementar un componente que permita ingresar parámetros para una búsqueda de servicios personalizada.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear Métodos para filtrar los servicios mostrados según los datos del componente de búsqueda</td>
+    <td>Crear el método de filtración que obtenga los parámetros ingresados al componente para un filtrado de los servicios.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US009</td>
+    <td>Visualización del cronograma de citas</td>
+    <td>T01</td>
+    <td>Diseñar e implementar los componentes necesarios para poder visualizar las citas relacionadas con una empresa.</td>
+    <td>Diseñar e implementar la muestra de información de servicio mediante el uso de cards.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US010</td>
+    <td rowspan="2">Pantalla de inicio</td>
+    <td>T01</td>
+    <td>Diseñar e implementar la vista de home donde muestre los servicios y compañías principales para clientes.</td>
+    <td>Diseñar los estilos e implementar un componente que muestre servicios populares.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementación de filtro por popularidad en compañías y servicios.</td>
+    <td>Programar una función que permita ordenar los servicios según su popularidad.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US011</td>
+    <td rowspan="2">Perfil de compañía.</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente de perfil de empresa.</td>
+    <td>Diseñar e implementar un component que muestre la información de la empresa.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementación perfil de empresa, incluyendo rating, reseñas y servicios.</td>
+    <td>Implementar una función que muestre los rating reseñas y servicios relacionados con la empresa.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US012</td>
+    <td rowspan="2">Reservar una cita.</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente para la creación de una reserva.</td>
+    <td>Diseñar e implementar un botón que redirija al formulario de creación de servicios.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear método y validaciones para manejar la información ingresada al formulario de reserva.</td>
+    <td>Crear un método para obtener la información presente en el formulario y construir un nuevo servicio a partir de esta.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US013</td>
+    <td rowspan="2">Dejar valoración y reseña después de la cita.</td>
+    <td>T01</td>
+    <td>Diseñar e Implementar el componente de valoración y reseña.</td>
+    <td>Diseñar e implementar un botón que redirija al formulario de creación de una reseña.</td>
+    <td>4</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear método y validaciones para el formulario de creación y edición de reseña.</td>
+    <td>Crear un método que permita la construcción de una reseña a partir de la información ingresada en el formulario.</td>
+    <td>4</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+      <td rowspan="2">US015</td>
+      <td rowspan="2">Eliminación de servicio</td>
+      <td>T01</td>
+      <td>Diseñar e implementar el componente de eliminación de servicios.</td>
+      <td>Se debe implementar un botón dentro del componente del servicio de la empresa.</td>
+      <td>4</td>
+      <td>Gabriel Alexander Casas Sanchez</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T02</td>
+      <td>Implementar la funcionalidad para eliminar un servicio.</td>
+      <td>Al accionar el botón de eliminación se debe eliminar el servicio sobre el cual esta presente el botón.</td>
+      <td>4</td>
+      <td>Gabriel Alexander Casas Sanchez</td>
+      <td>Done</td>
+    </tr>
+  <tr>
+    <td rowspan="2">US016</td>
+    <td rowspan="2">Actualización de servicios ofrecidos</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente de edición de servicios.</td>
+    <td>Se debe diseñar y agregar un formulario para poder actualizar los datos de un servicio</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear método para manejar los datos del formulario de edición de los datos de un servicio.</td>
+    <td>Se debe implementar un formulario que sea capaz de mostrar la información actual del servicio, así como ingresar los datos que se desean modificar en el mismo formulario.</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US026</td>
+    <td>Cancelación de una cita(compañía)</td>
+    <td>T01</td>
+    <td>Diseñar e implementar un action button para la cancelación de una reserva.</td>
+    <td>Diseñar e implementar un botón que permita cancelar una reserva.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US027</td>
+    <td>Visualización de citas</td>
+    <td>T01</td>
+    <td>Diseñar e implementar los componentes necesarios para poder visualizar las citas relacionadas con un cliente.</td>
+    <td>Diseñar e implementar un componente que muestre las citas pendientes que existen, mostrando la información del servicio y cliente.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US028</td>
+    <td>Cancelación de una cita(cliente)</td>
+    <td>T01</td>
+    <td>Diseñar e implementar un action button para la cancelación de una reserva.</td>
+    <td>Diseñar e implementar un botón que permita cancelar una reserva.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US029</td>
+    <td>Visualización de historial de citas.</td>
+    <td>T01</td>
+    <td>Diseñar e implementar un componente donde se muestren las citas ya completadas.</td>
+    <td>Diseñar e implementar un componente que muestre las citas con estado terminado.</td>
+    <td>4</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS003</td>
+    <td>Endpoint para buscar servicios</td>
+    <td>T01</td>
+    <td>Creación del método getAll y getById.</td>
+    <td>Se debe implementar los queries necesario para la realización del get all y get by Id, se debe retornar un json con toda la infromación.</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS005</td>
+    <td>Crear una cita</td>
+    <td>T01</td>
+    <td>Creación del método post para citas.</td>
+    <td>Creación de un método capaz de crear una cita partir de un json.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">TS006</td>
+    <td rowspan="2">Endpoint para gestión de reseñas</td>
+    <td>T01</td>
+    <td>Creación de métodos delete, put y post.</td>
+    <td>Cración de métodos post, put y delete by id</td>
+    <td>3</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Creación de métodos getById. getByUserId, getByCompanyId</td>
+    <td>Implementar los métodos getById, getByuserID y getByCompanyId</td>
+    <td>3</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS007</td>
+    <td>Creación de servicio</td>
+    <td>T01</td>
+    <td>Creación del endpoint post para servicios</td>
+    <td>Implementación del método post para la creación de servicios.</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS010</td>
+    <td>Endpoint para gestión de compañias.</td>
+    <td>T01</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS011</td>
+    <td>Endpoint para gestión de categorías.</td>
+    <td>T01</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS012</td>
+    <td>Endpoint para gestión de citas.</td>
+    <td>T01</td>
+    <td>Creación del método getById, getByUserId y delete.</td>
+    <td>Creación del método getById, getByUserId y delete.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Diaz</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+##### 5.2.3.3. Development Evidence for Sprint Review.
+
+*Commits realizados en el repositorio de frontend durante el sprint 3:*
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 9271c91 </td>
+    <td colspan="1"> feat(service-management): added the edit business service component. </td>
+    <td colspan="1"> feat(service-management): added the edit business service component. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 7013871 </td>
+    <td colspan="1"> feat(service-management): added redirection to the edit service component. </td>
+    <td colspan="1"> feat(service-management): added redirection to the edit service component. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 3287858 </td>
+    <td colspan="1"> feat(routes): redefined business routes index. </td>
+    <td colspan="1"> feat(routes): redefined business routes index. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 76120f5 </td>
+    <td colspan="1"> feat(service-api): added get service by id endpoint. </td>
+    <td colspan="1"> feat(service-api): added get service by id endpoint. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 4f47a5d </td>
+    <td colspan="1"> feat(service-management): enabled delete service button. </td>
+    <td colspan="1"> feat(service-management): enabled delete service button. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 55e08aa </td>
+    <td colspan="1"> feat(service-management): added edit service form. </td>
+    <td colspan="1"> feat(service-management): added edit service form. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> b910378 </td>
+    <td colspan="1"> feat(service-management): added style to the edit form. </td>
+    <td colspan="1"> feat(service-management): added style to the edit form. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/business-service-management </td>
+    <td colspan="1"> 10d83f4 </td>
+    <td colspan="1"> feat(service-management): enabled edit service button functionality. </td>
+    <td colspan="1"> feat(service-management): enabled edit service button functionality. </td>
+    <td colspan="1"> 26/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> 4a40bc35 </td>
+    <td colspan="1"> feat(reservations): add appointment entity. </td>
+    <td colspan="1"> feat(reservations): add appointment entity. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> c9d5b76d </td>
+    <td colspan="1"> feat(reservations): add form of appointment. </td>
+    <td colspan="1"> feat(reservations): add form of appointment. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> 413be245 </td>
+    <td colspan="1"> feat(reservations): added requirements attribute to appointment entity. </td>
+    <td colspan="1"> feat(reservations): added requirements attribute to appointment entity. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> 58f78394 </td>
+    <td colspan="1"> feat(reservations): implemented appointments api. </td>
+    <td colspan="1"> feat(reservations): implemented appointments api. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/company-detail-profile </td>
+    <td colspan="1"> d3278162 </td>
+    <td colspan="1"> feat(company-detail-profile): add the company profile with the average rating and their respective services. </td>
+    <td colspan="1"> feat(company-detail-profile): add the company profile with the average rating and their respective services. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/home-service-category </td>
+    <td colspan="1"> d2b9c2db </td>
+    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
+    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/home-service-category </td>
+    <td colspan="1"> 5ee92b4c </td>
+    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
+    <td colspan="1"> feat(home-service-category): update style of services by category. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/home-best-companies </td>
+    <td colspan="1"> 1f7e7ded </td>
+    <td colspan="1"> feat(home-best-companies): updates style the best companies. </td>
+    <td colspan="1"> feat(home-best-companies): updates style the best companies. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/review-service </td>
+    <td colspan="1"> d8ac4234 </td>
+    <td colspan="1"> feat(review-service): update get user by id method. </td>
+    <td colspan="1"> feat(review-service): update get user by id method. </td>
+    <td colspan="1"> 27/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> 562f9312 </td>
+    <td colspan="1"> feat(reservations): added confirmation booking dialog to appointment form. </td>
+    <td colspan="1"> feat(reservations): added confirmation booking dialog to appointment form. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> a5ffdc9e </td>
+    <td colspan="1"> feat(reservations): implemented event handling for an appointment of a service. </td>
+    <td colspan="1"> feat(reservations): implemented event handling for an appointment of a service. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> c02c42e7 </td>
+    <td colspan="1"> feat(reservations): added after booking dialog. </td>
+    <td colspan="1"> feat(reservations): added after booking dialog. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/reservations </td>
+    <td colspan="1"> 42c1471f </td>
+    <td colspan="1"> fix(reservations): fixed filter by category and price implementation. </td>
+    <td colspan="1"> fix(reservations): fixed filter by category and price implementation. </td>
+    <td colspan="1"> 30/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> f2ec5609 </td>
+    <td colspan="1"> fix: fixed methods for new api service. </td>
+    <td colspan="1"> fix: fixed methods for new api service. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 9e07eb1d </td>
+    <td colspan="1"> fix: fixed structure for business appointment api service. </td>
+    <td colspan="1"> fix: fixed structure for business appointment api service. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 07cb7e5d </td>
+    <td colspan="1"> feat: added new api service for appointments. </td>
+    <td colspan="1"> feat: added new api service for appointments. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 8bf28535 </td>
+    <td colspan="1"> fix: fixed general descriptions. </td>
+    <td colspan="1"> fix: fixed general descriptions. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 8bf28535 </td>
+    <td colspan="1"> fix: fixed general descriptions. </td>
+    <td colspan="1"> fix: fixed general descriptions. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 4769dcd6 </td>
+    <td colspan="1"> feat: added new method to display images from service id. </td>
+    <td colspan="1"> feat: added new method to display images from service id. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 5c908776 </td>
+    <td colspan="1"> fix: fixed fields to display details on users information. </td>
+    <td colspan="1"> fix: fixed fields to display details on users information. </td>
+    <td colspan="1"> 02/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 59abae59 </td>
+    <td colspan="1"> fix: added new filter to display only pending appointments, and fixed problem related to cancel an appointment. </td>
+    <td colspan="1"> fix: added new filter to display only pending appointments, and fixed problem related to cancel an appointment. </td>
+    <td colspan="1"> 02/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> e3787b2d </td>
+    <td colspan="1"> fix: fixed image display size to keep style and fixed title size. </td>
+    <td colspan="1"> fix: fixed image display size to keep style and fixed title size. </td>
+    <td colspan="1"> 02/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/frontend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 5483d59c </td>
+    <td colspan="1"> feat: added i18n for for top rated reviews component and applied new styles. </td>
+    <td colspan="1"> feat: added i18n for for top rated reviews component and applied new styles. </td>
+    <td colspan="1"> 02/11/2024 </td>
+  </tr>	  
+</table>
+
+**Commits realizados en el repositorio de backend durante el sprint 3:**
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 30631ed </td>
+    <td colspan="1"> chore: set up project. </td>
+    <td colspan="1"> chore: set up project. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 157c294 </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 84d2016 </td>
+    <td colspan="1"> chore: add database connection string. </td>
+    <td colspan="1"> chore: add database connection string. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 22f2f20 </td>
+    <td colspan="1"> chore: add efc persistence base contracts. </td>
+    <td colspan="1"> chore: add efc persistence base contracts. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 6c42dad </td>
+    <td colspan="1"> chore: add efc persistence extensions. </td>
+    <td colspan="1"> chore: add efc persistence extensions. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 6145c20 </td>
+    <td colspan="1"> feat(services): add service aggregate and create service command. </td>
+    <td colspan="1"> feat(services): add service aggregate and create service command. </td>
+    <td colspan="1"> 25/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 47ddf17 </td>
+    <td colspan="1"> feat(services): added auditable service entity. </td>
+    <td colspan="1"> feat(services): added auditable service entity. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 9d472db </td>
+    <td colspan="1"> feat(services): added services principal queries. </td>
+    <td colspan="1"> feat(services): added services principal queries. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> ce145d4 </td>
+    <td colspan="1"> feat(services): add command, query and outbound service contracts. </td>
+    <td colspan="1"> feat(services): add command, query and outbound service contracts. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 98222f9 </td>
+    <td colspan="1"> chore: add missing share context elements. </td>
+    <td colspan="1"> chore: add missing share context elements. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 1ec3a710 </td>
+    <td colspan="1"> feat(services): added category and company entities. </td>
+    <td colspan="1"> feat(services): added category and company entities. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 4e32fae8 </td>
+    <td colspan="1"> feat(orm): add object-relational mapping rules. </td>
+    <td colspan="1"> feat(orm): add object-relational mapping rules. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 07d37eed </td>
+    <td colspan="1"> feat(services): add service outbound service implementation. </td>
+    <td colspan="1"> feat(services): add service outbound service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 7fff2eee </td>
+    <td colspan="1"> feat(categories): add category auditable features. </td>
+    <td colspan="1"> feat(categories): add category auditable features. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 20993714 </td>
+    <td colspan="1"> feat(companies): add company auditable features. </td>
+    <td colspan="1"> feat(companies): add company auditable features. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 1e70d278 </td>
+    <td colspan="1"> feat(companies): add company commands. </td>
+    <td colspan="1"> feat(companies): add company commands. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> dc44b049 </td>
+    <td colspan="1"> feat(categories): add category commands. </td>
+    <td colspan="1"> feat(categories): add category commands. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 7b38e30b </td>
+    <td colspan="1"> feat(companies): add company get all query. </td>
+    <td colspan="1"> feat(companies): add company get all query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> e4aabd5b </td>
+    <td colspan="1"> feat(categories): add category get all query. </td>
+    <td colspan="1"> feat(categories): add category get all query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 05d2c581 </td>
+    <td colspan="1"> feat(categories): add command, query and outbound service contracts. </td>
+    <td colspan="1"> feat(categories): add command, query and outbound service contracts. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> f5255362 </td>
+    <td colspan="1"> feat(companies): add command, query and outbound service contracts. </td>
+    <td colspan="1"> feat(companies): add command, query and outbound service contracts. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> efa8501c </td>
+    <td colspan="1"> feat(categories): add category outbound service implementation. </td>
+    <td colspan="1"> feat(categories): add category outbound service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> e817ec23 </td>
+    <td colspan="1"> feat(company): add company outbound service implementation. </td>
+    <td colspan="1"> feat(company): add company outbound service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 5a60011b </td>
+    <td colspan="1"> feat(services): add service command service implementation. </td>
+    <td colspan="1"> feat(services): add service command service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 38ead981 </td>
+    <td colspan="1"> feat(services): add service query service implementation. </td>
+    <td colspan="1"> feat(services): add service query service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> ab32248f </td>
+    <td colspan="1"> feat(app) add main application services configuration. </td>
+    <td colspan="1"> feat(app) add main application services configuration. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 68d509f7 </td>
+    <td colspan="1"> feat(categories): added command constructor. </td>
+    <td colspan="1"> feat(categories): added command constructor. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> e9259f24 </td>
+    <td colspan="1"> feat(company): added command constructor. </td>
+    <td colspan="1"> feat(company): added command constructor. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> a0522ce7 </td>
+    <td colspan="1"> feat(categories): add category command and query service implementation. </td>
+    <td colspan="1"> feat(categories): add category command and query service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 9e9d4c9f </td>
+    <td colspan="1"> feat(company): add company command and query service implementation. </td>
+    <td colspan="1"> feat(company): add company command and query service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 752ef955 </td>
+    <td colspan="1"> feat(app): add missing bounded context dependency injection configuration. </td>
+    <td colspan="1"> feat(app): add missing bounded context dependency injection configuration. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> a91db2d2 </td>
+    <td colspan="1"> feat(service-management): add resources. </td>
+    <td colspan="1"> feat(service-management): add resources. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 7165b7a9 </td>
+    <td colspan="1"> feat(service-management): added assemblers. </td>
+    <td colspan="1"> feat(service-management): added assemblers. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 487b3a98 </td>
+    <td colspan="1"> feat(categories): added and implemented find by id query. </td>
+    <td colspan="1"> feat(categories): added and implemented find by id query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 0684bb31 </td>
+    <td colspan="1"> feat(companies): added and implemented find by id query. </td>
+    <td colspan="1"> feat(companies): added and implemented find by id query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> ee73e542 </td>
+    <td colspan="1"> feat(service-management): add category inbound service. </td>
+    <td colspan="1"> feat(service-management): add category inbound service. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> b5d36054 </td>
+    <td colspan="1"> feat(service-management): add company inbound service. </td>
+    <td colspan="1"> feat(service-management): add company inbound service. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> cabd6762 </td>
+    <td colspan="1"> feat(service-management): add service inbound service. </td>
+    <td colspan="1"> feat(service-management): add service inbound service. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> cc2a5d27 </td>
+    <td colspan="1"> feat(service-management): add inbound services. </td>
+    <td colspan="1"> feat(service-management): add inbound services. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 288e18fd </td>
+    <td colspan="1"> fix: added missing swagger run line. </td>
+    <td colspan="1"> fix: added missing swagger run line. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 0a9d9d2 </td>
+    <td colspan="1"> fix: included missing entity when fetching data when searching services by company id. </td>
+    <td colspan="1"> fix: included missing entity when fetching data when searching services by company id. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 2b04774 </td>
+    <td colspan="1"> fix(service-management): added missing queries implementations. </td>
+    <td colspan="1"> fix(service-management): added missing queries implementations. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> eb9c1f0 </td>
+    <td colspan="1"> fix(service-management): fixed access information trough endpoint. </td>
+    <td colspan="1"> fix(service-management): fixed access information trough endpoint. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 5c0e121 </td>
+    <td colspan="1"> feat(controller): implemented delete appointment endpoint. </td>
+    <td colspan="1"> feat(controller): implemented delete appointment endpoint. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/commands </td>
+    <td colspan="1"> 8d14eae9 </td>
+    <td colspan="1"> feat: added delete appointment command </td>
+    <td colspan="1"> feat: added delete appointment command </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/repositories </td>
+    <td colspan="1"> 29f612d8 </td>
+    <td colspan="1"> feat(repositories): implemented appointment repository. </td>
+    <td colspan="1"> feat(repositories): implemented appointment repository. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/repositories </td>
+    <td colspan="1"> babdcc00 </td>
+    <td colspan="1"> feat(rest): implemented get appointments by user id endpoint. </td>
+    <td colspan="1"> feat(rest): implemented get appointments by user id endpoint. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/resources </td>
+    <td colspan="1"> adeba3c7 </td>
+    <td colspan="1"> feat(resources): added user resource. </td>
+    <td colspan="1"> feat(resources): added user resource. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/queries </td>
+    <td colspan="1"> 74a28360 </td>
+    <td colspan="1"> feat(queries): add get appointment by id query. </td>
+    <td colspan="1"> feat(queries): add get appointment by id query. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+	  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/query-services </td>
+    <td colspan="1"> 6589f771 </td>
+    <td colspan="1"> feat(query-services): added call to find appointment by id of appointment repository. </td>
+    <td colspan="1"> feat(query-services): added call to find appointment by id of appointment repository. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 7e309ebc </td>
+    <td colspan="1"> feat(user): Review collection interface added. </td>
+    <td colspan="1"> feat(user): Review collection interface added. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 4b71beb1 </td>
+    <td colspan="1"> feat: Implement ReviewController with necessary endpoints. </td>
+    <td colspan="1"> feat: Implement ReviewController with necessary endpoints. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> fd55c5d0 </td>
+    <td colspan="1"> feat: Define ReviewResource and related resources. </td>
+    <td colspan="1"> feat: Define ReviewResource and related resources. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/queries </td>
+    <td colspan="1"> ad40fb11 </td>
+    <td colspan="1"> feat(query-services): "Add IReviewQueryService interface and implement query handling for reviews". </td>
+    <td colspan="1"> feat(query-services): "Add IReviewQueryService interface and implement query handling for reviews". </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 059f00f7 </td>
+    <td colspan="1"> feat: Add IReviewQueryService interface definition. </td>
+    <td colspan="1"> feat: Add IReviewQueryService interface definition. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 0940ca53 </td>
+    <td colspan="1"> feat: Register ReviewCommandService, ReviewQueryService, and ReviewRepository in Program.cs. </td>
+    <td colspan="1"> feat: Register ReviewCommandService, ReviewQueryService, and ReviewRepository in Program.cs. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 7de882b2 </td>
+    <td colspan="1"> feat: Add UpdateReviewCommand for updating review details. </td>
+    <td colspan="1"> feat: Add UpdateReviewCommand for updating review details. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 7404c323 </td>
+    <td colspan="1"> feat: added new resource to update an existing appointment. </td>
+    <td colspan="1"> feat: added new resource to update an existing appointment. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 321a9371 </td>
+    <td colspan="1"> feat: added new command services for update appointments. </td>
+    <td colspan="1"> feat: added new command services for update appointments. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/repositories </td>
+    <td colspan="1"> 55888fbf </td>
+    <td colspan="1"> feat(repositories): Add methods to find reviews by user id, appointment id, and company id. </td>
+    <td colspan="1"> feat(repositories): Add methods to find reviews by user id, appointment id, and company id. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+	<tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 0788e19 </td>
+    <td colspan="1"> fix(controller): added await to handle call for delete appointment command service in appointment controller. </td>
+    <td colspan="1"> fix(controller): added await to handle call for delete appointment command service in appointment controller. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> b584982 </td>
+    <td colspan="1"> feat(repositories): implemented find by service id and time , and find by user d and time. </td>
+    <td colspan="1"> feat(repositories): implemented find by service id and time , and find by user d and time. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> cec503e </td>
+    <td colspan="1"> feat(repositories): aded find appointment by id contract. </td>
+    <td colspan="1"> feat(repositories): aded find appointment by id contract. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 6f38927 </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 6589f77 </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 6825f04 </td>
+    <td colspan="1"> feat(controller): added new endpoint to update an existing appointment. </td>
+    <td colspan="1"> feat(controller): added new endpoint to update an existing appointment. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> dc594d1d </td>
+    <td colspan="1"> feat: Add UpdateReviewResource for updating review data. </td>
+    <td colspan="1"> feat: Add UpdateReviewResource for updating review data. </td>
+    <td colspan="1"> 02/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 2646361d </td>
+    <td colspan="1"> feat: Add UpdateReviewCommandResourceFromEntityAssembler for converting UpdateReviewResource to UpdateReviewCommand. </td>
+    <td colspan="1"> feat: Add UpdateReviewCommandResourceFromEntityAssembler for converting UpdateReviewResource to UpdateReviewCommand. </td>
+    <td colspan="1"> 02/11/2024 </td>
+  </tr>
+  
+</table>
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 34b250f </td>
+    <td colspan="1"> feat(service-command-service-test): add a test for service creation that validates that a service was created successfully. </td>
+    <td colspan="1"> feat(service-command-service-test): add a test for service creation that validates that a service was created successfully. </td>
+    <td colspan="1"> 2/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 075e8dc </td>
+    <td colspan="1"> feat(service-query-service-test): add unit test to get all services by company ID. </td>
+    <td colspan="1"> feat(service-query-service-test): add unit test to get all services by company ID. </td>
+    <td colspan="1"> 2/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 5cb4eea </td>
+    <td colspan="1"> feat(test-unit):  add test to get company by ID. </td>
+    <td colspan="1"> validate that when a company is not found an exception is shown </td>
+    <td colspan="1"> 1/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> d0afd63 </td>
+    <td colspan="1"> feat(test-integration):  add test of company creation. </td>
+    <td colspan="1"> It is validated that the name of the company is not repeated in a general way because there cannot be 2 companies with the same name. </td>
+    <td colspan="1"> 1/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 157c294 </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Test</td>
+    <td colspan="1">Descripción</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/testing/tree/feature/Test-Company </td>
+    <td colspan="1"> Test Company </td>
+    <td colspan="1"> En este se encuentra la documentación de test para las validaciones de compañias. </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/testing/tree/feature/Test-Service </td>
+    <td colspan="1"> Test Service </td>
+    <td colspan="1"> En este se encuentra la documentación de test para las validaciones de servicios. </td>
+  </tr>
+</table>
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+![execution_landing1](resources/chapter-5/landing1.png)
+![execution_landing2](resources/chapter-5/landing2.png)
+![execution_landing3](resources/chapter-5/landing3.png)
+![execution_landing4](resources/chapter-5/landing4.png)
+![execution_landing5](resources/chapter-5/landing5.png)
+![execution_landing6](resources/chapter-5/landing6.png)
+![execution_front1](resources/chapter-5/front1.png)
+![execution_front2](resources/chapter-5/front2.png)
+![execution_front3](resources/chapter-5/front3.png)
+![execution_front4](resources/chapter-5/front4.png)
+![execution_front5](resources/chapter-5/front5.png)
+![execution_front6](resources/chapter-5/front6.png)
+![execution_front7](resources/chapter-5/front7.png)
+![execution_front8](resources/chapter-5/front8.png)
+![execution_front9](resources/chapter-5/front9.png)
+![execution_front10](resources/chapter-5/front10.png)
+![execution_front11](resources/chapter-5/front11.png)
+![execution_front12](resources/chapter-5/front12.png)
+![execution_front13](resources/chapter-5/front13.png)
+![execution_front14](resources/chapter-5/front14.png)
+![execution_front15](resources/chapter-5/front15.png)
+![execution_front16](resources/chapter-5/front16.png)
+![execution_front17](resources/chapter-5/front17.png)
+![execution_front18](resources/chapter-5/front18.png)
+![execution_front19](resources/chapter-5/front19.png)
+
+Enlace a video de demostración: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/EbpLlx7efLpAlmAg8vZigzEBkE0KLOMuZW2g1ZvFq_6Mpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFybCk">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112078_upc_edu_pe/EbpLlx7efLpAlmAg8vZigzEBkE0KLOMuZW2g1ZvFq_6Mpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=UFybCk</a>
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+Para este sprint se logró documentar 21 endpoints repartidos en 5 controladores siendo estos el appointment controller, review controller, service controller, category controller y company controller. Para la documentación de los servicios se utilizó Swagger, una herramienta que permite documentar y probar servicios REST de manera sencilla y rápida. Para acceder a la documentación de los servicios se debe ingresar a la URL del servidor en el puerto designado según el tipo de ejecución (http, https, IIS), seguido de /swagger/index.html.
+
+**AppointmentController**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Appointments </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/appointments/{appointmentId} </td>
+        <td colspan="1"> Get appointments by id </td>
+        <td colspan="1"> Get an appointments by the id it has </td>
+        <td colspan="1"> GetAppointmentById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> appointmentId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Appointments </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/appointments/{appointmentId} </td>
+        <td colspan="1"> Delete an appointment by id </td>
+        <td colspan="1"> Delete an appointment in a system by its id </td>
+        <td colspan="1"> DeleteAppointmentById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> appointmentId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Appointments </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/appointments/{appointmentId} </td>
+        <td colspan="1"> Update an existing appointment </td>
+        <td colspan="1"> Update an appointment by its id </td>
+        <td colspan="1"> UpdateAppointmentById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> appointmentId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Appointments </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/appointments/user/{userId} </td>
+        <td colspan="1"> Get appointments by user id </td>
+        <td colspan="1"> Get the appointments a user has </td>
+        <td colspan="1"> GetAppointmentsByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Appointments </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/appointments </td>
+        <td colspan="1"> Create a new appointment </td>
+        <td colspan="1"> Create a new appointment in the system </td>
+        <td colspan="1"> CreateAppointment </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+![endpointevidence19](resources/chapter-5/endpoint-evidence-19.png)
+![endpointevidence18](resources/chapter-5/endpoint-evidence-18.png)
+![endpointevidence20](resources/chapter-5/endpoint-evidence-20.png)
+![endpointevidence21](resources/chapter-5/endpoint-evidence-21.png)
+![endpointevidence22](resources/chapter-5/endpoint-evidence-22.png)
+![endpointevidence24](resources/chapter-5/endpoint-evidence-24.png)
+![endpointevidence25](resources/chapter-5/endpoint-evidence-25.png)
+![endpointevidence26](resources/chapter-5/endpoint-evidence-26.png)
+
+**CategoryController**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Categories </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/categories </td>
+        <td colspan="1"> Create a new category </td>
+        <td colspan="1"> Create a new category in the system </td>
+        <td colspan="1"> CreateCategory </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Categories </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/categories </td>
+        <td colspan="1"> Get all categories </td>
+        <td colspan="1"> Get all categories in the system </td>
+        <td colspan="1"> GetAllCategories </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Categories </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/categories/{categoryId} </td>
+        <td colspan="1"> Get category by id </td>
+        <td colspan="1"> Get a category by its id </td>
+        <td colspan="1"> GetCategoryById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> categoryId   </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+
+![endpointevidence1](resources/chapter-5/endpoint-evidence-1.png)
+![endpointevidence12](resources/chapter-5/endpoint-evidence-12.png)
+![endpointevidence23](resources/chapter-5/endpoint-evidence-23.png)
+![endpointevidence34](resources/chapter-5/endpoint-evidence-34.png)
+![endpointevidence37](resources/chapter-5/endpoint-evidence-37.png)
+![endpointevidence38](resources/chapter-5/endpoint-evidence-38.png)
+![endpointevidence40](resources/chapter-5/endpoint-evidence-40.png)
+![endpointevidence41](resources/chapter-5/endpoint-evidence-41.png)
+
+**CompanyController**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Companies </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/companies </td>
+        <td colspan="1"> Create a new company </td>
+        <td colspan="1"> Create a new company in the system </td>
+        <td colspan="1"> CreateCompany </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Companies </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/companies </td>
+        <td colspan="1"> Get all company </td>
+        <td colspan="1"> Get all company in the system </td>
+        <td colspan="1"> GetAllCompanies </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Companies </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/companies/{companyId} </td>
+        <td colspan="1"> Get company by id </td>
+        <td colspan="1"> Get a company by its id </td>
+        <td colspan="1"> GetCompanyById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2> companyId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+</table>
+
+![endpointevidence2](resources/chapter-5/endpoint-evidence-2.png)
+![endpointevidence3](resources/chapter-5/endpoint-evidence-3.png)
+![endpointevidence4](resources/chapter-5/endpoint-evidence-4.png)
+![endpointevidence5](resources/chapter-5/endpoint-evidence-5.png)
+![endpointevidence6](resources/chapter-5/endpoint-evidence-6.png)
+![endpointevidence7](resources/chapter-5/endpoint-evidence-7.png)
+![endpointevidence8](resources/chapter-5/endpoint-evidence-8.png)
+
+**ReviewController**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/reviews/{reviewId}</td>
+        <td colspan="1"> Get review by id </td>
+        <td colspan="1"> Get a review by the id it has </td>
+        <td colspan="1"> GetReviewById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> reviewId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/reviews/{reviewId}</td>
+        <td colspan="1"> Delete a review by id </td>
+        <td colspan="1"> Delete a review in the system by its id </td>
+        <td colspan="1"> DeleteReviewById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> reviewId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/reviews/{reviewId}</td>
+        <td colspan="1"> Update a review by id </td>
+        <td colspan="1"> Update a review in the system by its id </td>
+        <td colspan="1"> UpdateReviewById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> reviewId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/reviews/user/{userId}</td>
+        <td colspan="1"> Get reviews by user id </td>
+        <td colspan="1"> Get the reviews a user has </td>
+        <td colspan="1"> GetReviewsByUserId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> userId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/reviews/company/{companyId}</td>
+        <td colspan="1"> Get reviews by company id </td>
+        <td colspan="1"> Get the reviews a company has </td>
+        <td colspan="1"> GetReviewsByCompanyId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> companyId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Reviews </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/reviews</td>
+        <td colspan="1"> Create a new review </td>
+        <td colspan="1"> Create a new review in the system </td>
+        <td colspan="1"> CreateReview </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+![endpointevidence28](resources/chapter-5/endpoint-evidence-28.png)
+![endpointevidence27](resources/chapter-5/endpoint-evidence-27.png)
+![endpointevidence29](resources/chapter-5/endpoint-evidence-29.png)
+![endpointevidence30](resources/chapter-5/endpoint-evidence-30.png)
+![endpointevidence31](resources/chapter-5/endpoint-evidence-31.png)
+![endpointevidence32](resources/chapter-5/endpoint-evidence-32.png)
+![endpointevidence33](resources/chapter-5/endpoint-evidence-33.png)
+![endpointevidence35](resources/chapter-5/endpoint-evidence-35.png)
+![endpointevidence36](resources/chapter-5/endpoint-evidence-36.png)
+
+**ServiceController**
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Services </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/companies/{companyId}/services </td>
+        <td colspan="1"> Get all services by company id </td>
+        <td colspan="1"> Get all services for a company in the system </td>
+        <td colspan="1"> GetServicesByCompanyId </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> companyId  </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Services </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/service/{serviceId} </td>
+        <td colspan="1"> Get service by id </td>
+        <td colspan="1"> Get a service by its id </td>
+        <td colspan="1"> GetServiceById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> serviceId </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Services </td>
+        <td colspan="1"> GET </td>
+        <td colspan="1"> /api/v1/service </td>
+        <td colspan="1"> Get all services </td>
+        <td colspan="1"> Get all services in the system </td>
+        <td colspan="1"> GetAllServices </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Services </td>
+        <td colspan="1"> POST </td>
+        <td colspan="1"> /api/v1/service </td>
+        <td colspan="1"> Create a new service </td>
+        <td colspan="1"> Create a new service in the system </td>
+        <td colspan="1"> CreateService </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> no </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+![endpointevidence10](resources/chapter-5/endpoint-evidence-10.png)
+![endpointevidence9](resources/chapter-5/endpoint-evidence-9.png)
+![endpointevidence11](resources/chapter-5/endpoint-evidence-11.png)
+![endpointevidence13](resources/chapter-5/endpoint-evidence-13.png)
+![endpointevidence14](resources/chapter-5/endpoint-evidence-14.png)
+![endpointevidence15](resources/chapter-5/endpoint-evidence-15.png)
+![endpointevidence16](resources/chapter-5/endpoint-evidence-16.png)
+![endpointevidence17](resources/chapter-5/endpoint-evidence-17.png)
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+**Diseño**
+Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
+* Para el uso de figma, primero es necesario crear tu propia cuenta, para esto se deberá ingresar al página oficial de figma (https://www.figma.com/) y registrarse.
+<img src="resources/chapter-5/figma-acc-setup-1.png">
+<img src="resources/chapter-5/figma-acc-setup-2.png">
+
+* Una vez se tiene la cuenta, se debe crear un draft en el que se trabajan los diseños de manera colaborativa.
+  <img src="resources/chapter-5/figma-draft-setup-1.png">
+
+**Landing Page**
+Para hacer el deployment de la landing page se utilizó Github Pages,
+una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública.
+Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
+
+![landingdeployment1](resources/chapter-5/landing-deploy-1.png)
+
+Escogemos la opcion de hacer el deploy a través de una rama.
+![landingdeployment2](resources/chapter-5/landing-deploy-2.png)
+
+Escogemos la rama de develop (para futuros cambios)
+
+![landingdeployment3](resources/chapter-5/landing-deploy-3.png)
+
+Guadrdamos la configuracion usando el boton save
+![landingdeployment5](resources/chapter-5/landing-deploy-5.png)
+
+La pagina cargara en algunos minutos y se podra acceder a ella a través del link que se muestra en la parte superior.
+
+![landingdeployment6](resources/chapter-5/landing-deploy-6.png)
+
+**Frontend**
+Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma de deployment de aplicaciones web que permite hacer el deployment de aplicaciones web de forma sencilla y rápida.
+![deployment evidence9](resources/chapter-5/deployment-evidence-9.png)
+![deployment evidence10](resources/chapter-5/deployment-evidence-10.png)
+![deployment evidence11](resources/chapter-5/deployment-evidence-11.png)
+![deployment evidence12](resources/chapter-5/deployment-evidence-12.png)
+![deployment evidence13](resources/chapter-5/deployment-evidence-13.png)
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint.
+Para este sprint se desarrollaron 3 productos siendo estos: landing page, web application y web services. Para la landing page hubo un solo encargado debido a q ya se encontraba en la etapa final de su desarrollo. Para lode más productos todo los integrantes participaron. La distribución de commit fue la siguiente:
+
+**Landing Page**
+Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de 7 commits.
+
+**Frontend**
+<img src="resources/sprint-3/front-1.png">
+<img src="resources/sprint-3/front-2.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 47 commits.
+- Gabriel Alexander Casas Sanchez: 21 commits.
+- Gianluca Santino Pasquale Barrenechea: 88 commits.
+- Godofredo Quispe Tipo: 41 commits.
+- Elvia Marcela Rodriguez Villa: 26 commits.
+
+**Backend**
+<img src="resources/sprint-3/back-1.png">
+<img src="resources/sprint-3/back-2.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: 70commits.
+- Gabriel Alexander Casas Sanchez: 40 commits.
+- Gianluca Santino Pasquale Barrenechea: 20 commits.
+- Godofredo Quispe Tipo: 26 commits.
+- Elvia Marcela Rodriguez Villa: 34 commits.
+
+### 5.3. Validation Interviews
+#### 5.3.1 Diseño de Entrevistas
+## Objetivo de la Entrevista
+Validar la usabilidad y efectividad de la landing page y la aplicación para cada uno de los segmentos de usuarios, asegurando que los flujos de usuario (user flows) sean intuitivos y satisfactorios.
+## Elementos de Validación
+- **Landing Page**: Los usuarios interactuarán con la landing page para evaluar la claridad del mensaje, las llamadas a la acción (CTA), la navegación y el diseño.
+- **Aplicación**: Se guiará a los usuarios a través de flujos principales, como la reserva de servicios de belleza, la gestión de servicios y el sistema de feedback.
+## User Flows a Validar
+### Para el Segmento Cliente
+1. **Navegación del Catálogo de Servicios**: Facilidad para encontrar y explorar servicios (manicure, pedicure, tratamientos faciales, etc.).
+2. **Proceso de Reserva**: Facilidad para reservar un servicio, seleccionar una hora y elegir un profesional.
+3. **Recepción de Servicios**: Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
+### Para el Segmento Empresa
+1. **Visualización del Perfil de la Empresa**: Cómo la empresa visualiza su propio perfil.
+2. **Creación de Servicio**: Facilidad para crear y personalizar nuevos servicios.
+3. **Gestión de Reservas**: Capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
+4. **Recepción de Reviews y Feedback de Clientes**: Cómo las empresas reciben y gestionan reseñas de los clientes.
+## Formato de Registro de la Entrevista
+1. **Datos del Entrevistado**:
+   - Nombre y apellidos
+   - Edad
+   - Distrito de residencia
+   - Dispositivo utilizado (smartphone, tablet, laptop)
+### Preguntas para el Segmento Cliente
+#### Catálogo de Servicios
+- ¿Fue fácil encontrar lo que buscabas en el catálogo?
+- ¿Cómo describirías la información presentada sobre los servicios?
+- ¿Algún momento te sentiste perdido al explorar el catálogo?
+- ¿Pudiste comparar fácilmente diferentes servicios? ¿Cómo mejorarías este proceso?
+#### Creación de Reserva de Cita
+- ¿Qué tan sencillo fue comenzar a reservar una cita?
+- Describe el flujo para crear una reserva. ¿Algún paso generó dudas?
+- ¿El sistema brindó suficiente retroalimentación al completar la reserva?
+- ¿Hubo obstáculos al elegir la fecha o el servicio adecuado?
+#### Visualización de Historial
+- Describe tu experiencia al buscar el historial de reservas. ¿Fue intuitivo?
+- ¿Pudiste encontrar la información fácilmente?
+- ¿Hay algo en el historial que cambiarías para mejorar la gestión de reservas pasadas?
+#### Reviews
+- Describe el proceso para dejar una review. ¿Fue sencillo?
+- ¿Recibiste suficiente guía para incluir tu review?
+- ¿Te resultó útil valorar tanto el servicio como al proveedor?
+### Preguntas para el Segmento Empresa
+#### Visualización de Servicios
+- ¿Fue clara la visualización de los servicios de tu empresa en el perfil?
+- ¿Cómo fue la funcionalidad para actualizar o modificar los servicios?
+#### Creación de Servicio
+- Describe el proceso para crear un nuevo servicio. ¿Fue claro desde el principio?
+- ¿Qué tan intuitivo fue definir los detalles del servicio (nombre, precio, disponibilidad)?
+- ¿Recibiste suficiente orientación durante la creación del servicio?
+#### Gestión de Servicios y Reservas
+- ¿En qué medida el sistema te permite gestionar eficientemente los servicios?
+- ¿Qué desafíos enfrentaste al actualizar la información de la empresa y servicios?
+- ¿Qué aspectos del sistema valoras más en comparación con otras plataformas que usas?
+#### 5.3.2. Registro de Entrevistas
+
+|                                                           |                                                                                                                                                   |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Link de video de entrevistas**                          | [Link de acceso](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EVYo5ReeSKRAqdpb5EU6LncBM81_d8LYMkmrLAQ8TUjiIQ?e=cSdX49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios y MYPES del sector de belleza y cuidado personal.
+
+| Entrevista 1: Usuario se servicios de belleza y cuidado |                                                                                                                                 |
+|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                    | Karol Pamela Villa Cayetano                                                                                                     |
+| Edad                                                   | 22 Años                                                                                                                         |
+| Profesión                                              | Estudiante de Arquitectura                                                                                                      |
+| Departamento                                           | Lima, Perú                                                                                                                      |
+| Duración de la Entrevista                              | 15:02 min                                                                                                                       |
+| **Análisis de la Entrevista**                          |                                                                                                                                 |
+| Búsqueda de servicio                                   | Comenta que el flujo es intuitivo y fácil,sin embargo incluiría un filtro de servicios más específico por tipo.                 |
+| Visualización de información del servicio              | Prefiere  más imágenes de referencia  e información extra como el especialista y  reviews relacionadas.                         |
+| Reservar un servicio                                   | Comenta que las indicaciones son claras e intuitivas, sin embargo, el mensaje de ver más al seleccionar un review le es confuso |
+| Confirmación y agenda de citas pendientes              | Aprecia los dialogs de confirmación y el routing enfocado en sus necesidades.                                                   |
+| Historial y reseña                                     | Comenta que el acceso es intuitivo sin embargo le gustarían más mensajes de confirmación por cada acción.                       |
+| Navegación general                                     | El toolbar le pareció muy útil y no hace más comentarios al respecto                                                            |
+
+| Entrevista 2: Usuario se servicios de belleza y cuidado |                                                                                                                                                      |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                    | Carlos Villa Cayetano                                                                                                                                |
+| Edad                                                   | 20 Años                                                                                                                                              |
+| Profesión                                              | Estudiante de contabilidad                                                                                                                           |
+| Departamento                                           | Lima, Perú                                                                                                                                           |
+| Duración de la Entrevista                              | 8:09 min                                                                                                                                             |
+| **Análisis de la Entrevista**                          |                                                                                                                                                      |
+| Búsqueda de servicio                                   | Comenta no haber tenido inconvenientes, pero preferiría quelos filtros ocupen menos espacio en pantalla                                              |
+| Visualización de información del servicio              | Comenta que el dialog es muy grande y que preferiría una imagen más oportuna.                                                                        |
+| Reservar un servicio                                   | Aprecia los mensajes de confirmación pero agradecería visualizar el nombre y un logo distintivo de la compañia.                                      |
+| Confirmación y agenda de citas pendientes              | Comenta no tener inconvenientes en la visualización de su agenda y menciona que el poder elminarla sin restricción alguna podría no ser conveniente. |
+| Historial y reseña                                     | Preferiría otro título para la sección y menciona que poder arrastrar la imagen hacia la sección de reviews facilitaría el proceso                   |
+| Navegación general                                     | Aprecia mucho la facilidad de uso de la toolbar, sin embargo comenta preferir un sidebar para mayor comodidad de navegación vertical                 |
+
+| Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                               |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                    | Aldo Vasquez                                                                                                  |
+| Edad                                                   | 20 Años                                                                                                                       |
+| Profesión                                              | Estudiante de Ingeniería Ambiental                                                                                                    |
+| Departamento                                           | Lima, Perú                                                                                                                    |
+| Duración de la Entrevista                              | 00:00 min                                                                                                                     |
+| **Análisis de la Entrevista**                          |                                                                                                                               |
+| Búsqueda de servicio                                   | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos. |
+| Visualización de información del servicio              | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente. |
+| Reservar un servicio                                   | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo. |
+| Confirmación y agenda de citas pendientes              | Valora la retroalimentación del sistema, especialmente la confirmación inmediata y los recordatorios previos a cada cita.       |
+| Historial y reseña                                     | Encuentra el historial fácil de acceder, pero sugiere agregar opciones de filtro para organizar reservas pasadas por fecha o tipo de servicio. |
+| Navegación general                                     | Destaca la utilidad del toolbar, sin mayores sugerencias al respecto.                                                         |
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
+
+| Entrevista 1: Mypes o emprendedores |                                                                                                                                                                                                                        |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                 | Eliana                                                                                                                                                                                                                 |
+| Edad                                | 18 Años                                                                                                                                                                                                                |
+| Profesión                           | Manicurista independiente                                                                                                                                                                                              |
+| Departamento                        | Lima, Perú                                                                                                                                                                                                             |
+| Duración de la Entrevista           | 13:01 min                                                                                                                                                                                                              |
+| Análisis de la Entrevista           |                                                                                                                                                                                                                        |
+| Visualización de Perfil             | Menciona que el perfil es claro, pero le gustaría que fuese más dinámico y visual                                                                                                                                      |
+| Manejo de servicios                 | Comenta que la creación de servicios es fácil, pero preferiría más opciones de personalización, como intervalos de tiempo predeterminados.                                                                             |
+| Gestión de reservas                 | Opina que la gestión de reservas es funcional, aunque quisiera ver más opciones como ver un calendario con las citas registradas pendientes                                                                            |
+| Recepción de reviews                | Menciona que le gusta la opción de reseñas, pero preferiría que solo algunas fueran visibles y que se pudiera responde                                                                                                               |
+| Navegación general                  | Navegar es sencillo, pero menciona que le gustaría que fuera más rápido y con menos pasos entre secciones |
+
+| Entrevista 2: Mypes o emprendedores    |                                                                                                                         |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                | Flavio Gallardo                                                                                                               |
+| **Edad**                               | 20 Años                                                                                                                |
+| **Profesión**                          | Dueño de centro de belleza independiente                                                                                           |
+| **Departamento**                       | Lima, Perú                                                                                                             |
+| **Duración de la Entrevista**          | 00:00 min                                                                                                              |
+| **Análisis de la Entrevista**          |                                                                                                                         |
+| **Visualización de Perfil**            | El perfil es claro, pero Flavio desearía que fuera más dinámico y visual para atraer mejor la atención de los clientes. |
+| **Manejo de servicios**                | La creación de servicios le resulta fácil, aunque le gustaría más opciones de personalización, como intervalos de tiempo predefinidos. |
+| **Gestión de reservas**                | Encuentra funcional la gestión de reservas, pero preferiría tener un calendario visual con todas las citas pendientes para facilitar el seguimiento. |
+| **Recepción de reviews**               | Le agrada la opción de recibir reseñas, pero preferiría que solo algunas fueran visibles y que pudiera responder a ellas para interactuar con sus clientes. |
+| **Navegación general**                 | La navegación es sencilla, aunque le gustaría que fuera más rápida y con menos pasos entre secciones. |
+
+
+| Entrevista 3: Mypes o emprendedores    |                                                                                                                         |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                | Juan Esteban                                                                                                              |
+| **Edad**                               | 20 Años                                                                                                                |
+| **Profesión**                          | Dueño de centro de belleza independiente                                                                                              |
+| **Departamento**                       | Lima, Perú                                                                                                         |
+| **Duración de la Entrevista**          | 00:00 min                                                                                                              |
+| **Análisis de la Entrevista**          |                                                                                                                         |
+| **Visualización de Perfil**            | Considera que el perfil es claro y fácil de leer, aunque cree que añadir una breve descripción o imagen destacada junto a cada servicio lo haría más atractivo. |
+| **Manejo de servicios**                | Encuentra sencillo el proceso de crear servicios, pero preferiría poder hacer cambios rápidos desde la lista general, sin necesidad de editar cada servicio por separado. |
+| **Gestión de reservas**                | Comenta que la gestión de reservas es práctica, aunque le gustaría tener un tablero de control que muestre un resumen de las reservas activas. |
+| **Recepción de reviews**               | Le gusta la opción de recibir reseñas, pero sugiere incluir una opción de organización por fecha o relevancia para facilitar la visualización. |
+| **Navegación general**                 | Menciona que la navegación es intuitiva, pero sugiere que un tablero con funciones clave reduciría la necesidad de tantos pasos entre secciones. |
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+#### UX Heuristics & Principles Evaluation
+**Usability – Inclusive Design – Information Architecture**
+
+#### Información del Proyecto
+- **Carrera:** Ingeniería de Software
+- **Curso:** Aplicaciones Web
+- **Auditor:** NRG3
+- **Cliente:** NRG3
+- **Site o App a Evaluar:** Bliss
+
+#### Tareas a Evaluar
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+##### Para el Segmento Cliente:
+1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
+2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
+3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
+
+##### Para el Segmento Empresa:
+1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
+2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
+3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
+4. **Recepción de Reviews y Feedback de Clientes:** Evaluar cómo las empresas reciben y gestionan reseñas de los clientes.
+
+#### Escala de Severidad
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
+
+#### Tabla Resumen
+
+| #  | Problema                                                              | Escala de severidad | Heurística/Principio violado             | Tarea evaluada                                  |
+|----|-----------------------------------------------------------------------|--------------------|-----------------------------------------|-------------------------------------------------|
+| 1  | Navegación lenta y con muchos pasos entre secciones                   | 3                  | Eficiencia y satisfacción del usuario   | Navegación del Catálogo de Servicios            |
+| 2  | Falta de opciones de personalización en creación de servicios         | 2                  | Flexibilidad y eficiencia en el uso     | Creación de Servicio                            |
+| 3  | Filtros ocupan demasiado espacio en la pantalla de búsqueda           | 2                  | Diseño estético y minimalista           | Navegación del Catálogo de Servicios            |
+| 4  | Diálogos grandes con demasiada información no priorizada              | 2                  | Diseño estético, visibilidad de información | Visualización del Perfil de la Empresa          |
+| 5  | Confusión en el mensaje "ver más" al seleccionar un review            | 3                  | Consistencia y claridad en el feedback  | Recepción de Reviews y Feedback de Clientes     |
+| 6  | Falta de confirmaciones en las acciones dentro del historial de reseñas| 2                  | Prevención de errores, ayuda a usuarios | Recepción de Reviews y Feedback de Clientes     |
+| 7  | No se puede responder a reseñas desde el perfil del servicio           | 3                  | Flexibilidad y eficiencia en la comunicación | Recepción de Reviews y Feedback de Clientes  |
+
+#### Descripción de Problemas
+
+##### Problema #1: Navegación lenta y con muchos pasos entre secciones
+- **Tarea Evaluada:** Navegación del Catálogo de Servicios
+- **Recomendación:** Optimizar el flujo de navegación reduciendo la cantidad de clics necesarios entre las secciones clave. Implementar menús más rápidos y opciones de acceso directo.
+
+##### Problema #2: Falta de opciones de personalización en la creación de servicios
+- **Tarea Evaluada:** Creación de Servicio
+- **Recomendación:** Agregar más opciones de personalización, como intervalos de tiempo predeterminados y tipos de servicios preconfigurados para mejorar la flexibilidad.
+
+##### Problema #3: Filtros ocupan demasiado espacio en la pantalla de búsqueda
+- **Tarea Evaluada:** Navegación del Catálogo de Servicios
+- **Recomendación:** Reducir el tamaño de los filtros o permitir que se colapsen para maximizar el espacio disponible en la pantalla.
+
+##### Problema #4: Diálogos grandes con demasiada información no priorizada
+- **Tarea Evaluada:** Visualización del Perfil de la Empresa
+- **Recomendación:** Simplificar los diálogos, mostrando solo la información esencial y permitiendo la expansión para detalles adicionales.
+
+##### Problema #5: Confusión en el mensaje "ver más" al seleccionar un review
+- **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
+- **Recomendación:** Clarificar el mensaje "ver más" en la sección de reseñas, indicando claramente lo que se va a expandir o mostrar adicionalmente.
+
+##### Problema #6: Falta de confirmaciones en acciones dentro del historial de reseñas
+- **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
+- **Recomendación:** Incluir mensajes de confirmación en cada acción del historial, como la publicación de una reseña o la modificación de una cita.
+
+##### Problema #7: No se puede responder a reseñas desde el perfil del servicio
+- **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
+- **Recomendación:** Implementar una funcionalidad que permita a las empresas responder a reseñas directamente desde su perfil para facilitar la comunicación con los clientes.
+
+#### User Flows a Validar
+
+##### Para el Segmento Cliente:
+1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
+2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
+3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
+
+##### Para el Segmento Empresa:
+1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
+2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
+3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas, visualizar y modificar citas de clientes.
+4. **Recepción de Reviews y Feedback de Clientes:** Evaluar cómo las empresas reciben y gestionan reseñas de los clientes.
+
+
+### 5.4. Video About-the-Product
+
+About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZogCGD99yBHmKE3jLLeATUBrqbjUwB3OSZZm5LFC0b4cQ?e=yJGD06&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZogCGD99yBHmKE3jLLeATUBrqbjUwB3OSZZm5LFC0b4cQ?e=yJGD06&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 ## Conclusiones
 
@@ -2865,3 +4782,5 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 ## Bibliografía
 
 ## Anexos
+
+About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZogCGD99yBHmKE3jLLeATUBrqbjUwB3OSZZm5LFC0b4cQ?e=yJGD06&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZogCGD99yBHmKE3jLLeATUBrqbjUwB3OSZZm5LFC0b4cQ?e=yJGD06&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
