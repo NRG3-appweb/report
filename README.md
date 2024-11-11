@@ -1878,6 +1878,8 @@ Se uso diferentes etiquetas para conformar la estructura del Landing Page del pr
 
 #### 5.1.4. Software Deployment Configuration
 
+En esta sección se detallan las consideraciones y pasos necesarios para el despliegue de la Landing Page de Bliss. Se describen los archivos requeridos, la publicación de los mismos, las pruebas de funcionamiento y los requerimientos para realizar el despliegue utilizando GitHub Pages.
+
 **Landing Page**
 
 **Consideraciones antes del despliegue**
