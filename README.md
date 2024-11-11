@@ -4551,7 +4551,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Edad                                                   | 22 Años                                                                                                                         |
 | Profesión                                              | Estudiante de Arquitectura                                                                                                      |
 | Departamento                                           | Lima, Perú                                                                                                                      |
-| Duración de la Entrevista                              | 15:02 min                                                                                                                       |
+| Duración de la Entrevista                              | 00:00 min                                                                                                                       |
 | Captura de la entrevista                          |     <img src="resources/chapter-5/capturaEKarol.png">                                                                                                                            |
 | Búsqueda de servicio                                   | Comenta que el flujo es intuitivo y fácil,sin embargo incluiría un filtro de servicios más específico por tipo.                 |
 | Visualización de información del servicio              | Prefiere  más imágenes de referencia  e información extra como el especialista y  reviews relacionadas.                         |
@@ -4566,7 +4566,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Edad                                                   | 20 Años                                                                                                                                              |
 | Profesión                                              | Estudiante de contabilidad                                                                                                                           |
 | Departamento                                           | Lima, Perú                                                                                                                                           |
-| Duración de la Entrevista                              | 8:09 min                                                                                                                                             |
+| Duración de la Entrevista                              | 12:15 min                                                                                                                                             |
 | Captura de la entrevista                         |      <img src="resources/chapter-5/capturaECarlos.png">                                                                                                                                                   |
 | Búsqueda de servicio                                   | Comenta no haber tenido inconvenientes, pero preferiría quelos filtros ocupen menos espacio en pantalla                                              |
 | Visualización de información del servicio              | Comenta que el dialog es muy grande y que preferiría una imagen más oportuna.                                                                        |
@@ -4581,7 +4581,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Edad                                                   | 20 Años                                                                                                                       |
 | Profesión                                              | Estudiante de Ingeniería Ambiental                                                                                                    |
 | Departamento                                           | Lima, Perú                                                                                                                    |
-| Duración de la Entrevista                              | 00:00 min                                                                                                                     |
+| Duración de la Entrevista                              | 18:14 min                                                                                                                     |
 | Captura de la entrevista                         |        <img src="resources/chapter-5/capturaEAldo.png">                                                                                                                          |
 | Búsqueda de servicio                                   | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos. |
 | Visualización de información del servicio              | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente. |
@@ -4598,7 +4598,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Edad                                | 18 Años                                                                                                                                                                                                                |
 | Profesión                           | Manicurista independiente                                                                                                                                                                                              |
 | Departamento                        | Lima, Perú                                                                                                                                                                                                             |
-| Duración de la Entrevista           | 13:01 min                                                                                                                                                                                                              |
+| Duración de la Entrevista           | 22:53 min                                                                                                                                                                                                              |
 | Captura de la Entrevista           |     <img src="resources/chapter-5/capturaEEliana.png">                                                                                                                                                                  |
 | Visualización de Perfil             | Menciona que el perfil es claro, pero le gustaría que fuese más dinámico y visual                                                                                                                                      |
 | Manejo de servicios                 | Comenta que la creación de servicios es fácil, pero preferiría más opciones de personalización, como intervalos de tiempo predeterminados.                                                                             |
@@ -4612,7 +4612,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | **Edad**                               | 20 Años                                                                                                                |
 | **Profesión**                          | Dueño de centro de belleza independiente                                                                                           |
 | **Departamento**                       | Lima, Perú                                                                                                             |
-| **Duración de la Entrevista**          | 00:00 min                                                                                                              |
+| **Duración de la Entrevista**          | 29:11 min                                                                                                              |
 | Captura de la entrevista         |      <img src="resources/chapter-5/capturaEFlavio.png">                                                                                                                      |
 | **Visualización de Perfil**            | El perfil es claro, pero Flavio desearía que fuera más dinámico y visual para atraer mejor la atención de los clientes. |
 | **Manejo de servicios**                | La creación de servicios le resulta fácil, aunque le gustaría más opciones de personalización, como intervalos de tiempo predefinidos. |
@@ -4627,7 +4627,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | **Edad**                               | 20 Años                                                                                                                |
 | **Profesión**                          | Dueño de centro de belleza independiente                                                                                              |
 | **Departamento**                       | Lima, Perú                                                                                                         |
-| **Duración de la Entrevista**          | 00:00 min                                                                                                              |
+| **Duración de la Entrevista**          | 31:41 min                                                                                                              |
 | Captura de la entrevista          |      <img src="resources/chapter-5/capturaEJuan.png">                                                                                                                      |
 | **Visualización de Perfil**            | Considera que el perfil es claro y fácil de leer, aunque cree que añadir una breve descripción o imagen destacada junto a cada servicio lo haría más atractivo. |
 | **Manejo de servicios**                | Encuentra sencillo el proceso de crear servicios, pero preferiría poder hacer cambios rápidos desde la lista general, sin necesidad de editar cada servicio por separado. |
