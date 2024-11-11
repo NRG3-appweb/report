@@ -1360,7 +1360,7 @@ El presente user flow corresponde con la creación de servicio, en el cual la em
 ![Creación de Servicio](resources/chapter_4/userflow/Creación%20de%20servicio.png)
 
 #### 4.4.3. Web Applications Mock-ups
-
+En esta sección se presentan y explican los Mock-ups de las aplicaciones. Se evidencia la aplicación de los principios y elementos de diseño, el diseño inclusivo, la arquitectura de información y el Design System establecido para los productos digitales. Cada mock-up ilustra cómo se implementan estos conceptos en la interfaz de usuario.
 ![Schedule Mockup 1](resources/chapter_4/mockup/desktop-Schedule-1.png)
 ![Schedule Mockup](resources/chapter_4/mockup/desktop-Schedule.png)
 ![Register Version Mockup](resources/chapter_4/mockup/desktop-register-version.png)
