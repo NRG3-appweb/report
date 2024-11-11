@@ -1341,6 +1341,8 @@ Los wireframes de las aplicaciones web de Bliss representan la estructura y disp
 
 
 #### 4.4.2. Web Applications Wireflow Diagrams.
+En esta sección se presentan los Wireflows para cada objetivo del usuario, considerando los User Persona correspondientes. Cada diagrama muestra el flujo de interacción y los cambios en las pantallas resultantes de las acciones del usuario.
+
 ##### Registro y Perfil de Empresa
 El presente user flow corresponde con el formulario de registro que solicita el ingreso de la información empresarial, al hacer el registro el visitante cambia de rol a empresa asociada.
 ![Registro y Perfil de Empresa](resources/chapter_4/userflow/Registro%20y%20perfil%20de%20empresa.png)
@@ -4254,7 +4256,7 @@ Para este sprint se logró documentar 21 endpoints repartidos en 5 controladores
     </tr>
     <tr>
         <td colspan="1"> Parameters </td>
-        <td colspan="2> companyId  </td>
+        <td colspan="2"> companyId  </td>
         <td colspan="1"> Request body </td>
         <td colspan="2"> no </td>
     </tr>
