@@ -1391,6 +1391,7 @@ A continuación el prototipo de la aplicación web de Bliss, el cual permite a l
  [Link del prototipo en Figma](https://www.figma.com/proto/q8ko2mrIU6grV8qMSgCY3i/BLISS-UX%2FUI-APP-WEB?node-id=1-2&t=VM9izIhSuY0cSXUQ-1)
 
 ### 4.6. Domain-Driven Software Architecture
+En esta sección se presenta la arquitectura de software basada en el dominio para Bliss. Se describen los diferentes diagramas que ilustran la estructura y organización del sistema, así como los componentes clave que lo conforman.
 #### 4.6.1. Software Architecture Context Diagram
 
 En el diagrama de contexto se consideraron tres actores clave para el negocio: los visitantes, que pueden convertirse en usuarios potenciales al visitar la página de inicio; los dueños del negocio, que incluyen tanto a estilistas como a empresas con salones de belleza; y los consumidores, que utilizan el producto final.
