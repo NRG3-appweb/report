@@ -1856,12 +1856,12 @@ Usaremos buenas prácticas en cuanto al código de manera que sea coherente y so
 * Terminar cada etiqueta con />.
 
 **Etiquetas de HTML usadas:**
-Se uso diferentes etiquetas para conformar la estructura del Landing Page del producto:
+Se usó diferentes etiquetas para conformar la estructura del Landing Page del producto:
 * **header**: Esta etiqueta define todo el contenido introductorio de la página web, como por ejemplo la barra de búsquedas.
 * **nav**: Define las secciones de la página que estarán dedicadas a la navegación en la página
 * **div**: Esta etiqueta permite la separación de diferentes objetos dentro de nuestra página, esto nos permitió poder aplicar hojas de estilo específicas para cada parte de los objetos.
-* **img**: Esta etiqueta permite la inserción de imágenes en la página web, se uso en diversas ocasiones dentro de la página.
-* **ul**: Esta etiqueta sirve para definir una lista desordenada, mayor mente se uso para la elaboración del menú interactivo de la página.
+* **img**: Esta etiqueta permite la inserción de imágenes en la página web, se usó en diversas ocasiones dentro de la página.
+* **ul**: Esta etiqueta sirve para definir una lista desordenada, mayor mente se usó para la elaboración del menú interactivo de la página.
 * **li**: Sirve para definir los elementos de las listas que se implementaron en la página, más especifico en la barra de búsqueda y el blog.
 * **a**: También llamado “Anchor”, se usó para definir hipervínculos para mover a los usuarios a través de las diferentes secciones de la página.
 * **p**: Definen los párrafos de texto, separándolos del resto de contenido.
@@ -2206,7 +2206,7 @@ No se emplearon servicios adicionales, ya que este primer sprint se centró excl
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 **Diseño**
-Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
+Para realizar este apartado del sprint se usó uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
 * Para el uso de figma, primero es necesario crear tu propia cuenta, para esto se deberá ingresar al página oficial de figma (https://www.figma.com/) y registrarse.
 * 
 <img src="resources/chapter-5/figma-acc-setup-1.png">
@@ -4520,7 +4520,7 @@ Se muestra la documentación de los servicios del controlador de servicios.
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 **Diseño**
-Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
+Para realizar este apartado del sprint se usó uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
 * Para el uso de figma, primero es necesario crear tu propia cuenta, para esto se deberá ingresar al página oficial de figma (https://www.figma.com/) y registrarse.
 <img src="resources/chapter-5/figma-acc-setup-1.png">
 <img src="resources/chapter-5/figma-acc-setup-2.png">
