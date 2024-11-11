@@ -1906,8 +1906,12 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 5) Una vez hecho el paso anterior se estaría contruyendo y poco tiempo después tendriamos que observar la landing desplegada.
 
 ### 5.2. Landing Page, Services & Applications Implementation
+En esta sección se explica y evidencia el proceso de implementación, pruebas, documentación y despliegue de la Landing Page de Bliss.
+
 #### 5.2.1. Sprint 1
+En esta sección se detallan los resultados del primer sprint de desarrollo del proyecto, incluyendo el Sprint Planning, Sprint Backlog, Sprint Review y Sprint Retrospective.
 ##### 5.2.1.1. Sprint Planning 1
+En este item se detalla el Sprint Planning del primer sprint de desarrollo del proyecto, incluyendo la fecha, hora, ubicación, preparado por, asistentes, objetivo del sprint y user stories.
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
@@ -1962,6 +1966,7 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 </table>
 
 ##### 5.2.1.2. Sprint Backlog 1
+En este item se detalla el Sprint Backlog del primer sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
 
 <table>
   <tr>
@@ -2065,6 +2070,7 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 </table>
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
+En esta sección se presentan las evidencias del desarrollo de la Landing Page de Bliss durante el primer sprint de desarrollo.
 
 **Tabla de commits de la landing-page**
 <table>
@@ -2250,8 +2256,11 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
 <img src="resources/chapter-5/landing-gitflow-evidence.png">
 
 #### 5.2.2. Sprint 2
+En esta sección se detallan los resultados del segundo sprint de desarrollo del proyecto, incluyendo el Sprint Planning, Sprint Backlog, Sprint Review y Sprint Retrospective.
 
 ##### 5.2.2.1.Sprint Planning 2.
+En este item se detalla el Sprint Planning del segundo sprint de desarrollo del proyecto, incluyendo la fecha, hora, ubicación, preparado por, asistentes, objetivo del sprint y user stories.
+
 | **Sección**                        | **Contenido**                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Sprint 2**                       | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -2266,6 +2275,8 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
 | **Sprint Goal & User Stories**     | **Sprint 2 Goal**: El objetivo del Sprint 2 es mejorar la experiencia del usuario en la landing page y en la gestión de servicios, implementando funcionalidades clave que permitan a las empresas crear y gestionar sus servicios de manera más eficiente. La métrica de cumplimiento se establecerá mediante la finalización de al menos el 80% de las tareas planificadas.<br>**Sprint 2 Velocity**: El equipo acepta un total de 25 **Story Points** para el Sprint 2. |
 
 ##### 5.2.2.2.Sprint Backlog 2.
+En este item se detalla el Sprint Backlog del segundo sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
+
 
  **User Story ID** | **User Story**                 | **Work-Item / Task ID** | **Work-Item / Task Title**                             | **Description**                                                                     | **Estimation (Hours)**  | **Status** |
  ----------------- | ------------------------------ | ----------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------   |------------|
@@ -2280,6 +2291,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
  US005             | Búsqueda de servicios          | TS014                   | Programar endpoint en RESTful API                      | Desarrollar el endpoint que permita la búsqueda de servicios aplicando filtros.     | 3                        | done       |
 
 ##### 5.2.2.3. Development Evidence for Sprint Review.
+En esta sección se presentan las evidencias de desarrollo del Frontend de Bliss durante el segundo sprint de desarrollo.
 
 **Tabla de commits del Frontend**
 
