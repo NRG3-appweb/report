@@ -4588,7 +4588,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                                              | Estudiante de Arquitectura                                                                                                      |
 | Departamento                                           | Lima, Perú                                                                                                                      |
 | Duración de la Entrevista                              | 15:02 min                                                                                                                       |
-| **Análisis de la Entrevista**                          |                                                                                                                                 |
+| Captura de la entrevista                          |     <img src="resources/chapter-5/capturaEKarol.png">                                                                                                                            |
 | Búsqueda de servicio                                   | Comenta que el flujo es intuitivo y fácil,sin embargo incluiría un filtro de servicios más específico por tipo.                 |
 | Visualización de información del servicio              | Prefiere  más imágenes de referencia  e información extra como el especialista y  reviews relacionadas.                         |
 | Reservar un servicio                                   | Comenta que las indicaciones son claras e intuitivas, sin embargo, el mensaje de ver más al seleccionar un review le es confuso |
@@ -4603,7 +4603,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                                              | Estudiante de contabilidad                                                                                                                           |
 | Departamento                                           | Lima, Perú                                                                                                                                           |
 | Duración de la Entrevista                              | 8:09 min                                                                                                                                             |
-| **Análisis de la Entrevista**                          |                                                                                                                                                      |
+| Captura de la entrevista                         |      <img src="resources/chapter-5/capturaECarlos.png">                                                                                                                                                   |
 | Búsqueda de servicio                                   | Comenta no haber tenido inconvenientes, pero preferiría quelos filtros ocupen menos espacio en pantalla                                              |
 | Visualización de información del servicio              | Comenta que el dialog es muy grande y que preferiría una imagen más oportuna.                                                                        |
 | Reservar un servicio                                   | Aprecia los mensajes de confirmación pero agradecería visualizar el nombre y un logo distintivo de la compañia.                                      |
@@ -4618,7 +4618,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                                              | Estudiante de Ingeniería Ambiental                                                                                                    |
 | Departamento                                           | Lima, Perú                                                                                                                    |
 | Duración de la Entrevista                              | 00:00 min                                                                                                                     |
-| **Análisis de la Entrevista**                          |                                                                                                                               |
+| Captura de la entrevista                         |        <img src="resources/chapter-5/capturaEAldo.png">                                                                                                                          |
 | Búsqueda de servicio                                   | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos. |
 | Visualización de información del servicio              | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente. |
 | Reservar un servicio                                   | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo. |
@@ -4635,7 +4635,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                           | Manicurista independiente                                                                                                                                                                                              |
 | Departamento                        | Lima, Perú                                                                                                                                                                                                             |
 | Duración de la Entrevista           | 13:01 min                                                                                                                                                                                                              |
-| Análisis de la Entrevista           |                                                                                                                                                                                                                        |
+| Captura de la Entrevista           |     <img src="resources/chapter-5/capturaEEliana.png">                                                                                                                                                                  |
 | Visualización de Perfil             | Menciona que el perfil es claro, pero le gustaría que fuese más dinámico y visual                                                                                                                                      |
 | Manejo de servicios                 | Comenta que la creación de servicios es fácil, pero preferiría más opciones de personalización, como intervalos de tiempo predeterminados.                                                                             |
 | Gestión de reservas                 | Opina que la gestión de reservas es funcional, aunque quisiera ver más opciones como ver un calendario con las citas registradas pendientes                                                                            |
@@ -4649,7 +4649,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | **Profesión**                          | Dueño de centro de belleza independiente                                                                                           |
 | **Departamento**                       | Lima, Perú                                                                                                             |
 | **Duración de la Entrevista**          | 00:00 min                                                                                                              |
-| **Análisis de la Entrevista**          |                                                                                                                         |
+| Captura de la entrevista         |      <img src="resources/chapter-5/capturaEFlavio.png">                                                                                                                      |
 | **Visualización de Perfil**            | El perfil es claro, pero Flavio desearía que fuera más dinámico y visual para atraer mejor la atención de los clientes. |
 | **Manejo de servicios**                | La creación de servicios le resulta fácil, aunque le gustaría más opciones de personalización, como intervalos de tiempo predefinidos. |
 | **Gestión de reservas**                | Encuentra funcional la gestión de reservas, pero preferiría tener un calendario visual con todas las citas pendientes para facilitar el seguimiento. |
@@ -4664,7 +4664,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | **Profesión**                          | Dueño de centro de belleza independiente                                                                                              |
 | **Departamento**                       | Lima, Perú                                                                                                         |
 | **Duración de la Entrevista**          | 00:00 min                                                                                                              |
-| **Análisis de la Entrevista**          |                                                                                                                         |
+| Captura de la entrevista          |      <img src="resources/chapter-5/capturaEJuan.png">                                                                                                                      |
 | **Visualización de Perfil**            | Considera que el perfil es claro y fácil de leer, aunque cree que añadir una breve descripción o imagen destacada junto a cada servicio lo haría más atractivo. |
 | **Manejo de servicios**                | Encuentra sencillo el proceso de crear servicios, pero preferiría poder hacer cambios rápidos desde la lista general, sin necesidad de editar cada servicio por separado. |
 | **Gestión de reservas**                | Comenta que la gestión de reservas es práctica, aunque le gustaría tener un tablero de control que muestre un resumen de las reservas activas. |
