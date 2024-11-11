@@ -1409,6 +1409,7 @@ En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en 
 Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas clave: Service Management, User Management, Booking Management, Notifications, y Payments.
 
 ##### Service Management Component
+Esta sección detalla el Componente de Gestión de Servicios, que se divide en tres bounded context: Service Management, Review Management y Appointment Management. Cada contexto está representado por un diagrama que ilustra la estructura y las interacciones dentro del sistema.
 
 **Service Management Bounded Context**
 ![C4 Service Management](resources/chapter_4/c4/c4-component-diagram-service-management.png)
