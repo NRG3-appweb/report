@@ -3914,6 +3914,8 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados en las pruebas de la lógica de negocio. Cada entrada incluye el identificador único del commit (ID) y una descripción concisa del cambio realizado.
+
 <table>
   <tr>
     <td colspan="1">Repository</td>
