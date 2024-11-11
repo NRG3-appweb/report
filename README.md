@@ -2821,7 +2821,10 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 ![insight sprint2 2](resources/chapter-5/insights-2sprint-2.png)
 
 #### 5.2.3. Sprint 3
+En esta sección se presenta el reporte del sprint 3, el cual se enfocó en el desarrollo del Backend, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
 ##### 5.2.3.1. Spring Planning 3.
+
+En este sprint se planteó el desarrollo de la primera versión del backend de la aplicación web, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
 
 Sprint board en trello:
 <img src="resources/sprint-3/trello-ss.png">
@@ -2882,6 +2885,9 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 </table>
 
 ##### 5.2.3.2. Sprint Backlog 3.
+
+En este item se detalla el Sprint Backlog del tercer sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
+
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
@@ -3158,6 +3164,8 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 </table>
 
 ##### 5.2.3.3. Development Evidence for Sprint Review.
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
 
 *Commits realizados en el repositorio de frontend durante el sprint 3:*
 <table>
@@ -3987,6 +3995,8 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
+En esta sección se presentan los resultados de la ejecución de la suite de pruebas para el sprint 3.
+
 <table>
   <tr>
     <td colspan="1">Repository</td>
@@ -4058,6 +4068,9 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3.
+
 ![execution_landing1](resources/chapter-5/landing1.png)
 ![execution_landing2](resources/chapter-5/landing2.png)
 ![execution_landing3](resources/chapter-5/landing3.png)
@@ -4089,7 +4102,10 @@ Enlace a video de demostración: <a href="https://upcedupe-my.sharepoint.com/:v:
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 Para este sprint se logró documentar 21 endpoints repartidos en 5 controladores siendo estos el appointment controller, review controller, service controller, category controller y company controller. Para la documentación de los servicios se utilizó Swagger, una herramienta que permite documentar y probar servicios REST de manera sencilla y rápida. Para acceder a la documentación de los servicios se debe ingresar a la URL del servidor en el puerto designado según el tipo de ejecución (http, https, IIS), seguido de /swagger/index.html.
 
-**AppointmentController**
+**AppointmentController** <br>
+
+Se muestra la documentación de los servicios del controlador de citas.
+
 <table>
     <tr>
         <th colspan="1"> Tag </th>
@@ -4180,7 +4196,10 @@ Para este sprint se logró documentar 21 endpoints repartidos en 5 controladores
 ![endpointevidence25](resources/chapter-5/endpoint-evidence-25.png)
 ![endpointevidence26](resources/chapter-5/endpoint-evidence-26.png)
 
-**CategoryController**
+**CategoryController** <br>
+
+Se muestra la documentación de los servicios del controlador de categorías.
+
 <table>
     <tr>
         <th colspan="1"> Tag </th>
@@ -4243,7 +4262,11 @@ Para este sprint se logró documentar 21 endpoints repartidos en 5 controladores
 ![endpointevidence40](resources/chapter-5/endpoint-evidence-40.png)
 ![endpointevidence41](resources/chapter-5/endpoint-evidence-41.png)
 
-**CompanyController**
+**CompanyController** <br>
+
+Se muestra la documentación de los servicios del controlador de compañías.
+
+
 <table>
     <tr>
         <th colspan="1"> Tag </th>
@@ -4305,7 +4328,10 @@ Para este sprint se logró documentar 21 endpoints repartidos en 5 controladores
 ![endpointevidence7](resources/chapter-5/endpoint-evidence-7.png)
 ![endpointevidence8](resources/chapter-5/endpoint-evidence-8.png)
 
-**ReviewController**
+**ReviewController** <br>
+
+Se muestra la documentación de los servicios del controlador de reseñas.
+
 <table>
     <tr>
         <th colspan="1"> Tag </th>
@@ -4411,7 +4437,10 @@ Para este sprint se logró documentar 21 endpoints repartidos en 5 controladores
 ![endpointevidence35](resources/chapter-5/endpoint-evidence-35.png)
 ![endpointevidence36](resources/chapter-5/endpoint-evidence-36.png)
 
-**ServiceController**
+**ServiceController** <br>
+
+Se muestra la documentación de los servicios del controlador de servicios.
+
 <table>
     <tr>
         <th colspan="1"> Tag </th>
@@ -4557,7 +4586,11 @@ Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de 
 - Elvia Marcela Rodriguez Villa: 34 commits.
 
 ### 5.3. Validation Interviews
+En esta sección se presentan los detalles de las entrevistas de validación realizadas.
+
 #### 5.3.1 Diseño de Entrevistas
+Para el diseño de entrevistas se consideraron los siguientes aspectos:
+
 ## Objetivo de la Entrevista
 Validar la usabilidad y efectividad de la landing page y la aplicación para cada uno de los segmentos de usuarios, asegurando que los flujos de usuario (user flows) sean intuitivos y satisfactorios.
 ## Elementos de Validación
@@ -4612,6 +4645,9 @@ Validar la usabilidad y efectividad de la landing page y la aplicación para cad
 - ¿Qué aspectos del sistema valoras más en comparación con otras plataformas que usas?
 #### 5.3.2. Registro de Entrevistas
 
+En esta sección se presentan los detalles de las entrevistas realizadas a los usuarios y MYPES del sector de belleza y cuidado personal.
+
+
 |                                                           |                                                                                                                                                   |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Link de video de entrevistas**                          | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EVYo5ReeSKRAqdpb5EU6LncBM81_d8LYMkmrLAQ8TUjiIQ?e=cSdX49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EVYo5ReeSKRAqdpb5EU6LncBM81_d8LYMkmrLAQ8TUjiIQ?e=cSdX49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
@@ -4648,20 +4684,20 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Historial y reseña                                     | Preferiría otro título para la sección y menciona que poder arrastrar la imagen hacia la sección de reviews facilitaría el proceso                   |
 | Navegación general                                     | Aprecia mucho la facilidad de uso de la toolbar, sin embargo comenta preferir un sidebar para mayor comodidad de navegación vertical                 |
 
-| Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                               |
-|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                    | Aldo Vasquez                                                                                                  |
-| Edad                                                   | 20 Años                                                                                                                       |
-| Profesión                                              | Estudiante de Ingeniería Ambiental                                                                                                    |
-| Departamento                                           | Lima, Perú                                                                                                                    |
-| Duración de la Entrevista                              | 00:00 min                                                                                                                     |
-| **Análisis de la Entrevista**                          |                                                                                                                               |
-| Búsqueda de servicio                                   | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos. |
-| Visualización de información del servicio              | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente. |
-| Reservar un servicio                                   | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo. |
-| Confirmación y agenda de citas pendientes              | Valora la retroalimentación del sistema, especialmente la confirmación inmediata y los recordatorios previos a cada cita.       |
+| Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                                               |
+|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                    | Aldo Vasquez                                                                                                                                  |
+| Edad                                                   | 20 Años                                                                                                                                       |
+| Profesión                                              | Estudiante de Ingeniería Ambiental                                                                                                            |
+| Departamento                                           | Lima, Perú                                                                                                                                    |
+| Duración de la Entrevista                              | 03:44 min                                                                                                                                     |
+| **Análisis de la Entrevista**                          |                                                                                                                                               |
+| Búsqueda de servicio                                   | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos.             |
+| Visualización de información del servicio              | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente.               |
+| Reservar un servicio                                   | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo.                                    |
+| Confirmación y agenda de citas pendientes              | Valora la retroalimentación del sistema, especialmente la confirmación inmediata y los recordatorios previos a cada cita.                     |
 | Historial y reseña                                     | Encuentra el historial fácil de acceder, pero sugiere agregar opciones de filtro para organizar reservas pasadas por fecha o tipo de servicio. |
-| Navegación general                                     | Destaca la utilidad del toolbar, sin mayores sugerencias al respecto.                                                         |
+| Navegación general                                     | Destaca la utilidad del toolbar, sin mayores sugerencias al respecto.                                                                         |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
 
@@ -4679,36 +4715,37 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Recepción de reviews                | Menciona que le gusta la opción de reseñas, pero preferiría que solo algunas fueran visibles y que se pudiera responde                                                                                                               |
 | Navegación general                  | Navegar es sencillo, pero menciona que le gustaría que fuera más rápido y con menos pasos entre secciones |
 
-| Entrevista 2: Mypes o emprendedores    |                                                                                                                         |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Nombre Entrevistado**                | Flavio Gallardo                                                                                                               |
-| **Edad**                               | 20 Años                                                                                                                |
-| **Profesión**                          | Dueño de centro de belleza independiente                                                                                           |
-| **Departamento**                       | Lima, Perú                                                                                                             |
-| **Duración de la Entrevista**          | 00:00 min                                                                                                              |
-| **Análisis de la Entrevista**          |                                                                                                                         |
-| **Visualización de Perfil**            | El perfil es claro, pero Flavio desearía que fuera más dinámico y visual para atraer mejor la atención de los clientes. |
-| **Manejo de servicios**                | La creación de servicios le resulta fácil, aunque le gustaría más opciones de personalización, como intervalos de tiempo predefinidos. |
-| **Gestión de reservas**                | Encuentra funcional la gestión de reservas, pero preferiría tener un calendario visual con todas las citas pendientes para facilitar el seguimiento. |
+| Entrevista 2: Mypes o emprendedores    |                                                                                                                                                             |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                | Flavio Gallardo                                                                                                                                             |
+| **Edad**                               | 20 Años                                                                                                                                                     |
+| **Profesión**                          | Dueño de centro de belleza independiente                                                                                                                    |
+| **Departamento**                       | Lima, Perú                                                                                                                                                  |
+| **Duración de la Entrevista**          | 02:55 min                                                                                                                                                   |
+| **Análisis de la Entrevista**          |                                                                                                                                                             |
+| **Visualización de Perfil**            | El perfil es claro, pero Flavio desearía que fuera más dinámico y visual para atraer mejor la atención de los clientes.                                     |
+| **Manejo de servicios**                | La creación de servicios le resulta fácil, aunque le gustaría más opciones de personalización, como intervalos de tiempo predefinidos.                      |
+| **Gestión de reservas**                | Encuentra funcional la gestión de reservas, pero preferiría tener un calendario visual con todas las citas pendientes para facilitar el seguimiento.        |
 | **Recepción de reviews**               | Le agrada la opción de recibir reseñas, pero preferiría que solo algunas fueran visibles y que pudiera responder a ellas para interactuar con sus clientes. |
-| **Navegación general**                 | La navegación es sencilla, aunque le gustaría que fuera más rápida y con menos pasos entre secciones. |
+| **Navegación general**                 | La navegación es sencilla, aunque le gustaría que fuera más rápida y con menos pasos entre secciones.                                                       |
 
 
-| Entrevista 3: Mypes o emprendedores    |                                                                                                                         |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Nombre Entrevistado**                | Juan Esteban                                                                                                              |
-| **Edad**                               | 20 Años                                                                                                                |
-| **Profesión**                          | Dueño de centro de belleza independiente                                                                                              |
-| **Departamento**                       | Lima, Perú                                                                                                         |
-| **Duración de la Entrevista**          | 00:00 min                                                                                                              |
-| **Análisis de la Entrevista**          |                                                                                                                         |
-| **Visualización de Perfil**            | Considera que el perfil es claro y fácil de leer, aunque cree que añadir una breve descripción o imagen destacada junto a cada servicio lo haría más atractivo. |
+| Entrevista 3: Mypes o emprendedores    |                                                                                                                                                                           |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                | Juan Esteban                                                                                                                                                              |
+| **Edad**                               | 20 Años                                                                                                                                                                   |
+| **Profesión**                          | Dueño de centro de belleza independiente                                                                                                                                  |
+| **Departamento**                       | Lima, Perú                                                                                                                                                                |
+| **Duración de la Entrevista**          | 00:00 min                                                                                                                                                                 |
+| **Análisis de la Entrevista**          |                                                                                                                                                                           |
+| **Visualización de Perfil**            | Considera que el perfil es claro y fácil de leer, aunque cree que añadir una breve descripción o imagen destacada junto a cada servicio lo haría más atractivo.           |
 | **Manejo de servicios**                | Encuentra sencillo el proceso de crear servicios, pero preferiría poder hacer cambios rápidos desde la lista general, sin necesidad de editar cada servicio por separado. |
-| **Gestión de reservas**                | Comenta que la gestión de reservas es práctica, aunque le gustaría tener un tablero de control que muestre un resumen de las reservas activas. |
-| **Recepción de reviews**               | Le gusta la opción de recibir reseñas, pero sugiere incluir una opción de organización por fecha o relevancia para facilitar la visualización. |
-| **Navegación general**                 | Menciona que la navegación es intuitiva, pero sugiere que un tablero con funciones clave reduciría la necesidad de tantos pasos entre secciones. |
+| **Gestión de reservas**                | Comenta que la gestión de reservas es práctica, aunque le gustaría tener un tablero de control que muestre un resumen de las reservas activas.                            |
+| **Recepción de reviews**               | Le gusta la opción de recibir reseñas, pero sugiere incluir una opción de organización por fecha o relevancia para facilitar la visualización.                            |
+| **Navegación general**                 | Menciona que la navegación es intuitiva, pero sugiere que un tablero con funciones clave reduciría la necesidad de tantos pasos entre secciones.                          |
 
 #### 5.3.3. Evaluaciones según heurísticas.
+En esta sección se presentan las evaluaciones de usabilidad de la landing page y la aplicación web de servicios de belleza y cuidado personal, basadas en heurísticas y principios de diseño.
 
 #### UX Heuristics & Principles Evaluation
 **Usability – Inclusive Design – Information Architecture**
@@ -4745,6 +4782,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
 
 #### Tabla Resumen
+La tabla de resumen muestra los problemas identificados, su nivel de severidad y el principio heurístico o diseño violado.
 
 | #  | Problema                                                              | Escala de severidad | Heurística/Principio violado             | Tarea evaluada                                  |
 |----|-----------------------------------------------------------------------|--------------------|-----------------------------------------|-------------------------------------------------|
@@ -4801,6 +4839,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 
 ### 5.4. Video About-the-Product
+
+En este apartado se presenta el video sobre el producto Bliss, una plataforma de servicios de belleza y cuidado personal que facilita la reserva y gestión de servicios para clientes y empresas del sector.
 
 About the Product Video: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZogCGD99yBHmKE3jLLeATUBrqbjUwB3OSZZm5LFC0b4cQ?e=yJGD06&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZogCGD99yBHmKE3jLLeATUBrqbjUwB3OSZZm5LFC0b4cQ?e=yJGD06&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
