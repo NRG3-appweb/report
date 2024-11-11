@@ -1670,7 +1670,10 @@ El diccionario de clases detalla los atributos de cada clase, proporcionando una
 </table>
 
 ### 4.8. Database Design
+En esta sección se presenta el diseño de la base de datos para Bliss. Se incluye un diagrama de la base de datos que ilustra la estructura y las relaciones entre las tablas principales del sistema.
+
 #### 4.8.1. Database Diagram
+El diagrama de la base de datos proporciona una representación visual de las tablas, sus atributos y las relaciones entre ellas, facilitando la comprensión de la organización y la integridad de los datos en el sistema.
 
 ![Database](resources/chapter_4/bliss-data-base.png)
 
@@ -1690,7 +1693,9 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
   <li>Coordinación grupal: WhatsApp</li>
 </ul>
 
-**Requirements Management**
+**Requirements Management** <br>
+Utilizamos Trello para designar las tareas y actividades de cada integrante del grupo en caso de revisión o cambios.
+
 <table>
   <tr>
     <td>Herramienta</td>
@@ -1704,7 +1709,9 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
   </tr>
 </table>
 
-**Product UX/UI Design**
+**Product UX/UI Design** <br>
+Para el diseño de los wireframes y mockups, además de la realización del prototipo de la Web App, utilizamos Figma.
+
 <table>
   <tr>
     <td>Herramienta</td>
@@ -1718,7 +1725,9 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
   </tr>
 </table>
 
-**Software Development**
+**Software Development** <br>
+Empleamos HTML como el lenguaje base de etiquetado para aplicaciones web y CSS para manejar el diseño visual de la landing page.
+
 <table>
   <tr>
     <td>Herramienta</td>
@@ -1737,7 +1746,8 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
   </tr>
 </table>
 
-**Software Deployment**
+**Software Deployment** <br>
+Utilizamos GitHub Pages para realizar el despliegue de nuestra landing page.
 <table>
   <tr>
     <td>Herramienta</td>
@@ -1751,7 +1761,9 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
   </tr>
 </table>
 
-**Software Documentation**7
+**Software Documentation** <br>>
+Para gestionar la documentación del proyecto utilizamos Github y MarkDown para documentar el proyecto.
+
 <table>
   <tr>
     <td>Herramienta</td>
@@ -1771,6 +1783,9 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
 </table>
 
 #### 5.1.2. Source Code Management
+
+Para la gestión del código fuente, utilizamos los siguientes repositorios:
+
 
 <table>
     <tbody>
