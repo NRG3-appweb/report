@@ -1421,11 +1421,15 @@ Esta sección detalla el Componente de Gestión de Servicios, que se divide en t
 ![C4 Appointment Management](resources/chapter_4/c4/c4-component-diagram-appointment-management.png)
 
 ### 4.7. Software Object-Oriented Design
+En esta sección se presenta el diseño de software orientado a objetos para Bliss. Se incluyen diagramas de clases y un diccionario de clases que describen la estructura y los atributos de las principales entidades del sistema.
+
 #### 4.7.1. Class Diagrams
+El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
 
 <img src="resources/chapter_4/uml-diagram-class.PNG"/>
 
 #### 4.7.2. Class Dictionary
+El diccionario de clases detalla los atributos de cada clase, proporcionando una descripción y el tipo de dato correspondiente. Este diccionario es esencial para entender la estructura y la funcionalidad de cada entidad dentro del sistema.
 
 <table>
   <tr>
