@@ -4218,7 +4218,7 @@ Para este sprint se logró documentar 21 endpoints repartidos en 5 controladores
     </tr>
     <tr>
         <td colspan="1"> Parameters </td>
-        <td colspan="2> companyId  </td>
+        <td colspan="2"> companyId  </td>
         <td colspan="1"> Request body </td>
         <td colspan="2"> no </td>
     </tr>
@@ -4539,56 +4539,56 @@ Validar la usabilidad y efectividad de la landing page y la aplicación para cad
 - ¿Qué aspectos del sistema valoras más en comparación con otras plataformas que usas?
 #### 5.3.2. Registro de Entrevistas
 
-|                                                           |                                                                                                                                                   |
-|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Link de video de entrevistas**                          | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EVYo5ReeSKRAqdpb5EU6LncBM81_d8LYMkmrLAQ8TUjiIQ?e=cSdX49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EVYo5ReeSKRAqdpb5EU6LncBM81_d8LYMkmrLAQ8TUjiIQ?e=cSdX49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+|                                                           |                                                                                                                                                                                                                                                                                                                                 |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Link de video de entrevistas**                          | [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZobZ_vc-odKqyNts3pm6-YB-y7Rh6rshCD6IpC3dRGyWA?e=d24NZ8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios y MYPES del sector de belleza y cuidado personal.
 
 | Entrevista 1: Usuario se servicios de belleza y cuidado |                                                                                                                                 |
-|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                    | Karol Pamela Villa Cayetano                                                                                                     |
-| Edad                                                   | 22 Años                                                                                                                         |
-| Profesión                                              | Estudiante de Arquitectura                                                                                                      |
-| Departamento                                           | Lima, Perú                                                                                                                      |
-| Duración de la Entrevista                              | 00:00 min                                                                                                                       |
-| Captura de la entrevista                          |     <img src="resources/chapter-5/capturaEKarol.png">                                                                                                                            |
-| Búsqueda de servicio                                   | Comenta que el flujo es intuitivo y fácil,sin embargo incluiría un filtro de servicios más específico por tipo.                 |
-| Visualización de información del servicio              | Prefiere  más imágenes de referencia  e información extra como el especialista y  reviews relacionadas.                         |
-| Reservar un servicio                                   | Comenta que las indicaciones son claras e intuitivas, sin embargo, el mensaje de ver más al seleccionar un review le es confuso |
-| Confirmación y agenda de citas pendientes              | Aprecia los dialogs de confirmación y el routing enfocado en sus necesidades.                                                   |
-| Historial y reseña                                     | Comenta que el acceso es intuitivo sin embargo le gustarían más mensajes de confirmación por cada acción.                       |
-| Navegación general                                     | El toolbar le pareció muy útil y no hace más comentarios al respecto                                                            |
+|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     | Karol Pamela Villa Cayetano                                                                                                     |
+| Edad                                                    | 22 Años                                                                                                                         |
+| Profesión                                               | Estudiante de Arquitectura                                                                                                      |
+| Departamento                                            | Lima, Perú                                                                                                                      |
+| Minuto de inicio                                        | 00:00 min                                                                                                                       |
+| Captura de la entrevista                                |     <img src="resources/chapter-5/capturaEKarol.png">                                                                                                                            |
+| Búsqueda de servicio                                    | Comenta que el flujo es intuitivo y fácil,sin embargo incluiría un filtro de servicios más específico por tipo.                 |
+| Visualización de información del servicio               | Prefiere  más imágenes de referencia  e información extra como el especialista y  reviews relacionadas.                         |
+| Reservar un servicio                                    | Comenta que las indicaciones son claras e intuitivas, sin embargo, el mensaje de ver más al seleccionar un review le es confuso |
+| Confirmación y agenda de citas pendientes               | Aprecia los dialogs de confirmación y el routing enfocado en sus necesidades.                                                   |
+| Historial y reseña                                      | Comenta que el acceso es intuitivo sin embargo le gustarían más mensajes de confirmación por cada acción.                       |
+| Navegación general                                      | El toolbar le pareció muy útil y no hace más comentarios al respecto                                                            |
 
 | Entrevista 2: Usuario se servicios de belleza y cuidado |                                                                                                                                                      |
-|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                    | Carlos Villa Cayetano                                                                                                                                |
-| Edad                                                   | 20 Años                                                                                                                                              |
-| Profesión                                              | Estudiante de contabilidad                                                                                                                           |
-| Departamento                                           | Lima, Perú                                                                                                                                           |
-| Duración de la Entrevista                              | 12:15 min                                                                                                                                             |
-| Captura de la entrevista                         |      <img src="resources/chapter-5/capturaECarlos.png">                                                                                                                                                   |
-| Búsqueda de servicio                                   | Comenta no haber tenido inconvenientes, pero preferiría quelos filtros ocupen menos espacio en pantalla                                              |
-| Visualización de información del servicio              | Comenta que el dialog es muy grande y que preferiría una imagen más oportuna.                                                                        |
-| Reservar un servicio                                   | Aprecia los mensajes de confirmación pero agradecería visualizar el nombre y un logo distintivo de la compañia.                                      |
-| Confirmación y agenda de citas pendientes              | Comenta no tener inconvenientes en la visualización de su agenda y menciona que el poder elminarla sin restricción alguna podría no ser conveniente. |
-| Historial y reseña                                     | Preferiría otro título para la sección y menciona que poder arrastrar la imagen hacia la sección de reviews facilitaría el proceso                   |
-| Navegación general                                     | Aprecia mucho la facilidad de uso de la toolbar, sin embargo comenta preferir un sidebar para mayor comodidad de navegación vertical                 |
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     | Carlos Villa Cayetano                                                                                                                                |
+| Edad                                                    | 20 Años                                                                                                                                              |
+| Profesión                                               | Estudiante de contabilidad                                                                                                                           |
+| Departamento                                            | Lima, Perú                                                                                                                                           |
+| Minuto de inicio                                        | 12:15 min                                                                                                                                            |
+| Captura de la entrevista                                | <img src="resources/chapter-5/capturaECarlos.png">                                                                                                   |
+| Búsqueda de servicio                                    | Comenta no haber tenido inconvenientes, pero preferiría quelos filtros ocupen menos espacio en pantalla                                              |
+| Visualización de información del servicio               | Comenta que el dialog es muy grande y que preferiría una imagen más oportuna.                                                                        |
+| Reservar un servicio                                    | Aprecia los mensajes de confirmación pero agradecería visualizar el nombre y un logo distintivo de la compañia.                                      |
+| Confirmación y agenda de citas pendientes               | Comenta no tener inconvenientes en la visualización de su agenda y menciona que el poder elminarla sin restricción alguna podría no ser conveniente. |
+| Historial y reseña                                      | Preferiría otro título para la sección y menciona que poder arrastrar la imagen hacia la sección de reviews facilitaría el proceso                   |
+| Navegación general                                      | Aprecia mucho la facilidad de uso de la toolbar, sin embargo comenta preferir un sidebar para mayor comodidad de navegación vertical                 |
 
 | Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                               |
-|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                    | Aldo Vasquez                                                                                                  |
-| Edad                                                   | 20 Años                                                                                                                       |
-| Profesión                                              | Estudiante de Ingeniería Ambiental                                                                                                    |
-| Departamento                                           | Lima, Perú                                                                                                                    |
-| Duración de la Entrevista                              | 18:14 min                                                                                                                     |
-| Captura de la entrevista                         |        <img src="resources/chapter-5/capturaEAldo.png">                                                                                                                          |
-| Búsqueda de servicio                                   | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos. |
-| Visualización de información del servicio              | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente. |
-| Reservar un servicio                                   | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo. |
-| Confirmación y agenda de citas pendientes              | Valora la retroalimentación del sistema, especialmente la confirmación inmediata y los recordatorios previos a cada cita.       |
-| Historial y reseña                                     | Encuentra el historial fácil de acceder, pero sugiere agregar opciones de filtro para organizar reservas pasadas por fecha o tipo de servicio. |
-| Navegación general                                     | Destaca la utilidad del toolbar, sin mayores sugerencias al respecto.                                                         |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     | Aldo Vasquez                                                                                                  |
+| Edad                                                    | 20 Años                                                                                                                       |
+| Profesión                                               | Estudiante de Ingeniería Ambiental                                                                                                    |
+| Departamento                                            | Lima, Perú                                                                                                                    |
+| Minuto de inicio                                        | 18:14 min                                                                                                                     |
+| Captura de la entrevista                                |        <img src="resources/chapter-5/capturaEAldo.png">                                                                                                                          |
+| Búsqueda de servicio                                    | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos. |
+| Visualización de información del servicio               | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente. |
+| Reservar un servicio                                    | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo. |
+| Confirmación y agenda de citas pendientes               | Valora la retroalimentación del sistema, especialmente la confirmación inmediata y los recordatorios previos a cada cita.       |
+| Historial y reseña                                      | Encuentra el historial fácil de acceder, pero sugiere agregar opciones de filtro para organizar reservas pasadas por fecha o tipo de servicio. |
+| Navegación general                                      | Destaca la utilidad del toolbar, sin mayores sugerencias al respecto.                                                         |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
 
@@ -4598,42 +4598,42 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Edad                                | 18 Años                                                                                                                                                                                                                |
 | Profesión                           | Manicurista independiente                                                                                                                                                                                              |
 | Departamento                        | Lima, Perú                                                                                                                                                                                                             |
-| Duración de la Entrevista           | 22:53 min                                                                                                                                                                                                              |
-| Captura de la Entrevista           |     <img src="resources/chapter-5/capturaEEliana.png">                                                                                                                                                                  |
+| Minuto de inicio                    | 22:53 min                                                                                                                                                                                                              |
+| Captura de la Entrevista            |     <img src="resources/chapter-5/capturaEEliana.png">                                                                                                                                                                  |
 | Visualización de Perfil             | Menciona que el perfil es claro, pero le gustaría que fuese más dinámico y visual                                                                                                                                      |
 | Manejo de servicios                 | Comenta que la creación de servicios es fácil, pero preferiría más opciones de personalización, como intervalos de tiempo predeterminados.                                                                             |
 | Gestión de reservas                 | Opina que la gestión de reservas es funcional, aunque quisiera ver más opciones como ver un calendario con las citas registradas pendientes                                                                            |
 | Recepción de reviews                | Menciona que le gusta la opción de reseñas, pero preferiría que solo algunas fueran visibles y que se pudiera responde                                                                                                               |
 | Navegación general                  | Navegar es sencillo, pero menciona que le gustaría que fuera más rápido y con menos pasos entre secciones |
 
-| Entrevista 2: Mypes o emprendedores    |                                                                                                                         |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Nombre Entrevistado**                | Flavio Gallardo                                                                                                               |
-| **Edad**                               | 20 Años                                                                                                                |
-| **Profesión**                          | Dueño de centro de belleza independiente                                                                                           |
-| **Departamento**                       | Lima, Perú                                                                                                             |
-| **Duración de la Entrevista**          | 29:11 min                                                                                                              |
-| Captura de la entrevista         |      <img src="resources/chapter-5/capturaEFlavio.png">                                                                                                                      |
-| **Visualización de Perfil**            | El perfil es claro, pero Flavio desearía que fuera más dinámico y visual para atraer mejor la atención de los clientes. |
-| **Manejo de servicios**                | La creación de servicios le resulta fácil, aunque le gustaría más opciones de personalización, como intervalos de tiempo predefinidos. |
-| **Gestión de reservas**                | Encuentra funcional la gestión de reservas, pero preferiría tener un calendario visual con todas las citas pendientes para facilitar el seguimiento. |
-| **Recepción de reviews**               | Le agrada la opción de recibir reseñas, pero preferiría que solo algunas fueran visibles y que pudiera responder a ellas para interactuar con sus clientes. |
-| **Navegación general**                 | La navegación es sencilla, aunque le gustaría que fuera más rápida y con menos pasos entre secciones. |
+| Entrevista 2: Mypes o emprendedores |                                                                                                                         |
+|------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**            | Flavio Gallardo                                                                                                               |
+| **Edad**                           | 20 Años                                                                                                                |
+| **Profesión**                      | Dueño de centro de belleza independiente                                                                                           |
+| **Departamento**                   | Lima, Perú                                                                                                             |
+| **Minuto de inicio**               | 29:11 min                                                                                                              |
+| Captura de la entrevista           |      <img src="resources/chapter-5/capturaEFlavio.png">                                                                                                                      |
+| **Visualización de Perfil**        | El perfil es claro, pero Flavio desearía que fuera más dinámico y visual para atraer mejor la atención de los clientes. |
+| **Manejo de servicios**            | La creación de servicios le resulta fácil, aunque le gustaría más opciones de personalización, como intervalos de tiempo predefinidos. |
+| **Gestión de reservas**            | Encuentra funcional la gestión de reservas, pero preferiría tener un calendario visual con todas las citas pendientes para facilitar el seguimiento. |
+| **Recepción de reviews**           | Le agrada la opción de recibir reseñas, pero preferiría que solo algunas fueran visibles y que pudiera responder a ellas para interactuar con sus clientes. |
+| **Navegación general**             | La navegación es sencilla, aunque le gustaría que fuera más rápida y con menos pasos entre secciones. |
 
 
-| Entrevista 3: Mypes o emprendedores    |                                                                                                                         |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Nombre Entrevistado**                | Juan Esteban                                                                                                              |
-| **Edad**                               | 20 Años                                                                                                                |
-| **Profesión**                          | Dueño de centro de belleza independiente                                                                                              |
-| **Departamento**                       | Lima, Perú                                                                                                         |
-| **Duración de la Entrevista**          | 31:41 min                                                                                                              |
-| Captura de la entrevista          |      <img src="resources/chapter-5/capturaEJuan.png">                                                                                                                      |
-| **Visualización de Perfil**            | Considera que el perfil es claro y fácil de leer, aunque cree que añadir una breve descripción o imagen destacada junto a cada servicio lo haría más atractivo. |
-| **Manejo de servicios**                | Encuentra sencillo el proceso de crear servicios, pero preferiría poder hacer cambios rápidos desde la lista general, sin necesidad de editar cada servicio por separado. |
-| **Gestión de reservas**                | Comenta que la gestión de reservas es práctica, aunque le gustaría tener un tablero de control que muestre un resumen de las reservas activas. |
-| **Recepción de reviews**               | Le gusta la opción de recibir reseñas, pero sugiere incluir una opción de organización por fecha o relevancia para facilitar la visualización. |
-| **Navegación general**                 | Menciona que la navegación es intuitiva, pero sugiere que un tablero con funciones clave reduciría la necesidad de tantos pasos entre secciones. |
+| Entrevista 3: Mypes o emprendedores |                                                                                                                         |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**             | Juan Esteban                                                                                                              |
+| **Edad**                            | 20 Años                                                                                                                |
+| **Profesión**                       | Dueño de centro de belleza independiente                                                                                              |
+| **Departamento**                    | Lima, Perú                                                                                                         |
+| **Minuto de incio**                     | 31:41 min                                                                                                              |
+| Captura de la entrevista            |      <img src="resources/chapter-5/capturaEJuan.png">                                                                                                                      |
+| **Visualización de Perfil**         | Considera que el perfil es claro y fácil de leer, aunque cree que añadir una breve descripción o imagen destacada junto a cada servicio lo haría más atractivo. |
+| **Manejo de servicios**             | Encuentra sencillo el proceso de crear servicios, pero preferiría poder hacer cambios rápidos desde la lista general, sin necesidad de editar cada servicio por separado. |
+| **Gestión de reservas**             | Comenta que la gestión de reservas es práctica, aunque le gustaría tener un tablero de control que muestre un resumen de las reservas activas. |
+| **Recepción de reviews**            | Le gusta la opción de recibir reseñas, pero sugiere incluir una opción de organización por fecha o relevancia para facilitar la visualización. |
+| **Navegación general**              | Menciona que la navegación es intuitiva, pero sugiere que un tablero con funciones clave reduciría la necesidad de tantos pasos entre secciones. |
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
