@@ -41,31 +41,6 @@
 
 TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend.
 
-Vista de commits: Landing page:
-
-![landing-pulse](resources/landingpulse.png)
-![landing-contributors](resources/landingcontributors.png)
-![landing-network](resources/landingnetwork.png)
-
-- Juan Diego Astonitas Díaz: -
-- Gabriel Alexander Casas Sanchez: 6
-- Gianluca Santino Pasquale Barrenechea: -
-- Elvia Marcela Rodriguez Villa: 7
-
-
-Web Application Frontend:
-
-![front-pulse](resources/frontpulse.png)
-![front-contributors](resources/frontcontributors.png)
-![front-network](resources/frontnetwork.png)
-
-- Juan Diego Astonitas Díaz: 31
-- Gabriel Alexander Casas Sanchez: 30
-- Gianluca Santino Pasquale Barrenechea: 9
-- Godofredo Quispe Tipo -
-- Elvia Marcela Rodriguez Villa: -
-
-
 Report: 
 
 ![report-pulse](resources/reportpulse.png)
@@ -75,30 +50,19 @@ Report:
 - Juan Diego Astonitas Díaz: 38
 - Gabriel Alexander Casas Sanchez: 52
 - Gianluca Santino Pasquale Barrenechea: 30
-- Godofredo Quispe Tipo: 
+- Godofredo Quispe Tipo:
 - Elvia Marcela Rodriguez Villa: 26
 
 TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/NRG3-appweb/backend.
 
-**Vista de commits Frontend:**
-<img src="resources/sprint-3/front-1.png">
-<img src="resources/sprint-3/front-2.png">
+**Vista de commits del reporte:**
+<img src="resources/sprint-3/report.png">
 
-- Juan Diego Astonitas Díaz: 47 commits.
-- Gabriel Alexander Casas Sanchez: 21 commits.
-- Gianluca Santino Pasquale Barrenechea: 88 commits.
-- Godofredo Quispe Tipo: 41 commits.
-- Elvia Marcela Rodriguez Villa: 26 commits.
-
-**Vista de commits Backend:**
-<img src="resources/sprint-3/back-1.png">
-<img src="resources/sprint-3/back-2.png">
-
-- Juan Diego Astonitas Díaz: 70commits.
-- Gabriel Alexander Casas Sanchez: 40 commits.
-- Gianluca Santino Pasquale Barrenechea: 20 commits.
-- Godofredo Quispe Tipo: 26 commits.
-- Elvia Marcela Rodriguez Villa: 34 commits.
+- Juan Diego Astonitas Díaz: 25
+- Gabriel Alexander Casas Sanchez: 12
+- Gianluca Santino Pasquale Barrenechea: 25
+- Godofredo Quispe Tipo: 4
+- Elvia Marcela Rodriguez Villa: 4
 
 ### Repartición de tareas:
 
