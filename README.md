@@ -3087,6 +3087,7 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 ##### 5.2.3.3. Development Evidence for Sprint Review.
 
 *Commits realizados en el repositorio de frontend durante el sprint 3:*
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 <table>
   <tr>
     <td colspan="1">Repository</td>
@@ -3355,6 +3356,7 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 </table>
 
 **Commits realizados en el repositorio de backend durante el sprint 3:**
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
 
 <table>
   <tr>
