@@ -1905,6 +1905,8 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 
 ##### 5.2.1.2. Sprint Backlog 1
 
+El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que se muestra a continuación, define las tareas específicas que el equipo se comprometió a completar en la primera iteración.
+
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
