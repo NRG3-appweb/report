@@ -2222,6 +2222,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
  US005             | Búsqueda de servicios          | TS014                   | Programar endpoint en RESTful API                      | Desarrollar el endpoint que permita la búsqueda de servicios aplicando filtros.     | 3                        | done       |
 
 ##### 5.2.2.3. Development Evidence for Sprint Review.
+A continuación se presenta un detalle de los commits realizados en el frontend durante el sprint, evidenciando el progreso realizado en el desarrollo de las funcionalidades planificadas.
 
 **Tabla de commits del Frontend**
 
