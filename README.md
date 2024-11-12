@@ -1326,6 +1326,8 @@ El presente user flow corresponde con la creación de servicio, en el cual la em
 
 #### 4.4.3. Web Applications Mock-ups
 
+A continuación, presentaremos las maquetas de aplicaciones web, las cuales son representaciones visuales de cómo se verá y funcionará una aplicación web. Estas maquetas son esenciales para comunicar el diseño a los desarrolladores y a los clientes.
+
 ![Schedule Mockup 1](resources/chapter_4/mockup/desktop-Schedule-1.png)
 ![Schedule Mockup](resources/chapter_4/mockup/desktop-Schedule.png)
 ![Register Version Mockup](resources/chapter_4/mockup/desktop-register-version.png)
