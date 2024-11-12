@@ -951,6 +951,8 @@ Esta sección introduce el As-Is Scenario Mapping para las MYPES del Sector de B
 
 ### 2.4. Ubiquitous Language
 
+El siguiente glosario detalla los términos esenciales del Lenguaje Ubiquo que utilizamos en este proyecto. Este lenguaje común nos permite alinear nuestras conversaciones y asegurar que todos estemos trabajando con una misma comprensión del dominio del problema.
+
 | Término (Inglés)            | Término (Español)         | Definición                                                                                                                                                                                     |
 |-----------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Client**                  | Cliente                   | Persona que utiliza los servicios de cuidado y belleza ofrecidos por el salón. El cliente puede reservar citas, pedir servicios personalizados y proporcionar feedback.                        |
