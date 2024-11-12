@@ -2812,6 +2812,7 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 </table>
 
 ##### 5.2.3.2. Sprint Backlog 3.
+A continuación, se presenta un desglose detallado de las user stories implementadas durante el Sprint 3. Esta tabla muestra el progreso de cada historia, incluyendo su estado actual, las evidencias de su finalización y cualquier observación relevante.
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
