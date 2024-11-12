@@ -1850,6 +1850,9 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
+
+A continuación se detalla el proceso de planificación llevado a cabo para el Sprint 1.
+
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
