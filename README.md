@@ -1386,9 +1386,13 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 
+A continuación, presentaremos los diagramas de clases, los cuales son una representación gráfica de las clases y objetos que conforman a Bliss. Estos diagramas son esenciales para comprender la estructura de Bliss.
+
 <img src="resources/chapter_4/uml-diagram-class.PNG"/>
 
 #### 4.7.2. Class Dictionary
+
+En esta sección exploraremos el diccionario de clases, un complemento esencial de los diagramas de clases. Este diccionario proporciona una descripción detallada de cada clase identificada en el diagrama, incluyendo sus atributos, métodos y relaciones con otras clases.
 
 <table>
   <tr>
