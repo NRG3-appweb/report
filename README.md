@@ -4440,7 +4440,7 @@ Dentro del repositorio, en el apartado de settings , se encuentra la opcion de P
 Escogemos la opcion de hacer el deploy a través de una rama.
 ![landingdeployment2](resources/chapter-5/landing-deploy-2.png)
 
-Escogemos la rama de develop (para futuros cambios)
+Escogemos la rama main.
 
 ![landingdeployment3](resources/chapter-5/landing-deploy-3.png)
 
