@@ -3992,6 +3992,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. A través de imágenes y un video demostrativo, podrás apreciar los resultados concretos de nuestro trabajo y comprender mejor cómo hemos dado forma a las funcionalidades del producto.
 ![execution_landing1](resources/chapter-5/landing1.png)
 ![execution_landing2](resources/chapter-5/landing2.png)
 ![execution_landing3](resources/chapter-5/landing3.png)
