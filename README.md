@@ -2194,6 +2194,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
 #### 5.2.2. Sprint 2
 
 ##### 5.2.2.1.Sprint Planning 2.
+
 | **Sección**                        | **Contenido**                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Sprint 2**                       | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -2208,6 +2209,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
 | **Sprint Goal & User Stories**     | **Sprint 2 Goal**: El objetivo del Sprint 2 es mejorar la experiencia del usuario en la landing page y en la gestión de servicios, implementando funcionalidades clave que permitan a las empresas crear y gestionar sus servicios de manera más eficiente. La métrica de cumplimiento se establecerá mediante la finalización de al menos el 80% de las tareas planificadas.<br>**Sprint 2 Velocity**: El equipo acepta un total de 25 **Story Points** para el Sprint 2. |
 
 ##### 5.2.2.2.Sprint Backlog 2.
+A continuación, se presenta el detalle de las tareas que conformaron el Sprint Backlog 2. Esta tabla muestra las historias de usuario, tareas y estimaciones que guiaron el trabajo del equipo durante este período
 
  **User Story ID** | **User Story**                 | **Work-Item / Task ID** | **Work-Item / Task Title**                             | **Description**                                                                     | **Estimation (Hours)**  | **Status** |
  ----------------- | ------------------------------ | ----------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------   |------------|
