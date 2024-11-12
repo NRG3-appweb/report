@@ -1631,6 +1631,8 @@ Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 
+A continuación, presentaremos el diagrama de base de datos, una herramienta fundamental para el diseño y la comprensión de bases de datos relacionales. Este diagrama nos permitirá visualizar las entidades, atributos y relaciones que conforman nuestra base de datos.
+
 ![Database](resources/chapter_4/bliss-data-base.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
