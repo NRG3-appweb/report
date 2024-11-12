@@ -2008,6 +2008,8 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 
+A continuación se presenta una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia demuestra el progreso realizado en el desarrollo y refinamiento de la página de aterrizaje.
+
 **Tabla de commits de la landing-page**
 <table>
   <tr>
