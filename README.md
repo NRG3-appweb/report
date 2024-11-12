@@ -1064,6 +1064,8 @@ En esta sección se presenta el Impact Mapping para el modelo de negocio digital
 ![Impact Mapping NRG](https://github.com/user-attachments/assets/f5541286-c392-4af6-bbff-0c727d5be726)
 
 ### 3.4. Product Backlog
+A continuación, presentaremos el product backlog, el cual es el corazón de cualquier proyecto ágil. Este backlog es una lista dinámica y ordenada que contiene todas las tareas necesarias para desarrollar el producto.
+
 ![Product-Backlog NRG](https://github.com/user-attachments/assets/c824fc5a-35c4-49c3-9374-cba937ea80af)
 
 =======
