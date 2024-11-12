@@ -2752,6 +2752,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 
 #### 5.2.3. Sprint 3
 ##### 5.2.3.1. Spring Planning 3.
+Para este Sprint 3, se siguió trabajando con Trello como nuestra herramienta de gestión de proyectos para visualizar de manera clara y concisa el trabajo a realizar. Cada tarjeta en nuestro tablero representará una tarea específica, y las columnas indicarán su estado. Esto nos permitirá tener una visión global del avance del proyecto y facilitará la colaboración entre el equipo.
 
 Sprint board en trello:
 <img src="resources/sprint-3/trello-ss.png">
