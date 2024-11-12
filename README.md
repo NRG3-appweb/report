@@ -4421,14 +4421,6 @@ Para este sprint se logró documentar 21 endpoints repartidos en 5 controladores
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
-**Diseño**
-Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
-* Para el uso de figma, primero es necesario crear tu propia cuenta, para esto se deberá ingresar al página oficial de figma (https://www.figma.com/) y registrarse.
-<img src="resources/chapter-5/figma-acc-setup-1.png">
-<img src="resources/chapter-5/figma-acc-setup-2.png">
-
-* Una vez se tiene la cuenta, se debe crear un draft en el que se trabajan los diseños de manera colaborativa.
-  <img src="resources/chapter-5/figma-draft-setup-1.png">
 
 **Landing Page**
 Para hacer el deployment de la landing page se utilizó Github Pages,
@@ -4440,7 +4432,7 @@ Dentro del repositorio, en el apartado de settings , se encuentra la opcion de P
 Escogemos la opcion de hacer el deploy a través de una rama.
 ![landingdeployment2](resources/chapter-5/landing-deploy-2.png)
 
-Escogemos la rama de develop (para futuros cambios)
+Escogemos la rama main.
 
 ![landingdeployment3](resources/chapter-5/landing-deploy-3.png)
 
