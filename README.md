@@ -25,14 +25,17 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                             | Descripción de modificación           |
-|---------|------------|-------------------------------------------------------------------|---------------------------------------|
-| 0.1     | 28/08/2024 | Juan Astonitas                                                    | Desarrollo Capitulo 1 y seccion 2.1   |
-| 0.2     | 29/08/2024 | Gianuca Pasquale                                                  | Desarrollo Cuadros del capitulo 2 y 3 |
-| 0.3     | 29/08/2024 | Elvia Rodríguez, Gabriel Casas , Juan Astonitas                   | Desarrollo Capitulo 4                 |
-| 1       | 07/09/2024 | Todos los integrantes                                             | Entregas TB1                          |
-| 1.1     | 27/09/2024 | Elvia Elvia, Gianluca Pasquale                                    | Correciones TB1                       |
-| 2       | 27/09/2024 | Elvia Rodríguez, Gianluca Pasquale, Juan Astonitas, Gabriel Casas | Entrega TP                            |
+| Versión | Fecha      | Autor                                                                                | Descripción de modificación          |
+|---------|------------|--------------------------------------------------------------------------------------|--------------------------------------|
+| 0.1     | 28/08/2024 | Juan Astonitas                                                                       | Desarollo Capitulo 1 y seccion 2.1   |
+| 0.2     | 29/08/2024 | Gialuca Pasquale                                                                     | Desarollo del capitulo 2 y 3         |
+| 0.3     | 29/08/2024 | Elvia Rodrigrez, Gabriel Casas, Juan Astonitas                                       | Desarollo Capitulo 4                 |
+| 1       | 07/09/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas, Sebastian Carbajal | Entregas TB1                         |
+| 1.1     | 27/09/2024 | Elvia Elvia, Gialuca Pasquale                                                        | Correciones TB1                      |
+| 2       | 27/09/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas                     | Entrega TP                           |
+| 2.1     | 23/10/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas, Godofredo Quispe   | Correciones TP                       |
+| 2.2     | 26/10/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas, Godofredo Quispe   | Desarollo del sprint 3               |
+| 3.0     | 02/11/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas, Godofredo Quispe   | Entrega TB2                          |
 
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |                URL del repositorio del reporte                |
@@ -40,31 +43,6 @@
 |   https://github.com/SI729-Bliss    | https://github.com/NRG3-appweb/report |
 
 TP1: Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend.
-
-Vista de commits: Landing page:
-
-![landing-pulse](resources/landingpulse.png)
-![landing-contributors](resources/landingcontributors.png)
-![landing-network](resources/landingnetwork.png)
-
-- Juan Diego Astonitas Díaz: -
-- Gabriel Alexander Casas Sanchez: 6
-- Gianluca Santino Pasquale Barrenechea: -
-- Elvia Marcela Rodriguez Villa: 7
-
-
-Web Application Frontend:
-
-![front-pulse](resources/frontpulse.png)
-![front-contributors](resources/frontcontributors.png)
-![front-network](resources/frontnetwork.png)
-
-- Juan Diego Astonitas Díaz: 31
-- Gabriel Alexander Casas Sanchez: 30
-- Gianluca Santino Pasquale Barrenechea: 9
-- Godofredo Quispe Tipo -
-- Elvia Marcela Rodriguez Villa: -
-
 
 Report: 
 
@@ -75,30 +53,19 @@ Report:
 - Juan Diego Astonitas Díaz: 38
 - Gabriel Alexander Casas Sanchez: 52
 - Gianluca Santino Pasquale Barrenechea: 30
-- Godofredo Quispe Tipo: 
+- Godofredo Quispe Tipo:
 - Elvia Marcela Rodriguez Villa: 26
 
 TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/NRG3-appweb/backend.
 
-**Vista de commits Frontend:**
-<img src="resources/sprint-3/front-1.png">
-<img src="resources/sprint-3/front-2.png">
+**Vista de commits del reporte:**
+<img src="resources/sprint-3/report.png">
 
-- Juan Diego Astonitas Díaz: 47 commits.
-- Gabriel Alexander Casas Sanchez: 21 commits.
-- Gianluca Santino Pasquale Barrenechea: 88 commits.
-- Godofredo Quispe Tipo: 41 commits.
-- Elvia Marcela Rodriguez Villa: 26 commits.
-
-**Vista de commits Backend:**
-<img src="resources/sprint-3/back-1.png">
-<img src="resources/sprint-3/back-2.png">
-
-- Juan Diego Astonitas Díaz: 70commits.
-- Gabriel Alexander Casas Sanchez: 40 commits.
-- Gianluca Santino Pasquale Barrenechea: 20 commits.
-- Godofredo Quispe Tipo: 26 commits.
-- Elvia Marcela Rodriguez Villa: 34 commits.
+- Juan Diego Astonitas Díaz: 25
+- Gabriel Alexander Casas Sanchez: 12
+- Gianluca Santino Pasquale Barrenechea: 25
+- Godofredo Quispe Tipo: 4
+- Elvia Marcela Rodriguez Villa: 4
 
 ### Repartición de tareas:
 
@@ -984,6 +951,8 @@ Esta sección introduce el As-Is Scenario Mapping para las MYPES del Sector de B
 
 ### 2.4. Ubiquitous Language
 
+El siguiente glosario detalla los términos esenciales del Lenguaje Ubiquo que utilizamos en este proyecto. Este lenguaje común nos permite alinear nuestras conversaciones y asegurar que todos estemos trabajando con una misma comprensión del dominio del problema.
+
 | Término (Inglés)            | Término (Español)         | Definición                                                                                                                                                                                     |
 |-----------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Client**                  | Cliente                   | Persona que utiliza los servicios de cuidado y belleza ofrecidos por el salón. El cliente puede reservar citas, pedir servicios personalizados y proporcionar feedback.                        |
@@ -1097,6 +1066,8 @@ En esta sección se presenta el Impact Mapping para el modelo de negocio digital
 ![Impact Mapping NRG](https://github.com/user-attachments/assets/f5541286-c392-4af6-bbff-0c727d5be726)
 
 ### 3.4. Product Backlog
+A continuación, presentaremos el product backlog, el cual es el corazón de cualquier proyecto ágil. Este backlog es una lista dinámica y ordenada que contiene todas las tareas necesarias para desarrollar el producto.
+
 ![Product-Backlog NRG](https://github.com/user-attachments/assets/c824fc5a-35c4-49c3-9374-cba937ea80af)
 
 =======
@@ -1360,7 +1331,10 @@ El presente user flow corresponde con la creación de servicio, en el cual la em
 ![Creación de Servicio](resources/chapter_4/userflow/Creación%20de%20servicio.png)
 
 #### 4.4.3. Web Applications Mock-ups
+
 En esta sección se presentan y explican los Mock-ups de las aplicaciones. Se evidencia la aplicación de los principios y elementos de diseño, el diseño inclusivo, la arquitectura de información y el Design System establecido para los productos digitales. Cada mock-up ilustra cómo se implementan estos conceptos en la interfaz de usuario.
+A continuación, presentaremos las maquetas de aplicaciones web, las cuales son representaciones visuales de cómo se verá y funcionará una aplicación web. Estas maquetas son esenciales para comunicar el diseño a los desarrolladores y a los clientes.
+
 ![Schedule Mockup 1](resources/chapter_4/mockup/desktop-Schedule-1.png)
 ![Schedule Mockup](resources/chapter_4/mockup/desktop-Schedule.png)
 ![Register Version Mockup](resources/chapter_4/mockup/desktop-register-version.png)
@@ -1426,10 +1400,14 @@ En esta sección se presenta el diseño de software orientado a objetos para Bli
 #### 4.7.1. Class Diagrams
 El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
 
+A continuación, presentaremos los diagramas de clases, los cuales son una representación gráfica de las clases y objetos que conforman a Bliss. Estos diagramas son esenciales para comprender la estructura de Bliss.
+
 <img src="resources/chapter_4/uml-diagram-class.PNG"/>
 
 #### 4.7.2. Class Dictionary
 El diccionario de clases detalla los atributos de cada clase, proporcionando una descripción y el tipo de dato correspondiente. Este diccionario es esencial para entender la estructura y la funcionalidad de cada entidad dentro del sistema.
+
+En esta sección exploraremos el diccionario de clases, un complemento esencial de los diagramas de clases. Este diccionario proporciona una descripción detallada de cada clase identificada en el diagrama, incluyendo sus atributos, métodos y relaciones con otras clases.
 
 <table>
   <tr>
@@ -1675,6 +1653,8 @@ En esta sección se presenta el diseño de la base de datos para Bliss. Se inclu
 #### 4.8.1. Database Diagram
 El diagrama de la base de datos proporciona una representación visual de las tablas, sus atributos y las relaciones entre ellas, facilitando la comprensión de la organización y la integridad de los datos en el sistema.
 
+A continuación, presentaremos el diagrama de base de datos, una herramienta fundamental para el diseño y la comprensión de bases de datos relacionales. Este diagrama nos permitirá visualizar las entidades, atributos y relaciones que conforman nuestra base de datos.
+
 ![Database](resources/chapter_4/bliss-data-base.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
@@ -1911,7 +1891,10 @@ En esta sección se explica y evidencia el proceso de implementación, pruebas, 
 #### 5.2.1. Sprint 1
 En esta sección se detallan los resultados del primer sprint de desarrollo del proyecto, incluyendo el Sprint Planning, Sprint Backlog, Sprint Review y Sprint Retrospective.
 ##### 5.2.1.1. Sprint Planning 1
+
 En este item se detalla el Sprint Planning del primer sprint de desarrollo del proyecto, incluyendo la fecha, hora, ubicación, preparado por, asistentes, objetivo del sprint y user stories.
+A continuación se detalla el proceso de planificación llevado a cabo para el Sprint 1.
+
 <table>
   <tr>
     <td colspan="1"><strong>Sprint #</strong></td>
@@ -1967,6 +1950,8 @@ En este item se detalla el Sprint Planning del primer sprint de desarrollo del p
 
 ##### 5.2.1.2. Sprint Backlog 1
 En este item se detalla el Sprint Backlog del primer sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
+
+El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que se muestra a continuación, define las tareas específicas que el equipo se comprometió a completar en la primera iteración.
 
 <table>
   <tr>
@@ -2071,6 +2056,8 @@ En este item se detalla el Sprint Backlog del primer sprint de desarrollo del pr
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 En esta sección se presentan las evidencias del desarrollo de la Landing Page de Bliss durante el primer sprint de desarrollo.
+
+A continuación se presenta una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia demuestra el progreso realizado en el desarrollo y refinamiento de la página de aterrizaje.
 
 **Tabla de commits de la landing-page**
 <table>
@@ -2259,7 +2246,10 @@ Para este sprint se dividieron las tareas en diseño e implementación de la lan
 En esta sección se detallan los resultados del segundo sprint de desarrollo del proyecto, incluyendo el Sprint Planning, Sprint Backlog, Sprint Review y Sprint Retrospective.
 
 ##### 5.2.2.1.Sprint Planning 2.
+
 En este item se detalla el Sprint Planning del segundo sprint de desarrollo del proyecto, incluyendo la fecha, hora, ubicación, preparado por, asistentes, objetivo del sprint y user stories.
+A continuación se detalla el proceso de planificación llevado a cabo para el Sprint 2.
+
 
 | **Sección**                        | **Contenido**                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2275,8 +2265,9 @@ En este item se detalla el Sprint Planning del segundo sprint de desarrollo del 
 | **Sprint Goal & User Stories**     | **Sprint 2 Goal**: El objetivo del Sprint 2 es mejorar la experiencia del usuario en la landing page y en la gestión de servicios, implementando funcionalidades clave que permitan a las empresas crear y gestionar sus servicios de manera más eficiente. La métrica de cumplimiento se establecerá mediante la finalización de al menos el 80% de las tareas planificadas.<br>**Sprint 2 Velocity**: El equipo acepta un total de 25 **Story Points** para el Sprint 2. |
 
 ##### 5.2.2.2.Sprint Backlog 2.
-En este item se detalla el Sprint Backlog del segundo sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
 
+En este item se detalla el Sprint Backlog del segundo sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
+A continuación, se presenta el detalle de las tareas que conformaron el Sprint Backlog 2. Esta tabla muestra las historias de usuario, tareas y estimaciones que guiaron el trabajo del equipo durante este período
 
  **User Story ID** | **User Story**                 | **Work-Item / Task ID** | **Work-Item / Task Title**                             | **Description**                                                                     | **Estimation (Hours)**  | **Status** |
  ----------------- | ------------------------------ | ----------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------   |------------|
@@ -2291,7 +2282,10 @@ En este item se detalla el Sprint Backlog del segundo sprint de desarrollo del p
  US005             | Búsqueda de servicios          | TS014                   | Programar endpoint en RESTful API                      | Desarrollar el endpoint que permita la búsqueda de servicios aplicando filtros.     | 3                        | done       |
 
 ##### 5.2.2.3. Development Evidence for Sprint Review.
+
 En esta sección se presentan las evidencias de desarrollo del Frontend de Bliss durante el segundo sprint de desarrollo.
+A continuación se presenta un detalle de los commits realizados en el frontend durante el sprint, evidenciando el progreso realizado en el desarrollo de las funcionalidades planificadas.
+
 
 **Tabla de commits del Frontend**
 
@@ -2823,6 +2817,7 @@ Para este sprint se dividieron las tareas en diseño e implementación de la pri
 #### 5.2.3. Sprint 3
 En esta sección se presenta el reporte del sprint 3, el cual se enfocó en el desarrollo del Backend, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
 ##### 5.2.3.1. Spring Planning 3.
+Para este Sprint 3, se siguió trabajando con Trello como nuestra herramienta de gestión de proyectos para visualizar de manera clara y concisa el trabajo a realizar. Cada tarjeta en nuestro tablero representará una tarea específica, y las columnas indicarán su estado. Esto nos permitirá tener una visión global del avance del proyecto y facilitará la colaboración entre el equipo.
 
 En este sprint se planteó el desarrollo de la primera versión del backend de la aplicación web, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
 
@@ -2887,6 +2882,7 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
 ##### 5.2.3.2. Sprint Backlog 3.
 
 En este item se detalla el Sprint Backlog del tercer sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
+A continuación, se presenta un desglose detallado de las user stories implementadas durante el Sprint 3. Esta tabla muestra el progreso de cada historia, incluyendo su estado actual, las evidencias de su finalización y cualquier observación relevante.
 
 <table>
   <tr>
@@ -3168,6 +3164,7 @@ En este item se detalla el Sprint Backlog del tercer sprint de desarrollo del pr
 En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
 
 *Commits realizados en el repositorio de frontend durante el sprint 3:*
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 <table>
   <tr>
     <td colspan="1">Repository</td>
@@ -3436,6 +3433,7 @@ En esta sección se presentan los commits realizados en el repositorio de backen
 </table>
 
 **Commits realizados en el repositorio de backend durante el sprint 3:**
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
 
 <table>
   <tr>
@@ -3996,6 +3994,8 @@ En esta sección se presentan los commits realizados en el repositorio de backen
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 En esta sección se presentan los resultados de la ejecución de la suite de pruebas para el sprint 3.
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados en las pruebas de la lógica de negocio. Cada entrada incluye el identificador único del commit (ID) y una descripción concisa del cambio realizado.
+
 
 <table>
   <tr>
@@ -4070,6 +4070,7 @@ En esta sección se presentan los resultados de la ejecución de la suite de pru
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. A través de imágenes y un video demostrativo, podrás apreciar los resultados concretos de nuestro trabajo y comprender mejor cómo hemos dado forma a las funcionalidades del producto.
 
 ![execution_landing1](resources/chapter-5/landing1.png)
 ![execution_landing2](resources/chapter-5/landing2.png)
@@ -4519,26 +4520,17 @@ Se muestra la documentación de los servicios del controlador de servicios.
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
-**Diseño**
-Para realizar este apartado del sprint se usó uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
-* Para el uso de figma, primero es necesario crear tu propia cuenta, para esto se deberá ingresar al página oficial de figma (https://www.figma.com/) y registrarse.
-<img src="resources/chapter-5/figma-acc-setup-1.png">
-<img src="resources/chapter-5/figma-acc-setup-2.png">
-
-* Una vez se tiene la cuenta, se debe crear un draft en el que se trabajan los diseños de manera colaborativa.
-  <img src="resources/chapter-5/figma-draft-setup-1.png">
 
 **Landing Page**
-Para hacer el deployment de la landing page se utilizó Github Pages,
-una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública.
-Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
+Para hacer el deployment de la landing page se utilizó Github Pages, una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública. Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
+Enlace de la landing page: <a href="https://nrg3-appweb.github.io/Landing-Page/">https://nrg3-appweb.github.io/Landing-Page/</a>
 
 ![landingdeployment1](resources/chapter-5/landing-deploy-1.png)
 
 Escogemos la opcion de hacer el deploy a través de una rama.
 ![landingdeployment2](resources/chapter-5/landing-deploy-2.png)
 
-Escogemos la rama de develop (para futuros cambios)
+Escogemos la rama main.
 
 ![landingdeployment3](resources/chapter-5/landing-deploy-3.png)
 
@@ -4661,7 +4653,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                                              | Estudiante de Arquitectura                                                                                                      |
 | Departamento                                           | Lima, Perú                                                                                                                      |
 | Duración de la Entrevista                              | 15:02 min                                                                                                                       |
-| **Análisis de la Entrevista**                          |                                                                                                                                 |
+| Captura de la entrevista                          |     <img src="resources/chapter-5/capturaEKarol.png">                                                                                                                            |
 | Búsqueda de servicio                                   | Comenta que el flujo es intuitivo y fácil,sin embargo incluiría un filtro de servicios más específico por tipo.                 |
 | Visualización de información del servicio              | Prefiere  más imágenes de referencia  e información extra como el especialista y  reviews relacionadas.                         |
 | Reservar un servicio                                   | Comenta que las indicaciones son claras e intuitivas, sin embargo, el mensaje de ver más al seleccionar un review le es confuso |
@@ -4669,33 +4661,33 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Historial y reseña                                     | Comenta que el acceso es intuitivo sin embargo le gustarían más mensajes de confirmación por cada acción.                       |
 | Navegación general                                     | El toolbar le pareció muy útil y no hace más comentarios al respecto                                                            |
 
-| Entrevista 2: Usuario se servicios de belleza y cuidado |                                                                                                                                                       |
-|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                    | Carlos Villa Cayetano                                                                                                                                 |
-| Edad                                                   | 20 Años                                                                                                                                               |
-| Profesión                                              | Estudiante de contabilidad                                                                                                                            |
-| Departamento                                           | Lima, Perú                                                                                                                                            |
-| Duración de la Entrevista                              | 8:09 min                                                                                                                                              |
-| **Análisis de la Entrevista**                          |                                                                                                                                                       |
-| Búsqueda de servicio                                   | Comenta no haber tenido inconvenientes, pero preferiría quelos filtros ocupen menos espacio en pantalla                                               |
-| Visualización de información del servicio              | Comenta que el dialog es muy grande y que preferiría una imagen más oportuna.                                                                         |
-| Reservar un servicio                                   | Aprecia los mensajes de confirmación pero agradecería visualizar el nombre y un logo distintivo de la compañia.                                       |
-| Confirmación y agenda de citas pendientes              | Comenta no tener inconvenientes en la visualización de su agenda y menciona que el poder eliminarla sin restricción alguna podría no ser conveniente. |
-| Historial y reseña                                     | Preferiría otro título para la sección y menciona que poder arrastrar la imagen hacia la sección de reviews facilitaría el proceso                    |
-| Navegación general                                     | Aprecia mucho la facilidad de uso de la toolbar, sin embargo comenta preferir un sidebar para mayor comodidad de navegación vertical                  |
+| Entrevista 2: Usuario se servicios de belleza y cuidado |                                                                                                                                                      |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                    | Carlos Villa Cayetano                                                                                                                                |
+| Edad                                                   | 20 Años                                                                                                                                              |
+| Profesión                                              | Estudiante de contabilidad                                                                                                                           |
+| Departamento                                           | Lima, Perú                                                                                                                                           |
+| Duración de la Entrevista                              | 8:09 min                                                                                                                                             |
+| Captura de la entrevista                         |      <img src="resources/chapter-5/capturaECarlos.png">                                                                                                                                                   |
+| Búsqueda de servicio                                   | Comenta no haber tenido inconvenientes, pero preferiría quelos filtros ocupen menos espacio en pantalla                                              |
+| Visualización de información del servicio              | Comenta que el dialog es muy grande y que preferiría una imagen más oportuna.                                                                        |
+| Reservar un servicio                                   | Aprecia los mensajes de confirmación pero agradecería visualizar el nombre y un logo distintivo de la compañia.                                      |
+| Confirmación y agenda de citas pendientes              | Comenta no tener inconvenientes en la visualización de su agenda y menciona que el poder elminarla sin restricción alguna podría no ser conveniente. |
+| Historial y reseña                                     | Preferiría otro título para la sección y menciona que poder arrastrar la imagen hacia la sección de reviews facilitaría el proceso                   |
+| Navegación general                                     | Aprecia mucho la facilidad de uso de la toolbar, sin embargo comenta preferir un sidebar para mayor comodidad de navegación vertical                 |
 
-| Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                                               |
-|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                    | Aldo Vasquez                                                                                                                                  |
-| Edad                                                   | 20 Años                                                                                                                                       |
-| Profesión                                              | Estudiante de Ingeniería Ambiental                                                                                                            |
-| Departamento                                           | Lima, Perú                                                                                                                                    |
-| Duración de la Entrevista                              | 03:44 min                                                                                                                                     |
-| **Análisis de la Entrevista**                          |                                                                                                                                               |
-| Búsqueda de servicio                                   | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos.             |
-| Visualización de información del servicio              | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente.               |
-| Reservar un servicio                                   | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo.                                    |
-| Confirmación y agenda de citas pendientes              | Valora la retroalimentación del sistema, especialmente la confirmación inmediata y los recordatorios previos a cada cita.                     |
+| Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                               |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                    | Aldo Vasquez                                                                                                  |
+| Edad                                                   | 20 Años                                                                                                                       |
+| Profesión                                              | Estudiante de Ingeniería Ambiental                                                                                                    |
+| Departamento                                           | Lima, Perú                                                                                                                    |
+| Duración de la Entrevista                              | 00:00 min                                                                                                                     |
+| Captura de la entrevista                         |        <img src="resources/chapter-5/capturaEAldo.png">                                                                                                                          |
+| Búsqueda de servicio                                   | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos. |
+| Visualización de información del servicio              | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente. |
+| Reservar un servicio                                   | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo. |
+| Confirmación y agenda de citas pendientes              | Valora la retroalimentación del sistema, especialmente la confirmación inmediata y los recordatorios previos a cada cita.       |
 | Historial y reseña                                     | Encuentra el historial fácil de acceder, pero sugiere agregar opciones de filtro para organizar reservas pasadas por fecha o tipo de servicio. |
 | Navegación general                                     | Destaca la utilidad del toolbar, sin mayores sugerencias al respecto.                                                                         |
 
@@ -4708,37 +4700,37 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                           | Manicurista independiente                                                                                                                                                                                              |
 | Departamento                        | Lima, Perú                                                                                                                                                                                                             |
 | Duración de la Entrevista           | 13:01 min                                                                                                                                                                                                              |
-| Análisis de la Entrevista           |                                                                                                                                                                                                                        |
+| Captura de la Entrevista           |     <img src="resources/chapter-5/capturaEEliana.png">                                                                                                                                                                  |
 | Visualización de Perfil             | Menciona que el perfil es claro, pero le gustaría que fuese más dinámico y visual                                                                                                                                      |
 | Manejo de servicios                 | Comenta que la creación de servicios es fácil, pero preferiría más opciones de personalización, como intervalos de tiempo predeterminados.                                                                             |
 | Gestión de reservas                 | Opina que la gestión de reservas es funcional, aunque quisiera ver más opciones como ver un calendario con las citas registradas pendientes                                                                            |
 | Recepción de reviews                | Menciona que le gusta la opción de reseñas, pero preferiría que solo algunas fueran visibles y que se pudiera responde                                                                                                               |
 | Navegación general                  | Navegar es sencillo, pero menciona que le gustaría que fuera más rápido y con menos pasos entre secciones |
 
-| Entrevista 2: Mypes o emprendedores    |                                                                                                                                                             |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre Entrevistado**                | Flavio Gallardo                                                                                                                                             |
-| **Edad**                               | 20 Años                                                                                                                                                     |
-| **Profesión**                          | Dueño de centro de belleza independiente                                                                                                                    |
-| **Departamento**                       | Lima, Perú                                                                                                                                                  |
-| **Duración de la Entrevista**          | 02:55 min                                                                                                                                                   |
-| **Análisis de la Entrevista**          |                                                                                                                                                             |
-| **Visualización de Perfil**            | El perfil es claro, pero Flavio desearía que fuera más dinámico y visual para atraer mejor la atención de los clientes.                                     |
-| **Manejo de servicios**                | La creación de servicios le resulta fácil, aunque le gustaría más opciones de personalización, como intervalos de tiempo predefinidos.                      |
-| **Gestión de reservas**                | Encuentra funcional la gestión de reservas, pero preferiría tener un calendario visual con todas las citas pendientes para facilitar el seguimiento.        |
+| Entrevista 2: Mypes o emprendedores    |                                                                                                                         |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                | Flavio Gallardo                                                                                                               |
+| **Edad**                               | 20 Años                                                                                                                |
+| **Profesión**                          | Dueño de centro de belleza independiente                                                                                           |
+| **Departamento**                       | Lima, Perú                                                                                                             |
+| **Duración de la Entrevista**          | 00:00 min                                                                                                              |
+| Captura de la entrevista         |      <img src="resources/chapter-5/capturaEFlavio.png">                                                                                                                      |
+| **Visualización de Perfil**            | El perfil es claro, pero Flavio desearía que fuera más dinámico y visual para atraer mejor la atención de los clientes. |
+| **Manejo de servicios**                | La creación de servicios le resulta fácil, aunque le gustaría más opciones de personalización, como intervalos de tiempo predefinidos. |
+| **Gestión de reservas**                | Encuentra funcional la gestión de reservas, pero preferiría tener un calendario visual con todas las citas pendientes para facilitar el seguimiento. |
 | **Recepción de reviews**               | Le agrada la opción de recibir reseñas, pero preferiría que solo algunas fueran visibles y que pudiera responder a ellas para interactuar con sus clientes. |
-| **Navegación general**                 | La navegación es sencilla, aunque le gustaría que fuera más rápida y con menos pasos entre secciones.                                                       |
+| **Navegación general**                 | La navegación es sencilla, aunque le gustaría que fuera más rápida y con menos pasos entre secciones. |
 
 
-| Entrevista 3: Mypes o emprendedores    |                                                                                                                                                                           |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre Entrevistado**                | Juan Esteban                                                                                                                                                              |
-| **Edad**                               | 20 Años                                                                                                                                                                   |
-| **Profesión**                          | Dueño de centro de belleza independiente                                                                                                                                  |
-| **Departamento**                       | Lima, Perú                                                                                                                                                                |
-| **Duración de la Entrevista**          | 00:00 min                                                                                                                                                                 |
-| **Análisis de la Entrevista**          |                                                                                                                                                                           |
-| **Visualización de Perfil**            | Considera que el perfil es claro y fácil de leer, aunque cree que añadir una breve descripción o imagen destacada junto a cada servicio lo haría más atractivo.           |
+| Entrevista 3: Mypes o emprendedores    |                                                                                                                         |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Nombre Entrevistado**                | Juan Esteban                                                                                                              |
+| **Edad**                               | 20 Años                                                                                                                |
+| **Profesión**                          | Dueño de centro de belleza independiente                                                                                              |
+| **Departamento**                       | Lima, Perú                                                                                                         |
+| **Duración de la Entrevista**          | 00:00 min                                                                                                              |
+| Captura de la entrevista          |      <img src="resources/chapter-5/capturaEJuan.png">                                                                                                                      |
+| **Visualización de Perfil**            | Considera que el perfil es claro y fácil de leer, aunque cree que añadir una breve descripción o imagen destacada junto a cada servicio lo haría más atractivo. |
 | **Manejo de servicios**                | Encuentra sencillo el proceso de crear servicios, pero preferiría poder hacer cambios rápidos desde la lista general, sin necesidad de editar cada servicio por separado. |
 | **Gestión de reservas**                | Comenta que la gestión de reservas es práctica, aunque le gustaría tener un tablero de control que muestre un resumen de las reservas activas.                            |
 | **Recepción de reviews**               | Le gusta la opción de recibir reseñas, pero sugiere incluir una opción de organización por fecha o relevancia para facilitar la visualización.                            |
@@ -4839,6 +4831,7 @@ La tabla de resumen muestra los problemas identificados, su nivel de severidad y
 
 
 ### 5.4. Video About-the-Product
+A continuación se presenta el link del video donde podrás ver una demostración del producto.
 
 En este apartado se presenta el video sobre el producto Bliss, una plataforma de servicios de belleza y cuidado personal que facilita la reserva y gestión de servicios para clientes y empresas del sector.
 
