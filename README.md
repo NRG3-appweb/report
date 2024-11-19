@@ -5255,7 +5255,6 @@ Se muestra la documentación de los servicios del controlador de servicios.
 ![endpointevidence18](resources/chapter-5/endpoint-evidence-18.png)
 ![endpointevidence19](resources/chapter-5/endpoint-evidence-19.png)
 
-
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 **Landing Page**
