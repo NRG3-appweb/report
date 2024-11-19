@@ -2938,7 +2938,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Diseñar e implementar la vista de home donde muestre los servicios y compañías principales para clientes.</td>
     <td>Diseñar los estilos e implementar un componente que muestre servicios populares.</td>
     <td>4</td>
-    <td>Godofredo Quispe Tipo</td>
+      <td>Godofredo Quispe Tipo</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -4066,7 +4066,6 @@ A continuación se presenta un registro detallado de los commits realizados en e
   </tr>
 </table>
 
-
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3.
@@ -4518,7 +4517,6 @@ Se muestra la documentación de los servicios del controlador de servicios.
 ![endpointevidence16](resources/chapter-5/endpoint-evidence-16.png)
 ![endpointevidence17](resources/chapter-5/endpoint-evidence-17.png)
 
-
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 **Landing Page**
@@ -4576,6 +4574,297 @@ Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de 
 - Gianluca Santino Pasquale Barrenechea: 20 commits.
 - Godofredo Quispe Tipo: 26 commits.
 - Elvia Marcela Rodriguez Villa: 34 commits.
+
+
+#### 5.2.4. Sprint 4
+
+##### 5.2.4.1. Spring Planning 4
+Para este Sprint 4, se siguió trabajando con Trello como nuestra herramienta de gestión de proyectos para visualizar de manera clara y concisa el trabajo a realizar. Cada tarjeta en nuestro tablero representará una tarea específica, y las columnas indicarán su estado. Esto nos permitirá tener una visión global del avance del proyecto y facilitará la colaboración entre el equipo.
+
+Sprint board en trello:
+<img src="resources/sprint-4/sprintbacklog4.png">
+
+Enlace al trello: <a href="https://trello.com/invite/b/672d2127f1207fa789f35e3d/ATTIcf86a8c33436c434a1637ee8017686beD71FC13A/sprint-backlog-4">https://trello.com/invite/b/672d2127f1207fa789f35e3d/ATTIcf86a8c33436c434a1637ee8017686beD71FC13A/sprint-backlog-4</a>
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">2024-11-19</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">05:57 PM</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Discord</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Gabriel Casas</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">Juan Astonitas, Gabriel Casas, Godofredo Quispe, Gianluca Pasquale, Elvia Rodriguez</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Review Summary</strong></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Retrospective Summary</strong></td>
+    <td colspan="1"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 4 Goal</strong></td>
+    <td colspan="1">Nuestro enfoque en este sprint es implementar funcionalidades críticas para la gestión de usuarios y servicios, así como preparar el sistema para su despliegue final y asegurar la correcta integración entre frontend y backend.
+
+Creemos que esto ofrecerá a los clientes y dueños la posibilidad de registrarse e iniciar sesión en la plataforma, con los dueños pudiendo actualizar y eliminar servicios de forma eficiente. Además, los desarrolladores podrán unificar ambas partes del proyecto (frontend y backend), realizar los despliegues necesarios y documentar el API, asegurando que el sistema esté listo para pruebas completas y operación.
+
+Esto se confirmará cuando los usuarios puedan registrarse y autenticarse correctamente, los dueños gestionen sus servicios con éxito, y los desarrolladores hayan documentado el API, realizado pruebas en las funcionalidades de citas y reseñas, y completado los despliegues.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 4 Velocity</strong></td>
+    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta story points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">La suma de story point atendidos es de story point.</td>
+  </tr>
+</table>
+
+##### 5.2.4.2. Sprint Backlog 4
+
+En este item se detalla el Sprint Backlog del tercer sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
+A continuación, se presenta un desglose detallado de las user stories implementadas durante el Sprint 4. Esta tabla muestra el progreso de cada historia, incluyendo su estado actual, las evidencias de su finalización y cualquier observación relevante.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint4</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td>US001</td>
+    <td>Creación de cuenta</td>
+    <td>T01</td>
+    <td>Implementar componente de registro</td>
+    <td>Crear el componente que permita registrar usuarios en el sistema.</td>
+    <td>6</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US002</td>
+    <td>Inicio de sesión de usuario</td>
+    <td>T02</td>
+    <td>Crear funcionalidad de login</td>
+    <td>Implementar validación y flujo de inicio de sesión para los usuarios.</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US003</td>
+    <td>Recuperación de contraseña</td>
+    <td>T03</td>
+    <td>Diseño y desarrollo de recuperación</td>
+    <td>Implementar un flujo para recuperar contraseñas a través del correo electrónico.</td>
+    <td>5</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US005</td>
+    <td>Registro de perfil de empresa</td>
+    <td>T04</td>
+    <td>Crear vista y funcionalidad para perfiles empresariales</td>
+    <td>Diseñar el perfil que permita a las empresas gestionar su información en la plataforma.</td>
+    <td>6</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>TS001</td>
+    <td>Endpoint para registro</td>
+    <td>T05</td>
+    <td>Crear endpoint para registro</td>
+    <td>Implementar el endpoint para permitir el registro de usuarios y compañías.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>TS013-US012</td>
+    <td>Appointments</td>
+    <td>T06</td>
+    <td>Corregir formato de fecha</td>
+    <td>Cambiar el formato para mostrar solo la fecha sin la hora en Appointments.</td>
+    <td>3</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>TS014-US010</td>
+    <td>Home</td>
+    <td>T07</td>
+    <td>Corregir estilos y diseño</td>
+    <td>Revisar márgenes, fuentes y alineación en la página principal.</td>
+    <td>3</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>TS015</td>
+    <td>Service</td>
+    <td>T08</td>
+    <td>Corregir visualización de componentes</td>
+    <td>Ajustar la visualización para mayor consistencia y espaciado.</td>
+    <td>3</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>TS016</td>
+    <td>Información de compañía</td>
+    <td>T09</td>
+    <td>Revisar y ajustar estilos</td>
+    <td>Mejorar textos, encabezados y espaciados en la sección de información de la compañía.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>TS017</td>
+    <td>Reviews</td>
+    <td>T10</td>
+    <td>Asociar reviews con compañías</td>
+    <td>Implementar la funcionalidad para asociar y mostrar las reviews con sus respectivas compañías.</td>
+    <td>5</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>TS018</td>
+    <td>My Services</td>
+    <td>T11</td>
+    <td>Ajustar formulario</td>
+    <td>Validar diseño y comportamiento del formulario de My Services.</td>
+    <td>4</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>TS019</td>
+    <td>Redirección</td>
+    <td>T12</td>
+    <td>Revisar y corregir flujo</td>
+    <td>Ajustar el flujo de redirección tras agregar o editar servicios.</td>
+    <td>3</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>To-Do</td>
+  </tr>
+</table>
+
+##### 5.2.4.3. Development Evidence for Sprint Review
+
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. A través de imágenes y un video demostrativo, podrás apreciar los resultados concretos de nuestro trabajo y comprender mejor cómo hemos dado forma a las funcionalidades del producto.
+
+![execution_landing1](resources/chapter-5/landing1.png)
+![execution_landing2](resources/chapter-5/landing2.png)
+![execution_landing3](resources/chapter-5/landing3.png)
+![execution_landing4](resources/chapter-5/landing4.png)
+![execution_landing5](resources/chapter-5/landing5.png)
+![execution_landing6](resources/chapter-5/landing6.png)
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+**Landing Page**
+Para hacer el deployment de la landing page se utilizó Github Pages, una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública. Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
+Enlace de la landing page: <a href="https://nrg3-appweb.github.io/Landing-Page/">https://nrg3-appweb.github.io/Landing-Page/</a>
+
+![landingdeployment1](resources/chapter-5/landing-deploy-1.png)
+
+Escogemos la opcion de hacer el deploy a través de una rama.
+![landingdeployment2](resources/chapter-5/landing-deploy-2.png)
+
+Escogemos la rama main.
+
+![landingdeployment3](resources/chapter-5/landing-deploy-3.png)
+
+Guadrdamos la configuracion usando el boton save
+![landingdeployment5](resources/chapter-5/landing-deploy-5.png)
+
+La página cargara en algunos minutos y se podra acceder a ella a través del link que se muestra en la parte superior.
+
+![landingdeployment6](resources/chapter-5/landing-deploy-6.png)
+
+**Frontend**
+Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma de deployment de aplicaciones web que permite hacer el deployment de aplicaciones web de forma sencilla y rápida.
+![deployment evidence9](resources/chapter-5/deployment-evidence-9.png)
+![deployment evidence10](resources/chapter-5/deployment-evidence-10.png)
+![deployment evidence11](resources/chapter-5/deployment-evidence-11.png)
+![deployment evidence12](resources/chapter-5/deployment-evidence-12.png)
+![deployment evidence13](resources/chapter-5/deployment-evidence-13.png)
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+Para este sprint se desarrollaron 3 productos siendo estos: landing page, web application y web services. Para la landing page hubo un solo encargado debido a q ya se encontraba en la etapa final de su desarrollo. Para lode más productos todo los integrantes participaron. La distribución de commit fue la siguiente:
+
+**Landing Page**
+Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de X commits.
+
+**Frontend**
+<img src="resources/sprint-4/front-1.png">
+<img src="resources/sprint-4/front-2.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: XX commits.
+- Gabriel Alexander Casas Sanchez: XX commits.
+- Gianluca Santino Pasquale Barrenechea: XX commits.
+- Godofredo Quispe Tipo: XX commits.
+- Elvia Marcela Rodriguez Villa: XX commits.
+
+**Backend**
+<img src="resources/sprint-4/back-1.png">
+<img src="resources/sprint-4/back-2.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: XX commits.
+- Gabriel Alexander Casas Sanchez: XX commits.
+- Gianluca Santino Pasquale Barrenechea: XX commits.
+- Godofredo Quispe Tipo: XX commits.
+- Elvia Marcela Rodriguez Villa: XX commits.
+
 
 ### 5.3. Validation Interviews
 En esta sección se presentan los detalles de las entrevistas de validación realizadas.
