@@ -229,7 +229,7 @@ del ABET – EAC - Student Outcome 5.
         TB1:<br> Lideré el desarrollo del primer capítulo para tener una visión clara del proyecto. Asimismo, desarollé en conjunto la primera versión de nuestras historias de usuario <br>
         TP1:<br> Diseñé el header general y lo implementé junto a mis compañeros. Diseñé e implementé el listado de servicios y el detalle de los servicios junto a mis compañeros. <br>
         TB2:<br> Lideré el desarrollo de los endpoints para appointments, siendo esta una, guía clave para los demás. Colaboré en el replanteamiento de las respuestas de los endpoints para un mejor rendimiento y mantenibilidad. <br>
-        TF1: <br> <br>
+        TF1: <br> Diseñé e implementé los componentes de inicio de sesión y registro, con interfaces intuitivas en el frontend y un backend que asegura la autenticación, validación de datos y protección de la información del usuario. <br>
       Gabriel Casas<br>
         TB1:<br> Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor producto.<br> 
         TP1:<br> Realicé una reunión antes de la entrega para colaborar como grupo en el desarrollo del proyecto. Establecí las bases para el desarrollo del proyecto. Ayudé a mis compañeros a comprender conceptos que desconocían.<br>  
@@ -260,7 +260,7 @@ del ABET – EAC - Student Outcome 5.
         TB1:<br> Tomé la mayor parte de la responsabilidad del desarrollo del primer y segundo capítulo. <br> 
         TP1: <br> Apoyé a mis compañeros para la correcta creación y documentación de los api services <br> 
         TB2:<br> Diseñe y designe las tareas para el desarrollo de los endpoints del bounded context de appointment management. <br> 
-        TF1: <br> <br>
+        TF1: <br> Desarrollé el deployment de nuestro backend, asegurando que todos los servicios estuvieran correctamente configurados y operativos en el entorno de producción. Además, desarrollé el sistema de Identity and Access Management (IAM) para el backend, implementando mecanismos de autenticación y autorización para garantizar la seguridad y el control de acceso adecuado a los recursos del sistema. <br>
       Gabriel Casas<br>
         TB1:<br> Durante el proyecto fue de mi prioridad ayudar a mis compañeros en la realización de sus tareas, por este motivo he revisado todo el proyecto, corregido errores, como también aportado a la creación de ítems externos a mis responsabilidades asignadas.<br> 
         TP1:<br> Establecí metas de entrega para el desarrollo de las actividades correspondientes a este ciclo de trabajo. Procuré que todos los miembros del equipo sean incluidos en la repartición de tareas.<br> 
