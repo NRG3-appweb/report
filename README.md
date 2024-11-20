@@ -1196,7 +1196,7 @@ Organización matricial: Se utiliza en las comparaciones de servicios, permitien
 
 #### 4.2.3. SEO Tags and Meta Tags
 
-##### Página de Aterrizaje (Landing Page)
+##### Landing Page
 Title: Bliss - Elige, Agenda y Personaliza Tu Servicio de Belleza
 Meta Description: Bliss te permite elegir, agendar y personalizar tu servicio de cuidado o belleza en un solo lugar. Descubre la manera más fácil de recibir el mejor cuidado con total comodidad.
 Meta Keywords: servicios de belleza, cuidado personal, agenda de belleza, personaliza tus servicios, Bliss
@@ -2057,7 +2057,7 @@ El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 En esta sección se presentan las evidencias del desarrollo de la Landing Page de Bliss durante el primer sprint de desarrollo.
 
-A continuación se presenta una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia demuestra el progreso realizado en el desarrollo y refinamiento de la página de aterrizaje.
+A continuación se presenta una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia demuestra el progreso realizado en el desarrollo y refinamiento de la Landing Page.
 
 **Tabla de commits de la landing-page**
 <table>
@@ -4791,6 +4791,204 @@ A continuación, se presenta un desglose detallado de las user stories implement
 </table>
 
 ##### 5.2.4.3. Development Evidence for Sprint Review
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 4.
+
+A continuación se presenta una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia demuestra el progreso realizado en el desarrollo y refinamiento de la Landing Page.
+
+**Tabla de commits de la landing-page**
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>main</td>
+    <td>41f78ce1</td>
+    <td>fix(videos): fixed video placements.</td>
+    <td>fix(videos): fixed video placements.</td>
+    <td>11/11/2024</td>
+  </tr>
+</table>
+
+*Commits realizados en el repositorio de frontend durante el sprint 4:*
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">d37ddc2c</td>
+    <td colspan="1">feat: added new method to format the date string in client appointments.</td>
+    <td colspan="1">feat: added new method to format the date string in client appointments.</td>
+    <td colspan="1">11/11/2024 12:49</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">dd82d283</td>
+    <td colspan="1">feat: changed style from main appointment card.</td>
+    <td colspan="1">feat: changed style from main appointment card.</td>
+    <td colspan="1">11/11/2024 12:50</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">77f7faea</td>
+    <td colspan="1">feat: added new appointments with new format date.</td>
+    <td colspan="1">feat: added new appointments with new format date.</td>
+    <td colspan="1">11/11/2024 12:50</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">99a44420</td>
+    <td colspan="1">feat: added new method to format the date string in business appointments, and changed style of cancel button.</td>
+    <td colspan="1">feat: added new method to format the date string in business appointments, and changed style of cancel button.</td>
+    <td colspan="1">11/11/2024 12:50</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/backend-test</td>
+    <td colspan="1">6618b803</td>
+    <td colspan="1">fix: fixed endpoint to work with backend.</td>
+    <td colspan="1">fix: fixed endpoint to work with backend.</td>
+    <td colspan="1">14/11/2024 02:20</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/backend-test</td>
+    <td colspan="1">f770315a</td>
+    <td colspan="1">fix: handle missing serviceId and companyId in appointments.</td>
+    <td colspan="1">fix: handle missing serviceId and companyId in appointments.</td>
+    <td colspan="1">14/11/2024 02:22</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/backend-test</td>
+    <td colspan="1">8e326a07</td>
+    <td colspan="1">feat: added defaultBusinessId to work with backend.</td>
+    <td colspan="1">feat: added defaultBusinessId to work with backend.</td>
+    <td colspan="1">14/11/2024 02:23</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointments-management</td>
+    <td colspan="1">7d6c2c57</td>
+    <td colspan="1">feat: added new URL to connect with backend.</td>
+    <td colspan="1">feat: added new URL to connect with backend.</td>
+    <td colspan="1">14/11/2024 15:06</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointments-management</td>
+    <td colspan="1">5da2c47a</td>
+    <td colspan="1">fix: added new method to format date.</td>
+    <td colspan="1">fix: added new method to format date.</td>
+    <td colspan="1">14/11/2024 15:07</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointments-management</td>
+    <td colspan="1">4f52713</td>
+    <td colspan="1">fix: fixed route to display data from backend endpoint.</td>
+    <td colspan="1">fix: fixed route to display data from backend endpoint.</td>
+    <td colspan="1">14/11/2024 15:30</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointments-management</td>
+    <td colspan="1">36ff75eb</td>
+    <td colspan="1">feat: added new logic to fetch business data from backend endpoints.</td>
+    <td colspan="1">feat: added new logic to fetch business data from backend endpoints.</td>
+    <td colspan="1">14/11/2024 15:31</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/business-service-management</td>
+    <td colspan="1">c52e34e8</td>
+    <td colspan="1">feat: added imports on business appointment list component.</td>
+    <td colspan="1">feat: added imports on business appointment list component.</td>
+    <td colspan="1">14/11/2024 15:47</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointments-management</td>
+    <td colspan="1">8c1ee6b8</td>
+    <td colspan="1">fix: fixed fetch to obtain pending appointments.</td>
+    <td colspan="1">fix: fixed fetch to obtain pending appointments.</td>
+    <td colspan="1">14/11/2024 16:53</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">6e9fb23d</td>
+    <td colspan="1">fix(service-management): corrected styles for client side services display.</td>
+    <td colspan="1">fix(service-management): corrected styles for client side services display.</td>
+    <td colspan="1">16/11/2024 13:38</td>
+  </tr>
+</table>
+
+
+**Commits realizados en el repositorio de backend durante el sprint 4:**
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-test</td>
+    <td colspan="1">13a4d875</td>
+    <td colspan="1">feat: added new builders to work with Cors.</td>
+    <td colspan="1">feat: added new builders to work with Cors.</td>
+    <td colspan="1">14/11/2024 01:27</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-test</td>
+    <td colspan="1">7fc3f349</td>
+    <td colspan="1">feat: added Cors to communicate with frontend.</td>
+    <td colspan="1">feat: added Cors to communicate with frontend.</td>
+    <td colspan="1">14/11/2024 01:26</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-test</td>
+    <td colspan="1">9ea0a469</td>
+    <td colspan="1">feat: added Cors to communicate with frontend.</td>
+    <td colspan="1">feat: added Cors to communicate with frontend.</td>
+    <td colspan="1">14/11/2024 01:26</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-test</td>
+    <td colspan="1">45af1a41  </td>
+    <td colspan="1">refactor: renamed from ServiceController to ServicesController.</td>
+    <td colspan="1">refactor: renamed from ServiceController to ServicesController.</td>
+    <td colspan="1">14/11/2024 01:25</td>
+  </tr>
+</table>
+
 
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
