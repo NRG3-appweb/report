@@ -4628,11 +4628,11 @@ Enlace al trello: <a href="https://trello.com/invite/b/672d2127f1207fa789f35e3d/
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 4 Goal</strong></td>
-    <td colspan="1">Nuestro enfoque en este sprint es implementar funcionalidades críticas para la gestión de usuarios y servicios, así como preparar el sistema para su despliegue final y asegurar la correcta integración entre frontend y backend.
+    <td colspan="1">Nuestro enfoque está en ofrecer un sistema de autenticación a los usuarios finales (clientes y dueños), asegurar el acceso a información centralizada gracias a la integración, y proporcionar mayor información visual, como videos, para nuestros visitantes, además de los nuevos endpoints necesarios para los desarrolladores.
 
-Creemos que esto ofrecerá a los clientes y dueños la posibilidad de registrarse e iniciar sesión en la plataforma, con los dueños pudiendo actualizar y eliminar servicios de forma eficiente. Además, los desarrolladores podrán unificar ambas partes del proyecto (frontend y backend), realizar los despliegues necesarios y documentar el API, asegurando que el sistema esté listo para pruebas completas y operación.
+Creemos que esto proporcionará una experiencia más segura y eficiente para los clientes y dueños, mejorará la gestión de los servicios, y permitirá a los desarrolladores utilizar más características relacionadas con la administración de usuarios y servicios dentro del ecosistema de la plataforma. A su vez, los visitantes podrán tomar decisiones más informadas.
 
-Esto se confirmará cuando los usuarios puedan registrarse y autenticarse correctamente, los dueños gestionen sus servicios con éxito, y los desarrolladores hayan documentado el API, realizado pruebas en las funcionalidades de citas y reseñas, y completado los despliegues.</td>
+Esto se confirmará cuando los clientes y dueños puedan registrarse e iniciar sesión de manera segura, los dueños gestionen sus servicios (actualización y eliminación), los desarrolladores utilicen los nuevos endpoints y realicen pruebas de citas y reseñas, y los visitantes tengan acceso a información más interactiva.</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 4 Velocity</strong></td>
