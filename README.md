@@ -78,9 +78,9 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 - Godofredo Quispe Tipo: 
 - Elvia Marcela Rodríguez Villa: 
 
-### Repartición de tareas:
+**Repartición de tareas:**
 
-### TB1 
+**TB1**
 
 | Integrante                                 | Tareas Asignadas                                                                                                          |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -91,7 +91,7 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 | Sebastian Aaron Anibal Carbajal Santivañez | Elaboración y análisis de entrevistas                                                                                     |
 
 
-### TP (Trabajo Parcial)
+**TP (Trabajo Parcial)**
 
 | Integrante                                 | Tareas Asignadas                                                       |
 |--------------------------------------------|------------------------------------------------------------------------|
@@ -101,7 +101,7 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 | Juan Diego Astonitas Díaz                  | Desarrollo de aplicación web                                           |
 | Sebastian Aaron Anibal Carbajal Santivañez |                                                                        |
 
-### TB2
+**TB2**
 | Integrante                            | Tareas Asignadas                                               |
 |---------------------------------------|----------------------------------------------------------------|
 | Elvia Marcela Rodriguez Villa         | Elaboración del web application y web service.                 |
@@ -110,7 +110,7 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 | Juan Diego Astonitas Díaz             | Elaboración del web application y web service.                 |
 | Godofreado Quispe Tipo                | Elaboración del web application y web service.                 |
 
-### TF1
+**TF1**
 | Integrante                            | Tareas Asignadas                                                                                           |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------|
 | Elvia Marcela Rodríguez Villa         | Desarrollo e integración de la sección de reseñas, asegurando su funcionalidad y pruebas para el paso a producción. |
@@ -122,6 +122,10 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 
 ## Contenido
 
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
+- [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción ](#capítulo-i-introducción-)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -216,9 +220,18 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Spring Planning 4](#5241-spring-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
@@ -396,14 +409,14 @@ Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes,
 
 ##### 1.2.2.2. Lean UX Assumptions
 
-###### User Assumptions (Suposiciones de Usuario)
+**User Assumptions (Suposiciones de Usuario)**
 - ¿Quién es el usuario?: El usuario es alguien que busca servicios de belleza convenientes y confiables.
 - ¿Dónde encaja nuestro producto en su trabajo o vida?: Nuestro producto encaja en su rutina diaria proporcionando una manera fácil de reservar servicios de belleza de forma fácil y eficiente.
 - ¿Qué problemas resuelve nuestro producto? : Resuelve el problema de encontrar y reservar servicios de belleza confiables de manera conveniente y segura.
 - ¿Cuándo y cómo se usa nuestro producto? El producto se usa cuando el usuario necesita reservar un servicio de belleza, típicamente a través de una aplicación web.
 - Qué características son importantes?: Características importantes incluyen una interfaz fácil de usar, perfiles de profesionales verificados,detalles del servicio , reseñas de servicios y opciones de pago seguras.
 - ¿Cómo debe verse y comportarse nuestro producto? :El producto debe tener un diseño limpio y minimalista, ser fácil de navegar y proporcionar una experiencia de reserva sin complicaciones.
-###### Business Assumptions (Suposiciones de Negocio)
+**Business Assumptions (Suposiciones de Negocio)**
 - Necesidades y problemas: Creo que mis clientes tienen la necesidad de saber  cómo y dónde acceder a servicios de belleza de manera conveniente y segura.
 - Plataforma: Estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad.
 - Segmentación: Mis clientes iniciales son (o serán) personas que buscan comodidad y confiabilidad al reservar servicios de belleza,.
@@ -413,15 +426,15 @@ Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes,
 - Modelo de ingresos: Generaré ingresos a través de comisiones por reservas, membresías premium y colaboraciones con marcas de belleza.
 - Competencia: Mi principal competencia en el mercado será aplicaciones similares de servicios de belleza y salones de belleza locales.
 - Los superaremos debido a nuestro enfoque en profesionales verificados, personalización de servicios y facilidad de reserva.
-###### Technical Assumptions (Suposiciones Técnicas)
+**Technical Assumptions (Suposiciones Técnicas)**
 - Tecnología utilizada: Podemos utilizar tecnologías web actuales para construir la aplicación.
 - Integraciones: La aplicación se integrará sin problemas con sistemas de pago y plataformas de marketing digital.
 - Escalabilidad: La solución podrá escalar para manejar un número creciente de usuarios y datos sin problemas de rendimiento.
-###### Market Assumptions (Suposiciones de Mercado)
+**Market Assumptions (Suposiciones de Mercado)**
 - Tamaño del mercado: Existe una gran cantidad de potenciales usuarios interesados en servicios de belleza y cuidado personal.
 - Competencia: Las aplicaciones similares y redes sociales son los principales competidores.
 - Tendencias: El mercado de servicios de belleza y cuidado está creciendo en la región, sin embargo esta no parece crecer dentro de los parámetros de formalidad.
-###### Design Assumptions (Suposiciones de Diseño)
+**Design Assumptions (Suposiciones de Diseño)**
 - Interacción del usuario: Los usuarios encontrarán más fácil navegar por la aplicación si implementamos filtros por categoría y tipo de servicio.
 - Experiencia del usuario: Los usuarios valorarán una experiencia de reserva intuitiva y sin complicaciones.
 - Colores y la tipografía: Los usuarios prefieren una paleta de colores suaves y una tipografía legible.
@@ -730,26 +743,26 @@ Booksy es una aplicación de reserva de citas enfocada en la industria de bellez
 
 Considerando el análisis competitivo y las características únicas de nuestra startup Bliss, hemos desarrollado las siguientes estrategias y tácticas para abordar las fortalezas y debilidades de nuestros competidores, así como aprovechar las oportunidades y mitigar las amenazas presentes en el mercado.
 
-###### Estrategias:
+**Estrategias:**
 1. **Ampliación de servicios:** Bliss ofrecerá una gama integral de servicios de belleza y cuidado personal, que incluirá desde manicura y pedicura hasta tratamientos faciales, asegurando así una experiencia completa y personalizada tanto en el hogar como en el establecimiento del proveedor.
 
 2. **Verificación de profesionales:** Implementaremos un proceso de verificación exhaustivo para los estilistas y negocios asociados. Esto garantizará que los servicios ofrecidos sean de alta calidad y confiables, lo que diferencia a Bliss al enfocarse en la confianza y seguridad del cliente.
 
 3. **Enfoque en la comodidad del usuario:** Nos centraremos en mejorar la conveniencia y la facilidad de uso de la aplicación. La plataforma estará diseñada para ofrecer una experiencia intuitiva y fluida, facilitando la búsqueda y reserva de servicios, lo que aumentará la satisfacción y fidelización del usuario.
 
-###### Tácticas:
+**Tácticas:**
 
-4. **Optimización de la interfaz de usuario:** Mejoraremos continuamente la navegación y las funcionalidades de búsqueda dentro de la aplicación para que los usuarios puedan encontrar y reservar fácilmente servicios que se ajusten a sus horarios y preferencias.
+1. **Optimización de la interfaz de usuario:** Mejoraremos continuamente la navegación y las funcionalidades de búsqueda dentro de la aplicación para que los usuarios puedan encontrar y reservar fácilmente servicios que se ajusten a sus horarios y preferencias.
 
-5. **Sistema de calificación y comentarios:** Implementaremos un sistema robusto de calificación y comentarios que permita a los usuarios evaluar los servicios recibidos. Esto fomentará la transparencia y ayudará a construir una reputación sólida para los proveedores y para la plataforma en general.
+2. **Sistema de calificación y comentarios:** Implementaremos un sistema robusto de calificación y comentarios que permita a los usuarios evaluar los servicios recibidos. Esto fomentará la transparencia y ayudará a construir una reputación sólida para los proveedores y para la plataforma en general.
 
-6. **Programación flexible:** Permitiremos a los usuarios seleccionar franjas horarias específicas y preferencias de estilistas al hacer reservas, ofreciendo opciones flexibles que se adapten a sus necesidades y horarios, lo que mejorará la experiencia del usuario.
+3. **Programación flexible:** Permitiremos a los usuarios seleccionar franjas horarias específicas y preferencias de estilistas al hacer reservas, ofreciendo opciones flexibles que se adapten a sus necesidades y horarios, lo que mejorará la experiencia del usuario.
 
-7. **Promoción de garantía de calidad:** Comunicaremos claramente nuestro compromiso con la calidad y la verificación de profesionales a través de campañas de marketing y mensajes en la aplicación, fortaleciendo la confianza de los usuarios en nuestra plataforma.
+4. **Promoción de garantía de calidad:** Comunicaremos claramente nuestro compromiso con la calidad y la verificación de profesionales a través de campañas de marketing y mensajes en la aplicación, fortaleciendo la confianza de los usuarios en nuestra plataforma.
 
-8. **Incentivos para usuarios y estilistas:** Ofreceremos descuentos, promociones y recompensas tanto para los usuarios que realicen reservas como para los estilistas que mantengan altos estándares de servicio, incentivando la calidad y la lealtad en la plataforma.
+5. **Incentivos para usuarios y estilistas:** Ofreceremos descuentos, promociones y recompensas tanto para los usuarios que realicen reservas como para los estilistas que mantengan altos estándares de servicio, incentivando la calidad y la lealtad en la plataforma.
 
-9. **Colaboraciones estratégicas:** Estableceremos asociaciones con marcas de productos de belleza y colaboradores influyentes para aumentar nuestra visibilidad y credibilidad en el mercado, atrayendo tanto a nuevos usuarios como a proveedores de servicios.
+6. **Colaboraciones estratégicas:** Estableceremos asociaciones con marcas de productos de belleza y colaboradores influyentes para aumentar nuestra visibilidad y credibilidad en el mercado, atrayendo tanto a nuevos usuarios como a proveedores de servicios.
 
 
 ### 2.2. Entrevistas.
@@ -889,19 +902,19 @@ Finalmente, tanto los usuarios como las Mypes expresan preocupaciones sobre la s
 
 #### 2.3.1. User Personas
 
-###### **MYPES o Emprendedores**
+**MYPES o Emprendedores**
 Rosa Martínez encarna a las propietarias de pequeñas y medianas empresas en el sector de belleza, quienes enfrentan desafíos para competir en un mercado saturado. A través de las entrevistas, se destacó su necesidad de atraer más clientes y profesionalizar la gestión de su negocio. Rosa busca herramientas que le permitan mejorar la visibilidad de su salón y fidelizar a sus clientes, reflejando el perfil de las MYPES que intentan crecer en un entorno competitivo, pero carecen de los recursos tecnológicos necesarios para optimizar su operación.
 
 ![user-persona](resources/chapter-2/userpersona1.png)
 
-###### **Clientes de la industria de belleza y bienestar**
+**Clientes de la industria de belleza y bienestar**
 Andrea Salazar representa a las mujeres ocupadas que buscan servicios de belleza personalizados y de alta calidad. A partir del análisis de entrevistas, se identificaron sus principales necesidades: acceder a salones confiables que ofrezcan una atención constante y ahorrar tiempo en la búsqueda de estos servicios. Andrea refleja el perfil de clientas que valoran la estética como parte importante de su estilo de vida, pero que se frustran al no encontrar soluciones eficientes y adaptadas a sus expectativas.
 
 ![user-persona](resources/chapter-2/userpersona2.png)
 
 #### 2.3.2. User Task Matrix
 
-###### **MYPES o Emprendedores**
+**MYPES o Emprendedores**
 La siguiente tabla detalla las actividades clave que Rosa Martínez, propietaria de un salón de belleza, lleva a cabo para gestionar su negocio. Estas tareas incluyen la promoción del salón, la atención a clientes y la gestión de reservas, necesarias para mantener el funcionamiento del negocio sin depender de una aplicación digital. 
 
 | **Task**                                                         | **Importancia** | Frecuencia |
@@ -916,7 +929,7 @@ La siguiente tabla detalla las actividades clave que Rosa Martínez, propietaria
 | Crear promociones y descuentos para atraer nuevos clientes       | Low             | Rare       |
 | Responder a la retroalimentación de los clientes                 | Moderate        | Rare       |
 
-###### **Clientes de la industria de belleza y bienestar**
+**Clientes de la industria de belleza y bienestar**
 Esta tabla resume las principales tareas que realiza Andrea Salazar, una clienta aficionada a la belleza, al buscar y acceder a servicios de cuidado personal. Incluye desde la búsqueda de salones confiables hasta la reserva de citas y ajustes en los servicios, todas estas tareas se realizan actualmente sin la asistencia de herramientas digitales.
 
 | Task Matrix                                                                                   | Importancia | Frecuencia |
@@ -934,23 +947,23 @@ Esta tabla resume las principales tareas que realiza Andrea Salazar, una clienta
 
 
 #### 2.3.3. User Journey Mapping
-###### **Clientas Aficionadas al Embellecimiento**
+**Clientas Aficionadas al Embellecimiento**
 Este User Journey Map ilustra el recorrido de las Clientas Aficionadas al Embellecimiento en su búsqueda de servicios de belleza en la situación actual. Desde la identificación de sus necesidades hasta la reserva de citas en salones de belleza, este mapa destaca los pasos que siguen, sus emociones y las frustraciones que enfrentan al tratar de acceder a servicios personalizados de calidad. Al comprender este viaje, se pueden identificar áreas de mejora y oportunidades para optimizar la experiencia del usuario.
 
 ![User Journey Mapping NRG #1](https://github.com/user-attachments/assets/fba971fd-7610-485c-899a-e4ba82dc3374)
-###### **MYPES del Sector de Belleza**
+**MYPES del Sector de Belleza**
 El User Journey Map para las MYPES del Sector de Belleza representa el recorrido que siguen los propietarios de salones al gestionar su negocio en el contexto actual. Este mapa abarca desde la promoción de sus servicios hasta la atención al cliente y la gestión de reservas. Se enfoca en los desafíos y oportunidades que enfrentan para atraer y retener clientes, destacando sus emociones y necesidades a lo largo del proceso. Analizar este viaje permite identificar puntos críticos y áreas en las que se puede mejorar la operación y la experiencia del cliente en el sector de belleza.
 
 ![User Journey Mapping NRG #2](https://github.com/user-attachments/assets/2fd920c8-80da-4ba4-8418-05a2aaab71b7)
 
 #### 2.3.4. Empathy Mapping
 
-###### Clientas Aficionadas al Embellecimiento
+**Clientas Aficionadas al Embellecimiento**
 sta sección presenta el Empathy Map para las Clientas Aficionadas al Embellecimiento, diseñado para entender sus necesidades, emociones y preocupaciones en la búsqueda de servicios de belleza. Al centrarse en el User Persona, se han recopilado observaciones clave que permiten identificar sus Pains y Gains, fundamentales para desarrollar soluciones que optimicen su experiencia en el sector.
 
 ![Empathy Map User Persona #1](https://github.com/user-attachments/assets/632964a6-011a-4979-9164-95d1026f68b2)
 
-###### MYPES del Sector de Belleza
+**MYPES del Sector de Belleza**
 El Empathy Map para las MYPES del Sector de Belleza se elabora para profundizar en las preocupaciones y aspiraciones de los propietarios de salones. Al colocar al User Persona en el centro, se recogen observaciones sobre sus desafíos y motivaciones, identificando Pains y Gains específicos. Este análisis ofrece una visión clara que ayudará a diseñar estrategias efectivas para mejorar la operación de sus negocios en un mercado competitivo.
 
 ![Empathy Map User Persona #2](https://github.com/user-attachments/assets/2f79ea95-bdce-460b-ba11-b7833b419b04)
@@ -958,13 +971,13 @@ El Empathy Map para las MYPES del Sector de Belleza se elabora para profundizar 
 
 #### 2.3.5. As-is Scenario Mapping
 
-###### Clientas Aficionadas al Embellecimiento
+**Clientas Aficionadas al Embellecimiento**
 En esta sección se presenta el As-Is Scenario Mapping para las Clientas Aficionadas al Embellecimiento. El equipo llevó a cabo un proceso de lluvia de ideas y revisión para identificar las fases de la experiencia de búsqueda de servicios de belleza, abarcando acciones, pensamientos y emociones. Este mapeo destaca áreas positivas, negativas y aquellas que requieren más investigación, sentando las bases para mejorar su experiencia.
 
 ![as-is-scenario-mapping](resources/chapter-2/asuser1.jpg)
 
 
-###### MYPES del Sector de Belleza
+**MYPES del Sector de Belleza**
 Esta sección introduce el As-Is Scenario Mapping para las MYPES del Sector de Belleza, enfocándose en el recorrido actual de los propietarios de salones. Mediante un proceso de preparación y lluvia de ideas, se identificaron las fases clave de su experiencia, así como sus acciones, pensamientos y sentimientos. El mapeo también resalta áreas favorables y desfavorables, así como aquellas que necesitan mayor comprensión, proporcionando una visión clara de los desafíos actuales.
 
 ![as-is-scenario-mapping](resources/chapter-2/asuser2.jpg)
@@ -998,12 +1011,12 @@ El siguiente glosario detalla los términos esenciales del Lenguaje Ubiquo que u
 
 ### 3.1. To-Be Scenario Mapping
 
-###### Clientas Aficionadas al Embellecimiento
+**Clientas Aficionadas al Embellecimiento**
 En esta sección se presenta el To-Be Scenario Mapping para las Clientas Aficionadas al Embellecimiento. El equipo siguió un proceso de preparación y lluvia de ideas para identificar las fases de la experiencia mejorada en la búsqueda de servicios de belleza. Al comparar con el As-Is Scenario Mapping, se resaltan los cambios potenciales que podrían optimizar sus acciones, pensamientos y emociones, ofreciendo una experiencia más satisfactoria.
 
 ![to-be-scenario-mapping](resources/chapter-3/touser1.jpg)
 
-###### MYPES del Sector de Belleza
+**MYPES del Sector de Belleza**
 Esta sección introduce el To-Be Scenario Mapping para las MYPES del Sector de Belleza, centrándose en la evolución de la experiencia de los propietarios de salones. A través de un proceso de revisión y comparación con el As-Is Scenario Mapping, se identifican mejoras en las fases clave de su recorrido. Esto permite vislumbrar cambios que pueden facilitar sus acciones, pensamientos y sentimientos, contribuyendo a un funcionamiento más eficiente de sus negocios.
 
 ![to-be-scenario-mapping](resources/chapter-3/touser2.jpg)
@@ -1150,7 +1163,7 @@ Además, deben estar en sintonía con los valores de innovación, compromiso y b
 <img src="resources/Neutral Colors.png">
 <img src="resources/Alert Colors.png">
 
-### Typography
+**Typography**
  
 La combinación de Tajawal y Montserrat ofrece una mezcla de elegancia minimalista y presencia contemporánea. Tajawal brinda un toque único que conecta con audiencias que valoran la diversidad cultural, mientras que Montserrat asegura que la marca se vea moderna y profesional.
 
@@ -1167,15 +1180,15 @@ El espaciado en un style guideline es fundamental para crear una experiencia vis
 
 <img src="resources/spacing.png">
 
-### Minimalismo y sofisticación:
+**Minimalismo y sofisticación:**
 El uso exclusivo de la palabra "BLISS" en el logo sigue el principio del minimalismo, eliminando elementos gráficos innecesarios y permitiendo que el nombre de la marca sea el centro de atención. En la industria de la belleza, menos es más: la simplicidad comunica elegancia, profesionalismo y calidad, sin distracciones. Esto asegura que el logo no sature visualmente, sino que proyecte una imagen limpia y sofisticada, consistente con los servicios ofrecidos.
 
-### Sentido emocional:
+**Sentido emocional:**
 "BLISS", que en inglés significa felicidad suprema o estado de éxtasis, conecta directamente con las emociones del público objetivo. El nombre evoca sensaciones de bienestar, relajación y satisfacción, que son precisamente los sentimientos que se buscan en los servicios de belleza. Al usar esta palabra como el logo, se establece una asociación inmediata con una experiencia placentera, posicionando a la marca como un facilitador de estos estados de ánimo.
 
 <img src="resources/logo.png">
 
-### Icons
+**Icons**
 Los iconos son una extensión visual integral de la identidad de la marca y alinean perfectamente con el estilo general de la empresa. En la plataforma de belleza, los iconos refuerzan la sofisticación y elegancia de la marca, integrándose armoniosamente con el resto del diseño.
 
 Los iconos son coherentes en estilo y forma a lo largo de toda la plataforma. Siguen un estilo de diseño uniforme, incluyendo el grosor de las líneas, el estilo de los bordes y la paleta de colores. Los iconos no pueden variar en estilo, asegurando una apariencia ordenada y consistente.
@@ -1217,12 +1230,12 @@ Organización matricial: Se utiliza en las comparaciones de servicios, permitien
 
 #### 4.2.3. SEO Tags and Meta Tags
 
-##### Landing Page
+**Landing Page**
 Title: Bliss - Elige, Agenda y Personaliza Tu Servicio de Belleza
 Meta Description: Bliss te permite elegir, agendar y personalizar tu servicio de cuidado o belleza en un solo lugar. Descubre la manera más fácil de recibir el mejor cuidado con total comodidad.
 Meta Keywords: servicios de belleza, cuidado personal, agenda de belleza, personaliza tus servicios, Bliss
 Meta Author: NRG3
-##### Aplicación Web
+**Aplicación Web**
 Title: Bliss - Reserva y Personaliza Servicios de Belleza Online
 Meta Description: Bliss te ofrece una plataforma para elegir, agendar y personalizar tus servicios de belleza con facilidad. Disfruta de una experiencia intuitiva y adaptada a tus necesidades.
 Meta Keywords: reserva de belleza, aplicación de belleza, servicios personalizados, Bliss
@@ -1232,18 +1245,18 @@ Meta Author: NRG3
 
 Estas decisiones están diseñadas para evitar que los usuarios se sientan abrumados por grandes volúmenes de información, facilitando una navegación eficiente y una búsqueda precisa. A continuación, se detallan las opciones de búsqueda y los filtros disponibles, así como la presentación de los datos después de la búsqueda.
 
-##### Opciones de Búsqueda
-##### Barra de Búsqueda
+**Opciones de Búsqueda**
+**Barra de Búsqueda**
 La barra de búsqueda permite a los usuarios ingresar términos específicos para encontrar rápidamente servicios, características o productos relacionados. La búsqueda se realiza en todos los campos de datos relevantes, proporcionando resultados instantáneos.
 
-##### Categorías
+**Categorías**
 Los usuarios pueden seleccionar entre diferentes categorías, como "Hair", "Nails", "Lashes", "Brows", "Skin", "Body", y "Toes", para limitar los resultados a un grupo específico de servicios.
 
-##### Etiquetas Populares
+**Etiquetas Populares**
 Las etiquetas populares, como "Agata" y "Jelly Nails", permiten a los usuarios buscar elementos relacionados con términos específicos, facilitando la localización de servicios populares o especializados.
 
-##### Filtros Disponibles
-##### Filtros por Tipo de Servicio
+**Filtros Disponibles**
+**Filtros por Tipo de Servicio**
 
 Hair: Incluye opciones como "Dye", "Treatment", "Botox", "Curly", "Perm".
 Nails: Incluye opciones para diferentes tipos de servicios de uñas.
@@ -1251,7 +1264,7 @@ Makeup: Servicios relacionados con el maquillaje.
 Filtros por Salón
 Los usuarios pueden seleccionar salones específicos, como "Vera", "SOHO", "Daniela’s Art", "Lucky", "Honey Moon", y "Magaly’s Salon", para encontrar servicios ofrecidos en lugares preferidos.
 
-##### Filtro por Precio
+**Filtro por Precio**
 
 Rango de Precio: Los usuarios pueden ajustar el rango de precio para filtrar los resultados entre 0 y 1000 unidades monetarias, ayudando a encontrar opciones dentro de su presupuesto.
 Filtro de Popularidad
@@ -1261,13 +1274,13 @@ Apariencia de los Datos Después de la Búsqueda
 Listados de Resultados
 Los resultados de búsqueda se presentan en una lista ordenada con información clave, como nombre del servicio, descripción breve, y etiquetas relevantes. Se incluyen opciones para ver más detalles o realizar una acción directa, como agendar o contactar.
 
-##### Resumen y Descripción
+**Resumen y Descripción**
 Cada resultado incluye un resumen y descripción que destaca la información más relevante, facilitando una rápida evaluación sin necesidad de acceder a la vista completa.
 
-##### Opciones de Ordenación y Filtros Aplicados
+**Opciones de Ordenación y Filtros Aplicados**
 Los resultados se pueden ordenar por criterios como relevancia o precio. Los filtros aplicados se muestran claramente para que los usuarios puedan ver qué opciones están activas y ajustar su búsqueda según sea necesario.
 
-##### Revisiones y Comentarios
+**Revisiones y Comentarios**
 Se muestra un resumen de las revisiones y comentarios (si los hay), permitiendo a los usuarios evaluar la calidad y popularidad de los servicios.
 
 <img src="resources/filters.png" />
@@ -1335,19 +1348,19 @@ Los wireframes de las aplicaciones web de Bliss representan la estructura y disp
 #### 4.4.2. Web Applications Wireflow Diagrams.
 En esta sección se presentan los Wireflows para cada objetivo del usuario, considerando los User Persona correspondientes. Cada diagrama muestra el flujo de interacción y los cambios en las pantallas resultantes de las acciones del usuario.
 
-##### Registro y Perfil de Empresa
+**Registro y Perfil de Empresa**
 El presente user flow corresponde con el formulario de registro que solicita el ingreso de la información empresarial, al hacer el registro el visitante cambia de rol a empresa asociada.
 ![Registro y Perfil de Empresa](resources/chapter_4/userflow/Registro%20y%20perfil%20de%20empresa.png)
-##### Gestión de Usuario
+**Gestión de Usuario**
 El presente user flow corresponde con la gestión de usuario, en el cual el usuario puede iniciar sesión, registrarse, ver su perfil y editar su información.
 ![Gestión de Usuario](resources/chapter_4/userflow/Gestión%20de%20usuario.png)
-##### Visualización de Historial y Agenda
+**Visualización de Historial y Agenda**
 El presente user flow corresponde con la visualización de historial y agenda, en el cual el usuario puede ver su historial de servicios y agendar una cita.
 ![Visualización de Historial y Agenda](resources/chapter_4/userflow/Visualización%20de%20historial%20y%20agenda.png)
-##### Reserva de Servicio
+**Reserva de Servicio**
 El presente user flow corresponde con la reserva de servicio, en el cual el usuario puede buscar un servicio, ver la disponibilidad y reservar una cita.
 ![Reserva de Servicio](resources/chapter_4/userflow/Reserva%20de%20servicio.png)
-##### Creación de Servicio
+**Creación de Servicio**
 El presente user flow corresponde con la creación de servicio, en el cual la empresa puede crear y especificar los detalles de un servicio.
 ![Creación de Servicio](resources/chapter_4/userflow/Creación%20de%20servicio.png)
 
@@ -1403,7 +1416,7 @@ En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en 
 
 Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas clave: Service Management, User Management, Booking Management, Notifications, y Payments.
 
-##### Service Management Component
+**Service Management Component**
 Esta sección detalla el Componente de Gestión de Servicios, que se divide en tres bounded context: Service Management, Review Management y Appointment Management. Cada contexto está representado por un diagrama que ilustra la estructura y las interacciones dentro del sistema.
 
 **Service Management Bounded Context**
@@ -5179,56 +5192,60 @@ En esta sección se presentan los detalles de las entrevistas de validación rea
 
 Para el diseño de entrevistas se consideraron los siguientes aspectos:
 
-## Objetivo de la Entrevista
+**Objetivo de la Entrevista**
 
 Validar la usabilidad y efectividad de la landing page y la aplicación para cada uno de los segmentos de usuarios, asegurando que los flujos de usuario (user flows) sean intuitivos y satisfactorios.
-###### Elementos de Validación
+**Elementos de Validación**
 - **Landing Page**: Los usuarios interactuarán con la landing page para evaluar la claridad del mensaje, las llamadas a la acción (CTA), la navegación y el diseño.
 - **Aplicación**: Se guiará a los usuarios a través de flujos principales, como la reserva de servicios de belleza, la gestión de servicios y el sistema de feedback.
-##### User Flows a Validar
-###### Para el Segmento Cliente
+**User Flows a Validar**
+
+**Para el Segmento Cliente**
 1. **Navegación del Catálogo de Servicios**: Facilidad para encontrar y explorar servicios (manicure, pedicure, tratamientos faciales, etc.).
 2. **Proceso de Reserva**: Facilidad para reservar un servicio, seleccionar una hora y elegir un profesional.
 3. **Recepción de Servicios**: Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
-###### Para el Segmento Empresa
+   
+**Para el Segmento Empresa**
 1. **Visualización del Perfil de la Empresa**: Cómo la empresa visualiza su propio perfil.
 2. **Creación de Servicio**: Facilidad para crear y personalizar nuevos servicios.
 3. **Gestión de Reservas**: Capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
 4. **Recepción de Reviews y Feedback de Clientes**: Cómo las empresas reciben y gestionan reseñas de los clientes.
-##### Formato de Registro de la Entrevista
+
+**Formato de Registro de la Entrevista**
 1. **Datos del Entrevistado**:
    - Nombre y apellidos
    - Edad
    - Distrito de residencia
    - Dispositivo utilizado (smartphone, tablet, laptop)
-##### Preguntas para el Segmento Cliente
-###### Catálogo de Servicios
+
+**Preguntas para el Segmento Cliente**
+**Catálogo de Servicios**
 - ¿Fue fácil encontrar lo que buscabas en el catálogo?
 - ¿Cómo describirías la información presentada sobre los servicios?
 - ¿Algún momento te sentiste perdido al explorar el catálogo?
 - ¿Pudiste comparar fácilmente diferentes servicios? ¿Cómo mejorarías este proceso?
-###### Creación de Reserva de Cita
+**Creación de Reserva de Cita**
 - ¿Qué tan sencillo fue comenzar a reservar una cita?
 - Describe el flujo para crear una reserva. ¿Algún paso generó dudas?
 - ¿El sistema brindó suficiente retroalimentación al completar la reserva?
 - ¿Hubo obstáculos al elegir la fecha o el servicio adecuado?
-###### Visualización de Historial
+**Visualización de Historial**
 - Describe tu experiencia al buscar el historial de reservas. ¿Fue intuitivo?
 - ¿Pudiste encontrar la información fácilmente?
 - ¿Hay algo en el historial que cambiarías para mejorar la gestión de reservas pasadas?
-###### Reviews
+**Reviews**
 - Describe el proceso para dejar una review. ¿Fue sencillo?
 - ¿Recibiste suficiente guía para incluir tu review?
 - ¿Te resultó útil valorar tanto el servicio como al proveedor?
-##### Preguntas para el Segmento Empresa
-###### Visualización de Servicios
+**Preguntas para el Segmento Empresa**
+**Visualización de Servicios**
 - ¿Fue clara la visualización de los servicios de tu empresa en el perfil?
 - ¿Cómo fue la funcionalidad para actualizar o modificar los servicios?
-###### Creación de Servicio
+**Creación de Servicio**
 - Describe el proceso para crear un nuevo servicio. ¿Fue claro desde el principio?
 - ¿Qué tan intuitivo fue definir los detalles del servicio (nombre, precio, disponibilidad)?
 - ¿Recibiste suficiente orientación durante la creación del servicio?
-###### Gestión de Servicios y Reservas
+**Gestión de Servicios y Reservas**
 - ¿En qué medida el sistema te permite gestionar eficientemente los servicios?
 - ¿Qué desafíos enfrentaste al actualizar la información de la empresa y servicios?
 - ¿Qué aspectos del sistema valoras más en comparación con otras plataformas que usas?
@@ -5334,31 +5351,31 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 #### 5.3.3. Evaluaciones según heurísticas.
 En esta sección se presentan las evaluaciones de usabilidad de la landing page y la aplicación web de servicios de belleza y cuidado personal, basadas en heurísticas y principios de diseño.
 
-##### UX Heuristics & Principles Evaluation
+**UX Heuristics & Principles Evaluation**
 **Usability – Inclusive Design – Information Architecture**
 
-##### Información del Proyecto
+**Información del Proyecto**
 - **Carrera:** Ingeniería de Software
 - **Curso:** Aplicaciones Web
 - **Auditor:** NRG3
 - **Cliente:** NRG3
 - **Site o App a Evaluar:** Bliss
 
-##### Tareas a Evaluar
+**Tareas a Evaluar**
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-###### Para el Segmento Cliente:
+**Para el Segmento Cliente:**
 1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
 2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
 3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
 
-###### Para el Segmento Empresa:
+**Para el Segmento Empresa:**
 1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
 2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
 3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
 4. **Recepción de Reviews y Feedback de Clientes:** Evaluar cómo las empresas reciben y gestionan reseñas de los clientes.
 
-##### Escala de Severidad
+**Escala de Severidad**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 | Nivel | Descripción |
@@ -5368,7 +5385,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
 | 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
 
-#### Tabla Resumen
+**Tabla Resumen**
 La tabla de resumen muestra los problemas identificados, su nivel de severidad y el principio heurístico o diseño violado.
 
 
@@ -5382,44 +5399,44 @@ La tabla de resumen muestra los problemas identificados, su nivel de severidad y
 | 6  | Falta de confirmaciones en las acciones dentro del historial de reseñas| 2                  | Prevención de errores, ayuda a usuarios | Recepción de Reviews y Feedback de Clientes     |
 | 7  | No se puede responder a reseñas desde el perfil del servicio           | 3                  | Flexibilidad y eficiencia en la comunicación | Recepción de Reviews y Feedback de Clientes  |
 
-##### Descripción de Problemas
+**Descripción de Problemas**
 
-###### Problema #1: Navegación lenta y con muchos pasos entre secciones
+**Problema #1: Navegación lenta y con muchos pasos entre secciones**
 - **Tarea Evaluada:** Navegación del Catálogo de Servicios
 - **Recomendación:** Optimizar el flujo de navegación reduciendo la cantidad de clics necesarios entre las secciones clave. Implementar menús más rápidos y opciones de acceso directo.
 
-###### Problema #2: Falta de opciones de personalización en la creación de servicios
+**Problema #2: Falta de opciones de personalización en la creación de servicios**
 - **Tarea Evaluada:** Creación de Servicio
 - **Recomendación:** Agregar más opciones de personalización, como intervalos de tiempo predeterminados y tipos de servicios preconfigurados para mejorar la flexibilidad.
 
-###### Problema #3: Filtros ocupan demasiado espacio en la pantalla de búsqueda
+**Problema #3: Filtros ocupan demasiado espacio en la pantalla de búsqueda**
 - **Tarea Evaluada:** Navegación del Catálogo de Servicios
 - **Recomendación:** Reducir el tamaño de los filtros o permitir que se colapsen para maximizar el espacio disponible en la pantalla.
 
-###### Problema #4: Diálogos grandes con demasiada información no priorizada
+**Problema #4: Diálogos grandes con demasiada información no priorizada**
 - **Tarea Evaluada:** Visualización del Perfil de la Empresa
 - **Recomendación:** Simplificar los diálogos, mostrando solo la información esencial y permitiendo la expansión para detalles adicionales.
 
-###### Problema #5: Confusión en el mensaje "ver más" al seleccionar un review
+**Problema #5: Confusión en el mensaje "ver más" al seleccionar un review**
 - **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
 - **Recomendación:** Clarificar el mensaje "ver más" en la sección de reseñas, indicando claramente lo que se va a expandir o mostrar adicionalmente.
 
-###### Problema #6: Falta de confirmaciones en acciones dentro del historial de reseñas
+**Problema #6: Falta de confirmaciones en acciones dentro del historial de reseñas**
 - **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
 - **Recomendación:** Incluir mensajes de confirmación en cada acción del historial, como la publicación de una reseña o la modificación de una cita.
 
-###### Problema #7: No se puede responder a reseñas desde el perfil del servicio
+**Problema #7: No se puede responder a reseñas desde el perfil del servicio**
 - **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
 - **Recomendación:** Implementar una funcionalidad que permita a las empresas responder a reseñas directamente desde su perfil para facilitar la comunicación con los clientes.
 
-##### User Flows a Validar
+**User Flows a Validar**
 
-###### Para el Segmento Cliente:
+**Para el Segmento Cliente:**
 1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
 2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
 3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
 
-###### Para el Segmento Empresa:
+**Para el Segmento Empresa:**
 1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
 2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
 3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas, visualizar y modificar citas de clientes.
