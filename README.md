@@ -65,11 +65,22 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 - Gabriel Alexander Casas Sanchez: 12
 - Gianluca Santino Pasquale Barrenechea: 25
 - Godofredo Quispe Tipo: 4
-- Elvia Marcela Rodriguez Villa: 4
+- Elvia Marcela Rodríguez Villa: 4
 
-### Repartición de tareas:
+TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/NRG3-appweb/backend.
 
-### TB1 
+**Vista de commits del reporte:**
+<img src="resources/sprint-4/report.png">
+
+- Juan Diego Astonitas Díaz: 
+- Gabriel Alexander Casas Sanchez: 
+- Gianluca Santino Pasquale Barrenechea: 
+- Godofredo Quispe Tipo: 
+- Elvia Marcela Rodríguez Villa: 
+
+**Repartición de tareas:**
+
+**TB1**
 
 | Integrante                                 | Tareas Asignadas                                                                                                          |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -80,7 +91,7 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 | Sebastian Aaron Anibal Carbajal Santivañez | Elaboración y análisis de entrevistas                                                                                     |
 
 
-### TP (Trabajo Parcial)
+**TP (Trabajo Parcial)**
 
 | Integrante                                 | Tareas Asignadas                                                       |
 |--------------------------------------------|------------------------------------------------------------------------|
@@ -90,7 +101,7 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 | Juan Diego Astonitas Díaz                  | Desarrollo de aplicación web                                           |
 | Sebastian Aaron Anibal Carbajal Santivañez |                                                                        |
 
-### TB2
+**TB2**
 | Integrante                            | Tareas Asignadas                                               |
 |---------------------------------------|----------------------------------------------------------------|
 | Elvia Marcela Rodriguez Villa         | Elaboración del web application y web service.                 |
@@ -99,8 +110,22 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 | Juan Diego Astonitas Díaz             | Elaboración del web application y web service.                 |
 | Godofreado Quispe Tipo                | Elaboración del web application y web service.                 |
 
+**TF1**
+| Integrante                            | Tareas Asignadas                                                                                           |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Elvia Marcela Rodríguez Villa         | Desarrollo e integración de la sección de reseñas, asegurando su funcionalidad y pruebas para el paso a producción. |
+| Gabriel Alexander Casas Sánchez       | Implementación e integración de la sección de gestión de servicios, preparándola para la etapa de producción. |
+| Gianluca Santino Pasquale Barrenechea | Desarrollo e integración de la sección de reservas, asegurando la conexión con el sistema y su despliegue hacia producción. |
+| Juan Diego Astonitas Díaz             | Implementación de la sección de autenticación y gestión de reservas, incluyendo pruebas de seguridad y su integración hacia producción. |
+| Godofreado Quispe Tipo                | Desarrollo e integración de la página de inicio y perfil de la empresa, con pruebas finales antes de la transición a producción. |
+
+
 ## Contenido
 
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
+- [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción ](#capítulo-i-introducción-)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -195,9 +220,18 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
       - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Spring Planning 4](#5241-spring-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
@@ -413,14 +447,14 @@ Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes,
 
 ##### 1.2.2.2. Lean UX Assumptions
 
-###### User Assumptions (Suposiciones de Usuario)
+**User Assumptions (Suposiciones de Usuario)**
 - ¿Quién es el usuario?: El usuario es alguien que busca servicios de belleza convenientes y confiables.
 - ¿Dónde encaja nuestro producto en su trabajo o vida?: Nuestro producto encaja en su rutina diaria proporcionando una manera fácil de reservar servicios de belleza de forma fácil y eficiente.
 - ¿Qué problemas resuelve nuestro producto? : Resuelve el problema de encontrar y reservar servicios de belleza confiables de manera conveniente y segura.
 - ¿Cuándo y cómo se usa nuestro producto? El producto se usa cuando el usuario necesita reservar un servicio de belleza, típicamente a través de una aplicación web.
 - Qué características son importantes?: Características importantes incluyen una interfaz fácil de usar, perfiles de profesionales verificados,detalles del servicio , reseñas de servicios y opciones de pago seguras.
 - ¿Cómo debe verse y comportarse nuestro producto? :El producto debe tener un diseño limpio y minimalista, ser fácil de navegar y proporcionar una experiencia de reserva sin complicaciones.
-###### Business Assumptions (Suposiciones de Negocio)
+**Business Assumptions (Suposiciones de Negocio)**
 - Necesidades y problemas: Creo que mis clientes tienen la necesidad de saber  cómo y dónde acceder a servicios de belleza de manera conveniente y segura.
 - Plataforma: Estas necesidades se pueden resolver con una aplicación que conecte a clientes con profesionales de belleza verificados, ofreciendo una amplia gama de servicios personalizados y garantizando medidas de seguridad y calidad.
 - Segmentación: Mis clientes iniciales son (o serán) personas que buscan comodidad y confiabilidad al reservar servicios de belleza,.
@@ -430,15 +464,15 @@ Sabremos que hemos tenido éxito cuando veamos una mayor retención de clientes,
 - Modelo de ingresos: Generaré ingresos a través de comisiones por reservas, membresías premium y colaboraciones con marcas de belleza.
 - Competencia: Mi principal competencia en el mercado será aplicaciones similares de servicios de belleza y salones de belleza locales.
 - Los superaremos debido a nuestro enfoque en profesionales verificados, personalización de servicios y facilidad de reserva.
-###### Technical Assumptions (Suposiciones Técnicas)
+**Technical Assumptions (Suposiciones Técnicas)**
 - Tecnología utilizada: Podemos utilizar tecnologías web actuales para construir la aplicación.
 - Integraciones: La aplicación se integrará sin problemas con sistemas de pago y plataformas de marketing digital.
 - Escalabilidad: La solución podrá escalar para manejar un número creciente de usuarios y datos sin problemas de rendimiento.
-###### Market Assumptions (Suposiciones de Mercado)
+**Market Assumptions (Suposiciones de Mercado)**
 - Tamaño del mercado: Existe una gran cantidad de potenciales usuarios interesados en servicios de belleza y cuidado personal.
 - Competencia: Las aplicaciones similares y redes sociales son los principales competidores.
 - Tendencias: El mercado de servicios de belleza y cuidado está creciendo en la región, sin embargo esta no parece crecer dentro de los parámetros de formalidad.
-###### Design Assumptions (Suposiciones de Diseño)
+**Design Assumptions (Suposiciones de Diseño)**
 - Interacción del usuario: Los usuarios encontrarán más fácil navegar por la aplicación si implementamos filtros por categoría y tipo de servicio.
 - Experiencia del usuario: Los usuarios valorarán una experiencia de reserva intuitiva y sin complicaciones.
 - Colores y la tipografía: Los usuarios prefieren una paleta de colores suaves y una tipografía legible.
@@ -747,26 +781,26 @@ Booksy es una aplicación de reserva de citas enfocada en la industria de bellez
 
 Considerando el análisis competitivo y las características únicas de nuestra startup Bliss, hemos desarrollado las siguientes estrategias y tácticas para abordar las fortalezas y debilidades de nuestros competidores, así como aprovechar las oportunidades y mitigar las amenazas presentes en el mercado.
 
-###### Estrategias:
+**Estrategias:**
 1. **Ampliación de servicios:** Bliss ofrecerá una gama integral de servicios de belleza y cuidado personal, que incluirá desde manicura y pedicura hasta tratamientos faciales, asegurando así una experiencia completa y personalizada tanto en el hogar como en el establecimiento del proveedor.
 
 2. **Verificación de profesionales:** Implementaremos un proceso de verificación exhaustivo para los estilistas y negocios asociados. Esto garantizará que los servicios ofrecidos sean de alta calidad y confiables, lo que diferencia a Bliss al enfocarse en la confianza y seguridad del cliente.
 
 3. **Enfoque en la comodidad del usuario:** Nos centraremos en mejorar la conveniencia y la facilidad de uso de la aplicación. La plataforma estará diseñada para ofrecer una experiencia intuitiva y fluida, facilitando la búsqueda y reserva de servicios, lo que aumentará la satisfacción y fidelización del usuario.
 
-###### Tácticas:
+**Tácticas:**
 
-4. **Optimización de la interfaz de usuario:** Mejoraremos continuamente la navegación y las funcionalidades de búsqueda dentro de la aplicación para que los usuarios puedan encontrar y reservar fácilmente servicios que se ajusten a sus horarios y preferencias.
+1. **Optimización de la interfaz de usuario:** Mejoraremos continuamente la navegación y las funcionalidades de búsqueda dentro de la aplicación para que los usuarios puedan encontrar y reservar fácilmente servicios que se ajusten a sus horarios y preferencias.
 
-5. **Sistema de calificación y comentarios:** Implementaremos un sistema robusto de calificación y comentarios que permita a los usuarios evaluar los servicios recibidos. Esto fomentará la transparencia y ayudará a construir una reputación sólida para los proveedores y para la plataforma en general.
+2. **Sistema de calificación y comentarios:** Implementaremos un sistema robusto de calificación y comentarios que permita a los usuarios evaluar los servicios recibidos. Esto fomentará la transparencia y ayudará a construir una reputación sólida para los proveedores y para la plataforma en general.
 
-6. **Programación flexible:** Permitiremos a los usuarios seleccionar franjas horarias específicas y preferencias de estilistas al hacer reservas, ofreciendo opciones flexibles que se adapten a sus necesidades y horarios, lo que mejorará la experiencia del usuario.
+3. **Programación flexible:** Permitiremos a los usuarios seleccionar franjas horarias específicas y preferencias de estilistas al hacer reservas, ofreciendo opciones flexibles que se adapten a sus necesidades y horarios, lo que mejorará la experiencia del usuario.
 
-7. **Promoción de garantía de calidad:** Comunicaremos claramente nuestro compromiso con la calidad y la verificación de profesionales a través de campañas de marketing y mensajes en la aplicación, fortaleciendo la confianza de los usuarios en nuestra plataforma.
+4. **Promoción de garantía de calidad:** Comunicaremos claramente nuestro compromiso con la calidad y la verificación de profesionales a través de campañas de marketing y mensajes en la aplicación, fortaleciendo la confianza de los usuarios en nuestra plataforma.
 
-8. **Incentivos para usuarios y estilistas:** Ofreceremos descuentos, promociones y recompensas tanto para los usuarios que realicen reservas como para los estilistas que mantengan altos estándares de servicio, incentivando la calidad y la lealtad en la plataforma.
+5. **Incentivos para usuarios y estilistas:** Ofreceremos descuentos, promociones y recompensas tanto para los usuarios que realicen reservas como para los estilistas que mantengan altos estándares de servicio, incentivando la calidad y la lealtad en la plataforma.
 
-9. **Colaboraciones estratégicas:** Estableceremos asociaciones con marcas de productos de belleza y colaboradores influyentes para aumentar nuestra visibilidad y credibilidad en el mercado, atrayendo tanto a nuevos usuarios como a proveedores de servicios.
+6. **Colaboraciones estratégicas:** Estableceremos asociaciones con marcas de productos de belleza y colaboradores influyentes para aumentar nuestra visibilidad y credibilidad en el mercado, atrayendo tanto a nuevos usuarios como a proveedores de servicios.
 
 
 ### 2.2. Entrevistas.
@@ -906,19 +940,19 @@ Finalmente, tanto los usuarios como las Mypes expresan preocupaciones sobre la s
 
 #### 2.3.1. User Personas
 
-###### **MYPES o Emprendedores**
+**MYPES o Emprendedores**
 Rosa Martínez encarna a las propietarias de pequeñas y medianas empresas en el sector de belleza, quienes enfrentan desafíos para competir en un mercado saturado. A través de las entrevistas, se destacó su necesidad de atraer más clientes y profesionalizar la gestión de su negocio. Rosa busca herramientas que le permitan mejorar la visibilidad de su salón y fidelizar a sus clientes, reflejando el perfil de las MYPES que intentan crecer en un entorno competitivo, pero carecen de los recursos tecnológicos necesarios para optimizar su operación.
 
 ![user-persona](resources/chapter-2/userpersona1.png)
 
-###### **Clientes de la industria de belleza y bienestar**
+**Clientes de la industria de belleza y bienestar**
 Andrea Salazar representa a las mujeres ocupadas que buscan servicios de belleza personalizados y de alta calidad. A partir del análisis de entrevistas, se identificaron sus principales necesidades: acceder a salones confiables que ofrezcan una atención constante y ahorrar tiempo en la búsqueda de estos servicios. Andrea refleja el perfil de clientas que valoran la estética como parte importante de su estilo de vida, pero que se frustran al no encontrar soluciones eficientes y adaptadas a sus expectativas.
 
 ![user-persona](resources/chapter-2/userpersona2.png)
 
 #### 2.3.2. User Task Matrix
 
-###### **MYPES o Emprendedores**
+**MYPES o Emprendedores**
 La siguiente tabla detalla las actividades clave que Rosa Martínez, propietaria de un salón de belleza, lleva a cabo para gestionar su negocio. Estas tareas incluyen la promoción del salón, la atención a clientes y la gestión de reservas, necesarias para mantener el funcionamiento del negocio sin depender de una aplicación digital. 
 
 | **Task**                                                         | **Importancia** | Frecuencia |
@@ -933,7 +967,7 @@ La siguiente tabla detalla las actividades clave que Rosa Martínez, propietaria
 | Crear promociones y descuentos para atraer nuevos clientes       | Low             | Rare       |
 | Responder a la retroalimentación de los clientes                 | Moderate        | Rare       |
 
-###### **Clientes de la industria de belleza y bienestar**
+**Clientes de la industria de belleza y bienestar**
 Esta tabla resume las principales tareas que realiza Andrea Salazar, una clienta aficionada a la belleza, al buscar y acceder a servicios de cuidado personal. Incluye desde la búsqueda de salones confiables hasta la reserva de citas y ajustes en los servicios, todas estas tareas se realizan actualmente sin la asistencia de herramientas digitales.
 
 | Task Matrix                                                                                   | Importancia | Frecuencia |
@@ -951,23 +985,23 @@ Esta tabla resume las principales tareas que realiza Andrea Salazar, una clienta
 
 
 #### 2.3.3. User Journey Mapping
-###### **Clientas Aficionadas al Embellecimiento**
+**Clientas Aficionadas al Embellecimiento**
 Este User Journey Map ilustra el recorrido de las Clientas Aficionadas al Embellecimiento en su búsqueda de servicios de belleza en la situación actual. Desde la identificación de sus necesidades hasta la reserva de citas en salones de belleza, este mapa destaca los pasos que siguen, sus emociones y las frustraciones que enfrentan al tratar de acceder a servicios personalizados de calidad. Al comprender este viaje, se pueden identificar áreas de mejora y oportunidades para optimizar la experiencia del usuario.
 
 ![User Journey Mapping NRG #1](https://github.com/user-attachments/assets/fba971fd-7610-485c-899a-e4ba82dc3374)
-###### **MYPES del Sector de Belleza**
+**MYPES del Sector de Belleza**
 El User Journey Map para las MYPES del Sector de Belleza representa el recorrido que siguen los propietarios de salones al gestionar su negocio en el contexto actual. Este mapa abarca desde la promoción de sus servicios hasta la atención al cliente y la gestión de reservas. Se enfoca en los desafíos y oportunidades que enfrentan para atraer y retener clientes, destacando sus emociones y necesidades a lo largo del proceso. Analizar este viaje permite identificar puntos críticos y áreas en las que se puede mejorar la operación y la experiencia del cliente en el sector de belleza.
 
 ![User Journey Mapping NRG #2](https://github.com/user-attachments/assets/2fd920c8-80da-4ba4-8418-05a2aaab71b7)
 
 #### 2.3.4. Empathy Mapping
 
-###### Clientas Aficionadas al Embellecimiento
+**Clientas Aficionadas al Embellecimiento**
 sta sección presenta el Empathy Map para las Clientas Aficionadas al Embellecimiento, diseñado para entender sus necesidades, emociones y preocupaciones en la búsqueda de servicios de belleza. Al centrarse en el User Persona, se han recopilado observaciones clave que permiten identificar sus Pains y Gains, fundamentales para desarrollar soluciones que optimicen su experiencia en el sector.
 
 ![Empathy Map User Persona #1](https://github.com/user-attachments/assets/632964a6-011a-4979-9164-95d1026f68b2)
 
-###### MYPES del Sector de Belleza
+**MYPES del Sector de Belleza**
 El Empathy Map para las MYPES del Sector de Belleza se elabora para profundizar en las preocupaciones y aspiraciones de los propietarios de salones. Al colocar al User Persona en el centro, se recogen observaciones sobre sus desafíos y motivaciones, identificando Pains y Gains específicos. Este análisis ofrece una visión clara que ayudará a diseñar estrategias efectivas para mejorar la operación de sus negocios en un mercado competitivo.
 
 ![Empathy Map User Persona #2](https://github.com/user-attachments/assets/2f79ea95-bdce-460b-ba11-b7833b419b04)
@@ -975,13 +1009,13 @@ El Empathy Map para las MYPES del Sector de Belleza se elabora para profundizar 
 
 #### 2.3.5. As-is Scenario Mapping
 
-###### Clientas Aficionadas al Embellecimiento
+**Clientas Aficionadas al Embellecimiento**
 En esta sección se presenta el As-Is Scenario Mapping para las Clientas Aficionadas al Embellecimiento. El equipo llevó a cabo un proceso de lluvia de ideas y revisión para identificar las fases de la experiencia de búsqueda de servicios de belleza, abarcando acciones, pensamientos y emociones. Este mapeo destaca áreas positivas, negativas y aquellas que requieren más investigación, sentando las bases para mejorar su experiencia.
 
 ![as-is-scenario-mapping](resources/chapter-2/asuser1.jpg)
 
 
-###### MYPES del Sector de Belleza
+**MYPES del Sector de Belleza**
 Esta sección introduce el As-Is Scenario Mapping para las MYPES del Sector de Belleza, enfocándose en el recorrido actual de los propietarios de salones. Mediante un proceso de preparación y lluvia de ideas, se identificaron las fases clave de su experiencia, así como sus acciones, pensamientos y sentimientos. El mapeo también resalta áreas favorables y desfavorables, así como aquellas que necesitan mayor comprensión, proporcionando una visión clara de los desafíos actuales.
 
 ![as-is-scenario-mapping](resources/chapter-2/asuser2.jpg)
@@ -1015,12 +1049,12 @@ El siguiente glosario detalla los términos esenciales del Lenguaje Ubiquo que u
 
 ### 3.1. To-Be Scenario Mapping
 
-###### Clientas Aficionadas al Embellecimiento
+**Clientas Aficionadas al Embellecimiento**
 En esta sección se presenta el To-Be Scenario Mapping para las Clientas Aficionadas al Embellecimiento. El equipo siguió un proceso de preparación y lluvia de ideas para identificar las fases de la experiencia mejorada en la búsqueda de servicios de belleza. Al comparar con el As-Is Scenario Mapping, se resaltan los cambios potenciales que podrían optimizar sus acciones, pensamientos y emociones, ofreciendo una experiencia más satisfactoria.
 
 ![to-be-scenario-mapping](resources/chapter-3/touser1.jpg)
 
-###### MYPES del Sector de Belleza
+**MYPES del Sector de Belleza**
 Esta sección introduce el To-Be Scenario Mapping para las MYPES del Sector de Belleza, centrándose en la evolución de la experiencia de los propietarios de salones. A través de un proceso de revisión y comparación con el As-Is Scenario Mapping, se identifican mejoras en las fases clave de su recorrido. Esto permite vislumbrar cambios que pueden facilitar sus acciones, pensamientos y sentimientos, contribuyendo a un funcionamiento más eficiente de sus negocios.
 
 ![to-be-scenario-mapping](resources/chapter-3/touser2.jpg)
@@ -1167,7 +1201,7 @@ Además, deben estar en sintonía con los valores de innovación, compromiso y b
 <img src="resources/Neutral Colors.png">
 <img src="resources/Alert Colors.png">
 
-### Typography
+**Typography**
  
 La combinación de Tajawal y Montserrat ofrece una mezcla de elegancia minimalista y presencia contemporánea. Tajawal brinda un toque único que conecta con audiencias que valoran la diversidad cultural, mientras que Montserrat asegura que la marca se vea moderna y profesional.
 
@@ -1184,15 +1218,15 @@ El espaciado en un style guideline es fundamental para crear una experiencia vis
 
 <img src="resources/spacing.png">
 
-### Minimalismo y sofisticación:
+**Minimalismo y sofisticación:**
 El uso exclusivo de la palabra "BLISS" en el logo sigue el principio del minimalismo, eliminando elementos gráficos innecesarios y permitiendo que el nombre de la marca sea el centro de atención. En la industria de la belleza, menos es más: la simplicidad comunica elegancia, profesionalismo y calidad, sin distracciones. Esto asegura que el logo no sature visualmente, sino que proyecte una imagen limpia y sofisticada, consistente con los servicios ofrecidos.
 
-### Sentido emocional:
+**Sentido emocional:**
 "BLISS", que en inglés significa felicidad suprema o estado de éxtasis, conecta directamente con las emociones del público objetivo. El nombre evoca sensaciones de bienestar, relajación y satisfacción, que son precisamente los sentimientos que se buscan en los servicios de belleza. Al usar esta palabra como el logo, se establece una asociación inmediata con una experiencia placentera, posicionando a la marca como un facilitador de estos estados de ánimo.
 
 <img src="resources/logo.png">
 
-### Icons
+**Icons**
 Los iconos son una extensión visual integral de la identidad de la marca y alinean perfectamente con el estilo general de la empresa. En la plataforma de belleza, los iconos refuerzan la sofisticación y elegancia de la marca, integrándose armoniosamente con el resto del diseño.
 
 Los iconos son coherentes en estilo y forma a lo largo de toda la plataforma. Siguen un estilo de diseño uniforme, incluyendo el grosor de las líneas, el estilo de los bordes y la paleta de colores. Los iconos no pueden variar en estilo, asegurando una apariencia ordenada y consistente.
@@ -1234,12 +1268,12 @@ Organización matricial: Se utiliza en las comparaciones de servicios, permitien
 
 #### 4.2.3. SEO Tags and Meta Tags
 
-##### Página de Aterrizaje (Landing Page)
+**Landing Page**
 Title: Bliss - Elige, Agenda y Personaliza Tu Servicio de Belleza
 Meta Description: Bliss te permite elegir, agendar y personalizar tu servicio de cuidado o belleza en un solo lugar. Descubre la manera más fácil de recibir el mejor cuidado con total comodidad.
 Meta Keywords: servicios de belleza, cuidado personal, agenda de belleza, personaliza tus servicios, Bliss
 Meta Author: NRG3
-##### Aplicación Web
+**Aplicación Web**
 Title: Bliss - Reserva y Personaliza Servicios de Belleza Online
 Meta Description: Bliss te ofrece una plataforma para elegir, agendar y personalizar tus servicios de belleza con facilidad. Disfruta de una experiencia intuitiva y adaptada a tus necesidades.
 Meta Keywords: reserva de belleza, aplicación de belleza, servicios personalizados, Bliss
@@ -1249,18 +1283,18 @@ Meta Author: NRG3
 
 Estas decisiones están diseñadas para evitar que los usuarios se sientan abrumados por grandes volúmenes de información, facilitando una navegación eficiente y una búsqueda precisa. A continuación, se detallan las opciones de búsqueda y los filtros disponibles, así como la presentación de los datos después de la búsqueda.
 
-##### Opciones de Búsqueda
-##### Barra de Búsqueda
+**Opciones de Búsqueda**
+**Barra de Búsqueda**
 La barra de búsqueda permite a los usuarios ingresar términos específicos para encontrar rápidamente servicios, características o productos relacionados. La búsqueda se realiza en todos los campos de datos relevantes, proporcionando resultados instantáneos.
 
-##### Categorías
+**Categorías**
 Los usuarios pueden seleccionar entre diferentes categorías, como "Hair", "Nails", "Lashes", "Brows", "Skin", "Body", y "Toes", para limitar los resultados a un grupo específico de servicios.
 
-##### Etiquetas Populares
+**Etiquetas Populares**
 Las etiquetas populares, como "Agata" y "Jelly Nails", permiten a los usuarios buscar elementos relacionados con términos específicos, facilitando la localización de servicios populares o especializados.
 
-##### Filtros Disponibles
-##### Filtros por Tipo de Servicio
+**Filtros Disponibles**
+**Filtros por Tipo de Servicio**
 
 Hair: Incluye opciones como "Dye", "Treatment", "Botox", "Curly", "Perm".
 Nails: Incluye opciones para diferentes tipos de servicios de uñas.
@@ -1268,7 +1302,7 @@ Makeup: Servicios relacionados con el maquillaje.
 Filtros por Salón
 Los usuarios pueden seleccionar salones específicos, como "Vera", "SOHO", "Daniela’s Art", "Lucky", "Honey Moon", y "Magaly’s Salon", para encontrar servicios ofrecidos en lugares preferidos.
 
-##### Filtro por Precio
+**Filtro por Precio**
 
 Rango de Precio: Los usuarios pueden ajustar el rango de precio para filtrar los resultados entre 0 y 1000 unidades monetarias, ayudando a encontrar opciones dentro de su presupuesto.
 Filtro de Popularidad
@@ -1278,13 +1312,13 @@ Apariencia de los Datos Después de la Búsqueda
 Listados de Resultados
 Los resultados de búsqueda se presentan en una lista ordenada con información clave, como nombre del servicio, descripción breve, y etiquetas relevantes. Se incluyen opciones para ver más detalles o realizar una acción directa, como agendar o contactar.
 
-##### Resumen y Descripción
+**Resumen y Descripción**
 Cada resultado incluye un resumen y descripción que destaca la información más relevante, facilitando una rápida evaluación sin necesidad de acceder a la vista completa.
 
-##### Opciones de Ordenación y Filtros Aplicados
+**Opciones de Ordenación y Filtros Aplicados**
 Los resultados se pueden ordenar por criterios como relevancia o precio. Los filtros aplicados se muestran claramente para que los usuarios puedan ver qué opciones están activas y ajustar su búsqueda según sea necesario.
 
-##### Revisiones y Comentarios
+**Revisiones y Comentarios**
 Se muestra un resumen de las revisiones y comentarios (si los hay), permitiendo a los usuarios evaluar la calidad y popularidad de los servicios.
 
 <img src="resources/filters.png" />
@@ -1352,19 +1386,19 @@ Los wireframes de las aplicaciones web de Bliss representan la estructura y disp
 #### 4.4.2. Web Applications Wireflow Diagrams.
 En esta sección se presentan los Wireflows para cada objetivo del usuario, considerando los User Persona correspondientes. Cada diagrama muestra el flujo de interacción y los cambios en las pantallas resultantes de las acciones del usuario.
 
-##### Registro y Perfil de Empresa
+**Registro y Perfil de Empresa**
 El presente user flow corresponde con el formulario de registro que solicita el ingreso de la información empresarial, al hacer el registro el visitante cambia de rol a empresa asociada.
 ![Registro y Perfil de Empresa](resources/chapter_4/userflow/Registro%20y%20perfil%20de%20empresa.png)
-##### Gestión de Usuario
+**Gestión de Usuario**
 El presente user flow corresponde con la gestión de usuario, en el cual el usuario puede iniciar sesión, registrarse, ver su perfil y editar su información.
 ![Gestión de Usuario](resources/chapter_4/userflow/Gestión%20de%20usuario.png)
-##### Visualización de Historial y Agenda
+**Visualización de Historial y Agenda**
 El presente user flow corresponde con la visualización de historial y agenda, en el cual el usuario puede ver su historial de servicios y agendar una cita.
 ![Visualización de Historial y Agenda](resources/chapter_4/userflow/Visualización%20de%20historial%20y%20agenda.png)
-##### Reserva de Servicio
+**Reserva de Servicio**
 El presente user flow corresponde con la reserva de servicio, en el cual el usuario puede buscar un servicio, ver la disponibilidad y reservar una cita.
 ![Reserva de Servicio](resources/chapter_4/userflow/Reserva%20de%20servicio.png)
-##### Creación de Servicio
+**Creación de Servicio**
 El presente user flow corresponde con la creación de servicio, en el cual la empresa puede crear y especificar los detalles de un servicio.
 ![Creación de Servicio](resources/chapter_4/userflow/Creación%20de%20servicio.png)
 
@@ -1420,7 +1454,7 @@ En el diagrama de contenedores, se ha propuesto una arquitectura monolítica en 
 
 Los componentes del sistema siguen el patrón CQRS, organizados en cinco áreas clave: Service Management, User Management, Booking Management, Notifications, y Payments.
 
-##### Service Management Component
+**Service Management Component**
 Esta sección detalla el Componente de Gestión de Servicios, que se divide en tres bounded context: Service Management, Review Management y Appointment Management. Cada contexto está representado por un diagrama que ilustra la estructura y las interacciones dentro del sistema.
 
 **Service Management Bounded Context**
@@ -2095,7 +2129,7 @@ El siguiente apartado detalla el alcance del Sprint 1. El Sprint Backlog 1, que 
 ##### 5.2.1.3. Development Evidence for Sprint Review
 En esta sección se presentan las evidencias del desarrollo de la Landing Page de Bliss durante el primer sprint de desarrollo.
 
-A continuación se presenta una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia demuestra el progreso realizado en el desarrollo y refinamiento de la página de aterrizaje.
+A continuación se presenta una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia demuestra el progreso realizado en el desarrollo y refinamiento de la Landing Page.
 
 **Tabla de commits de la landing-page**
 <table>
@@ -2976,7 +3010,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Diseñar e implementar la vista de home donde muestre los servicios y compañías principales para clientes.</td>
     <td>Diseñar los estilos e implementar un componente que muestre servicios populares.</td>
     <td>4</td>
-    <td>Godofredo Quispe Tipo</td>
+      <td>Godofredo Quispe Tipo</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -4104,7 +4138,6 @@ A continuación se presenta un registro detallado de los commits realizados en e
   </tr>
 </table>
 
-
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3.
@@ -4556,7 +4589,6 @@ Se muestra la documentación de los servicios del controlador de servicios.
 ![endpointevidence16](resources/chapter-5/endpoint-evidence-16.png)
 ![endpointevidence17](resources/chapter-5/endpoint-evidence-17.png)
 
-
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 **Landing Page**
@@ -4615,6 +4647,1003 @@ Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de 
 - Godofredo Quispe Tipo: 26 commits.
 - Elvia Marcela Rodriguez Villa: 34 commits.
 
+
+#### 5.2.4. Sprint 4
+En esta sección se detalla el sprint 4 de desarrollo del proyecto, incluyendo el sprint planning, sprint backlog, execution evidence, services documentation evidence y software deployment evidence.
+
+##### 5.2.4.1. Spring Planning 4
+Para este Sprint 4, se siguió trabajando con Trello como nuestra herramienta de gestión de proyectos para visualizar de manera clara y concisa el trabajo a realizar. Cada tarjeta en nuestro tablero representará una tarea específica, y las columnas indicarán su estado. Esto nos permitirá tener una visión global del avance del proyecto y facilitará la colaboración entre el equipo.
+
+Sprint board en trello:
+<img src="resources/sprint-4/sprintbacklog4.png">
+
+Enlace al trello: <a href="https://trello.com/invite/b/672d2127f1207fa789f35e3d/ATTIcf86a8c33436c434a1637ee8017686beD71FC13A/sprint-backlog-4">https://trello.com/invite/b/672d2127f1207fa789f35e3d/ATTIcf86a8c33436c434a1637ee8017686beD71FC13A/sprint-backlog-4</a>
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">2024-11-19</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">05:57 PM</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Discord</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Gabriel Casas</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">Juan Astonitas, Gabriel Casas, Godofredo Quispe, Gianluca Pasquale, Elvia Rodriguez</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Review Summary</strong></td>
+    <td colspan="1">Se implementaron funcionalidades críticas en el backend y frontend, avanzando en la integración del sistema.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Retrospective Summary</strong></td>
+    <td colspan="1">El equipo mostró un alto nivel de colaboración, con mejoras sustanciales en la organización y planificación.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 4 Goal</strong></td>
+    <td colspan="1">
+        Nuestro enfoque está en ofrecer un sistema de autenticación a los usuarios finales (clientes y dueños), asegurar el acceso a información centralizada gracias a la integración, y proporcionar mayor información visual, como videos, para nuestros visitantes, además de los nuevos endpoints necesarios para los desarrolladores.
+        <br><br>
+        Creemos que esto proporcionará una experiencia más segura y eficiente para los clientes y dueños, mejorará la gestión de los servicios, y permitirá a los desarrolladores utilizar más características relacionadas con la administración de usuarios y servicios dentro del ecosistema de la plataforma. A su vez, los visitantes podrán tomar decisiones más informadas.
+        <br><br>
+        Esto se confirmará cuando los clientes y dueños puedan registrarse e iniciar sesión de manera segura, los dueños gestionen sus servicios (actualización y eliminación), los desarrolladores utilicen los nuevos endpoints y realicen pruebas de citas y reseñas, y los visitantes tengan acceso a información más interactiva.
+  </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 4 Velocity</strong></td>
+    <td colspan="1">Para este sprint nuestro equipo puede aceptar hasta 40 story points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">La suma de story point atendidos es de 40 story point.</td>
+  </tr>
+</table>
+
+##### 5.2.4.2. Sprint Backlog 4
+
+En este item se detalla el Sprint Backlog del tercer sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
+A continuación, se presenta un desglose detallado de las user stories implementadas durante el Sprint 4. Esta tabla muestra el progreso de cada historia, incluyendo su estado actual, las evidencias de su finalización y cualquier observación relevante.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint4</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td>US001</td>
+    <td>Creación de cuenta</td>
+    <td>T01</td>
+    <td>Implementar componente de registro</td>
+    <td>Crear el componente que permita registrar usuarios en el sistema.</td>
+    <td>6</td>
+    <td>Juan Diego Astonitas Diaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US002</td>
+    <td>Inicio de sesión de usuario</td>
+    <td>T02</td>
+    <td>Crear funcionalidad de login</td>
+    <td>Implementar validación y flujo de inicio de sesión para los usuarios.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Diaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US005</td>
+    <td>Registro de perfil de empresa</td>
+    <td>T04</td>
+    <td>Crear vista y funcionalidad para perfiles empresariales</td>
+    <td>Diseñar el perfil que permita a las empresas gestionar su información en la plataforma.</td>
+    <td>6</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS001</td>
+    <td>Endpoint para registro</td>
+    <td>T05</td>
+    <td>Crear endpoint para registro</td>
+    <td>Implementar el endpoint para permitir el registro de usuarios y compañías.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US012</td>
+    <td>Appointments</td>
+    <td>T06</td>
+    <td>Restructuraczión del bounded context Appointments</td>
+    <td>Cambiar el formato para mostrar solo la fecha sin la hora en Appointments e implementar la conexión al API.</td>
+    <td>5</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US013</td>
+    <td>Reviews</td>
+    <td>T07</td>
+    <td>Restructuraczión del bounded context Reviews</td>
+    <td>Revisar formatos y tipos de datos en las entidades de front end, e implementar la conexión con el API.</td>
+    <td>5</td>
+    <td>Elvia Marcela Rodríguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US015-16</td>
+    <td>Services</td>
+    <td>T08</td>
+    <td>Restructurazión del bounded context Service management</td>
+    <td>Ajustar los formularios de creación y actualización de servicios e implementar la conexión entre frontend y API.</td>
+    <td>6</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>TS016-17</td>
+    <td>Información de compañía</td>
+    <td>T09</td>
+    <td>Revisar y ajustar estilos</td>
+    <td>Mejorar textos, encabezados y espaciados en la sección de información de la compañía. Asociar y mostrar las reviews con sus respectivas compañías</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>To-Do</td>
+  </tr>
+</table>
+
+##### 5.2.4.3. Development Evidence for Sprint Review
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 4.
+
+**Commits realizados en el repositorio de la Landing Page durante el sprint 4:**
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/Landing-Page</td>
+    <td>main</td>
+    <td>41f78ce1</td>
+    <td>fix(videos): fixed video placements.</td>
+    <td>fix(videos): fixed video placements.</td>
+    <td>11/11/2024</td>
+  </tr>
+</table>
+
+**Commits realizados en el repositorio de frontend durante el sprint 4:**
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">d37ddc2c</td>
+    <td colspan="1">feat: added new method to format the date string in client appointments.</td>
+    <td colspan="1">feat: added new method to format the date string in client appointments.</td>
+    <td colspan="1">11/11/2024 12:49</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">dd82d283</td>
+    <td colspan="1">feat: changed style from main appointment card.</td>
+    <td colspan="1">feat: changed style from main appointment card.</td>
+    <td colspan="1">11/11/2024 12:50</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">77f7faea</td>
+    <td colspan="1">feat: added new appointments with new format date.</td>
+    <td colspan="1">feat: added new appointments with new format date.</td>
+    <td colspan="1">11/11/2024 12:50</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">99a44420</td>
+    <td colspan="1">feat: added new method to format the date string in business appointments, and changed style of cancel button.</td>
+    <td colspan="1">feat: added new method to format the date string in business appointments, and changed style of cancel button.</td>
+    <td colspan="1">11/11/2024 12:50</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/backend-test</td>
+    <td colspan="1">6618b803</td>
+    <td colspan="1">fix: fixed endpoint to work with backend.</td>
+    <td colspan="1">fix: fixed endpoint to work with backend.</td>
+    <td colspan="1">14/11/2024 02:20</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/backend-test</td>
+    <td colspan="1">f770315a</td>
+    <td colspan="1">fix: handle missing serviceId and companyId in appointments.</td>
+    <td colspan="1">fix: handle missing serviceId and companyId in appointments.</td>
+    <td colspan="1">14/11/2024 02:22</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/backend-test</td>
+    <td colspan="1">8e326a07</td>
+    <td colspan="1">feat: added defaultBusinessId to work with backend.</td>
+    <td colspan="1">feat: added defaultBusinessId to work with backend.</td>
+    <td colspan="1">14/11/2024 02:23</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointments-management</td>
+    <td colspan="1">7d6c2c57</td>
+    <td colspan="1">feat: added new URL to connect with backend.</td>
+    <td colspan="1">feat: added new URL to connect with backend.</td>
+    <td colspan="1">14/11/2024 15:06</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointments-management</td>
+    <td colspan="1">5da2c47a</td>
+    <td colspan="1">fix: added new method to format date.</td>
+    <td colspan="1">fix: added new method to format date.</td>
+    <td colspan="1">14/11/2024 15:07</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointments-management</td>
+    <td colspan="1">4f52713</td>
+    <td colspan="1">fix: fixed route to display data from backend endpoint.</td>
+    <td colspan="1">fix: fixed route to display data from backend endpoint.</td>
+    <td colspan="1">14/11/2024 15:30</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointments-management</td>
+    <td colspan="1">36ff75eb</td>
+    <td colspan="1">feat: added new logic to fetch business data from backend endpoints.</td>
+    <td colspan="1">feat: added new logic to fetch business data from backend endpoints.</td>
+    <td colspan="1">14/11/2024 15:31</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/business-service-management</td>
+    <td colspan="1">c52e34e8</td>
+    <td colspan="1">feat: added imports on business appointment list component.</td>
+    <td colspan="1">feat: added imports on business appointment list component.</td>
+    <td colspan="1">14/11/2024 15:47</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointments-management</td>
+    <td colspan="1">8c1ee6b8</td>
+    <td colspan="1">fix: fixed fetch to obtain pending appointments.</td>
+    <td colspan="1">fix: fixed fetch to obtain pending appointments.</td>
+    <td colspan="1">14/11/2024 16:53</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">6e9fb23d</td>
+    <td colspan="1">fix(service-management): corrected styles for client side services display.</td>
+    <td colspan="1">fix(service-management): corrected styles for client side services display.</td>
+    <td colspan="1">16/11/2024 13:38</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">64eab396</td>
+    <td colspan="1">fix(service-management): fixed service api service.</td>
+    <td colspan="1">fix(service-management): fixed service api service.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">38a89f3f</td>
+    <td colspan="1">fix(service-management): added real category selection.</td>
+    <td colspan="1">fix(service-management): added real category selection.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">a0f3ee27</td>
+    <td colspan="1">fix(service-management): fixed service aggregate entity attributes.</td>
+    <td colspan="1">fix(service-management): fixed service aggregate entity attributes.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">333590fb</td>
+    <td colspan="1">fix(service-management): fixed service naming attributes and implemented api compatibility.</td>
+    <td colspan="1">fix(service-management): fixed service naming attributes and implemented api compatibility.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">2d4a3319</td>
+    <td colspan="1">fix(service-management): fixed fetching.</td>
+    <td colspan="1">fix(service-management): fixed fetching.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">5c9bce25</td>
+    <td colspan="1">fix(service-management): fixed fetching.</td>
+    <td colspan="1">fix(service-management): fixed fetching.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/home</td>
+    <td colspan="1">5779ab85</td>
+    <td colspan="1">feat(review): add get review by appointment id.</td>
+    <td colspan="1">feat(review): add get review by appointment id.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/home</td>
+    <td colspan="1">ffd8fce8</td>
+    <td colspan="1">feat(company-detail): add get companies by id.</td>
+    <td colspan="1">feat(company-detail): add get companies by id.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>  
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/home</td>
+    <td colspan="1">9d6ff2bd</td>
+    <td colspan="1">feat(company-detail): add review and update comapny response.</td>
+    <td colspan="1">feat(company-detail): add review and update comapny response.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>  
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/home</td>
+    <td colspan="1">04fc2aaa</td>
+    <td colspan="1">feat(appointment-management): add get appointments by company id.</td>
+    <td colspan="1">feat(appointment-management): add get appointments by company id.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">0112462e</td>
+    <td colspan="1">fix(appointments): fixed refactor entity.</td>
+    <td colspan="1">fix(appointments): fixed refactor entity.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>  
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">dd936a65</td>
+    <td colspan="1">fix(appointments): fixed entity calls and mapping.</td>
+    <td colspan="1">fix(appointments): fixed entity calls and mapping.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">f1b3398b</td>
+    <td colspan="1">fix(appointments): fixed entity calls and mapping.</td>
+    <td colspan="1">fix(appointments): fixed entity calls and mapping.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">3a33b8c2</td>
+    <td colspan="1">feat: reviewmanagement integration</td>
+    <td colspan="1">feat: reviewmanagement integration</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">8033b81f</td>
+    <td colspan="1">feat: reviewmanagement integration</td>
+    <td colspan="1">feat: reviewmanagement integration</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+ <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/home-company</td>
+    <td>9c2d2134</td>
+    <td>feat(home-company): update the reviews response.</td>
+    <td>feat(home-company): update the reviews response.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/home-client</td>
+    <td>73555534</td>
+    <td>feat(home-client): update best services.</td>
+    <td>feat(home-client): update best services.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/home-client</td>
+    <td>4896c3e1</td>
+    <td>feat(home-client): update service by category.</td>
+    <td>feat(home-client): update service by category.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/reviews</td>
+    <td>300aab9d</td>
+    <td>feat(reviews): add get reviews by company id.</td>
+    <td>feat(reviews): add get reviews by company id.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/iAm</td>
+    <td>85de9c6f</td>
+    <td>feat(iam): add iam responses.</td>
+    <td>feat(iam): add iam responses.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/iAm</td>
+    <td>0439d6b4</td>
+    <td>feat(iam): add state management required dependencies.</td>
+    <td>feat(iam): add state management required dependencies.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/company-detail-profile</td>
+    <td>10a9e136</td>
+    <td>feat(company-detail-profile): update style.</td>
+    <td>feat(company-detail-profile): update style.</td>
+    <td>20/11/2024</td>
+  </tr>
+</table>
+
+
+**Commits realizados en el repositorio de backend durante el sprint 4:**
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-test</td>
+    <td colspan="1">13a4d875</td>
+    <td colspan="1">feat: added new builders to work with Cors.</td>
+    <td colspan="1">feat: added new builders to work with Cors.</td>
+    <td colspan="1">14/11/2024 01:27</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-test</td>
+    <td colspan="1">7fc3f349</td>
+    <td colspan="1">feat: added Cors to communicate with frontend.</td>
+    <td colspan="1">feat: added Cors to communicate with frontend.</td>
+    <td colspan="1">14/11/2024 01:26</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-test</td>
+    <td colspan="1">9ea0a469</td>
+    <td colspan="1">feat: added Cors to communicate with frontend.</td>
+    <td colspan="1">feat: added Cors to communicate with frontend.</td>
+    <td colspan="1">14/11/2024 01:26</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-test</td>
+    <td colspan="1">45af1a41  </td>
+    <td colspan="1">refactor: renamed from ServiceController to ServicesController.</td>
+    <td colspan="1">refactor: renamed from ServiceController to ServicesController.</td>
+    <td colspan="1">14/11/2024 01:25</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-test</td>
+    <td colspan="1">45af1a41  </td>
+    <td colspan="1">refactor: renamed from ServiceController to ServicesController.</td>
+    <td colspan="1">refactor: renamed from ServiceController to ServicesController.</td>
+    <td colspan="1">14/11/2024 01:25</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">d3b7cf54</td>
+    <td colspan="1">feat(services): added method to update the service.</td>
+    <td colspan="1">feat(services): added method to update the service.</td>
+    <td colspan="1">19/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">56f4b18a</td>
+    <td colspan="1">feat(services): added update and delete command</td>
+    <td colspan="1">feat(services): added update and delete command</td>
+    <td colspan="1">19/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">0c29478a</td>
+    <td colspan="1">feat(services): implemented delete and updates commands</td>
+    <td colspan="1">feat(services): implemented delete and updates commands</td>
+    <td colspan="1">19/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">2392c396</td>
+    <td colspan="1">feat(services): added update and delete endpoints.</td>
+    <td colspan="1">feat(services): added update and delete endpoints.</td>
+    <td colspan="1">19/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">acb28c69</td>
+    <td colspan="1">fix: method return types for validation changed to bool</td>
+    <td colspan="1">fix: method return types for validation changed to bool</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">6a2e8325</td>
+    <td colspan="1">fix: reviewrepository naming convention fixed</td>
+    <td colspan="1">fix: reviewrepository naming convention fixed</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">30ad7767</td>
+    <td colspan="1">feat: reviewbyappoitmentid endpoint implemented</td>
+    <td colspan="1">feat: reviewbyappoitmentid endpoint implemented</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">3b8cb7d5</td>
+    <td colspan="1">fix(services): added missing attribute and fixed namings.</td>
+    <td colspan="1">fix(services): added missing attribute and fixed namings.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">282b7f3c</td>
+    <td colspan="1">fix(appointments): deleted unused endpoint.</td>
+    <td colspan="1">fix(appointments): deleted unused endpoint.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">0837486a</td>
+    <td colspan="1">feat: getallreviews endopint added</td>
+    <td colspan="1">feat: getallreviews endopint added</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">fb862458</td>
+    <td colspan="1">refactor: moved user files to iam context.</td>
+    <td colspan="1">refactor: moved user files to iam context.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">2866af6c</td>
+    <td colspan="1">feat(iam): add queries and commands.</td>
+    <td colspan="1">feat(iam): add queries and commands.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">c54cf90c</td>
+    <td colspan="1">feat(iam): add query and command service contracts.</td>
+    <td colspan="1">feat(iam): add query and command service contracts.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">243bd211</td>
+    <td colspan="1">feat(iam): add outbound service impl.</td>
+    <td colspan="1">feat(iam): add outbound service impl.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">d22c6502</td>
+    <td colspan="1">feat(iam): implement application layer.</td>
+    <td colspan="1">feat(iam): implement application layer.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">2a4442fe</td>
+    <td colspan="1">feat(iam): implement hashing and token service.</td>
+    <td colspan="1">feat(iam): implement hashing and token service.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">4717d769</td>
+    <td colspan="1">feat(iam): add resources and assemblers.</td>
+    <td colspan="1">feat(iam): add resources and assemblers.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">a7765da1</td>
+    <td colspan="1">fix: rm unused assembler.</td>
+    <td colspan="1">fix: rm unused assembler.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">1979a2e0</td>
+    <td colspan="1">feat(iam): add autorization atributes.</td>
+    <td colspan="1">feat(iam): add autorization atributes.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">0a77ab7e</td>
+    <td colspan="1">refactor: token services relocated.</td>
+    <td colspan="1">refactor: token services relocated.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">8527ce68</td>
+    <td colspan="1">docs(services-management): added documentation.</td>
+    <td colspan="1">docs(services-management): added documentation.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">791daa7c</td>
+    <td colspan="1">feat(appointment): add get appointment by company Id query.</td>
+    <td colspan="1">feat(appointment): add get appointment by company Id query.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">53974d47</td>
+    <td colspan="1">feat(appointment): add new task search by company id.</td>
+    <td colspan="1">feat(appointment): add new task search by company id.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">e7cfc1bc</td>
+    <td colspan="1">feat(appointment): add new hadle.</td>
+    <td colspan="1">feat(appointment): add new hadle.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">da2b749c</td>
+    <td colspan="1">feat(appointment): add repository search by company id.</td>
+    <td colspan="1">feat(appointment): add repository search by company id.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">90b7a3a7</td>
+    <td colspan="1">feat(appointment): add GetAppointmentByCompanyId.</td>
+    <td colspan="1">feat(appointment): add GetAppointmentByCompanyId.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">5e99fb64</td>
+    <td colspan="1">feat(appointment): add company appointment controller.</td>
+    <td colspan="1">feat(appointment): add company appointment controller.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">f9d96455</td>
+    <td colspan="1">fix(appointments): fixed get by company id endpoint.</td>
+    <td colspan="1">fix(appointments): fixed get by company id endpoint.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">c2adfcb8</td>
+    <td colspan="1">feat(iam): add authorization middleware extensions.</td>
+    <td colspan="1">feat(iam): add authorization middleware extensions.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">d073281e</td>
+    <td colspan="1">feat(iam): add resources and assemblers for sign in.</td>
+    <td colspan="1">feat(iam): add resources and assemblers for sign in.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">aa193f11</td>
+    <td colspan="1">feat(iam): add controllers for iam and users.</td>
+    <td colspan="1">feat(iam): add controllers for iam and users.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">11056693</td>
+    <td colspan="1">feat(iam): add run configuration.</td>
+    <td colspan="1">feat(iam): add run configuration.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">ffa9a3f2</td>
+    <td colspan="1">fix: add missing dependencies.</td>
+    <td colspan="1">fix: add missing dependencies.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">04ef3546</td>
+    <td colspan="1">feat(iam): add token secret.</td>
+    <td colspan="1">feat(iam): add token secret.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+</table>
+
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+En esta sección se presentan los resultados de la ejecución de la suite de pruebas para el sprint 4.
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados en las pruebas de la lógica de negocio. Cada entrada incluye el identificador único del commit (ID) y una descripción concisa del cambio realizado.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feature/testing </td>
+    <td colspan="1"> a2a4c26f </td>
+    <td colspan="1"> feat(testing): add testing appointment.</td>
+    <td colspan="1"> feat(testing): add testing appointment.</td>
+    <td colspan="1"> 20/11/2024 </td>
+  </tr>
+</table>
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. A través de imágenes y un video demostrativo, podrás apreciar los resultados concretos de nuestro trabajo y comprender mejor cómo hemos dado forma a las funcionalidades del producto.
+
+![execution_landing1](resources/chapter-5/landing1.png)
+![execution_landing2](resources/chapter-5/landing2.png)
+![execution_landing3](resources/chapter-5/landing3.png)
+![execution_landing4](resources/chapter-5/landing4.png)
+![execution_landing5](resources/chapter-5/landing5.png)
+![execution_landing6](resources/chapter-5/landing6.png)
+![execution_frontIAM](resources/chapter-5/IAM.png)
+![execution_front1](resources/chapter-5/front1.png)
+![execution_front2](resources/chapter-5/front2.png)
+![execution_front3](resources/chapter-5/front3.png)
+![execution_front4](resources/chapter-5/front4.png)
+![execution_front5](resources/chapter-5/front5.png)
+![execution_front6](resources/chapter-5/front6.png)
+![execution_front7](resources/chapter-5/front7.png)
+![execution_front8](resources/chapter-5/front8.png)
+![execution_front9](resources/chapter-5/front9.png)
+![execution_front10](resources/chapter-5/front10.png)
+![execution_front11](resources/chapter-5/front11.png)
+![execution_front12](resources/chapter-5/front12.png)
+![execution_front13](resources/chapter-5/front13.png)
+![execution_front14](resources/chapter-5/front14.png)
+![execution_front15](resources/chapter-5/front15.png)
+![execution_front16](resources/chapter-5/front16.png)
+![execution_front17](resources/chapter-5/front17.png)
+![execution_front18](resources/chapter-5/front18.png)
+![execution_front19](resources/chapter-5/front19.png)
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint se logró documentar 2 endpoints repartidos en 1 controllador siendo service controller. Para la documentación de los servicios se utilizó Swagger, una herramienta que permite documentar y probar servicios REST de manera sencilla y rápida. Para acceder a la documentación de los servicios se debe ingresar a la URL del servidor en el puerto designado según el tipo de ejecución (http, https, IIS), seguido de /swagger/index.html.
+
+**ServiceController** <br>
+
+Se muestra la documentación de los servicios del controlador de servicios.
+
+<table>
+    <tr>
+        <th colspan="1"> Tag </th>
+        <th colspan="1"> Verbo http</th>
+        <th colspan="1"> Endpoint </th>
+        <th colspan="1"> Summary </th>
+        <th colspan="1"> Description </th>
+        <th colspan="1"> OperationId </th>
+    </tr>
+    <tr>
+        <td colspan="1"> Services </td>
+        <td colspan="1"> DELETE </td>
+        <td colspan="1"> /api/v1/service/{serviceId} </td>
+        <td colspan="1"> Delete a service by id </td>
+        <td colspan="1"> Delete a service from the system by its id </td>
+        <td colspan="1"> DeleteServiceById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> serviceId </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> no </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Services </td>
+        <td colspan="1"> PUT </td>
+        <td colspan="1"> /api/v1/service/{serviceId} </td>
+        <td colspan="1"> Update a service by id </td>
+        <td colspan="1"> Update the details of an existing service by its id </td>
+        <td colspan="1"> UpdateServiceById </td>
+    </tr>
+    <tr>
+        <td colspan="1"> Parameters </td>
+        <td colspan="2"> serviceId </td>
+        <td colspan="1"> Request body </td>
+        <td colspan="2"> si </td>
+    </tr>
+</table>
+
+![endpointevidence18](resources/chapter-5/backend-evidence-service1.png)
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+**Landing Page**
+Para hacer el deployment de la landing page se utilizó Github Pages, una funcionalidad de Github que permite hacer el deployment de páginas web de forma rápida y pública. Dentro del repositorio, en el apartado de settings , se encuentra la opcion de Pages.
+Enlace de la landing page: <a href="https://nrg3-appweb.github.io/Landing-Page/">https://nrg3-appweb.github.io/Landing-Page/</a>
+
+![landingdeployment1](resources/chapter-5/landing-deploy-1.png)
+
+Escogemos la opcion de hacer el deploy a través de una rama.
+![landingdeployment2](resources/chapter-5/landing-deploy-2.png)
+
+Escogemos la rama main.
+
+![landingdeployment3](resources/chapter-5/landing-deploy-3.png)
+
+Guadrdamos la configuracion usando el boton save
+![landingdeployment5](resources/chapter-5/landing-deploy-5.png)
+
+La página cargara en algunos minutos y se podra acceder a ella a través del link que se muestra en la parte superior.
+
+![landingdeployment6](resources/chapter-5/landing-deploy-6.png)
+
+**Frontend**
+Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma de deployment de aplicaciones web que permite hacer el deployment de aplicaciones web de forma sencilla y rápida.
+![deployment evidence9](resources/chapter-5/deployment-evidence-9.png)
+![deployment evidence10](resources/chapter-5/deployment-evidence-10.png)
+![deployment evidence11](resources/chapter-5/deployment-evidence-11.png)
+![deployment evidence12](resources/chapter-5/deployment-evidence-12.png)
+![deployment evidence13](resources/chapter-5/deployment-evidence-13.png)
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+Para este sprint se desarrollaron 3 productos siendo estos: landing page, web application y web services. Para la landing page hubo un solo encargado debido a que ya se encontraba en la etapa final de su desarrollo. Para lode más productos todo los integrantes participaron. La distribución de commit fue la siguiente:
+
+**Landing Page**
+Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de 1 commit.
+
+**Frontend**
+<img src="resources/sprint-4/front-1.png">
+<img src="resources/sprint-4/front-2.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: XX commits.
+- Gabriel Alexander Casas Sanchez: XX commits.
+- Gianluca Santino Pasquale Barrenechea: XX commits.
+- Godofredo Quispe Tipo: XX commits.
+- Elvia Marcela Rodriguez Villa: XX commits.
+
+**Backend**
+<img src="resources/sprint-4/back-1.png">
+<img src="resources/sprint-4/back-2.png">
+
+**Distribución de commits de commits:**
+- Juan Diego Astonitas Díaz: XX commits.
+- Gabriel Alexander Casas Sanchez: XX commits.
+- Gianluca Santino Pasquale Barrenechea: XX commits.
+- Godofredo Quispe Tipo: XX commits.
+- Elvia Marcela Rodriguez Villa: XX commits.
+
 ### 5.3. Validation Interviews
 En esta sección se presentan los detalles de las entrevistas de validación realizadas.
 
@@ -4622,56 +5651,60 @@ En esta sección se presentan los detalles de las entrevistas de validación rea
 
 Para el diseño de entrevistas se consideraron los siguientes aspectos:
 
-## Objetivo de la Entrevista
+**Objetivo de la Entrevista**
 
 Validar la usabilidad y efectividad de la landing page y la aplicación para cada uno de los segmentos de usuarios, asegurando que los flujos de usuario (user flows) sean intuitivos y satisfactorios.
-###### Elementos de Validación
+**Elementos de Validación**
 - **Landing Page**: Los usuarios interactuarán con la landing page para evaluar la claridad del mensaje, las llamadas a la acción (CTA), la navegación y el diseño.
 - **Aplicación**: Se guiará a los usuarios a través de flujos principales, como la reserva de servicios de belleza, la gestión de servicios y el sistema de feedback.
-##### User Flows a Validar
-###### Para el Segmento Cliente
+**User Flows a Validar**
+
+**Para el Segmento Cliente**
 1. **Navegación del Catálogo de Servicios**: Facilidad para encontrar y explorar servicios (manicure, pedicure, tratamientos faciales, etc.).
 2. **Proceso de Reserva**: Facilidad para reservar un servicio, seleccionar una hora y elegir un profesional.
 3. **Recepción de Servicios**: Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
-###### Para el Segmento Empresa
+   
+**Para el Segmento Empresa**
 1. **Visualización del Perfil de la Empresa**: Cómo la empresa visualiza su propio perfil.
 2. **Creación de Servicio**: Facilidad para crear y personalizar nuevos servicios.
 3. **Gestión de Reservas**: Capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
 4. **Recepción de Reviews y Feedback de Clientes**: Cómo las empresas reciben y gestionan reseñas de los clientes.
-##### Formato de Registro de la Entrevista
+
+**Formato de Registro de la Entrevista**
 1. **Datos del Entrevistado**:
    - Nombre y apellidos
    - Edad
    - Distrito de residencia
    - Dispositivo utilizado (smartphone, tablet, laptop)
-##### Preguntas para el Segmento Cliente
-###### Catálogo de Servicios
+
+**Preguntas para el Segmento Cliente**
+**Catálogo de Servicios**
 - ¿Fue fácil encontrar lo que buscabas en el catálogo?
 - ¿Cómo describirías la información presentada sobre los servicios?
 - ¿Algún momento te sentiste perdido al explorar el catálogo?
 - ¿Pudiste comparar fácilmente diferentes servicios? ¿Cómo mejorarías este proceso?
-###### Creación de Reserva de Cita
+**Creación de Reserva de Cita**
 - ¿Qué tan sencillo fue comenzar a reservar una cita?
 - Describe el flujo para crear una reserva. ¿Algún paso generó dudas?
 - ¿El sistema brindó suficiente retroalimentación al completar la reserva?
 - ¿Hubo obstáculos al elegir la fecha o el servicio adecuado?
-###### Visualización de Historial
+**Visualización de Historial**
 - Describe tu experiencia al buscar el historial de reservas. ¿Fue intuitivo?
 - ¿Pudiste encontrar la información fácilmente?
 - ¿Hay algo en el historial que cambiarías para mejorar la gestión de reservas pasadas?
-###### Reviews
+**Reviews**
 - Describe el proceso para dejar una review. ¿Fue sencillo?
 - ¿Recibiste suficiente guía para incluir tu review?
 - ¿Te resultó útil valorar tanto el servicio como al proveedor?
-##### Preguntas para el Segmento Empresa
-###### Visualización de Servicios
+**Preguntas para el Segmento Empresa**
+**Visualización de Servicios**
 - ¿Fue clara la visualización de los servicios de tu empresa en el perfil?
 - ¿Cómo fue la funcionalidad para actualizar o modificar los servicios?
-###### Creación de Servicio
+**Creación de Servicio**
 - Describe el proceso para crear un nuevo servicio. ¿Fue claro desde el principio?
 - ¿Qué tan intuitivo fue definir los detalles del servicio (nombre, precio, disponibilidad)?
 - ¿Recibiste suficiente orientación durante la creación del servicio?
-###### Gestión de Servicios y Reservas
+**Gestión de Servicios y Reservas**
 - ¿En qué medida el sistema te permite gestionar eficientemente los servicios?
 - ¿Qué desafíos enfrentaste al actualizar la información de la empresa y servicios?
 - ¿Qué aspectos del sistema valoras más en comparación con otras plataformas que usas?
@@ -4777,31 +5810,31 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 #### 5.3.3. Evaluaciones según heurísticas.
 En esta sección se presentan las evaluaciones de usabilidad de la landing page y la aplicación web de servicios de belleza y cuidado personal, basadas en heurísticas y principios de diseño.
 
-##### UX Heuristics & Principles Evaluation
+**UX Heuristics & Principles Evaluation**
 **Usability – Inclusive Design – Information Architecture**
 
-##### Información del Proyecto
+**Información del Proyecto**
 - **Carrera:** Ingeniería de Software
 - **Curso:** Aplicaciones Web
 - **Auditor:** NRG3
 - **Cliente:** NRG3
 - **Site o App a Evaluar:** Bliss
 
-##### Tareas a Evaluar
+**Tareas a Evaluar**
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-###### Para el Segmento Cliente:
+**Para el Segmento Cliente:**
 1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
 2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
 3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
 
-###### Para el Segmento Empresa:
+**Para el Segmento Empresa:**
 1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
 2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
 3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
 4. **Recepción de Reviews y Feedback de Clientes:** Evaluar cómo las empresas reciben y gestionan reseñas de los clientes.
 
-##### Escala de Severidad
+**Escala de Severidad**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 | Nivel | Descripción |
@@ -4811,7 +5844,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
 | 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
 
-#### Tabla Resumen
+**Tabla Resumen**
 La tabla de resumen muestra los problemas identificados, su nivel de severidad y el principio heurístico o diseño violado.
 
 
@@ -4825,44 +5858,44 @@ La tabla de resumen muestra los problemas identificados, su nivel de severidad y
 | 6  | Falta de confirmaciones en las acciones dentro del historial de reseñas| 2                  | Prevención de errores, ayuda a usuarios | Recepción de Reviews y Feedback de Clientes     |
 | 7  | No se puede responder a reseñas desde el perfil del servicio           | 3                  | Flexibilidad y eficiencia en la comunicación | Recepción de Reviews y Feedback de Clientes  |
 
-##### Descripción de Problemas
+**Descripción de Problemas**
 
-###### Problema #1: Navegación lenta y con muchos pasos entre secciones
+**Problema #1: Navegación lenta y con muchos pasos entre secciones**
 - **Tarea Evaluada:** Navegación del Catálogo de Servicios
 - **Recomendación:** Optimizar el flujo de navegación reduciendo la cantidad de clics necesarios entre las secciones clave. Implementar menús más rápidos y opciones de acceso directo.
 
-###### Problema #2: Falta de opciones de personalización en la creación de servicios
+**Problema #2: Falta de opciones de personalización en la creación de servicios**
 - **Tarea Evaluada:** Creación de Servicio
 - **Recomendación:** Agregar más opciones de personalización, como intervalos de tiempo predeterminados y tipos de servicios preconfigurados para mejorar la flexibilidad.
 
-###### Problema #3: Filtros ocupan demasiado espacio en la pantalla de búsqueda
+**Problema #3: Filtros ocupan demasiado espacio en la pantalla de búsqueda**
 - **Tarea Evaluada:** Navegación del Catálogo de Servicios
 - **Recomendación:** Reducir el tamaño de los filtros o permitir que se colapsen para maximizar el espacio disponible en la pantalla.
 
-###### Problema #4: Diálogos grandes con demasiada información no priorizada
+**Problema #4: Diálogos grandes con demasiada información no priorizada**
 - **Tarea Evaluada:** Visualización del Perfil de la Empresa
 - **Recomendación:** Simplificar los diálogos, mostrando solo la información esencial y permitiendo la expansión para detalles adicionales.
 
-###### Problema #5: Confusión en el mensaje "ver más" al seleccionar un review
+**Problema #5: Confusión en el mensaje "ver más" al seleccionar un review**
 - **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
 - **Recomendación:** Clarificar el mensaje "ver más" en la sección de reseñas, indicando claramente lo que se va a expandir o mostrar adicionalmente.
 
-###### Problema #6: Falta de confirmaciones en acciones dentro del historial de reseñas
+**Problema #6: Falta de confirmaciones en acciones dentro del historial de reseñas**
 - **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
 - **Recomendación:** Incluir mensajes de confirmación en cada acción del historial, como la publicación de una reseña o la modificación de una cita.
 
-###### Problema #7: No se puede responder a reseñas desde el perfil del servicio
+**Problema #7: No se puede responder a reseñas desde el perfil del servicio**
 - **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
 - **Recomendación:** Implementar una funcionalidad que permita a las empresas responder a reseñas directamente desde su perfil para facilitar la comunicación con los clientes.
 
-##### User Flows a Validar
+**User Flows a Validar**
 
-###### Para el Segmento Cliente:
+**Para el Segmento Cliente:**
 1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
 2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
 3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
 
-###### Para el Segmento Empresa:
+**Para el Segmento Empresa:**
 1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
 2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
 3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas, visualizar y modificar citas de clientes.
@@ -4879,14 +5912,13 @@ La tabla de resumen muestra los problemas identificados, su nivel de severidad y
 
 ## Conclusiones
 
-- El proyecto Bliss aborda una necesidad creciente en el mercado de servicios de belleza y cuidado personal, donde la demanda por conveniencia y personalización sigue en aumento. Al ofrecer una plataforma que facilita la búsqueda, reserva y pago de estos servicios, Bliss se posiciona estratégicamente para capturar la atención de clientes y proveedores que buscan eficiencia y calidad en sus interacciones. Esta solución no solo mejora la experiencia del usuario, sino que también contribuye a la formalización y profesionalización de un sector con gran potencial de crecimiento.
+El desarrollo de la aplicación web "Bliss" ha evidenciado la creciente necesidad de soluciones digitales en el sector de servicios de belleza y cuidado personal. A medida que la demanda por conveniencia y personalización aumenta, se hace imperativo contar con plataformas que faciliten la búsqueda, reserva y pago de estos servicios. Este proyecto ha permitido identificar y abordar las expectativas de los usuarios, así como la importancia de ofrecer un entorno seguro y confiable para la interacción entre clientes y proveedores.
 
-- Uno de los diferenciadores clave de Bliss es su enfoque en la verificación de profesionales y la personalización del servicio. Estas estrategias no solo garantizan la calidad y confiabilidad de los servicios ofrecidos, sino que también alinean la propuesta de valor de Bliss con las expectativas de sus usuarios. Esta atención al detalle y compromiso con la satisfacción del cliente permitirá a Bliss destacarse en un mercado competitivo, ofreciendo una experiencia de usuario superior y generando confianza entre sus usuarios.
+A lo largo del proceso, se han identificado varias áreas de mejora que podrían optimizar la funcionalidad y la experiencia del usuario. Por ejemplo, la implementación de un sistema de notificaciones para recordatorios de citas y la posibilidad de ofrecer promociones personalizadas a través de la aplicación podrían incrementar la satisfacción del cliente y fomentar la fidelización. Además, se sugiere la inclusión de un sistema de evaluación más detallado que permita a los usuarios calificar y comentar sobre los servicios recibidos, lo que contribuiría a la mejora continua de la calidad ofrecida.
 
-- El análisis competitivo ha identificado tanto fortalezas como áreas de oportunidad para Bliss en comparación con sus principales competidores. Para afrontar estos desafíos, Bliss implementará tácticas enfocadas en la optimización de la interfaz de usuario, la flexibilidad en la programación y la garantía de calidad en los servicios. Estas estrategias, combinadas con incentivos y colaboraciones estratégicas, permitirán a Bliss no solo enfrentar las amenazas del mercado, sino también capitalizar las oportunidades para crecer y consolidarse como líder en su sector.
+En términos de autocrítica, es fundamental reconocer que, aunque se han realizado esfuerzos significativos en el desarrollo de la plataforma, la integración de ciertas funcionalidades podría haberse llevado a cabo de manera más eficiente. La falta de pruebas exhaustivas en etapas tempranas del desarrollo puede haber limitado la identificación de errores y la optimización de la interfaz de usuario. En futuros proyectos, es crucial establecer un enfoque más riguroso en la fase de pruebas y validación, asegurando que la aplicación no solo cumpla con los requisitos funcionales, sino que también ofrezca una experiencia de usuario fluida y satisfactoria.
 
-- El desarrollo de Bliss está alineado con su visión de ser un referente en la industria de la belleza y cuidado personal, ofreciendo experiencias personalizadas y contribuyendo a la formalización del sector. A medida que la plataforma evolucione, Bliss podrá expandir sus servicios y adaptarse a las necesidades cambiantes del mercado, siempre manteniendo un enfoque en la calidad y satisfacción del cliente. Esta proyección a futuro refuerza el compromiso de Bliss de no solo crecer como empresa, sino también de impactar positivamente en la industria y en la vida de sus usuarios.
-
+En conclusión, el proyecto "Bliss" no solo aborda una necesidad real en el mercado, sino que también proporciona una base sólida para futuras mejoras y desarrollos en el ámbito de las aplicaciones web para servicios de belleza. La experiencia adquirida a lo largo de este proceso será invaluable para el crecimiento y la evolución de la plataforma.
 ## Bibliografía
 
 ## Anexos
