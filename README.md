@@ -4672,11 +4672,11 @@ Enlace al trello: <a href="https://trello.com/invite/b/672d2127f1207fa789f35e3d/
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 4 Velocity</strong></td>
-    <td colspan="1">Para este sprint nuestro equipo puede aceptar hasta 23 story points</td>
+    <td colspan="1">Para este sprint nuestro equipo puede aceptar hasta 40 story points</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sum of Story Points</strong></td>
-    <td colspan="1">La suma de story point atendidos es de story point.</td>
+    <td colspan="1">La suma de story point atendidos es de 40 story point.</td>
   </tr>
 </table>
 
