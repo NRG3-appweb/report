@@ -5026,6 +5026,28 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 ![execution_landing5](resources/chapter-5/landing5.png)
 ![execution_landing6](resources/chapter-5/landing6.png)
 
+**Agregar evidencias del login en el front**
+
+![execution_front1](resources/chapter-5/front1.png)
+![execution_front2](resources/chapter-5/front2.png)
+![execution_front3](resources/chapter-5/front3.png)
+![execution_front4](resources/chapter-5/front4.png)
+![execution_front5](resources/chapter-5/front5.png)
+![execution_front6](resources/chapter-5/front6.png)
+![execution_front7](resources/chapter-5/front7.png)
+![execution_front8](resources/chapter-5/front8.png)
+![execution_front9](resources/chapter-5/front9.png)
+![execution_front10](resources/chapter-5/front10.png)
+![execution_front11](resources/chapter-5/front11.png)
+![execution_front12](resources/chapter-5/front12.png)
+![execution_front13](resources/chapter-5/front13.png)
+![execution_front14](resources/chapter-5/front14.png)
+![execution_front15](resources/chapter-5/front15.png)
+![execution_front16](resources/chapter-5/front16.png)
+![execution_front17](resources/chapter-5/front17.png)
+![execution_front18](resources/chapter-5/front18.png)
+![execution_front19](resources/chapter-5/front19.png)
+
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Para este sprint se logró documentar 23 endpoints repartidos en 5 controladores siendo estos el appointment controller, review controller, service controller, category controller y company controller. Para la documentación de los servicios se utilizó Swagger, una herramienta que permite documentar y probar servicios REST de manera sencilla y rápida. Para acceder a la documentación de los servicios se debe ingresar a la URL del servidor en el puerto designado según el tipo de ejecución (http, https, IIS), seguido de /swagger/index.html.
