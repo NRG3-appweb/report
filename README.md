@@ -65,7 +65,18 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 - Gabriel Alexander Casas Sanchez: 12
 - Gianluca Santino Pasquale Barrenechea: 25
 - Godofredo Quispe Tipo: 4
-- Elvia Marcela Rodriguez Villa: 4
+- Elvia Marcela Rodríguez Villa: 4
+
+TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/NRG3-appweb. Para elaborar el informe cada miembro corrigio y añadio puntos que se  debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/NRG3-appweb/report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/NRG3-appweb/frontend, por ultimo el desarrollo del backend se realizó en el siguiente enlace: https://github.com/NRG3-appweb/backend.
+
+**Vista de commits del reporte:**
+<img src="resources/sprint-4/report.png">
+
+- Juan Diego Astonitas Díaz: 
+- Gabriel Alexander Casas Sanchez: 
+- Gianluca Santino Pasquale Barrenechea: 
+- Godofredo Quispe Tipo: 
+- Elvia Marcela Rodríguez Villa: 
 
 ### Repartición de tareas:
 
@@ -98,6 +109,16 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del TB2, las cu
 | Gianluca Santino Pasquale Barrenechea | Elaboración del web application y web service.                 |
 | Juan Diego Astonitas Díaz             | Elaboración del web application y web service.                 |
 | Godofreado Quispe Tipo                | Elaboración del web application y web service.                 |
+
+### TF1
+| Integrante                            | Tareas Asignadas                                                                                           |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Elvia Marcela Rodríguez Villa         | Desarrollo e integración de la sección de reseñas, asegurando su funcionalidad y pruebas para el paso a producción. |
+| Gabriel Alexander Casas Sánchez       | Implementación e integración de la sección de gestión de servicios, preparándola para la etapa de producción. |
+| Gianluca Santino Pasquale Barrenechea | Desarrollo e integración de la sección de reservas, asegurando la conexión con el sistema y su despliegue hacia producción. |
+| Juan Diego Astonitas Díaz             | Implementación de la sección de autenticación y gestión de reservas, incluyendo pruebas de seguridad y su integración hacia producción. |
+| Godofreado Quispe Tipo                | Desarrollo e integración de la página de inicio y perfil de la empresa, con pruebas finales antes de la transición a producción. |
+
 
 ## Contenido
 
@@ -4636,7 +4657,7 @@ Esto se confirmará cuando los clientes y dueños puedan registrarse e iniciar s
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 4 Velocity</strong></td>
-    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta story points</td>
+    <td colspan="1">Para este sprint nuestro equipo puede aceptar hasta 23 story points</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sum of Story Points</strong></td>
@@ -4735,7 +4756,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Corregir estilos y diseño</td>
     <td>Revisar márgenes, fuentes y alineación en la página principal.</td>
     <td>3</td>
-    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Elvia Marcela Rodríguez Villa</td>
     <td>To-Do</td>
   </tr>
   <tr>
@@ -4745,7 +4766,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Corregir visualización de componentes</td>
     <td>Ajustar la visualización para mayor consistencia y espaciado.</td>
     <td>3</td>
-    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Elvia Marcela Rodríguez Villa</td>
     <td>To-Do</td>
   </tr>
   <tr>
@@ -4775,7 +4796,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Ajustar formulario</td>
     <td>Validar diseño y comportamiento del formulario de My Services.</td>
     <td>4</td>
-    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Elvia Marcela Rodríguez Villa</td>
     <td>To-Do</td>
   </tr>
   <tr>
@@ -4785,7 +4806,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Revisar y corregir flujo</td>
     <td>Ajustar el flujo de redirección tras agregar o editar servicios.</td>
     <td>3</td>
-    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Elvia Marcela Rodríguez Villa</td>
     <td>To-Do</td>
   </tr>
 </table>
@@ -5415,14 +5436,13 @@ La tabla de resumen muestra los problemas identificados, su nivel de severidad y
 
 ## Conclusiones
 
-- El proyecto Bliss aborda una necesidad creciente en el mercado de servicios de belleza y cuidado personal, donde la demanda por conveniencia y personalización sigue en aumento. Al ofrecer una plataforma que facilita la búsqueda, reserva y pago de estos servicios, Bliss se posiciona estratégicamente para capturar la atención de clientes y proveedores que buscan eficiencia y calidad en sus interacciones. Esta solución no solo mejora la experiencia del usuario, sino que también contribuye a la formalización y profesionalización de un sector con gran potencial de crecimiento.
+El desarrollo de la aplicación web "Bliss" ha evidenciado la creciente necesidad de soluciones digitales en el sector de servicios de belleza y cuidado personal. A medida que la demanda por conveniencia y personalización aumenta, se hace imperativo contar con plataformas que faciliten la búsqueda, reserva y pago de estos servicios. Este proyecto ha permitido identificar y abordar las expectativas de los usuarios, así como la importancia de ofrecer un entorno seguro y confiable para la interacción entre clientes y proveedores.
 
-- Uno de los diferenciadores clave de Bliss es su enfoque en la verificación de profesionales y la personalización del servicio. Estas estrategias no solo garantizan la calidad y confiabilidad de los servicios ofrecidos, sino que también alinean la propuesta de valor de Bliss con las expectativas de sus usuarios. Esta atención al detalle y compromiso con la satisfacción del cliente permitirá a Bliss destacarse en un mercado competitivo, ofreciendo una experiencia de usuario superior y generando confianza entre sus usuarios.
+A lo largo del proceso, se han identificado varias áreas de mejora que podrían optimizar la funcionalidad y la experiencia del usuario. Por ejemplo, la implementación de un sistema de notificaciones para recordatorios de citas y la posibilidad de ofrecer promociones personalizadas a través de la aplicación podrían incrementar la satisfacción del cliente y fomentar la fidelización. Además, se sugiere la inclusión de un sistema de evaluación más detallado que permita a los usuarios calificar y comentar sobre los servicios recibidos, lo que contribuiría a la mejora continua de la calidad ofrecida.
 
-- El análisis competitivo ha identificado tanto fortalezas como áreas de oportunidad para Bliss en comparación con sus principales competidores. Para afrontar estos desafíos, Bliss implementará tácticas enfocadas en la optimización de la interfaz de usuario, la flexibilidad en la programación y la garantía de calidad en los servicios. Estas estrategias, combinadas con incentivos y colaboraciones estratégicas, permitirán a Bliss no solo enfrentar las amenazas del mercado, sino también capitalizar las oportunidades para crecer y consolidarse como líder en su sector.
+En términos de autocrítica, es fundamental reconocer que, aunque se han realizado esfuerzos significativos en el desarrollo de la plataforma, la integración de ciertas funcionalidades podría haberse llevado a cabo de manera más eficiente. La falta de pruebas exhaustivas en etapas tempranas del desarrollo puede haber limitado la identificación de errores y la optimización de la interfaz de usuario. En futuros proyectos, es crucial establecer un enfoque más riguroso en la fase de pruebas y validación, asegurando que la aplicación no solo cumpla con los requisitos funcionales, sino que también ofrezca una experiencia de usuario fluida y satisfactoria.
 
-- El desarrollo de Bliss está alineado con su visión de ser un referente en la industria de la belleza y cuidado personal, ofreciendo experiencias personalizadas y contribuyendo a la formalización del sector. A medida que la plataforma evolucione, Bliss podrá expandir sus servicios y adaptarse a las necesidades cambiantes del mercado, siempre manteniendo un enfoque en la calidad y satisfacción del cliente. Esta proyección a futuro refuerza el compromiso de Bliss de no solo crecer como empresa, sino también de impactar positivamente en la industria y en la vida de sus usuarios.
-
+En conclusión, el proyecto "Bliss" no solo aborda una necesidad real en el mercado, sino que también proporciona una base sólida para futuras mejoras y desarrollos en el ámbito de las aplicaciones web para servicios de belleza. La experiencia adquirida a lo largo de este proceso será invaluable para el crecimiento y la evolución de la plataforma.
 ## Bibliografía
 
 ## Anexos
