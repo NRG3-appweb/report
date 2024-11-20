@@ -5520,13 +5520,13 @@ A continuación se presenta un registro detallado de los commits realizados en e
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4.
 En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint. A través de imágenes y un video demostrativo, podrás apreciar los resultados concretos de nuestro trabajo y comprender mejor cómo hemos dado forma a las funcionalidades del producto.
 
-![execution_landing1](resources/chapter-5/landing1.png)
-![execution_landing2](resources/chapter-5/landing2.png)
-![execution_landing3](resources/chapter-5/landing3.png)
-![execution_landing4](resources/chapter-5/landing4.png)
-![execution_landing5](resources/chapter-5/landing5.png)
-![execution_landing6](resources/chapter-5/landing6.png)
-![execution_frontIAM](resources/chapter-5/IAM.png)
+![execution_landing1](resources/chapter-5/newlanding1.png)
+![execution_landing2](resources/chapter-5/newlanding2.png)
+![execution_landing3](resources/chapter-5/newlanding3.png)
+![execution_landing4](resources/chapter-5/newlanding4.png)
+![execution_landing5](resources/chapter-5/newlanding5.png)
+![execution_landing6](resources/chapter-5/newlanding6.png)
+![execution_frontIAM](resources/chapter-5/newfrontIAM.png)
 ![execution_front1](resources/chapter-5/front1.png)
 ![execution_front2](resources/chapter-5/front2.png)
 ![execution_front3](resources/chapter-5/front3.png)
@@ -5546,6 +5546,8 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 ![execution_front17](resources/chapter-5/front17.png)
 ![execution_front18](resources/chapter-5/front18.png)
 ![execution_front19](resources/chapter-5/front19.png)
+![execution_front20](resources/chapter-5/back1.png)
+
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -5621,7 +5623,7 @@ La página cargara en algunos minutos y se podra acceder a ella a través del li
 **Frontend**
 Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma de deployment de aplicaciones web que permite hacer el deployment de aplicaciones web de forma sencilla y rápida.
 Enlace del frontend:
-<a href="https://bliss-front-test.vercel.app/">https://bliss-front-test.vercel.app/</a>
+<a href="https://bliss-front.vercel.app/">https://bliss-front.vercel.app/</a>
 
 ![deployment evidence9](resources/chapter-5/deployment-evidence-9.png)
 ![deployment evidence10](resources/chapter-5/deployment-evidence-10.png)
