@@ -4662,11 +4662,13 @@ Enlace al trello: <a href="https://trello.com/invite/b/672d2127f1207fa789f35e3d/
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 4 Goal</strong></td>
-    <td colspan="1">Nuestro enfoque está en ofrecer un sistema de autenticación a los usuarios finales (clientes y dueños), asegurar el acceso a información centralizada gracias a la integración, y proporcionar mayor información visual, como videos, para nuestros visitantes, además de los nuevos endpoints necesarios para los desarrolladores.
-
-Creemos que esto proporcionará una experiencia más segura y eficiente para los clientes y dueños, mejorará la gestión de los servicios, y permitirá a los desarrolladores utilizar más características relacionadas con la administración de usuarios y servicios dentro del ecosistema de la plataforma. A su vez, los visitantes podrán tomar decisiones más informadas.
-
-Esto se confirmará cuando los clientes y dueños puedan registrarse e iniciar sesión de manera segura, los dueños gestionen sus servicios (actualización y eliminación), los desarrolladores utilicen los nuevos endpoints y realicen pruebas de citas y reseñas, y los visitantes tengan acceso a información más interactiva.</td>
+    <td colspan="1">
+        Nuestro enfoque está en ofrecer un sistema de autenticación a los usuarios finales (clientes y dueños), asegurar el acceso a información centralizada gracias a la integración, y proporcionar mayor información visual, como videos, para nuestros visitantes, además de los nuevos endpoints necesarios para los desarrolladores.
+        <br><br>
+        Creemos que esto proporcionará una experiencia más segura y eficiente para los clientes y dueños, mejorará la gestión de los servicios, y permitirá a los desarrolladores utilizar más características relacionadas con la administración de usuarios y servicios dentro del ecosistema de la plataforma. A su vez, los visitantes podrán tomar decisiones más informadas.
+        <br><br>
+        Esto se confirmará cuando los clientes y dueños puedan registrarse e iniciar sesión de manera segura, los dueños gestionen sus servicios (actualización y eliminación), los desarrolladores utilicen los nuevos endpoints y realicen pruebas de citas y reseñas, y los visitantes tengan acceso a información más interactiva.
+  </td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 4 Velocity</strong></td>
@@ -4709,8 +4711,8 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar componente de registro</td>
     <td>Crear el componente que permita registrar usuarios en el sistema.</td>
     <td>6</td>
-    <td>Gabriel Alexander Casas Sanchez</td>
-    <td>To-Do</td>
+    <td>Juan Diego Astonitas Diaz</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US002</td>
@@ -4719,18 +4721,8 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear funcionalidad de login</td>
     <td>Implementar validación y flujo de inicio de sesión para los usuarios.</td>
     <td>4</td>
-    <td>Gabriel Alexander Casas Sanchez</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>US003</td>
-    <td>Recuperación de contraseña</td>
-    <td>T03</td>
-    <td>Diseño y desarrollo de recuperación</td>
-    <td>Implementar un flujo para recuperar contraseñas a través del correo electrónico.</td>
-    <td>5</td>
-    <td>Godofredo Quispe Tipo</td>
-    <td>To-Do</td>
+    <td>Juan Diego Astonitas Diaz</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US005</td>
@@ -4740,7 +4732,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Diseñar el perfil que permita a las empresas gestionar su información en la plataforma.</td>
     <td>6</td>
     <td>Elvia Marcela Rodriguez Villa</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>TS001</td>
@@ -4750,76 +4742,46 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar el endpoint para permitir el registro de usuarios y compañías.</td>
     <td>4</td>
     <td>Juan Diego Astonitas Díaz</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td>TS013-US012</td>
+    <td>US012</td>
     <td>Appointments</td>
     <td>T06</td>
-    <td>Corregir formato de fecha</td>
-    <td>Cambiar el formato para mostrar solo la fecha sin la hora en Appointments.</td>
-    <td>3</td>
+    <td>Restructuraczión del bounded context Appointments</td>
+    <td>Cambiar el formato para mostrar solo la fecha sin la hora en Appointments e implementar la conexión al API.</td>
+    <td>5</td>
     <td>Gianluca Santino Pasquale Barrenechea</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td>TS014-US010</td>
-    <td>Home</td>
+    <td>US013</td>
+    <td>Reviews</td>
     <td>T07</td>
-    <td>Corregir estilos y diseño</td>
-    <td>Revisar márgenes, fuentes y alineación en la página principal.</td>
-    <td>3</td>
+    <td>Restructuraczión del bounded context Reviews</td>
+    <td>Revisar formatos y tipos de datos en las entidades de front end, e implementar la conexión con el API.</td>
+    <td>5</td>
     <td>Elvia Marcela Rodríguez Villa</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td>TS015</td>
-    <td>Service</td>
+    <td>US015-16</td>
+    <td>Services</td>
     <td>T08</td>
-    <td>Corregir visualización de componentes</td>
-    <td>Ajustar la visualización para mayor consistencia y espaciado.</td>
-    <td>3</td>
-    <td>Elvia Marcela Rodríguez Villa</td>
+    <td>Restructurazión del bounded context Service management</td>
+    <td>Ajustar los formularios de creación y actualización de servicios e implementar la conexión entre frontend y API.</td>
+    <td>6</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
     <td>To-Do</td>
   </tr>
   <tr>
-    <td>TS016</td>
+    <td>TS016-17</td>
     <td>Información de compañía</td>
     <td>T09</td>
     <td>Revisar y ajustar estilos</td>
-    <td>Mejorar textos, encabezados y espaciados en la sección de información de la compañía.</td>
+    <td>Mejorar textos, encabezados y espaciados en la sección de información de la compañía. Asociar y mostrar las reviews con sus respectivas compañías</td>
     <td>4</td>
     <td>Godofredo Quispe Tipo</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>TS017</td>
-    <td>Reviews</td>
-    <td>T10</td>
-    <td>Asociar reviews con compañías</td>
-    <td>Implementar la funcionalidad para asociar y mostrar las reviews con sus respectivas compañías.</td>
-    <td>5</td>
-    <td>Godofredo Quispe Tipo</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>TS018</td>
-    <td>My Services</td>
-    <td>T11</td>
-    <td>Ajustar formulario</td>
-    <td>Validar diseño y comportamiento del formulario de My Services.</td>
-    <td>4</td>
-    <td>Elvia Marcela Rodríguez Villa</td>
-    <td>To-Do</td>
-  </tr>
-  <tr>
-    <td>TS019</td>
-    <td>Redirección</td>
-    <td>T12</td>
-    <td>Revisar y corregir flujo</td>
-    <td>Ajustar el flujo de redirección tras agregar o editar servicios.</td>
-    <td>3</td>
-    <td>Elvia Marcela Rodríguez Villa</td>
     <td>To-Do</td>
   </tr>
 </table>
@@ -4972,6 +4934,126 @@ En esta sección se presentan los commits realizados en el repositorio de backen
     <td colspan="1">fix(service-management): corrected styles for client side services display.</td>
     <td colspan="1">16/11/2024 13:38</td>
   </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">64eab396</td>
+    <td colspan="1">fix(service-management): fixed service api service.</td>
+    <td colspan="1">fix(service-management): fixed service api service.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">38a89f3f</td>
+    <td colspan="1">fix(service-management): added real category selection.</td>
+    <td colspan="1">fix(service-management): added real category selection.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">a0f3ee27</td>
+    <td colspan="1">fix(service-management): fixed service aggregate entity attributes.</td>
+    <td colspan="1">fix(service-management): fixed service aggregate entity attributes.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">333590fb</td>
+    <td colspan="1">fix(service-management): fixed service naming attributes and implemented api compatibility.</td>
+    <td colspan="1">fix(service-management): fixed service naming attributes and implemented api compatibility.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">2d4a3319</td>
+    <td colspan="1">fix(service-management): fixed fetching.</td>
+    <td colspan="1">fix(service-management): fixed fetching.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/service-management</td>
+    <td colspan="1">5c9bce25</td>
+    <td colspan="1">fix(service-management): fixed fetching.</td>
+    <td colspan="1">fix(service-management): fixed fetching.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/home</td>
+    <td colspan="1">5779ab85</td>
+    <td colspan="1">feat(review): add get review by appointment id.</td>
+    <td colspan="1">feat(review): add get review by appointment id.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/home</td>
+    <td colspan="1">ffd8fce8</td>
+    <td colspan="1">feat(company-detail): add get companies by id.</td>
+    <td colspan="1">feat(company-detail): add get companies by id.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>  
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/home</td>
+    <td colspan="1">9d6ff2bd</td>
+    <td colspan="1">feat(company-detail): add review and update comapny response.</td>
+    <td colspan="1">feat(company-detail): add review and update comapny response.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>  
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">fix/home</td>
+    <td colspan="1">04fc2aaa</td>
+    <td colspan="1">feat(appointment-management): add get appointments by company id.</td>
+    <td colspan="1">feat(appointment-management): add get appointments by company id.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">0112462e</td>
+    <td colspan="1">fix(appointments): fixed refactor entity.</td>
+    <td colspan="1">fix(appointments): fixed refactor entity.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>  
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">dd936a65</td>
+    <td colspan="1">fix(appointments): fixed entity calls and mapping.</td>
+    <td colspan="1">fix(appointments): fixed entity calls and mapping.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">f1b3398b</td>
+    <td colspan="1">fix(appointments): fixed entity calls and mapping.</td>
+    <td colspan="1">fix(appointments): fixed entity calls and mapping.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">3a33b8c2</td>
+    <td colspan="1">feat: reviewmanagement integration</td>
+    <td colspan="1">feat: reviewmanagement integration</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/frontend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">8033b81f</td>
+    <td colspan="1">feat: reviewmanagement integration</td>
+    <td colspan="1">feat: reviewmanagement integration</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
 </table>
 
 
@@ -5017,6 +5099,291 @@ En esta sección se presentan los commits realizados en el repositorio de backen
     <td colspan="1">refactor: renamed from ServiceController to ServicesController.</td>
     <td colspan="1">refactor: renamed from ServiceController to ServicesController.</td>
     <td colspan="1">14/11/2024 01:25</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-test</td>
+    <td colspan="1">45af1a41  </td>
+    <td colspan="1">refactor: renamed from ServiceController to ServicesController.</td>
+    <td colspan="1">refactor: renamed from ServiceController to ServicesController.</td>
+    <td colspan="1">14/11/2024 01:25</td>
+  </tr>
+  <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">d3b7cf54</td>
+    <td colspan="1">feat(services): added method to update the service.</td>
+    <td colspan="1">feat(services): added method to update the service.</td>
+    <td colspan="1">19/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">56f4b18a</td>
+    <td colspan="1">feat(services): added update and delete command</td>
+    <td colspan="1">feat(services): added update and delete command</td>
+    <td colspan="1">19/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">0c29478a</td>
+    <td colspan="1">feat(services): implemented delete and updates commands</td>
+    <td colspan="1">feat(services): implemented delete and updates commands</td>
+    <td colspan="1">19/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">2392c396</td>
+    <td colspan="1">feat(services): added update and delete endpoints.</td>
+    <td colspan="1">feat(services): added update and delete endpoints.</td>
+    <td colspan="1">19/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">acb28c69</td>
+    <td colspan="1">fix: method return types for validation changed to bool</td>
+    <td colspan="1">fix: method return types for validation changed to bool</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">6a2e8325</td>
+    <td colspan="1">fix: reviewrepository naming convention fixed</td>
+    <td colspan="1">fix: reviewrepository naming convention fixed</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">30ad7767</td>
+    <td colspan="1">feat: reviewbyappoitmentid endpoint implemented</td>
+    <td colspan="1">feat: reviewbyappoitmentid endpoint implemented</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">3b8cb7d5</td>
+    <td colspan="1">fix(services): added missing attribute and fixed namings.</td>
+    <td colspan="1">fix(services): added missing attribute and fixed namings.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">282b7f3c</td>
+    <td colspan="1">fix(appointments): deleted unused endpoint.</td>
+    <td colspan="1">fix(appointments): deleted unused endpoint.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/reviews</td>
+    <td colspan="1">0837486a</td>
+    <td colspan="1">feat: getallreviews endopint added</td>
+    <td colspan="1">feat: getallreviews endopint added</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">fb862458</td>
+    <td colspan="1">refactor: moved user files to iam context.</td>
+    <td colspan="1">refactor: moved user files to iam context.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">2866af6c</td>
+    <td colspan="1">feat(iam): add queries and commands.</td>
+    <td colspan="1">feat(iam): add queries and commands.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">c54cf90c</td>
+    <td colspan="1">feat(iam): add query and command service contracts.</td>
+    <td colspan="1">feat(iam): add query and command service contracts.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">243bd211</td>
+    <td colspan="1">feat(iam): add outbound service impl.</td>
+    <td colspan="1">feat(iam): add outbound service impl.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">d22c6502</td>
+    <td colspan="1">feat(iam): implement application layer.</td>
+    <td colspan="1">feat(iam): implement application layer.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">2a4442fe</td>
+    <td colspan="1">feat(iam): implement hashing and token service.</td>
+    <td colspan="1">feat(iam): implement hashing and token service.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">4717d769</td>
+    <td colspan="1">feat(iam): add resources and assemblers.</td>
+    <td colspan="1">feat(iam): add resources and assemblers.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">a7765da1</td>
+    <td colspan="1">fix: rm unused assembler.</td>
+    <td colspan="1">fix: rm unused assembler.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">1979a2e0</td>
+    <td colspan="1">feat(iam): add autorization atributes.</td>
+    <td colspan="1">feat(iam): add autorization atributes.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">0a77ab7e</td>
+    <td colspan="1">refactor: token services relocated.</td>
+    <td colspan="1">refactor: token services relocated.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/service-management</td>
+    <td colspan="1">8527ce68</td>
+    <td colspan="1">docs(services-management): added documentation.</td>
+    <td colspan="1">docs(services-management): added documentation.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">791daa7c</td>
+    <td colspan="1">feat(appointment): add get appointment by company Id query.</td>
+    <td colspan="1">feat(appointment): add get appointment by company Id query.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">53974d47</td>
+    <td colspan="1">feat(appointment): add new task search by company id.</td>
+    <td colspan="1">feat(appointment): add new task search by company id.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">e7cfc1bc</td>
+    <td colspan="1">feat(appointment): add new hadle.</td>
+    <td colspan="1">feat(appointment): add new hadle.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">da2b749c</td>
+    <td colspan="1">feat(appointment): add repository search by company id.</td>
+    <td colspan="1">feat(appointment): add repository search by company id.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">90b7a3a7</td>
+    <td colspan="1">feat(appointment): add GetAppointmentByCompanyId.</td>
+    <td colspan="1">feat(appointment): add GetAppointmentByCompanyId.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">5e99fb64</td>
+    <td colspan="1">feat(appointment): add company appointment controller.</td>
+    <td colspan="1">feat(appointment): add company appointment controller.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/appointment-management</td>
+    <td colspan="1">f9d96455</td>
+    <td colspan="1">fix(appointments): fixed get by company id endpoint.</td>
+    <td colspan="1">fix(appointments): fixed get by company id endpoint.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">c2adfcb8</td>
+    <td colspan="1">feat(iam): add authorization middleware extensions.</td>
+    <td colspan="1">feat(iam): add authorization middleware extensions.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">d073281e</td>
+    <td colspan="1">feat(iam): add resources and assemblers for sign in.</td>
+    <td colspan="1">feat(iam): add resources and assemblers for sign in.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">aa193f11</td>
+    <td colspan="1">feat(iam): add controllers for iam and users.</td>
+    <td colspan="1">feat(iam): add controllers for iam and users.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">11056693</td>
+    <td colspan="1">feat(iam): add run configuration.</td>
+    <td colspan="1">feat(iam): add run configuration.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">ffa9a3f2</td>
+    <td colspan="1">fix: add missing dependencies.</td>
+    <td colspan="1">fix: add missing dependencies.</td>
+    <td colspan="1">20/11/2024</td>
+  </tr>
+    <tr>
+    <td colspan="1">https://github.com/NRG3-appweb/backend</td>
+    <td colspan="1">feat/iam</td>
+    <td colspan="1">04ef3546</td>
+    <td colspan="1">feat(iam): add token secret.</td>
+    <td colspan="1">feat(iam): add token secret.</td>
+    <td colspan="1">20/11/2024</td>
   </tr>
 </table>
 
