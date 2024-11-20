@@ -5610,6 +5610,9 @@ La página cargara en algunos minutos y se podra acceder a ella a través del li
 
 **Frontend**
 Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma de deployment de aplicaciones web que permite hacer el deployment de aplicaciones web de forma sencilla y rápida.
+Enlace del frontend:
+<a href="https://bliss-front-test.vercel.app/">https://bliss-front-test.vercel.app/</a>
+
 ![deployment evidence9](resources/chapter-5/deployment-evidence-9.png)
 ![deployment evidence10](resources/chapter-5/deployment-evidence-10.png)
 ![deployment evidence11](resources/chapter-5/deployment-evidence-11.png)
@@ -5619,6 +5622,8 @@ Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma
 
 **Backend**
 Para hacer el deployment del backend se utilizó RailWay una plataforma de deployment de aplicaciones web que permite hacer el deployment de aplicaciones web de forma sencilla y rápida.
+Enlace del backend:
+<a href="https://backend-production-4c23.up.railway.app/swagger/index.html">https://backend-production-4c23.up.railway.app/swagger/index.html</a>
 
 <img src="resources/sprint-4/backend-deployment-1.png">
 <img src="resources/sprint-4/backend-deployment-2.png">
@@ -5637,7 +5642,8 @@ Para este sprint se desarrollaron 3 productos siendo estos: landing page, web ap
 
 **Landing Page**
 <img src="resources/sprint-4/landing-1.png">
-ccc
+<img src="resources/sprint-4/landing-2.png">
+
 
 **Distribución de commits de commits:**
 - Gabriel Alexander Casas Sanchez: 4 commits.
