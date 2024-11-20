@@ -234,7 +234,7 @@ del ABET – EAC - Student Outcome 5.
         TB1:<br> Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor producto.<br> 
         TP1:<br> Realicé una reunión antes de la entrega para colaborar como grupo en el desarrollo del proyecto. Establecí las bases para el desarrollo del proyecto. Ayudé a mis compañeros a comprender conceptos que desconocían.<br>  
         TB2:<br> Como líder de grupo realicé distintas reuniones virtuales y presenciales para trabajar de manera conjunta, promoviendo las consultas e intercambio de ideas entre los miembros de mi equipo. Establecí reglas de comunicación y una jerarquía basada en la división de contextos de trabajo.<br>
-        TF1: <br> <br>
+        TF1: <br> Como lider de grupo realicé distintas reuniones a lo largo del tiempo d edesarrollo del sprint para resolver dudas sobre la distirbución de tareas y ayudar a quienes necesitaban comprender aspectos de nuestro proyecto que no tenian claro, a su vez designe líderes para cada bounded context. <br>
       Elvia Rodríguez<br>
         TB1:<br> Durante el proyecto Bliss, mi enfoque ha sido mantener la cohesión del equipo, facilitando una comunicación fluida y asegurando que todas las voces fueran escuchadas. He trabajado mano a mano con mis compañeros para resolver conflictos y establecer un liderazgo compartido, lo que ha sido clave para el éxito del equipo.<br> 
         TP1: <br> <br>
@@ -265,7 +265,7 @@ del ABET – EAC - Student Outcome 5.
         TB1:<br> Durante el proyecto fue de mi prioridad ayudar a mis compañeros en la realización de sus tareas, por este motivo he revisado todo el proyecto, corregido errores, como también aportado a la creación de ítems externos a mis responsabilidades asignadas.<br> 
         TP1:<br> Establecí metas de entrega para el desarrollo de las actividades correspondientes a este ciclo de trabajo. Procuré que todos los miembros del equipo sean incluidos en la repartición de tareas.<br> 
         TB2:<br> Creé un servidor comunitario de comunicaciones para poder anclar mensajes y mantener la información importante sobre la repartición de tareas con un fácil acceso. Además de esto, se estableció una basada en un esquema de colores para dividir las tareas incluidas en el Trello del equipo. Procuré que la repartición de tareas sea la más equitativa posible.<br>
-        TF1: <br> <br>
+        TF1: <br> Desde el momento en el que nos dieron la retroalimentación de la anterior entrega realice un revisión de todo nuestro proyecto para definir las tareas que cada integrante realizaría. <br>
       Elvia Rodriguez<br>
         TB1:<br> A lo largo del proyecto Bliss, me he centrado en establecer un entorno de trabajo colaborativo e inclusivo, asegurándome de que cada miembro del equipo tuviera las herramientas y el apoyo necesarios para cumplir con sus tareas. Además, he liderado la planificación de actividades y el establecimiento de metas alcanzables para cumplir con los objetivos de manera eficiente.<br>
         TP1: <br> <br>
