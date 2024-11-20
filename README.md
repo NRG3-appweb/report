@@ -5620,29 +5620,34 @@ Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma
 Para este sprint se desarrollaron 3 productos siendo estos: landing page, web application y web services. Para la landing page hubo un solo encargado debido a que ya se encontraba en la etapa final de su desarrollo. Para lode más productos todo los integrantes participaron. La distribución de commit fue la siguiente:
 
 **Landing Page**
-Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de 1 commit.
+<img src="resources/sprint-4/landing-1.png">
+<img src="resources/sprint-4/landing-2.png">
+
+**Distribución de commits de commits:**
+- Gabriel Alexander Casas Sanchez: 4 commits.
+- Elvia Marcela Rodriguez Villa: 1 commits.
 
 **Frontend**
 <img src="resources/sprint-4/front-1.png">
 <img src="resources/sprint-4/front-2.png">
 
 **Distribución de commits de commits:**
-- Juan Diego Astonitas Díaz: XX commits.
-- Gabriel Alexander Casas Sanchez: XX commits.
-- Gianluca Santino Pasquale Barrenechea: XX commits.
-- Godofredo Quispe Tipo: XX commits.
-- Elvia Marcela Rodriguez Villa: XX commits.
+- Juan Diego Astonitas Díaz: 40 commits.
+- Gabriel Alexander Casas Sanchez: 35 commits.
+- Gianluca Santino Pasquale Barrenechea: 78 commits.
+- Godofredo Quispe Tipo: 50 commits.
+- Elvia Marcela Rodriguez Villa: 22 commits.
 
 **Backend**
 <img src="resources/sprint-4/back-1.png">
 <img src="resources/sprint-4/back-2.png">
 
 **Distribución de commits de commits:**
-- Juan Diego Astonitas Díaz: XX commits.
-- Gabriel Alexander Casas Sanchez: XX commits.
-- Gianluca Santino Pasquale Barrenechea: XX commits.
-- Godofredo Quispe Tipo: XX commits.
-- Elvia Marcela Rodriguez Villa: XX commits.
+- Juan Diego Astonitas Díaz: 92 commits.
+- Gabriel Alexander Casas Sanchez: 51 commits.
+- Gianluca Santino Pasquale Barrenechea: 24 commits.
+- Godofredo Quispe Tipo: 33 commits.
+- Elvia Marcela Rodriguez Villa: 38 commits.
 
 ### 5.3. Validation Interviews
 En esta sección se presentan los detalles de las entrevistas de validación realizadas.
