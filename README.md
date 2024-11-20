@@ -4796,7 +4796,8 @@ En esta sección se presentan los commits realizados en el repositorio de backen
 
 A continuación se presenta una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia demuestra el progreso realizado en el desarrollo y refinamiento de la Landing Page.
 
-**Tabla de commits de la landing-page**
+**Commits realizados en el repositorio de la Landing Page durante el sprint 4:**
+
 <table>
   <tr>
     <td colspan="1">Repository</td>
@@ -4816,7 +4817,7 @@ A continuación se presenta una recopilación de los commits realizados en la la
   </tr>
 </table>
 
-*Commits realizados en el repositorio de frontend durante el sprint 4:*
+**Commits realizados en el repositorio de frontend durante el sprint 4:**
 A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 
 <table>
@@ -5013,7 +5014,6 @@ A continuación se presenta un registro detallado de los commits realizados en e
   </tr>
 </table>
 
-
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4.
@@ -5050,342 +5050,7 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-Para este sprint se logró documentar 23 endpoints repartidos en 5 controladores siendo estos el appointment controller, review controller, service controller, category controller y company controller. Para la documentación de los servicios se utilizó Swagger, una herramienta que permite documentar y probar servicios REST de manera sencilla y rápida. Para acceder a la documentación de los servicios se debe ingresar a la URL del servidor en el puerto designado según el tipo de ejecución (http, https, IIS), seguido de /swagger/index.html.
-
-**AppointmentController** <br>
-
-Se muestra la documentación de los servicios del controlador de citas.
-
-<table>
-    <tr>
-        <th colspan="1"> Tag </th>
-        <th colspan="1"> Verbo http</th>
-        <th colspan="1"> Endpoint </th>
-        <th colspan="1"> Summary </th>
-        <th colspan="1"> Description </th>
-        <th colspan="1"> OperationId </th>
-    </tr>
-    <tr>
-        <td colspan="1"> Appointments </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/appointments/{appointmentId} </td>
-        <td colspan="1"> Get appointments by id </td>
-        <td colspan="1"> Get an appointments by the id it has </td>
-        <td colspan="1"> GetAppointmentById </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> appointmentId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Appointments </td>
-        <td colspan="1"> DELETE </td>
-        <td colspan="1"> /api/v1/appointments/{appointmentId} </td>
-        <td colspan="1"> Delete an appointment by id </td>
-        <td colspan="1"> Delete an appointment in a system by its id </td>
-        <td colspan="1"> DeleteAppointmentById </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> appointmentId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Appointments </td>
-        <td colspan="1"> PUT </td>
-        <td colspan="1"> /api/v1/appointments/{appointmentId} </td>
-        <td colspan="1"> Update an existing appointment </td>
-        <td colspan="1"> Update an appointment by its id </td>
-        <td colspan="1"> UpdateAppointmentById </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> appointmentId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> si </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Appointments </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/appointments/user/{userId} </td>
-        <td colspan="1"> Get appointments by user id </td>
-        <td colspan="1"> Get the appointments a user has </td>
-        <td colspan="1"> GetAppointmentsByUserId </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> userId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Appointments </td>
-        <td colspan="1"> POST </td>
-        <td colspan="1"> /api/v1/appointments </td>
-        <td colspan="1"> Create a new appointment </td>
-        <td colspan="1"> Create a new appointment in the system </td>
-        <td colspan="1"> CreateAppointment </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> no </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> si </td>
-    </tr>
-</table>
-
-![endpointevidence19](resources/chapter-5/endpoint-evidence-19.png)
-![endpointevidence18](resources/chapter-5/endpoint-evidence-18.png)
-![endpointevidence20](resources/chapter-5/endpoint-evidence-20.png)
-![endpointevidence21](resources/chapter-5/endpoint-evidence-21.png)
-![endpointevidence22](resources/chapter-5/endpoint-evidence-22.png)
-![endpointevidence24](resources/chapter-5/endpoint-evidence-24.png)
-![endpointevidence25](resources/chapter-5/endpoint-evidence-25.png)
-![endpointevidence26](resources/chapter-5/endpoint-evidence-26.png)
-
-**CategoryController** <br>
-
-Se muestra la documentación de los servicios del controlador de categorías.
-
-<table>
-    <tr>
-        <th colspan="1"> Tag </th>
-        <th colspan="1"> Verbo http</th>
-        <th colspan="1"> Endpoint </th>
-        <th colspan="1"> Summary </th>
-        <th colspan="1"> Description </th>
-        <th colspan="1"> OperationId </th>
-    </tr>
-    <tr>
-        <td colspan="1"> Categories </td>
-        <td colspan="1"> POST </td>
-        <td colspan="1"> /api/v1/categories </td>
-        <td colspan="1"> Create a new category </td>
-        <td colspan="1"> Create a new category in the system </td>
-        <td colspan="1"> CreateCategory </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> no </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> si </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Categories </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/categories </td>
-        <td colspan="1"> Get all categories </td>
-        <td colspan="1"> Get all categories in the system </td>
-        <td colspan="1"> GetAllCategories </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> no </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Categories </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/categories/{categoryId} </td>
-        <td colspan="1"> Get category by id </td>
-        <td colspan="1"> Get a category by its id </td>
-        <td colspan="1"> GetCategoryById </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> categoryId   </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-</table>
-
-![endpointevidence1](resources/chapter-5/endpoint-evidence-1.png)
-![endpointevidence12](resources/chapter-5/endpoint-evidence-12.png)
-![endpointevidence23](resources/chapter-5/endpoint-evidence-23.png)
-![endpointevidence34](resources/chapter-5/endpoint-evidence-34.png)
-![endpointevidence37](resources/chapter-5/endpoint-evidence-37.png)
-![endpointevidence38](resources/chapter-5/endpoint-evidence-38.png)
-![endpointevidence40](resources/chapter-5/endpoint-evidence-40.png)
-![endpointevidence41](resources/chapter-5/endpoint-evidence-41.png)
-
-**CompanyController** <br>
-
-Se muestra la documentación de los servicios del controlador de compañías.
-
-
-<table>
-    <tr>
-        <th colspan="1"> Tag </th>
-        <th colspan="1"> Verbo http</th>
-        <th colspan="1"> Endpoint </th>
-        <th colspan="1"> Summary </th>
-        <th colspan="1"> Description </th>
-        <th colspan="1"> OperationId </th>
-    </tr>
-    <tr>
-        <td colspan="1"> Companies </td>
-        <td colspan="1"> POST </td>
-        <td colspan="1"> /api/v1/companies </td>
-        <td colspan="1"> Create a new company </td>
-        <td colspan="1"> Create a new company in the system </td>
-        <td colspan="1"> CreateCompany </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> no </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> si </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Companies </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/companies </td>
-        <td colspan="1"> Get all company </td>
-        <td colspan="1"> Get all company in the system </td>
-        <td colspan="1"> GetAllCompanies </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> no </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Companies </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/companies/{companyId} </td>
-        <td colspan="1"> Get company by id </td>
-        <td colspan="1"> Get a company by its id </td>
-        <td colspan="1"> GetCompanyById </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> companyId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-</table>
-
-![endpointevidence2](resources/chapter-5/endpoint-evidence-2.png)
-![endpointevidence3](resources/chapter-5/endpoint-evidence-3.png)
-![endpointevidence4](resources/chapter-5/endpoint-evidence-4.png)
-![endpointevidence5](resources/chapter-5/endpoint-evidence-5.png)
-![endpointevidence6](resources/chapter-5/endpoint-evidence-6.png)
-![endpointevidence7](resources/chapter-5/endpoint-evidence-7.png)
-![endpointevidence8](resources/chapter-5/endpoint-evidence-8.png)
-
-**ReviewController** <br>
-
-Se muestra la documentación de los servicios del controlador de reseñas.
-
-<table>
-    <tr>
-        <th colspan="1"> Tag </th>
-        <th colspan="1"> Verbo http</th>
-        <th colspan="1"> Endpoint </th>
-        <th colspan="1"> Summary </th>
-        <th colspan="1"> Description </th>
-        <th colspan="1"> OperationId </th>
-    </tr>
-    <tr>
-        <td colspan="1"> Reviews </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/reviews/{reviewId}</td>
-        <td colspan="1"> Get review by id </td>
-        <td colspan="1"> Get a review by the id it has </td>
-        <td colspan="1"> GetReviewById </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> reviewId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Reviews </td>
-        <td colspan="1"> DELETE </td>
-        <td colspan="1"> /api/v1/reviews/{reviewId}</td>
-        <td colspan="1"> Delete a review by id </td>
-        <td colspan="1"> Delete a review in the system by its id </td>
-        <td colspan="1"> DeleteReviewById </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> reviewId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Reviews </td>
-        <td colspan="1"> PUT </td>
-        <td colspan="1"> /api/v1/reviews/{reviewId}</td>
-        <td colspan="1"> Update a review by id </td>
-        <td colspan="1"> Update a review in the system by its id </td>
-        <td colspan="1"> UpdateReviewById </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> reviewId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> si </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Reviews </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/reviews/user/{userId}</td>
-        <td colspan="1"> Get reviews by user id </td>
-        <td colspan="1"> Get the reviews a user has </td>
-        <td colspan="1"> GetReviewsByUserId </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> userId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Reviews </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/reviews/company/{companyId}</td>
-        <td colspan="1"> Get reviews by company id </td>
-        <td colspan="1"> Get the reviews a company has </td>
-        <td colspan="1"> GetReviewsByCompanyId </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> companyId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> no </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Reviews </td>
-        <td colspan="1"> POST </td>
-        <td colspan="1"> /api/v1/reviews</td>
-        <td colspan="1"> Create a new review </td>
-        <td colspan="1"> Create a new review in the system </td>
-        <td colspan="1"> CreateReview </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> no </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> si </td>
-    </tr>
-</table>
-
-![endpointevidence28](resources/chapter-5/endpoint-evidence-28.png)
-![endpointevidence27](resources/chapter-5/endpoint-evidence-27.png)
-![endpointevidence29](resources/chapter-5/endpoint-evidence-29.png)
-![endpointevidence30](resources/chapter-5/endpoint-evidence-30.png)
-![endpointevidence31](resources/chapter-5/endpoint-evidence-31.png)
-![endpointevidence32](resources/chapter-5/endpoint-evidence-32.png)
-![endpointevidence33](resources/chapter-5/endpoint-evidence-33.png)
-![endpointevidence35](resources/chapter-5/endpoint-evidence-35.png)
-![endpointevidence36](resources/chapter-5/endpoint-evidence-36.png)
+Para este sprint se logró documentar 2 endpoints repartidos en 1 controllador siendo service controller. Para la documentación de los servicios se utilizó Swagger, una herramienta que permite documentar y probar servicios REST de manera sencilla y rápida. Para acceder a la documentación de los servicios se debe ingresar a la URL del servidor en el puerto designado según el tipo de ejecución (http, https, IIS), seguido de /swagger/index.html.
 
 **ServiceController** <br>
 
@@ -5399,62 +5064,6 @@ Se muestra la documentación de los servicios del controlador de servicios.
         <th colspan="1"> Summary </th>
         <th colspan="1"> Description </th>
         <th colspan="1"> OperationId </th>
-    </tr>
-    <tr>
-        <td colspan="1"> Services </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/companies/{companyId}/services </td>
-        <td colspan="1"> Get all services by company id </td>
-        <td colspan="1"> Get all services for a company in the system </td>
-        <td colspan="1"> GetServicesByCompanyId </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> companyId  </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> si </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Services </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/service/{serviceId} </td>
-        <td colspan="1"> Get service by id </td>
-        <td colspan="1"> Get a service by its id </td>
-        <td colspan="1"> GetServiceById </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> serviceId </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> si </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Services </td>
-        <td colspan="1"> GET </td>
-        <td colspan="1"> /api/v1/service </td>
-        <td colspan="1"> Get all services </td>
-        <td colspan="1"> Get all services in the system </td>
-        <td colspan="1"> GetAllServices </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> no </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> si </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Services </td>
-        <td colspan="1"> POST </td>
-        <td colspan="1"> /api/v1/service </td>
-        <td colspan="1"> Create a new service </td>
-        <td colspan="1"> Create a new service in the system </td>
-        <td colspan="1"> CreateService </td>
-    </tr>
-    <tr>
-        <td colspan="1"> Parameters </td>
-        <td colspan="2"> no </td>
-        <td colspan="1"> Request body </td>
-        <td colspan="2"> si </td>
     </tr>
     <tr>
         <td colspan="1"> Services </td>
@@ -5486,16 +5095,7 @@ Se muestra la documentación de los servicios del controlador de servicios.
     </tr>
 </table>
 
-![endpointevidence10](resources/chapter-5/endpoint-evidence-10.png)
-![endpointevidence9](resources/chapter-5/endpoint-evidence-9.png)
-![endpointevidence11](resources/chapter-5/endpoint-evidence-11.png)
-![endpointevidence13](resources/chapter-5/endpoint-evidence-13.png)
-![endpointevidence14](resources/chapter-5/endpoint-evidence-14.png)
-![endpointevidence15](resources/chapter-5/endpoint-evidence-15.png)
-![endpointevidence16](resources/chapter-5/endpoint-evidence-16.png)
-![endpointevidence17](resources/chapter-5/endpoint-evidence-17.png)
-![endpointevidence18](resources/chapter-5/endpoint-evidence-18.png)
-![endpointevidence19](resources/chapter-5/endpoint-evidence-19.png)
+![endpointevidence18](resources/chapter-5/backend-evidence-service1.png)
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
@@ -5527,11 +5127,11 @@ Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma
 ![deployment evidence12](resources/chapter-5/deployment-evidence-12.png)
 ![deployment evidence13](resources/chapter-5/deployment-evidence-13.png)
 
-##### 5.2.3.8. Team Collaboration Insights during Sprint
+##### 5.2.4.8. Team Collaboration Insights during Sprint
 Para este sprint se desarrollaron 3 productos siendo estos: landing page, web application y web services. Para la landing page hubo un solo encargado debido a que ya se encontraba en la etapa final de su desarrollo. Para lode más productos todo los integrantes participaron. La distribución de commit fue la siguiente:
 
 **Landing Page**
-Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de X commits.
+Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de 1 commit.
 
 **Frontend**
 <img src="resources/sprint-4/front-1.png">
@@ -5554,7 +5154,6 @@ Para este sprint fue enteramente desarrollada por Gabriel Casas con un total de 
 - Gianluca Santino Pasquale Barrenechea: XX commits.
 - Godofredo Quispe Tipo: XX commits.
 - Elvia Marcela Rodriguez Villa: XX commits.
-
 
 ### 5.3. Validation Interviews
 En esta sección se presentan los detalles de las entrevistas de validación realizadas.
