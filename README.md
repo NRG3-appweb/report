@@ -4989,8 +4989,30 @@ A continuación se presenta un registro detallado de los commits realizados en e
   </tr>
 </table>
 
-
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+En esta sección se presentan los resultados de la ejecución de la suite de pruebas para el sprint 4.
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados en las pruebas de la lógica de negocio. Cada entrada incluye el identificador único del commit (ID) y una descripción concisa del cambio realizado.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1">  </td>
+    <td colspan="1"> </td>
+    <td colspan="1">  </td>
+    <td colspan="1"> 20/11/2024 </td>
+  </tr>
+</table>
+
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review
 
