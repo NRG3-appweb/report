@@ -237,13 +237,13 @@ del ABET – EAC - Student Outcome 5.
         TF1: <br> <br>
       Elvia Rodríguez<br>
         TB1:<br> Durante el proyecto Bliss, mi enfoque ha sido mantener la cohesión del equipo, facilitando una comunicación fluida y asegurando que todas las voces fueran escuchadas. He trabajado mano a mano con mis compañeros para resolver conflictos y establecer un liderazgo compartido, lo que ha sido clave para el éxito del equipo.<br> 
-        TP1: <br> <br>
+        TP1: <br> Durante el sprint he continuado manteniendo la cohesión de equipo y apoyando en la toma de decisiones a fin de asegurar el éxito de la presente entrega<br>
         TB2: <br> En esta entrega, he continuado promoviendo un liderazgo compartido, facilitando la toma de decisiones y asegurando que cada miembro del equipo se sienta valorado y escuchado. He trabajado en conjunto con mis compañeros para garantizar una comunicación efectiva y una distribución equitativa de responsabilidades, lo que ha fortalecido la cohesión y eficacia del grupo.<br>
-        TF1: <br> <br>
+        TF1: <br> En esta entrega final he continuado con mi apoyo en la toma de decisiones y en la distribución de tareas <br>
       Gianluca Pasquale<br>
         TB1:<br> He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br> 
         TP1:<br> Participé activamente en las reuniones de grupo y promoví el avance en conjunto para así lograr de manera satisfactoria las entregas del trabajo. <br> 
-        TB2: <br> Durante la entrega acate las tareas brindadas por el lider del grupo y asistí a todas las reuniones formadas para el avance del proyecto. He colaborado con mis compañeros en la planificación de tareas y en la definición de metas alcanzables. <br>  
+        TB2: <br> Durante la entrega acaté las tareas brindadas por el líder del grupo y asistí a todas las reuniones formadas para el avance del proyecto. He colaborado con mis compañeros en la planificación de tareas y en la definición de metas alcanzables. <br>  
         TF1:<br> Durante el desarrollo del proyecto, me aseguré de ser parte de un entorno colaborativo con mi grupo, y acatar con las responsabilidades correspondientes. <br>
     </td>
     <td>
@@ -268,18 +268,18 @@ del ABET – EAC - Student Outcome 5.
         TF1: <br> <br>
       Elvia Rodriguez<br>
         TB1:<br> A lo largo del proyecto Bliss, me he centrado en establecer un entorno de trabajo colaborativo e inclusivo, asegurándome de que cada miembro del equipo tuviera las herramientas y el apoyo necesarios para cumplir con sus tareas. Además, he liderado la planificación de actividades y el establecimiento de metas alcanzables para cumplir con los objetivos de manera eficiente.<br>
-        TP1: <br> <br>
-        TB2: <br> <br>
-        TF1: <br> <br>
+        TP1: <br> Durante las etapas iniciales del proyecto, me aseguré de realizar reuniones de equipo para fomentar una comunicación abierta y efectiva. Establecí dinámicas de trabajo que promovieran la inclusión, asignando tareas según las fortalezas individuales y ofreciendo apoyo constante a quienes enfrentaban desafíos técnicos. Gracias a este enfoque, logramos alcanzar los hitos iniciales a tiempo, como el desarrollo de las secciones clave y la integración de funcionalidades.<br>
+        TB2: <br> En la etapa de integración, lideré la coordinación de esfuerzos entre los miembros del equipo para garantizar que las diferentes secciones del proyecto se unieran de manera fluida. Implementé herramientas colaborativas como un tablero de tareas Kanban y organizamos sesiones de revisión de código en equipo, lo que permitió detectar y resolver posibles conflictos antes de la transición a producción. Este enfoque estructurado aseguró que todos los integrantes estuvieran alineados con los objetivos del proyecto.<br>
+        TF1: <br> En la etapa final del proyecto, supervisé el despliegue hacia producción, asegurándome de que todos los componentes estuvieran completamente funcionales y alineados con las especificaciones iniciales. Además, realicé una retrospectiva con el equipo para identificar áreas de mejora y documentar aprendizajes clave. El éxito del proyecto Bliss se debió en gran parte a la cultura colaborativa e inclusiva que fomentamos desde el inicio, asegurando tanto el cumplimiento de los objetivos técnicos como el crecimiento profesional de cada integrante. <br>
       Gianluca Pasquale<br>
         TB1:<br> He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br> 
         TP1:<br> Durante el desarrollo del proyecto, me aseguré de ser parte de un entorno colaborativo con mi grupo, y acatar con las responsabilidades correspondientes. <br> 
-        TB2: <br> Desarrolle funcionalidades de mostrar información detallada dentro del agendamiento para usuarios y compañias, además implemente un boton para cancelar la cita seleccionada, tanto como para usuario como para compañias. Además seguí de manera cercana las tareas establecidas en el Trello que se me fueron asignadas. <br>  
-        TF1: <br> Durante esta entrega desarrolle la conexión entre el frontend y backend, asegurando una comunicación fluida y funcional entre ambos.  <br>
+        TB2: <br> Desarrolle funcionalidades de mostrar información detallada dentro del agendamiento para usuarios y compañías, además implemente un botón para cancelar la cita seleccionada, tanto como para usuario como para compañías. Además seguí de manera cercana las tareas establecidas en el Trello que se me fueron asignadas. <br>  
+        TF1: <br> Durante esta entrega desarrollé la conexión entre el frontend y backend, asegurando una comunicación fluida y funcional entre ambos.  <br>
     </td>
     <td>
       TB1:<br> Durante el proyecto Bliss, hemos logrado crear un entorno inclusivo y colaborativo que ha facilitado la participación activa de todos los miembros del equipo. Hemos definido metas claras y planificado tareas detalladamente, lo que ha permitido un seguimiento efectivo del progreso y el cumplimiento de los objetivos. La colaboración y el apoyo mutuo han sido esenciales para asegurar que cada miembro del equipo se sintiera valorado y comprometido. Este enfoque ha contribuido significativamente a la eficiencia y éxito del proyecto.<br>
-      TP1: <br> <br>
+      TP1: <br> En la etapa de integración, lideré la coordinación de esfuerzos entre los miembros del equipo para garantizar que las diferentes secciones del proyecto se unieran de manera fluida. Implementé herramientas colaborativas como un tablero de tareas Kanban y organizamos sesiones de revisión de código en equipo, lo que permitió detectar y resolver posibles conflictos antes de la transición a producción. Este enfoque estructurado aseguró que todos los integrantes estuvieran alineados con los objetivos del proyecto. <br>
       TB2: <br> <br>
       TF1: <br> <br>
     </td>
