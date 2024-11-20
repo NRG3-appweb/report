@@ -225,25 +225,63 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>
-      Juan Astonitas<br>TB1:<br> Lideré el desarrollo del primer capítulo para tener una visión clara del proyecto. Asimismo, desarollé en conjunto la primera versión de nuestras historias de usuario <br>TP1:<br> Diseñé el header general y lo implementé junto a mis compañeros. Diseñé e implementé el listado de servicios y el detalle de los servicios junto a mis compañeros. <br>TB2:<br> Lideré el desarrollo de los endpoints para appointments, siendo esta una, guía clave para los demás. Colaboré en el replanteamiento de las respuestas de los endpoints para un mejor rendimiento y mantenibilidad. <br>
-      Gabriel Casas<br>TB1:<br> Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor producto.<br> TP1:<br> Realicé una reunión antes de la entrega para colaborar como grupo en el desarrollo del proyecto. Establecí las bases para el desarrollo del proyecto. Ayudé a mis compañeros a comprender conceptos que desconocían.<br> TB2:<br> Como líder de grupo realicé distintas reuniones virtuales y presenciales para trabajar de manera conjunta, promoviendo las consultas e intercambio de ideas entre los miembros de mi equipo. Establecí reglas de comunicación y una jerarquía basada en la división de contextos de trabajo.<br>
-      Elvia Rodríguez<br>TB1:<br> Durante el proyecto Bliss, mi enfoque ha sido mantener la cohesión del equipo, facilitando una comunicación fluida y asegurando que todas las voces fueran escuchadas. He trabajado mano a mano con mis compañeros para resolver conflictos y establecer un liderazgo compartido, lo que ha sido clave para el éxito del equipo.<br> TB2: <br> En esta entrega, he continuado promoviendo un liderazgo compartido, facilitando la toma de decisiones y asegurando que cada miembro del equipo se sienta valorado y escuchado. He trabajado en conjunto con mis compañeros para garantizar una comunicación efectiva y una distribución equitativa de responsabilidades, lo que ha fortalecido la cohesión y eficacia del grupo.<br>
-      Gianluca Pasquale<br>TB1:<br> He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br> TP1:<br> Participé activamente en las reuniones de grupo y promoví el avance en conjunto para así lograr de manera satisfactoria las entregas del trabajo. <br> TB2: <br> Durante la entrega acate las tareas brindadas por el lider del grupo y asistí a todas las reuniones formadas para el avance del proyecto. He colaborado con mis compañeros en la planificación de tareas y en la definición de metas alcanzables. <br>  
+      Juan Astonitas<br>
+        TB1:<br> Lideré el desarrollo del primer capítulo para tener una visión clara del proyecto. Asimismo, desarollé en conjunto la primera versión de nuestras historias de usuario <br>
+        TP1:<br> Diseñé el header general y lo implementé junto a mis compañeros. Diseñé e implementé el listado de servicios y el detalle de los servicios junto a mis compañeros. <br>
+        TB2:<br> Lideré el desarrollo de los endpoints para appointments, siendo esta una, guía clave para los demás. Colaboré en el replanteamiento de las respuestas de los endpoints para un mejor rendimiento y mantenibilidad. <br>
+        TF1: <br> <br>
+      Gabriel Casas<br>
+        TB1:<br> Para el desarrollo del proyecto he participado de manera activa tanto en la toma de decisiones como en la división de responsabilidades, de la misma manera he ayudado en responsabilidades de mis compañeros con el afán de entregar un mejor producto.<br> 
+        TP1:<br> Realicé una reunión antes de la entrega para colaborar como grupo en el desarrollo del proyecto. Establecí las bases para el desarrollo del proyecto. Ayudé a mis compañeros a comprender conceptos que desconocían.<br>  
+        TB2:<br> Como líder de grupo realicé distintas reuniones virtuales y presenciales para trabajar de manera conjunta, promoviendo las consultas e intercambio de ideas entre los miembros de mi equipo. Establecí reglas de comunicación y una jerarquía basada en la división de contextos de trabajo.<br>
+        TF1: <br> <br>
+      Elvia Rodríguez<br>
+        TB1:<br> Durante el proyecto Bliss, mi enfoque ha sido mantener la cohesión del equipo, facilitando una comunicación fluida y asegurando que todas las voces fueran escuchadas. He trabajado mano a mano con mis compañeros para resolver conflictos y establecer un liderazgo compartido, lo que ha sido clave para el éxito del equipo.<br> 
+        TP1: <br> <br>
+        TB2: <br> En esta entrega, he continuado promoviendo un liderazgo compartido, facilitando la toma de decisiones y asegurando que cada miembro del equipo se sienta valorado y escuchado. He trabajado en conjunto con mis compañeros para garantizar una comunicación efectiva y una distribución equitativa de responsabilidades, lo que ha fortalecido la cohesión y eficacia del grupo.<br>
+        TF1: <br> <br>
+      Gianluca Pasquale<br>
+        TB1:<br> He contribuido activamente en el liderazgo compartido, facilitando la toma de decisiones y promoviendo la responsabilidad colectiva.<br> 
+        TP1:<br> Participé activamente en las reuniones de grupo y promoví el avance en conjunto para así lograr de manera satisfactoria las entregas del trabajo. <br> 
+        TB2: <br> Durante la entrega acate las tareas brindadas por el lider del grupo y asistí a todas las reuniones formadas para el avance del proyecto. He colaborado con mis compañeros en la planificación de tareas y en la definición de metas alcanzables. <br>  
+        TF1:<br> Durante el desarrollo del proyecto, me aseguré de ser parte de un entorno colaborativo con mi grupo, y acatar con las responsabilidades correspondientes. <br>
     </td>
     <td>
       TB1:<br> A lo largo del desarrollo del proyecto Bliss, hemos demostrado una fuerte capacidad de liderazgo compartido, destacando la importancia de la toma de decisiones conjunta y la distribución equitativa de responsabilidades. Cada miembro del equipo ha aportado activamente, promoviendo una comunicación abierta y colaborando para superar desafíos, lo cual ha fortalecido la cohesión y efectividad del grupo. La responsabilidad colectiva y el apoyo mutuo han sido pilares clave que nos han permitido dirigir el proyecto hacia el cumplimiento exitoso de nuestros objetivos. Este enfoque de liderazgo conjunto ha sido fundamental para crear un entorno de trabajo inclusivo y productivo.<br>
+      TP1: <br> <br>
+      TB2: <br> <br>
+      TF1: <br> <br>
     </td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
-      Juan Astonitas<br>TB1:<br> Tomé la mayor parte de la responsabilidad del desarrollo del primer y segundo capítulo. <br> TP1: <br> Apoyé a mis compañeros para la correcta creación y documentación de los api services <br> TB2:<br> Diseñe y designe las tareas para el desarrollo de los endpoints del bounded context de appointment management. <br> 
-      Gabriel Casas<br>TB1:<br> Durante el proyecto fue de mi prioridad ayudar a mis compañeros en la realización de sus tareas, por este motivo he revisado todo el proyecto, corregido errores, como también aportado a la creación de ítems externos a mis responsabilidades asignadas.<br> TP1:<br> Establecí metas de entrega para el desarrollo de las actividades correspondientes a este ciclo de trabajo. Procuré que todos los miembros del equipo sean incluidos en la repartición de tareas.<br> TB2:<br> Creé un servidor comunitario de comunicaciones para poder anclar mensajes y mantener la información importante sobre la repartición de tareas con un fácil acceso. Además de esto, se estableció una basada en un esquema de colores para dividir las tareas incluidas en el Trello del equipo. Procuré que la repartición de tareas sea la más equitativa posible.<br>
-      Elvia Rodriguez<br>TB1:<br> A lo largo del proyecto Bliss, me he centrado en establecer un entorno de trabajo colaborativo e inclusivo, asegurándome de que cada miembro del equipo tuviera las herramientas y el apoyo necesarios para cumplir con sus tareas. Además, he liderado la planificación de actividades y el establecimiento de metas alcanzables para cumplir con los objetivos de manera eficiente.<br>
-      Gianluca Pasquale<br>TB1:<br> He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br> TP1:<br> Durante el desarrollo del proyecto, me aseguré de ser parte de un entorno colaborativo con mi grupo, y acatar con las responsabilidades correspondientes. <br> TB2: <br> Desarrolle funcionalidades de mostrar información detallada dentro del agendamiento para usuarios y compañias, además implemente un boton para cancelar la cita seleccionada, tanto como para usuario como para compañias. Además seguí de manera cercana las tareas establecidas en el Trello que se me fueron asignadas. <br>  
+      Juan Astonitas<br>
+        TB1:<br> Tomé la mayor parte de la responsabilidad del desarrollo del primer y segundo capítulo. <br> 
+        TP1: <br> Apoyé a mis compañeros para la correcta creación y documentación de los api services <br> 
+        TB2:<br> Diseñe y designe las tareas para el desarrollo de los endpoints del bounded context de appointment management. <br> 
+        TF1: <br> <br>
+      Gabriel Casas<br>
+        TB1:<br> Durante el proyecto fue de mi prioridad ayudar a mis compañeros en la realización de sus tareas, por este motivo he revisado todo el proyecto, corregido errores, como también aportado a la creación de ítems externos a mis responsabilidades asignadas.<br> 
+        TP1:<br> Establecí metas de entrega para el desarrollo de las actividades correspondientes a este ciclo de trabajo. Procuré que todos los miembros del equipo sean incluidos en la repartición de tareas.<br> 
+        TB2:<br> Creé un servidor comunitario de comunicaciones para poder anclar mensajes y mantener la información importante sobre la repartición de tareas con un fácil acceso. Además de esto, se estableció una basada en un esquema de colores para dividir las tareas incluidas en el Trello del equipo. Procuré que la repartición de tareas sea la más equitativa posible.<br>
+        TF1: <br> <br>
+      Elvia Rodriguez<br>
+        TB1:<br> A lo largo del proyecto Bliss, me he centrado en establecer un entorno de trabajo colaborativo e inclusivo, asegurándome de que cada miembro del equipo tuviera las herramientas y el apoyo necesarios para cumplir con sus tareas. Además, he liderado la planificación de actividades y el establecimiento de metas alcanzables para cumplir con los objetivos de manera eficiente.<br>
+        TP1: <br> <br>
+        TB2: <br> <br>
+        TF1: <br> <br>
+      Gianluca Pasquale<br>
+        TB1:<br> He fomentado un entorno inclusivo, definiendo metas claras, planificando tareas, y asegurando el cumplimiento de los objetivos del proyecto.<br> 
+        TP1:<br> Durante el desarrollo del proyecto, me aseguré de ser parte de un entorno colaborativo con mi grupo, y acatar con las responsabilidades correspondientes. <br> 
+        TB2: <br> Desarrolle funcionalidades de mostrar información detallada dentro del agendamiento para usuarios y compañias, además implemente un boton para cancelar la cita seleccionada, tanto como para usuario como para compañias. Además seguí de manera cercana las tareas establecidas en el Trello que se me fueron asignadas. <br>  
+        TF1: <br> Durante esta entrega desarrolle la conexión entre el frontend y backend, asegurando una comunicación fluida y funcional entre ambos.  <br>
     </td>
     <td>
       TB1:<br> Durante el proyecto Bliss, hemos logrado crear un entorno inclusivo y colaborativo que ha facilitado la participación activa de todos los miembros del equipo. Hemos definido metas claras y planificado tareas detalladamente, lo que ha permitido un seguimiento efectivo del progreso y el cumplimiento de los objetivos. La colaboración y el apoyo mutuo han sido esenciales para asegurar que cada miembro del equipo se sintiera valorado y comprometido. Este enfoque ha contribuido significativamente a la eficiencia y éxito del proyecto.<br>
+      TP1: <br> <br>
+      TB2: <br> <br>
+      TF1: <br> <br>
     </td>
   </tr>
 </table>
