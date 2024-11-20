@@ -5616,12 +5616,28 @@ Para hacer el deployment de la aplicacion web se utilizó Vercel, una plataforma
 ![deployment evidence12](resources/chapter-5/deployment-evidence-12.png)
 ![deployment evidence13](resources/chapter-5/deployment-evidence-13.png)
 
+
+**Backend**
+Para hacer el deployment del backend se utilizó RailWay una plataforma de deployment de aplicaciones web que permite hacer el deployment de aplicaciones web de forma sencilla y rápida.
+
+<img src="resources/sprint-4/backend-deployment-1.png">
+<img src="resources/sprint-4/backend-deployment-2.png">
+<img src="resources/sprint-4/backend-deployment-3.png">
+<img src="resources/sprint-4/backend-deployment-4.png">
+<img src="resources/sprint-4/backend-deployment-5.png">
+<img src="resources/sprint-4/backend-deployment-6.png">
+<img src="resources/sprint-4/backend-deployment-7.png">
+<img src="resources/sprint-4/backend-deployment-8.png">
+<img src="resources/sprint-4/backend-deployment-9.png">
+<img src="resources/sprint-4/backend-deployment-10.png">
+
+
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 Para este sprint se desarrollaron 3 productos siendo estos: landing page, web application y web services. Para la landing page hubo un solo encargado debido a que ya se encontraba en la etapa final de su desarrollo. Para lode más productos todo los integrantes participaron. La distribución de commit fue la siguiente:
 
 **Landing Page**
 <img src="resources/sprint-4/landing-1.png">
-<img src="resources/sprint-4/landing-2.png">
+ccc
 
 **Distribución de commits de commits:**
 - Gabriel Alexander Casas Sanchez: 4 commits.
