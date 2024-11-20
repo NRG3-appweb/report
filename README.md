@@ -279,12 +279,12 @@ del ABET – EAC - Student Outcome 5.
         TP1:<br> Participé activamente en las reuniones de grupo y promoví el avance en conjunto para así lograr de manera satisfactoria las entregas del trabajo. <br> 
         TB2: <br> Durante la entrega acaté las tareas brindadas por el líder del grupo y asistí a todas las reuniones formadas para el avance del proyecto. He colaborado con mis compañeros en la planificación de tareas y en la definición de metas alcanzables. <br>  
         TF1:<br> Durante el desarrollo del proyecto, me aseguré de ser parte de un entorno colaborativo con mi grupo, y acatar con las responsabilidades correspondientes. <br>
+      Godofredo Quispe<br>
+        TB2: <br>Durante la entrega, realicé las tareas asignadas indicando el progreso de cada una. Además, participé activamente en todas las reuniones, compartiendo ideas, escuchando las opiniones del equipo y colaborando para resolver los desafíos que surgieron.<br>
+        TF1: <br>Contribuí al liderazgo compartido al promover un ambiente donde todos los integrantes pudieran expresar sus ideas y participar activamente. Me enfoqué en motivar al equipo y mantener una comunicación clara para asegurar que las tareas se realizaran de manera eficiente y colaborativa.<br>
     </td>
     <td>
       TB1:<br> A lo largo del desarrollo del proyecto Bliss, hemos demostrado una fuerte capacidad de liderazgo compartido, destacando la importancia de la toma de decisiones conjunta y la distribución equitativa de responsabilidades. Cada miembro del equipo ha aportado activamente, promoviendo una comunicación abierta y colaborando para superar desafíos, lo cual ha fortalecido la cohesión y efectividad del grupo. La responsabilidad colectiva y el apoyo mutuo han sido pilares clave que nos han permitido dirigir el proyecto hacia el cumplimiento exitoso de nuestros objetivos. Este enfoque de liderazgo conjunto ha sido fundamental para crear un entorno de trabajo inclusivo y productivo.<br>
-      TP1: <br> <br>
-      TB2: <br> <br>
-      TF1: <br> <br>
     </td>
   </tr>
   <tr>
@@ -310,12 +310,13 @@ del ABET – EAC - Student Outcome 5.
         TP1:<br> Durante el desarrollo del proyecto, me aseguré de ser parte de un entorno colaborativo con mi grupo, y acatar con las responsabilidades correspondientes. <br> 
         TB2: <br> Desarrolle funcionalidades de mostrar información detallada dentro del agendamiento para usuarios y compañías, además implemente un botón para cancelar la cita seleccionada, tanto como para usuario como para compañías. Además seguí de manera cercana las tareas establecidas en el Trello que se me fueron asignadas. <br>  
         TF1: <br> Durante esta entrega desarrollé la conexión entre el frontend y backend, asegurando una comunicación fluida y funcional entre ambos.  <br>
+      Godofredo Quispe<br>
+         TB2: <br>Durante la entrega, contribuí a crear un entorno colaborativo e inclusivo, fomentando la participación activa de todos los miembros del equipo. Me aseguré de establecer metas claras, planificar las tareas necesarias y mantener una comunicación constante para informar sobre el avance de mis responsabilidades.<br>
+         TF1: <br>Facilité un ambiente inclusivo al valorar las aportaciones de cada integrante, promoviendo la colaboración y el respeto mutuo. Establecí metas alcanzables, planifiqué tareas estratégicamente y trabajé de manera constante para cumplir los objetivos definidos.<br> 
     </td>
     <td>
       TB1:<br> Durante el proyecto Bliss, hemos logrado crear un entorno inclusivo y colaborativo que ha facilitado la participación activa de todos los miembros del equipo. Hemos definido metas claras y planificado tareas detalladamente, lo que ha permitido un seguimiento efectivo del progreso y el cumplimiento de los objetivos. La colaboración y el apoyo mutuo han sido esenciales para asegurar que cada miembro del equipo se sintiera valorado y comprometido. Este enfoque ha contribuido significativamente a la eficiencia y éxito del proyecto.<br>
       TP1: <br> En la etapa de integración, lideré la coordinación de esfuerzos entre los miembros del equipo para garantizar que las diferentes secciones del proyecto se unieran de manera fluida. Implementé herramientas colaborativas como un tablero de tareas Kanban y organizamos sesiones de revisión de código en equipo, lo que permitió detectar y resolver posibles conflictos antes de la transición a producción. Este enfoque estructurado aseguró que todos los integrantes estuvieran alineados con los objetivos del proyecto. <br>
-      TB2: <br> <br>
-      TF1: <br> <br>
     </td>
   </tr>
 </table>
