@@ -4794,8 +4794,6 @@ A continuación, se presenta un desglose detallado de las user stories implement
 
 En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 4.
 
-A continuación se presenta una recopilación de los commits realizados en la landing page durante el sprint. Esta evidencia demuestra el progreso realizado en el desarrollo y refinamiento de la Landing Page.
-
 **Commits realizados en el repositorio de la Landing Page durante el sprint 4:**
 
 <table>
@@ -4818,7 +4816,6 @@ A continuación se presenta una recopilación de los commits realizados en la la
 </table>
 
 **Commits realizados en el repositorio de frontend durante el sprint 4:**
-A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 
 <table>
   <tr>
@@ -4945,7 +4942,6 @@ A continuación se presenta un registro de los cambios realizados en la interfaz
 
 
 **Commits realizados en el repositorio de backend durante el sprint 4:**
-A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
 
 <table>
   <tr>
