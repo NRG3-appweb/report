@@ -5478,9 +5478,7 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 ![execution_landing4](resources/chapter-5/landing4.png)
 ![execution_landing5](resources/chapter-5/landing5.png)
 ![execution_landing6](resources/chapter-5/landing6.png)
-
-**Agregar evidencias del login en el front**
-
+![execution_frontIAM](resources/chapter-5/IAM.png)
 ![execution_front1](resources/chapter-5/front1.png)
 ![execution_front2](resources/chapter-5/front2.png)
 ![execution_front3](resources/chapter-5/front3.png)
