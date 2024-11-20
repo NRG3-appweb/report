@@ -72,11 +72,11 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 **Vista de commits del reporte:**
 <img src="resources/sprint-4/report.png">
 
-- Juan Diego Astonitas Díaz: 
-- Gabriel Alexander Casas Sanchez: 
-- Gianluca Santino Pasquale Barrenechea: 
-- Godofredo Quispe Tipo: 
-- Elvia Marcela Rodríguez Villa: 
+- Juan Diego Astonitas Díaz: 20
+- Gabriel Alexander Casas Sanchez: 30
+- Gianluca Santino Pasquale Barrenechea: 43
+- Godofredo Quispe Tipo: 21
+- Elvia Marcela Rodríguez Villa: 13
 
 **Repartición de tareas:**
 
