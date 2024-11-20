@@ -5054,6 +5054,62 @@ En esta sección se presentan los commits realizados en el repositorio de backen
     <td colspan="1">feat: reviewmanagement integration</td>
     <td colspan="1">20/11/2024</td>
   </tr>
+ <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/home-company</td>
+    <td>9c2d2134</td>
+    <td>feat(home-company): update the reviews response.</td>
+    <td>feat(home-company): update the reviews response.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/home-client</td>
+    <td>73555534</td>
+    <td>feat(home-client): update best services.</td>
+    <td>feat(home-client): update best services.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/home-client</td>
+    <td>4896c3e1</td>
+    <td>feat(home-client): update service by category.</td>
+    <td>feat(home-client): update service by category.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/reviews</td>
+    <td>300aab9d</td>
+    <td>feat(reviews): add get reviews by company id.</td>
+    <td>feat(reviews): add get reviews by company id.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/iAm</td>
+    <td>85de9c6f</td>
+    <td>feat(iam): add iam responses.</td>
+    <td>feat(iam): add iam responses.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/iAm</td>
+    <td>0439d6b4</td>
+    <td>feat(iam): add state management required dependencies.</td>
+    <td>feat(iam): add state management required dependencies.</td>
+    <td>20/11/2024</td>
+  </tr>
+  <tr>
+    <td>https://github.com/NRG3-appweb/frontend</td>
+    <td>feat/company-detail-profile</td>
+    <td>10a9e136</td>
+    <td>feat(company-detail-profile): update style.</td>
+    <td>feat(company-detail-profile): update style.</td>
+    <td>20/11/2024</td>
+  </tr>
 </table>
 
 
