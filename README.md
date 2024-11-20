@@ -36,6 +36,9 @@
 | 2.1     | 23/10/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas, Godofredo Quispe   | Correciones TP                       |
 | 2.2     | 26/10/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas, Godofredo Quispe   | Desarollo del sprint 3               |
 | 3.0     | 02/11/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas, Godofredo Quispe   | Entrega TB2                          |
+| 3.1     | 14/11/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas, Godofredo Quispe   | Correcciones TB2                     |
+| 4.0     | 20/11/2024 | Elvia Rodrigrez, Gialuca Pasquale, Juan Astonitas, Gabriel Casas, Godofredo Quispe   | Entrega TF                           |
+
 
 ## Project Report Collaboration Insights
 | URL de la organización del proyecto |                URL del repositorio del reporte                |
