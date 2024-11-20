@@ -105,6 +105,7 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 | Sebastian Aaron Anibal Carbajal Santivañez |                                                                        |
 
 **TB2**
+
 | Integrante                            | Tareas Asignadas                                               |
 |---------------------------------------|----------------------------------------------------------------|
 | Elvia Marcela Rodriguez Villa         | Elaboración del web application y web service.                 |
@@ -114,6 +115,7 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 | Godofreado Quispe Tipo                | Elaboración del web application y web service.                 |
 
 **TF1**
+
 | Integrante                            | Tareas Asignadas                                                                                           |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------|
 | Elvia Marcela Rodríguez Villa         | Desarrollo e integración de la sección de reseñas, asegurando su funcionalidad y pruebas para el paso a producción. |
